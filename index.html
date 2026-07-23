@@ -1,1 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Univursyl — The Universe, Explained</title>
+  <meta name="description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
 
+  <!-- Open Graph -->
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="https://univursyl.com/" />
+  <meta property="og:title"       content="Univursyl — The Universe, Explained" />
+  <meta property="og:description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
+  <meta property="og:image"       content="https://univursyl.com/images/og-image.jpg" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:site"        content="@univursyl" />
+  <meta name="twitter:title"       content="Univursyl — The Universe, Explained" />
+  <meta name="twitter:description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
+  <meta name="twitter:image"       content="https://univursyl.com/images/og-image.jpg" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://univursyl.com/" />
+
+  <!-- Sitemap (submit: https://univursyl.com/sitemap.xml) -->
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css" />
+
+  <!-- GA4 placeholder — replace G-XXXXXXXXXX -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════
+     NAV
+════════════════════════════════════════════════════════════ -->
+<nav>
+  <div class="nav-inner">
+    <a href="/" class="logo">
+      <!-- Event Horizon logo mark: U spiraling into an accretion disk -->
+      <svg class="logo-svg" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <!-- Outer orbit ring -->
+        <circle cx="17" cy="17" r="15.5" stroke="#5B4CFF" stroke-width="0.75" stroke-dasharray="3 2" opacity="0.5"/>
+        <!-- Accretion disk glow -->
+        <ellipse cx="17" cy="20" rx="10" ry="3.5" stroke="#D8B45C" stroke-width="0.6" opacity="0.6"/>
+        <!-- The U that bends inward -->
+        <path d="M11 9 L11 19 Q11 25 17 25 Q23 25 23 19 L23 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <!-- Spiral center dot (singularity) -->
+        <circle cx="17" cy="22" r="1.5" fill="#5B4CFF"/>
+        <circle cx="17" cy="22" r="3" stroke="#5B4CFF" stroke-width="0.5" opacity="0.4"/>
+      </svg>
+      <span class="logo-wordmark">UNIVUR<span>SYL</span></span>
+    </a>
+
+    <ul class="nav-links">
+      <li><a href="#news">News</a></li>
+      <li><a href="#astronomy">Astronomy</a></li>
+      <li><a href="#cosmology">Cosmology</a></li>
+      <li><a href="#black-holes">Black Holes</a></li>
+      <li><a href="#exoplanets">Exoplanets</a></li>
+      <li><a href="#missions">Missions</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+    </ul>
+
+    <div class="nav-right">
+      <button class="nav-search" aria-label="Search">
+        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+      </button>
+      <a href="#newsletter" class="btn-subscribe">Subscribe</a>
+    </div>
+  </div>
+</nav>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO
+════════════════════════════════════════════════════════════ -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-eyebrow">
+        <span class="dot"></span>
+        <span class="section-label">James Webb Space Telescope</span>
+      </div>
+      <h1>The Earliest Light<br/>in the Universe</h1>
+      <p class="hero-sub">
+        Astronomers have detected what may be the most distant galaxy ever observed —
+        a faint glimmer from just 280 million years after the Big Bang.
+      </p>
+      <div class="hero-cta">
+        <a href="#" class="btn-primary">Read the Story →</a>
+        <a href="#news" class="btn-ghost">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 8 12 12 14 14"/></svg>
+          Latest News
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="hero-scroll">
+      <div class="hero-scroll-line"></div>
+      Scroll to explore
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     BREAKING NEWS TICKER
+════════════════════════════════════════════════════════════ -->
+<div class="ticker">
+  <div class="ticker-inner">
+    <div class="ticker-label">Breaking</div>
+    <div class="ticker-track" id="ticker-track">
+      <span>SpaceX Starship IFT-9 reaches orbital velocity</span>
+      <span>NASA's Europa Clipper completes Jupiter flyby</span>
+      <span>New exoplanet in habitable zone confirmed by JWST</span>
+      <span>Astronomers detect possible biosignature in K2-18b atmosphere</span>
+      <span>Dark energy survey releases largest cosmic map</span>
+      <span>China's Chang'e-7 successfully lands at lunar south pole</span>
+      <span>Gravitational waves from neutron star merger observed</span>
+      <span>First image of a stellar black hole outside the Milky Way</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     NEXT LAUNCH COUNTDOWN
+════════════════════════════════════════════════════════════ -->
+<div class="container">
+  <div class="launch-bar" style="margin-top:64px;">
+    <div class="launch-info">
+      <span class="tag">🚀 Next Launch</span>
+      <div class="launch-mission">Falcon 9 — Starlink Group 12-4</div>
+      <div class="launch-details">Launch Complex 40 · Cape Canaveral, FL · NET July 26, 2026</div>
+    </div>
+    <div class="countdown">
+      <div class="countdown-unit">
+        <span class="countdown-num" id="cd-days">--</span>
+        <span class="countdown-label">Days</span>
+      </div>
+      <div class="countdown-unit">
+        <span class="countdown-num" id="cd-hours">--</span>
+        <span class="countdown-label">Hours</span>
+      </div>
+      <div class="countdown-unit">
+        <span class="countdown-num" id="cd-mins">--</span>
+        <span class="countdown-label">Mins</span>
+      </div>
+      <div class="countdown-unit">
+        <span class="countdown-num" id="cd-secs">--</span>
+        <span class="countdown-label">Secs</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     FEATURED STORIES
+════════════════════════════════════════════════════════════ -->
+<section class="section" id="news">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Featured</span>
+        <div class="section-title">Top Stories</div>
+      </div>
+      <a href="#" class="view-all">All News →</a>
+    </div>
+
+    <div class="feature-grid">
+      <!-- Big lead story -->
+      <a href="#" class="feature-card">
+        <img src="images/story-jwst.jpg" alt="James Webb Deep Field" />
+        <div class="feature-overlay">
+          <span class="tag">Cosmology</span>
+          <h2>Webb Glimpses the Universe at 280 Million Years Old</h2>
+          <p>The JADES-GS-z14-0 galaxy challenges existing models of early star formation and cosmic evolution.</p>
+          <div class="feature-meta">
+            <span>6 min read</span>
+            <span>·</span>
+            <span>July 22, 2026</span>
+          </div>
+        </div>
+      </a>
+
+      <!-- Secondary stories -->
+      <a href="#" class="feature-card">
+        <img src="images/story-europa.jpg" alt="Europa moon" />
+        <div class="feature-overlay">
+          <span class="tag">Missions</span>
+          <h3>Europa Clipper's First Close Pass Reveals Unexpected Plume Activity</h3>
+          <div class="feature-meta">
+            <span>4 min read</span><span>·</span><span>July 21, 2026</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="#" class="feature-card">
+        <img src="images/story-blackhole.jpg" alt="Black hole image" />
+        <div class="feature-overlay">
+          <span class="tag">Astrophysics</span>
+          <h3>First Direct Image of a Stellar Black Hole Outside the Milky Way</h3>
+          <div class="feature-meta">
+            <span>5 min read</span><span>·</span><span>July 20, 2026</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     ASTRONOMY PICTURE OF THE DAY
+════════════════════════════════════════════════════════════ -->
+<section class="apod-section">
+  <div class="container">
+    <div class="apod-inner">
+      <div>
+        <span class="section-label apod-label">Astronomy Picture of the Day</span>
+        <h2 class="apod-title">Pillars of Creation<br/>in Infrared</h2>
+        <p class="apod-desc">
+          The James Webb Space Telescope reveals the Pillars of Creation in a new infrared portrait,
+          piercing through the dust to expose thousands of never-before-seen young stars embedded within
+          these towering columns of gas and cosmic material.
+        </p>
+        <a href="#" class="btn-primary">View Full Resolution →</a>
+      </div>
+      <div>
+        <img src="images/apod.jpg" alt="Pillars of Creation in Infrared — JWST" class="apod-image" />
+        <p class="apod-credit">Image Credit: NASA, ESA, CSA, STScI · J. DePasquale, A. Koekemoer, A. Pagan (STScI)</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     LATEST DISCOVERIES
+════════════════════════════════════════════════════════════ -->
+<section class="section" id="astronomy">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Latest Discoveries</span>
+        <div class="section-title">From the Cosmos</div>
+      </div>
+      <a href="#" class="view-all">View All →</a>
+    </div>
+    <div class="card-grid">
+
+      <a href="#" class="card">
+        <img src="images/card-exoplanet.jpg" alt="Exoplanet" class="card-img" />
+        <div class="card-body">
+          <span class="tag">Exoplanets</span>
+          <h3>Possible Biosignature Detected in K2-18b Atmosphere</h3>
+          <p>Spectroscopic analysis of the sub-Neptune world reveals methane and carbon dioxide in proportions consistent with biological processes.</p>
+          <div class="card-meta">
+            <span>7 min read</span>
+            <span>July 19, 2026</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="#" class="card">
+        <img src="images/card-darkmatter.jpg" alt="Dark Matter simulation" class="card-img" />
+        <div class="card-body">
+          <span class="tag gold-tag">Dark Matter</span>
+          <h3>Largest Dark Matter Survey Maps the Invisible Universe</h3>
+          <p>The Dark Energy Survey's final data release charts the distribution of dark matter across a third of the sky using gravitational lensing.</p>
+          <div class="card-meta">
+            <span>5 min read</span>
+            <span>July 18, 2026</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="#" class="card">
+        <img src="images/card-neutronstar.jpg" alt="Neutron star merger" class="card-img" />
+        <div class="card-body">
+          <span class="tag">Astrophysics</span>
+          <h3>Gravitational Waves Catch Neutron Stars Mid-Merger</h3>
+          <p>LIGO and Virgo detect a rare kilonova event, confirming neutron star collisions as a major source of heavy elements like gold and platinum.</p>
+          <div class="card-meta">
+            <span>6 min read</span>
+            <span>July 17, 2026</span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     EXPLORE THE UNIVERSE — TOPIC HUBS
+════════════════════════════════════════════════════════════ -->
+<section class="section" id="cosmology" style="padding-top:0">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Explore</span>
+        <div class="section-title">The Universe by Topic</div>
+      </div>
+    </div>
+    <div class="topic-grid">
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-blackholes.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">🕳️</span>
+          <h3>Black Holes</h3>
+          <p>Singularities, event horizons, Hawking radiation</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-exoplanets.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">🪐</span>
+          <h3>Exoplanets</h3>
+          <p>Habitable worlds beyond our solar system</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-darkmatter.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">🌌</span>
+          <h3>Dark Matter</h3>
+          <p>The invisible scaffold of the cosmos</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-missions.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">🚀</span>
+          <h3>Missions</h3>
+          <p>NASA, SpaceX, ESA, and beyond</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-cosmology.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">💫</span>
+          <h3>Cosmology</h3>
+          <p>The Big Bang, inflation, and cosmic evolution</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-astrophysics.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">⚛️</span>
+          <h3>Astrophysics</h3>
+          <p>Stars, supernovae, neutron stars, pulsars</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-solarsystem.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">☀️</span>
+          <h3>Solar System</h3>
+          <p>Planets, moons, asteroids, comets</p>
+        </div>
+      </a>
+      <a href="#" class="topic-card">
+        <div class="topic-bg" style="background-image:url('images/topic-nightsky.jpg')"></div>
+        <div class="topic-card-content">
+          <span class="topic-icon">🔭</span>
+          <h3>Night Sky</h3>
+          <p>Observation guides, star charts, events</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     NEWSLETTER
+════════════════════════════════════════════════════════════ -->
+<section class="newsletter-section" id="newsletter">
+  <div class="container">
+    <span class="section-label">Stay Curious</span>
+    <h2>The Universe, Delivered Daily</h2>
+    <p>Breakthroughs, discoveries, and launch updates — curated and explained, every morning.</p>
+    <form class="newsletter-form" id="newsletter-form">
+      <input type="email" placeholder="your@email.com" required />
+      <button type="submit">Subscribe</button>
+    </form>
+    <p class="newsletter-footnote">No spam. Unsubscribe anytime. Science only.</p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="logo">
+          <svg class="logo-svg" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <circle cx="17" cy="17" r="15.5" stroke="#5B4CFF" stroke-width="0.75" stroke-dasharray="3 2" opacity="0.5"/>
+            <ellipse cx="17" cy="20" rx="10" ry="3.5" stroke="#D8B45C" stroke-width="0.6" opacity="0.6"/>
+            <path d="M11 9 L11 19 Q11 25 17 25 Q23 25 23 19 L23 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <circle cx="17" cy="22" r="1.5" fill="#5B4CFF"/>
+            <circle cx="17" cy="22" r="3" stroke="#5B4CFF" stroke-width="0.5" opacity="0.4"/>
+          </svg>
+          <span class="logo-wordmark">UNIVUR<span>SYL</span></span>
+        </a>
+        <p>Premium space science media exploring the cosmos — from black holes to exoplanets, the Big Bang to tonight's sky.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="X / Twitter">𝕏</a>
+          <a href="#" aria-label="YouTube">▶</a>
+          <a href="#" aria-label="Instagram">◻</a>
+          <a href="#" aria-label="RSS">◎</a>
+        </div>
+      </div>
+
+      <div class="footer-col">
+        <h4>Topics</h4>
+        <ul>
+          <li><a href="#">Astronomy</a></li>
+          <li><a href="#">Cosmology</a></li>
+          <li><a href="#">Astrophysics</a></li>
+          <li><a href="#">Black Holes</a></li>
+          <li><a href="#">Exoplanets</a></li>
+          <li><a href="#">Dark Matter</a></li>
+          <li><a href="#">Solar System</a></li>
+          <li><a href="#">Night Sky</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Missions</h4>
+        <ul>
+          <li><a href="#">NASA</a></li>
+          <li><a href="#">SpaceX</a></li>
+          <li><a href="#">ESA</a></li>
+          <li><a href="#">JAXA</a></li>
+          <li><a href="#">Blue Origin</a></li>
+          <li><a href="#">Rocket Lab</a></li>
+          <li><a href="#">Upcoming Launches</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Univursyl</h4>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Newsletter</a></li>
+          <li><a href="#">Gallery</a></li>
+          <li><a href="#">Videos</a></li>
+          <li><a href="#">Explainers</a></li>
+          <li><a href="#">Sources</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© 2026 Univursyl. All rights reserved.</span>
+      <span>The Universe, Explained.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
