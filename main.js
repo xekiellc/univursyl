@@ -1,7 +1,7 @@
 /* Univursyl — main.js */
 
 // ── CINEMATIC INTRO ───────────────────────────────────────────
-const INTRO_IMAGES = ['hero-1.jpg', 'hero-2.jpg', 'hero-3.jpg'];
+const INTRO_IMAGES   = ['hero-1.jpg', 'hero-2.jpg', 'hero-3.jpg'];
 const INTRO_DURATION = 1000;
 const INTRO_FADE     = 500;
 
@@ -11,7 +11,6 @@ function runIntro() {
     const img      = document.getElementById('intro-img');
     const wordmark = document.getElementById('intro-wordmark');
     if (!overlay || !img) { resolve(); return; }
-
     if (wordmark) wordmark.style.display = 'none';
 
     let i = 0;
@@ -20,33 +19,55 @@ function runIntro() {
       if (i >= INTRO_IMAGES.length) {
         overlay.style.transition = `opacity ${INTRO_FADE}ms ease`;
         overlay.style.opacity    = '0';
-        setTimeout(() => {
-          overlay.style.display = 'none';
-          resolve();
-        }, INTRO_FADE);
+        setTimeout(() => { overlay.style.display = 'none'; resolve(); }, INTRO_FADE);
         return;
       }
-
       img.style.transition = 'none';
       img.style.opacity    = '0';
       img.src              = INTRO_IMAGES[i];
-
       const show = () => {
         img.style.transition = `opacity ${INTRO_FADE}ms ease`;
         img.style.opacity    = '1';
         setTimeout(() => {
-          img.style.transition = `opacity ${INTRO_FADE}ms ease`;
-          img.style.opacity    = '0';
+          img.style.opacity = '0';
           setTimeout(() => { i++; showNext(); }, INTRO_FADE);
         }, INTRO_DURATION);
       };
-
-      if (img.complete && img.naturalWidth) { show(); }
-      else { img.onload = show; }
+      if (img.complete && img.naturalWidth) { show(); } else { img.onload = show; }
     }
-
     showNext();
   });
+}
+
+// ── VIDEO THUMBNAIL REPAIR ────────────────────────────────────
+// YouTube thumbnail quality ladder: maxres → hq → mq → default
+// Some videos only have mq or default — work down the ladder automatically
+function repairThumb(imgEl) {
+  const videoId = imgEl.dataset.videoid;
+  if (!videoId) return;
+
+  const sizes = ['maxresdefault', 'hqdefault', 'mqdefault', 'default'];
+  let sizeIdx = 0;
+
+  imgEl.onerror = function() {
+    sizeIdx++;
+    if (sizeIdx < sizes.length) {
+      this.src = `https://i.ytimg.com/vi/${videoId}/${sizes[sizeIdx]}.jpg`;
+    } else {
+      // Final fallback — solid dark placeholder
+      this.onerror = null;
+      this.style.opacity = '0';
+      this.closest('.video-thumb-wrap').style.background = '#0D1520';
+    }
+  };
+
+  // Start at hqdefault (most reliable)
+  sizeIdx = 1;
+  imgEl.src = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+}
+
+function initVideoThumbs() {
+  document.querySelectorAll('.video-thumb[data-videoid]').forEach(repairThumb);
 }
 
 // ── NAV SCROLL ────────────────────────────────────────────────
@@ -81,23 +102,8 @@ function initCountdown() {
     if (mins)  mins.textContent  = pad((diff % 3600000)  / 60000);
     if (secs)  secs.textContent  = pad((diff % 60000)    / 1000);
   }
-
   update();
   setInterval(update, 1000);
-}
-
-// ── VIDEO THUMBNAIL FALLBACK ───────────────────────────────────
-function initVideoThumbs() {
-  document.querySelectorAll('.video-thumb').forEach(img => {
-    img.addEventListener('error', function() {
-      const src = this.src;
-      if (src.includes('maxresdefault')) {
-        this.src = src.replace('maxresdefault', 'hqdefault');
-      } else if (src.includes('hqdefault')) {
-        this.src = src.replace('hqdefault', 'mqdefault');
-      }
-    });
-  });
 }
 
 // ── INIT ──────────────────────────────────────────────────────
