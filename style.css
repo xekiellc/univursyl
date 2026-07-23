@@ -111,7 +111,7 @@ nav.scrolled {
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 28px;
   list-style: none;
 }
 
@@ -725,8 +725,8 @@ nav.scrolled {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(0,0,0,0.35);
-  font-size: 20px;
+  background: rgba(0,0,0,0.45);
+  font-size: 22px;
   color: white;
   opacity: 0;
   transition: opacity 0.2s;
@@ -784,7 +784,7 @@ nav.scrolled {
   color: inherit;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
   transition: background 0.2s;
   position: relative;
   overflow: hidden;
@@ -804,19 +804,42 @@ nav.scrolled {
 .voice-card:hover { background: #111827; }
 .voice-card:hover::before { transform: scaleX(1); }
 
+.voice-avatar {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--white);
+  flex-shrink: 0;
+  margin-bottom: 4px;
+}
+
+.voice-avatar img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .voice-name {
   font-family: var(--font-display);
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
   letter-spacing: -0.02em;
   color: var(--white);
+  line-height: 1.2;
 }
 
 .voice-title {
   font-family: var(--font-display);
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 0.06em;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--nebula);
 }
@@ -828,11 +851,35 @@ nav.scrolled {
   flex: 1;
 }
 
+.voice-social {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 2px;
+}
+
+.voice-social a {
+  font-family: var(--font-display);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  padding: 4px 10px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.voice-social a:hover {
+  color: var(--white);
+  border-color: var(--nebula);
+}
+
 .voice-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: 4px;
 }
 
 .voice-tag {
