@@ -1,139 +1,177 @@
 /**
  * build-pages.js — Univursyl static site builder
- * Reads: data/articles.json, data/apod.json, data/launches.json
- * Writes: index.html (with live data injected)
+ * Reads: data/articles.json, data/videos.json, data/apod.json, data/launches.json
+ * Writes: index.html with live data injected
  */
 
 import fs   from 'fs/promises';
 import path from 'path';
 
 function formatDate(iso) {
-  return new Date(iso).toLocaleDateString('en-US', {
-    month: 'long', day: 'numeric', year: 'numeric'
-  });
+  try {
+    return new Date(iso).toLocaleDateString('en-US', {
+      month: 'long', day: 'numeric', year: 'numeric'
+    });
+  } catch { return ''; }
 }
 
 function readTime(text = '') {
-  const words = text.split(' ').length;
-  return `${Math.max(2, Math.ceil(words / 200))} min read`;
+  return `${Math.max(2, Math.ceil(text.split(' ').length / 200))} min read`;
 }
 
-function cardHTML(article, i) {
+function escHtml(str = '') {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+const CATEGORY_COLORS = {
+  'Cosmology':   '#C44CFF',
+  'Astrophysics':'#4CFFB4',
+  'Exoplanets':  '#4C9FFF',
+  'Black Holes': '#5B4CFF',
+  'Dark Matter': '#4C9FFF',
+  'NASA':        '#FF6B4C',
+  'SpaceX':      '#D8B45C',
+  'Missions':    '#FF6B4C',
+  'Astronomy':   '#5B4CFF',
+  'Solar System':'#FFD74C',
+  'Futurism':    '#FF4C8B',
+};
+
+function tagHTML(category) {
+  const color = CATEGORY_COLORS[category] || '#5B4CFF';
+  return `<span class="tag" style="color:${color};border-color:${color}40">${escHtml(category)}</span>`;
+}
+
+function featureCardHTML(article, big = false) {
   const img = article.image
-    ? `<img src="${article.image}" alt="${article.title}" class="card-img" loading="lazy" />`
-    : `<div class="card-img" style="background:var(--midnight);display:flex;align-items:center;justify-content:center;font-size:36px;">${getCategoryEmoji(article.category)}</div>`;
+    ? `<div class="feature-img" style="background-image:url('${escHtml(article.image)}')"></div>`
+    : `<div class="feature-img" style="background:var(--card-bg)"></div>`;
+  const heading = big
+    ? `<h2>${escHtml(article.title)}</h2><p>${escHtml(article.summary || article.description || '')}</p>`
+    : `<h3>${escHtml(article.title)}</h3>`;
   return `
-<a href="${article.url}" target="_blank" rel="noopener" class="card">
-  ${img}
-  <div class="card-body">
-    <span class="tag">${article.category || 'Science'}</span>
-    <h3>${article.title}</h3>
-    <p>${article.summary || article.description || ''}</p>
-    <div class="card-meta">
-      <span>${readTime(article.summary)}</span>
-      <span>${formatDate(article.date)}</span>
+<a href="${escHtml(article.url)}" target="_blank" rel="noopener" class="feature-card">
+  <div class="feature-card-inner">
+    ${img}
+    <div class="feature-overlay">
+      ${tagHTML(article.category || 'Science')}
+      ${heading}
+      <div class="feature-meta">
+        <span>${readTime(article.summary)}</span>
+        <span>·</span>
+        <span>${formatDate(article.date)}</span>
+      </div>
     </div>
   </div>
 </a>`;
 }
 
-function getCategoryEmoji(cat = '') {
-  const map = {
-    'Cosmology': '🌌', 'Astrophysics': '⚛️', 'Exoplanets': '🪐',
-    'Black Holes': '🕳️', 'Dark Matter': '💫', 'NASA': '🛸',
-    'SpaceX': '🚀', 'Missions': '🛰️', 'Astronomy': '🔭', 'Solar System': '☀️',
-  };
-  return map[cat] || '🌠';
+function articleCardHTML(article) {
+  return `
+<a href="${escHtml(article.url)}" target="_blank" rel="noopener" class="card">
+  ${tagHTML(article.category || 'Science')}
+  <h3>${escHtml(article.title)}</h3>
+  <p>${escHtml(article.summary || article.description || '')}</p>
+  <div class="card-meta">
+    <span>${readTime(article.summary)}</span>
+    <span>${formatDate(article.date)}</span>
+  </div>
+</a>`;
 }
 
-function tickerItems(articles) {
-  return articles.slice(0, 12)
-    .map(a => `<span>${a.title}</span>`)
-    .join('');
+function videoCardHTML(video) {
+  return `
+<a href="${escHtml(video.url)}" target="_blank" rel="noopener" class="video-card">
+  <div class="video-thumb-wrap">
+    <img src="${escHtml(video.thumbnail)}" alt="${escHtml(video.title)}" class="video-thumb" loading="lazy"
+      onerror="this.src='hero-2.jpg'" />
+    <div class="video-play">▶</div>
+  </div>
+  <div class="video-info">
+    <div class="video-channel">${escHtml(video.channel)}</div>
+    <div class="video-title">${escHtml(video.title)}</div>
+    <div class="video-date">${formatDate(video.date)}</div>
+  </div>
+</a>`;
 }
 
-function nextLaunch(launches) {
-  const next = launches[0];
-  if (!next) return null;
-  return {
-    name:     next.name,
-    net:      next.net,
-    provider: next.provider,
-    rocket:   next.rocket,
-    pad:      next.pad,
-    location: next.location,
-  };
+function tickerHTML(articles) {
+  const items = articles.slice(0, 10).map(a =>
+    `<span>${escHtml(a.title)}</span>`
+  ).join('');
+  return items + items; // doubled for seamless loop
 }
 
 async function main() {
-  const [articlesRaw, apodRaw, launchesRaw, template] = await Promise.all([
+  const [articlesRaw, videosRaw, apodRaw, launchesRaw, template] = await Promise.all([
     fs.readFile('data/articles.json',  'utf8').catch(() => '{"articles":[]}'),
+    fs.readFile('data/videos.json',    'utf8').catch(() => '{"videos":[]}'),
     fs.readFile('data/apod.json',      'utf8').catch(() => null),
     fs.readFile('data/launches.json',  'utf8').catch(() => '{"launches":[]}'),
     fs.readFile('index.template.html', 'utf8').catch(() => null),
   ]);
 
-  const { articles } = JSON.parse(articlesRaw);
-  const apod         = apodRaw ? JSON.parse(apodRaw) : null;
-  const { launches } = JSON.parse(launchesRaw);
-
   if (!template) {
-    console.log('ℹ️  No index.template.html — skipping HTML injection');
+    console.log('ℹ️  No index.template.html — skipping injection');
     return;
   }
 
-  const top3     = articles.slice(0, 3);
-  const rest     = articles.slice(3, 9);
-  const launch   = nextLaunch(launches);
+  const { articles } = JSON.parse(articlesRaw);
+  const { videos }   = JSON.parse(videosRaw);
+  const apod         = apodRaw ? JSON.parse(apodRaw) : null;
+  const { launches } = JSON.parse(launchesRaw);
 
   let html = template;
 
   // Ticker
-  const ticker = tickerItems(articles) + tickerItems(articles); // doubled for loop
-  html = html.replace('<!-- TICKER_ITEMS -->', ticker);
+  html = html.replace('<!-- TICKER_ITEMS -->', tickerHTML(articles));
 
-  // Feature cards (top 3 articles)
-  const featureCards = top3.map((a, i) => {
-    const img = a.image
-      ? `<img src="${a.image}" alt="${a.title}" />`
-      : `<div style="min-height:${i===0?'480':'240'}px;background:var(--midnight);display:flex;align-items:center;justify-content:center;font-size:48px;">${getCategoryEmoji(a.category)}</div>`;
-    const heading = i === 0 ? `<h2>${a.title}</h2><p>${a.summary || ''}</p>` : `<h3>${a.title}</h3>`;
-    return `<a href="${a.url}" target="_blank" rel="noopener" class="feature-card">
-  ${img}
-  <div class="feature-overlay">
-    <span class="tag">${a.category || 'Science'}</span>
-    ${heading}
-    <div class="feature-meta"><span>${readTime(a.summary)}</span><span>·</span><span>${formatDate(a.date)}</span></div>
-  </div>
-</a>`;
-  }).join('\n');
-  html = html.replace('<!-- FEATURE_CARDS -->', featureCards);
+  // Feature grid — top 3 articles
+  const top3 = articles.slice(0, 3);
+  const featureHTML = [
+    featureCardHTML(top3[0] || {}, true),
+    featureCardHTML(top3[1] || {}),
+    featureCardHTML(top3[2] || {}),
+  ].join('\n');
+  html = html.replace('<!-- FEATURE_CARDS -->', featureHTML);
 
-  // Article cards
-  html = html.replace('<!-- ARTICLE_CARDS -->', rest.map(cardHTML).join('\n'));
+  // Article cards — next 6
+  html = html.replace('<!-- ARTICLE_CARDS -->',
+    articles.slice(3, 9).map(articleCardHTML).join('\n')
+  );
+
+  // Videos
+  html = html.replace('<!-- VIDEO_CARDS -->',
+    videos.slice(0, 8).map(videoCardHTML).join('\n')
+  );
 
   // APOD
   if (apod) {
     html = html
-      .replace(/<!-- APOD_TITLE -->/g, apod.title)
-      .replace(/<!-- APOD_DESC -->/g, apod.explanation)
-      .replace(/<!-- APOD_IMG -->/g, apod.url)
-      .replace(/<!-- APOD_CREDIT -->/g, `Image Credit: ${apod.copyright}`);
+      .replace('<!-- APOD_TITLE -->',  escHtml(apod.title))
+      .replace('<!-- APOD_DESC -->',   escHtml(apod.explanation))
+      .replace('<!-- APOD_IMG -->',    escHtml(apod.url))
+      .replace('<!-- APOD_CREDIT -->', escHtml(`Image Credit: ${apod.copyright}`));
   }
 
-  // Launch countdown
+  // Next launch
+  const launch = launches[0];
   if (launch) {
-    const netFormatted = launch.net
+    const net = launch.net
       ? new Date(launch.net).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
       : 'TBD';
     html = html
-      .replace(/<!-- LAUNCH_NAME -->/g, launch.name)
-      .replace(/<!-- LAUNCH_DETAILS -->/g, `${launch.pad || ''} · ${launch.location || ''} · NET ${netFormatted}`)
-      .replace(/<!-- LAUNCH_NET -->/g, launch.net || '');
+      .replace('<!-- LAUNCH_NAME -->',    escHtml(launch.name))
+      .replace('<!-- LAUNCH_DETAILS -->', escHtml(`${launch.pad || ''} · ${launch.location || ''} · NET ${net}`))
+      .replace('<!-- LAUNCH_NET -->',     launch.net || '');
   }
 
   await fs.writeFile('index.html', html);
-  console.log('✅ index.html built successfully');
+  console.log(`✅ index.html built — ${articles.length} articles, ${videos.length} videos`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
