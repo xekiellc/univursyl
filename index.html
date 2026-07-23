@@ -31,6 +31,13 @@
 </head>
 <body>
 
+<!-- ── INTRO OVERLAY ── -->
+<div id="intro-overlay">
+  <img id="intro-img" src="" alt="" />
+  <div id="intro-wordmark">UNIVURSYL</div>
+</div>
+
+
 <!-- ── NAV ── -->
 <nav id="main-nav">
   <div class="nav-inner">
@@ -65,35 +72,34 @@
 </nav>
 
 
-<!-- ── HERO ── -->
+<!-- ── HERO — pure typography, deep space ── -->
 <section class="hero" id="hero">
-  <div class="hero-bg" id="hero-bg"></div>
+  <div class="hero-stars"></div>
   <div class="container">
     <div class="hero-content">
       <div class="hero-eyebrow">
         <span class="hero-dot"></span>
-        <span class="section-label" id="hero-label">Orion Nebula</span>
+        <span class="section-label">Premium Space Science Media</span>
       </div>
-      <h1 id="hero-title">A Stellar Nursery<br/>Revealed</h1>
-      <p class="hero-sub" id="hero-sub">
-        Deep within the Orion Molecular Cloud, thousands of newborn stars ignite
-        for the first time — illuminating one of the most spectacular regions in the night sky.
+      <h1>The Universe,<br/>Explained.</h1>
+      <p class="hero-sub">
+        From black holes to exoplanets, the Big Bang to tonight's sky —
+        every discovery, every mission, every breakthrough. Explored here.
       </p>
       <div class="hero-cta">
         <a href="#news" class="btn-primary">Explore Now</a>
-        <a href="#news" class="btn-ghost">
+        <a href="#voices" class="btn-ghost">
           <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <polyline points="6 9 12 15 18 9"/>
           </svg>
-          Latest Stories
+          Meet the Voices
         </a>
       </div>
     </div>
   </div>
-  <div class="hero-indicators" id="hero-indicators">
-    <div class="hero-dot-ind active" data-index="0"></div>
-    <div class="hero-dot-ind" data-index="1"></div>
-    <div class="hero-dot-ind" data-index="2"></div>
+  <div class="hero-scroll-hint">
+    <div class="hero-scroll-line"></div>
+    <span>Scroll to explore</span>
   </div>
 </section>
 
@@ -169,7 +175,9 @@
     <div class="feature-grid">
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
-          <div class="feature-img" style="background-image:url('hero-3.jpg')"></div>
+          <div class="feature-img" style="background:linear-gradient(135deg,#1a0533,#0d1520)">
+            <div class="feature-img-label">COSMOLOGY</div>
+          </div>
           <div class="feature-overlay">
             <span class="tag">Cosmology</span>
             <h2>Webb Glimpses the Universe at 280 Million Years Old</h2>
@@ -182,7 +190,9 @@
       </a>
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
-          <div class="feature-img" style="background-image:url('hero-1.jpg')"></div>
+          <div class="feature-img" style="background:linear-gradient(135deg,#0a1a33,#0d1520)">
+            <div class="feature-img-label">MISSIONS</div>
+          </div>
           <div class="feature-overlay">
             <span class="tag">Missions</span>
             <h3>Europa Clipper's First Close Pass Reveals Unexpected Plume Activity</h3>
@@ -194,7 +204,9 @@
       </a>
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
-          <div class="feature-img" style="background-image:url('hero-2.jpg')"></div>
+          <div class="feature-img" style="background:linear-gradient(135deg,#1a0a0a,#0d1520)">
+            <div class="feature-img-label">ASTROPHYSICS</div>
+          </div>
           <div class="feature-overlay">
             <span class="tag">Astrophysics</span>
             <h3>First Direct Image of a Stellar Black Hole Outside the Milky Way</h3>
@@ -338,7 +350,7 @@
 
       <a href="https://www.youtube.com/watch?v=0FH9cgRhQ-k" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/0FH9cgRhQ-k/maxresdefault.jpg" alt="NASA JWST" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <img src="https://i.ytimg.com/vi/0FH9cgRhQ-k/hqdefault.jpg" alt="NASA JWST" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -350,7 +362,7 @@
 
       <a href="https://www.youtube.com/watch?v=TNVkFfb9s0g" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/TNVkFfb9s0g/maxresdefault.jpg" alt="SpaceX Starship" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <img src="https://i.ytimg.com/vi/TNVkFfb9s0g/hqdefault.jpg" alt="SpaceX Starship" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -362,7 +374,7 @@
 
       <a href="https://www.youtube.com/watch?v=ZSt9tm3RoUU" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/ZSt9tm3RoUU/maxresdefault.jpg" alt="Michio Kaku" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <img src="https://i.ytimg.com/vi/ZSt9tm3RoUU/hqdefault.jpg" alt="Michio Kaku" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -374,7 +386,7 @@
 
       <a href="https://www.youtube.com/watch?v=uD4izuDMUQA" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/uD4izuDMUQA/maxresdefault.jpg" alt="Brian Cox" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <img src="https://i.ytimg.com/vi/uD4izuDMUQA/hqdefault.jpg" alt="Brian Cox" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -386,7 +398,7 @@
 
       <a href="https://www.youtube.com/watch?v=Ld_A3MraCHo" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/Ld_A3MraCHo/maxresdefault.jpg" alt="Anton Petrov" class="video-thumb" loading="lazy" onerror="this.src='hero-3.jpg'" />
+          <img src="https://i.ytimg.com/vi/Ld_A3MraCHo/hqdefault.jpg" alt="Anton Petrov" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -398,7 +410,7 @@
 
       <a href="https://www.youtube.com/watch?v=7kg1C5G7ik4" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/7kg1C5G7ik4/maxresdefault.jpg" alt="Everyday Astronaut" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <img src="https://i.ytimg.com/vi/7kg1C5G7ik4/hqdefault.jpg" alt="Everyday Astronaut" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -410,7 +422,7 @@
 
       <a href="https://www.youtube.com/watch?v=HdPzOen8hE8" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/HdPzOen8hE8/maxresdefault.jpg" alt="PBS Space Time" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <img src="https://i.ytimg.com/vi/HdPzOen8hE8/hqdefault.jpg" alt="PBS Space Time" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -422,7 +434,7 @@
 
       <a href="https://www.youtube.com/watch?v=pP44EPBMb8A" target="_blank" rel="noopener" class="video-card">
         <div class="video-thumb-wrap">
-          <img src="https://img.youtube.com/vi/pP44EPBMb8A/maxresdefault.jpg" alt="Scott Manley" class="video-thumb" loading="lazy" onerror="this.src='hero-3.jpg'" />
+          <img src="https://i.ytimg.com/vi/pP44EPBMb8A/hqdefault.jpg" alt="Scott Manley" class="video-thumb" loading="lazy" />
           <div class="video-play">▶</div>
         </div>
         <div class="video-info">
@@ -449,10 +461,10 @@
           piercing through dust to expose thousands of never-before-seen young stars embedded
           within these towering columns of gas and cosmic material in the Eagle Nebula.
         </p>
-        <a href="https://apod.nasa.gov" target="_blank" rel="noopener" class="btn-primary">View Full Resolution</a>
+        <a href="https://apod.nasa.gov" target="_blank" rel="noopener" class="btn-primary">View on NASA APOD</a>
       </div>
       <div>
-        <img src="hero-3.jpg" alt="Astronomy Picture of the Day" class="apod-image" loading="lazy" />
+        <img src="https://i.ytimg.com/vi/0FH9cgRhQ-k/maxresdefault.jpg" alt="Astronomy Picture of the Day" class="apod-image" loading="lazy" onerror="this.style.background='var(--card-bg)'" />
         <p class="apod-credit">Image Credit: NASA, ESA, CSA, STScI</p>
       </div>
     </div>
@@ -488,7 +500,7 @@
       </div>
 
       <div class="voice-card">
-        <div class="voice-avatar" style="background:#D8B45C">EM</div>
+        <div class="voice-avatar" style="background:#D8B45C;color:#06070A">EM</div>
         <div class="voice-name">Elon Musk</div>
         <div class="voice-title">CEO, SpaceX</div>
         <p class="voice-bio">Founder of SpaceX and driving force behind Starship, the most powerful rocket ever built. Leading humanity's first serious attempt at becoming a multi-planetary species with Mars as the destination.</p>
@@ -538,7 +550,7 @@
         <div class="voice-avatar" style="background:#FF6B4C">KT</div>
         <div class="voice-name">Kip Thorne</div>
         <div class="voice-title">Nobel Laureate, Caltech</div>
-        <p class="voice-bio">2017 Nobel Prize winner for the detection of gravitational waves. Thorne's theoretical work on black holes and wormholes inspired the film Interstellar and changed our understanding of spacetime.</p>
+        <p class="voice-bio">2017 Nobel Prize winner for the detection of gravitational waves. Theoretical work on black holes and wormholes inspired the film Interstellar and changed our understanding of spacetime.</p>
         <div class="voice-social">
           <a href="https://twitter.com/KipThorne" target="_blank" rel="noopener">𝕏</a>
         </div>
@@ -569,7 +581,7 @@
         <div class="voice-avatar" style="background:#FF4C8B">KM</div>
         <div class="voice-name">Katie Mack</div>
         <div class="voice-title">Cosmologist & Author</div>
-        <p class="voice-bio">Theoretical astrophysicist and author of The End of Everything. One of the most engaging voices in science on social media. Her work focuses on the ultimate fate of the universe and dark energy.</p>
+        <p class="voice-bio">Theoretical astrophysicist and author of The End of Everything. One of the most engaging voices in science on social media, focusing on the ultimate fate of the universe and dark energy.</p>
         <div class="voice-social">
           <a href="https://twitter.com/AstroKatie" target="_blank" rel="noopener">𝕏</a>
         </div>
@@ -584,7 +596,7 @@
         <div class="voice-avatar" style="background:#5B4CFF">LF</div>
         <div class="voice-name">Lex Fridman</div>
         <div class="voice-title">AI Researcher & Podcaster</div>
-        <p class="voice-bio">MIT researcher and host of one of the world's most-watched podcasts. His long-form conversations with Elon Musk, physicists, and space entrepreneurs rank among the best science discussions online.</p>
+        <p class="voice-bio">MIT researcher and host of one of the world's most-watched podcasts. Long-form conversations with Elon Musk, physicists, and space entrepreneurs rank among the best science discussions online.</p>
         <div class="voice-social">
           <a href="https://www.youtube.com/@lexfridman" target="_blank" rel="noopener">▶ YouTube</a>
           <a href="https://twitter.com/lexfridman" target="_blank" rel="noopener">𝕏</a>
@@ -599,7 +611,7 @@
       <div class="voice-card">
         <div class="voice-avatar" style="background:#4C9FFF">AA</div>
         <div class="voice-name">Astro Alexandra</div>
-        <div class="voice-title">Space Educator & Content Creator</div>
+        <div class="voice-title">Space Educator & Creator</div>
         <p class="voice-bio">One of Instagram's most compelling space educators, Alexandra brings astronomy and astrophysics to a massive audience through stunning visuals and accessible storytelling about the cosmos.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/astro.alexandra" target="_blank" rel="noopener">◻ Instagram</a>
@@ -615,7 +627,7 @@
         <div class="voice-avatar" style="background:#FFD74C;color:#06070A">AH</div>
         <div class="voice-name">Andrea Henderson</div>
         <div class="voice-title">Astronomy & Telescopes</div>
-        <p class="voice-bio">Creator of Astronomy with Andrea, sharing telescope tips, night sky guides, and deep-sky observations with a growing community of backyard astronomers and space enthusiasts.</p>
+        <p class="voice-bio">Creator of Astronomy with Andrea, sharing telescope tips, night sky guides, and deep-sky observations with a growing community of backyard astronomers and space enthusiasts worldwide.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/astronomywithandrea" target="_blank" rel="noopener">◻ Instagram</a>
         </div>
@@ -630,7 +642,7 @@
         <div class="voice-avatar" style="background:#C44CFF">AP</div>
         <div class="voice-name">Anton Petrov</div>
         <div class="voice-title">YouTube Science Communicator</div>
-        <p class="voice-bio">Creator of "What Da Math" with over 1 million subscribers. Petrov covers every major astronomical discovery in plain language, often within hours of publication — daily space news done right.</p>
+        <p class="voice-bio">Creator of "What Da Math" with over 1 million subscribers. Covers every major astronomical discovery in plain language, often within hours of publication — daily space news done right.</p>
         <div class="voice-social">
           <a href="https://www.youtube.com/@whatdamath" target="_blank" rel="noopener">▶ YouTube</a>
           <a href="https://twitter.com/antonpetrov" target="_blank" rel="noopener">𝕏</a>
@@ -646,7 +658,7 @@
         <div class="voice-avatar" style="background:#FF6B4C">GS</div>
         <div class="voice-name">Gwynne Shotwell</div>
         <div class="voice-title">President & COO, SpaceX</div>
-        <p class="voice-bio">The operational genius behind SpaceX. Shotwell has overseen the company's growth from a startup to the world's leading launch provider, quietly executing the most ambitious space program in history.</p>
+        <p class="voice-bio">The operational genius behind SpaceX. Shotwell has overseen the company's growth from startup to world's leading launch provider, quietly executing the most ambitious space program in history.</p>
         <div class="voice-social">
           <a href="https://twitter.com/gwynneShotwell" target="_blank" rel="noopener">𝕏</a>
         </div>
@@ -661,7 +673,7 @@
         <div class="voice-avatar" style="background:#4CFFB4;color:#06070A">RW</div>
         <div class="voice-name">Dr. Rose Waugh</div>
         <div class="voice-title">Astrophysicist</div>
-        <p class="voice-bio">Known as @astrophysicist_rose on Instagram, Dr. Waugh makes complex astrophysics concepts accessible and beautiful, building a growing community of science enthusiasts around the cosmos.</p>
+        <p class="voice-bio">Known as @astrophysicist_rose, Dr. Waugh makes complex astrophysics concepts accessible and beautiful, building a growing community of science enthusiasts around the wonders of the cosmos.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/astrophysicist_rose" target="_blank" rel="noopener">◻ Instagram</a>
         </div>
@@ -675,8 +687,8 @@
       <div class="voice-card">
         <div class="voice-avatar" style="background:#5B4CFF">KB</div>
         <div class="voice-name">Dr. Kirsten Banks</div>
-        <div class="voice-title">Astrophysicist & Science Communicator</div>
-        <p class="voice-bio">Sydney-based astrophysicist and one of Australia's most prominent science communicators. Known as @astrokirsten, Banks bridges Indigenous Australian astronomical knowledge with modern astrophysics.</p>
+        <div class="voice-title">Astrophysicist & Communicator</div>
+        <p class="voice-bio">Sydney-based astrophysicist and one of Australia's most prominent science communicators. Bridges Indigenous Australian astronomical knowledge with modern astrophysics in a uniquely powerful way.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/astrokirsten" target="_blank" rel="noopener">◻ Instagram</a>
           <a href="https://twitter.com/astrokirsten" target="_blank" rel="noopener">𝕏</a>
@@ -723,7 +735,7 @@
         <div class="voice-avatar" style="background:#4C9FFF">MM</div>
         <div class="voice-name">Marty McGuire</div>
         <div class="voice-title">NASA JPL Solar System Ambassador</div>
-        <p class="voice-bio">The Backyard Astronomy Guy and official NASA JPL Solar System Ambassador. McGuire connects communities with the night sky through public outreach, telescope events, and accessible space education.</p>
+        <p class="voice-bio">The Backyard Astronomy Guy and official NASA JPL Solar System Ambassador. Connects communities with the night sky through public outreach, telescope events, and accessible space education.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/backyardastronomyguy" target="_blank" rel="noopener">◻ Instagram</a>
         </div>
@@ -754,7 +766,7 @@
         <div class="voice-avatar" style="background:#FFD74C;color:#06070A">JL</div>
         <div class="voice-name">Janna Levin</div>
         <div class="voice-title">Columbia Astrophysicist & Author</div>
-        <p class="voice-bio">Professor at Barnard College and author of Black Hole Blues. Levin writes about gravitational waves and black holes with rare literary and scientific depth — science as art.</p>
+        <p class="voice-bio">Professor at Barnard College and author of Black Hole Blues. Writes about gravitational waves and black holes with rare literary and scientific depth — science as art.</p>
         <div class="voice-social">
           <a href="https://twitter.com/jannalevin" target="_blank" rel="noopener">𝕏</a>
         </div>
@@ -769,7 +781,7 @@
         <div class="voice-avatar" style="background:#FF6B4C">CB</div>
         <div class="voice-name">Camille Bergin</div>
         <div class="voice-title">The Galactic Gal</div>
-        <p class="voice-bio">Science communicator and creator of @thegalacticgal, bringing space science to life through engaging social content. Bergin covers everything from black holes to the latest NASA missions with infectious enthusiasm.</p>
+        <p class="voice-bio">Science communicator and creator of @thegalacticgal, bringing space science to life through engaging social content covering everything from black holes to the latest NASA missions.</p>
         <div class="voice-social">
           <a href="https://www.instagram.com/thegalacticgal" target="_blank" rel="noopener">◻ Instagram</a>
         </div>
@@ -808,7 +820,6 @@
           <a href="#" aria-label="RSS">◎</a>
         </div>
       </div>
-
       <div class="footer-col">
         <h4>Topics</h4>
         <ul>
@@ -822,7 +833,6 @@
           <li><a href="#">Night Sky</a></li>
         </ul>
       </div>
-
       <div class="footer-col">
         <h4>Missions</h4>
         <ul>
@@ -835,7 +845,6 @@
           <li><a href="#">Upcoming Launches</a></li>
         </ul>
       </div>
-
       <div class="footer-col">
         <h4>Univursyl</h4>
         <ul>
@@ -849,7 +858,6 @@
         </ul>
       </div>
     </div>
-
     <div class="footer-bottom">
       <span>© 2026 Univursyl. All rights reserved.</span>
       <span class="footer-tagline">The Universe, Explained.</span>
