@@ -2,8 +2,8 @@ name: Univursyl Content Pipeline
 
 on:
   schedule:
-    # 4x daily: 6am, 12pm, 6pm, 11pm ET
-    - cron: '0 11,17,23,4 * * *'
+    # 6x daily: 2am, 6am, 10am, 2pm, 6pm, 10pm ET (UTC offset -4)
+    - cron: '0 6,10,14,18,22,2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,23 +27,24 @@ jobs:
           NEWS_API_KEY:   ${{ secrets.NEWS_API_KEY }}
           ANTHROPIC_KEY:  ${{ secrets.ANTHROPIC_KEY }}
           NASA_API_KEY:   ${{ secrets.NASA_API_KEY }}
-        run: node scripts/fetch-news.js
+        run: node fetch-news.js
 
       - name: Fetch NASA APOD
         env:
           NASA_API_KEY:  ${{ secrets.NASA_API_KEY }}
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
-        run: node scripts/fetch-apod.js
+        run: node fetch-apod.js
 
       - name: Fetch launch data
-        run: node scripts/fetch-launches.js
+        run: node fetch-launches.js
 
       - name: Generate HTML
         env:
-          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
-        run: node scripts/build-pages.js
+          ANTHROPIC_KEY:    ${{ secrets.ANTHROPIC_KEY }}
+          YOUTUBE_API_KEY:  ${{ secrets.YOUTUBE_API_KEY }}
+        run: node build-pages.js
 
-      - name: Commit & push
+      - name: Commit and push
         run: |
           git config --global user.name  "univursyl-bot"
           git config --global user.email "bot@univursyl.com"
