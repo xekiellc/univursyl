@@ -1,21 +1,24 @@
 /* Univursyl — main.js */
 
 // ── CINEMATIC INTRO ───────────────────────────────────────────
-const INTRO_IMAGES = ['hero-1.jpg', 'hero-2.jpg', 'hero-3.jpg'];
-const INTRO_DURATION = 800;   // ms each image shows
-const INTRO_FADE     = 400;   // ms fade transition
+const INTRO_IMAGES = ['hero-1.jpeg', 'hero-2.jpeg', 'hero-3.jpeg'];
+const INTRO_DURATION = 1000;
+const INTRO_FADE     = 500;
 
 function runIntro() {
   return new Promise(resolve => {
     const overlay = document.getElementById('intro-overlay');
     const img     = document.getElementById('intro-img');
+    const wordmark = document.getElementById('intro-wordmark');
     if (!overlay || !img) { resolve(); return; }
+
+    // Hide wordmark — images have it baked in
+    if (wordmark) wordmark.style.display = 'none';
 
     let i = 0;
 
     function showNext() {
       if (i >= INTRO_IMAGES.length) {
-        // Fade out entire overlay
         overlay.style.transition = `opacity ${INTRO_FADE}ms ease`;
         overlay.style.opacity    = '0';
         setTimeout(() => {
@@ -25,29 +28,22 @@ function runIntro() {
         return;
       }
 
-      img.style.opacity    = '0';
       img.style.transition = 'none';
+      img.style.opacity    = '0';
       img.src              = INTRO_IMAGES[i];
 
-      img.onload = () => {
-        // Fade in
+      const show = () => {
         img.style.transition = `opacity ${INTRO_FADE}ms ease`;
         img.style.opacity    = '1';
-
         setTimeout(() => {
-          // Fade out
-          img.style.opacity = '0';
-          setTimeout(() => {
-            i++;
-            showNext();
-          }, INTRO_FADE);
+          img.style.transition = `opacity ${INTRO_FADE}ms ease`;
+          img.style.opacity    = '0';
+          setTimeout(() => { i++; showNext(); }, INTRO_FADE);
         }, INTRO_DURATION);
       };
 
-      // In case image already cached
-      if (img.complete && img.naturalWidth) {
-        img.onload();
-      }
+      if (img.complete && img.naturalWidth) { show(); }
+      else { img.onload = show; }
     }
 
     showNext();
@@ -70,7 +66,6 @@ function initCountdown() {
   function update() {
     const diff = launch - new Date();
     const pad  = n => String(Math.floor(n)).padStart(2, '0');
-
     if (diff <= 0) {
       ['cd-days','cd-hours','cd-mins','cd-secs'].forEach(id => {
         const el = document.getElementById(id);
@@ -78,12 +73,10 @@ function initCountdown() {
       });
       return;
     }
-
     const days  = document.getElementById('cd-days');
     const hours = document.getElementById('cd-hours');
     const mins  = document.getElementById('cd-mins');
     const secs  = document.getElementById('cd-secs');
-
     if (days)  days.textContent  = pad(diff / 86400000);
     if (hours) hours.textContent = pad((diff % 86400000) / 3600000);
     if (mins)  mins.textContent  = pad((diff % 3600000)  / 60000);
