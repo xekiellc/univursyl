@@ -1,18 +1,17 @@
 /* Univursyl — main.js */
 
 // ── CINEMATIC INTRO ───────────────────────────────────────────
-const INTRO_IMAGES = ['hero-1.jpeg', 'hero-2.jpeg', 'hero-3.jpeg'];
+const INTRO_IMAGES = ['hero-1.jpg', 'hero-2.jpg', 'hero-3.jpg'];
 const INTRO_DURATION = 1000;
 const INTRO_FADE     = 500;
 
 function runIntro() {
   return new Promise(resolve => {
-    const overlay = document.getElementById('intro-overlay');
-    const img     = document.getElementById('intro-img');
+    const overlay  = document.getElementById('intro-overlay');
+    const img      = document.getElementById('intro-img');
     const wordmark = document.getElementById('intro-wordmark');
     if (!overlay || !img) { resolve(); return; }
 
-    // Hide wordmark — images have it baked in
     if (wordmark) wordmark.style.display = 'none';
 
     let i = 0;
