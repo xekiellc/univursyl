@@ -50,12 +50,12 @@
 
     <ul class="nav-links">
       <li><a href="#news">News</a></li>
-      <li><a href="#astronomy">Astronomy</a></li>
-      <li><a href="#cosmology">Cosmology</a></li>
-      <li><a href="#black-holes">Black Holes</a></li>
-      <li><a href="#exoplanets">Exoplanets</a></li>
+      <li><a href="#astronomy">Discoveries</a></li>
+      <li><a href="#cosmology">Topics</a></li>
+      <li><a href="#videos">Videos</a></li>
+      <li><a href="#voices">Voices</a></li>
       <li><a href="#missions">Missions</a></li>
-      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#apod">Photo of the Day</a></li>
     </ul>
 
     <div class="nav-right">
@@ -77,12 +77,12 @@
     <div class="hero-content">
       <div class="hero-eyebrow">
         <span class="hero-dot"></span>
-        <span class="section-label" id="hero-label">James Webb Space Telescope</span>
+        <span class="section-label" id="hero-label">Orion Nebula</span>
       </div>
-      <h1 id="hero-title">The Earliest Light<br/>in the Universe</h1>
+      <h1 id="hero-title">A Stellar Nursery<br/>Revealed</h1>
       <p class="hero-sub" id="hero-sub">
-        Astronomers have detected what may be the most distant galaxy ever observed —
-        a faint glimmer from just 280 million years after the Big Bang.
+        Deep within the Orion Molecular Cloud, thousands of newborn stars ignite
+        for the first time — illuminating one of the most spectacular regions in the night sky.
       </p>
       <div class="hero-cta">
         <a href="#news" class="btn-primary">Explore Now</a>
@@ -95,7 +95,6 @@
       </div>
     </div>
   </div>
-
   <div class="hero-indicators" id="hero-indicators">
     <div class="hero-dot-ind active" data-index="0"></div>
     <div class="hero-dot-ind" data-index="1"></div>
@@ -136,8 +135,8 @@
     <div class="launch-bar">
       <div class="launch-info">
         <span class="tag">🚀 Next Launch</span>
-        <div class="launch-mission">Falcon 9 — Starlink Group 12-4</div>
-        <div class="launch-details">Launch Complex 40 · Cape Canaveral, FL · NET July 26, 2026</div>
+        <div class="launch-mission" id="launch-mission">Falcon 9 — Starlink Group 12-4</div>
+        <div class="launch-details" id="launch-details">Launch Complex 40 · Cape Canaveral, FL · NET July 26, 2026</div>
       </div>
       <div class="countdown">
         <div class="countdown-unit">
@@ -172,7 +171,6 @@
       </div>
       <a href="#" class="view-all">All Stories →</a>
     </div>
-
     <div class="feature-grid">
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
@@ -182,14 +180,11 @@
             <h2>Webb Glimpses the Universe at 280 Million Years Old</h2>
             <p>The JADES-GS-z14-0 galaxy challenges existing models of early star formation and cosmic evolution.</p>
             <div class="feature-meta">
-              <span>6 min read</span>
-              <span>·</span>
-              <span>July 22, 2026</span>
+              <span>6 min read</span><span>·</span><span>July 23, 2026</span>
             </div>
           </div>
         </div>
       </a>
-
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
           <div class="feature-img" style="background-image:url('hero-1.jpg')"></div>
@@ -197,12 +192,11 @@
             <span class="tag">Missions</span>
             <h3>Europa Clipper's First Close Pass Reveals Unexpected Plume Activity</h3>
             <div class="feature-meta">
-              <span>4 min read</span><span>·</span><span>July 21, 2026</span>
+              <span>4 min read</span><span>·</span><span>July 22, 2026</span>
             </div>
           </div>
         </div>
       </a>
-
       <a href="#" class="feature-card">
         <div class="feature-card-inner">
           <div class="feature-img" style="background-image:url('hero-2.jpg')"></div>
@@ -210,7 +204,7 @@
             <span class="tag">Astrophysics</span>
             <h3>First Direct Image of a Stellar Black Hole Outside the Milky Way</h3>
             <div class="feature-meta">
-              <span>5 min read</span><span>·</span><span>July 20, 2026</span>
+              <span>5 min read</span><span>·</span><span>July 21, 2026</span>
             </div>
           </div>
         </div>
@@ -220,31 +214,8 @@
 </section>
 
 
-<!-- ── APOD ── -->
-<section class="apod-section">
-  <div class="container">
-    <div class="apod-inner">
-      <div>
-        <span class="section-label">Astronomy Picture of the Day</span>
-        <h2 class="apod-title">Pillars of Creation<br/>in Infrared</h2>
-        <p class="apod-desc">
-          The James Webb Space Telescope reveals the Pillars of Creation in a new infrared portrait,
-          piercing through dust to expose thousands of never-before-seen young stars embedded within
-          these towering columns of gas and cosmic material.
-        </p>
-        <a href="#" class="btn-primary">View Full Resolution</a>
-      </div>
-      <div>
-        <img src="hero-3.jpg" alt="Astronomy Picture of the Day" class="apod-image" loading="lazy" />
-        <p class="apod-credit">Image Credit: NASA, ESA, CSA, STScI</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-
 <!-- ── LATEST DISCOVERIES ── -->
-<section class="section" id="astronomy">
+<section class="section" id="astronomy" style="padding-top:0">
   <div class="container">
     <div class="section-header">
       <div>
@@ -253,36 +224,42 @@
       </div>
       <a href="#" class="view-all">View All →</a>
     </div>
-
     <div class="card-grid">
       <a href="#" class="card">
         <span class="tag">Exoplanets</span>
         <h3>Possible Biosignature Detected in K2-18b Atmosphere</h3>
-        <p>Spectroscopic analysis of the sub-Neptune world reveals methane and carbon dioxide in proportions consistent with biological processes.</p>
-        <div class="card-meta">
-          <span>7 min read</span>
-          <span>July 19, 2026</span>
-        </div>
+        <p>Spectroscopic analysis reveals methane and carbon dioxide in proportions consistent with biological processes.</p>
+        <div class="card-meta"><span>7 min read</span><span>July 19, 2026</span></div>
       </a>
-
       <a href="#" class="card">
         <span class="tag gold-tag">Dark Matter</span>
         <h3>Largest Dark Matter Survey Maps the Invisible Universe</h3>
-        <p>The Dark Energy Survey's final data release charts the distribution of dark matter across a third of the sky using gravitational lensing.</p>
-        <div class="card-meta">
-          <span>5 min read</span>
-          <span>July 18, 2026</span>
-        </div>
+        <p>The Dark Energy Survey charts dark matter across a third of the sky using gravitational lensing.</p>
+        <div class="card-meta"><span>5 min read</span><span>July 18, 2026</span></div>
       </a>
-
       <a href="#" class="card">
         <span class="tag">Astrophysics</span>
         <h3>Gravitational Waves Catch Neutron Stars Mid-Merger</h3>
-        <p>LIGO and Virgo detect a rare kilonova event, confirming neutron star collisions as a major source of heavy elements like gold and platinum.</p>
-        <div class="card-meta">
-          <span>6 min read</span>
-          <span>July 17, 2026</span>
-        </div>
+        <p>LIGO and Virgo detect a kilonova event, confirming neutron star collisions forge gold and platinum.</p>
+        <div class="card-meta"><span>6 min read</span><span>July 17, 2026</span></div>
+      </a>
+      <a href="#" class="card">
+        <span class="tag" style="color:#FF6B4C;border-color:#FF6B4C40">NASA</span>
+        <h3>Artemis IV Crew Announced — First Lunar Gateway Mission</h3>
+        <p>NASA names the four astronauts who will live and work aboard the Lunar Gateway space station in 2028.</p>
+        <div class="card-meta"><span>4 min read</span><span>July 16, 2026</span></div>
+      </a>
+      <a href="#" class="card">
+        <span class="tag" style="color:#D8B45C;border-color:#D8B45C40">SpaceX</span>
+        <h3>Starship IFT-9 Completes Full Flight Profile for the First Time</h3>
+        <p>Both Super Heavy booster and Starship upper stage successfully caught by mechazilla arms at Starbase.</p>
+        <div class="card-meta"><span>5 min read</span><span>July 15, 2026</span></div>
+      </a>
+      <a href="#" class="card">
+        <span class="tag" style="color:#C44CFF;border-color:#C44CFF40">Cosmology</span>
+        <h3>New Measurement of Hubble Constant Deepens Cosmic Mystery</h3>
+        <p>The tension between early and late universe measurements of expansion rate grows, hinting at new physics.</p>
+        <div class="card-meta"><span>8 min read</span><span>July 14, 2026</span></div>
       </a>
     </div>
   </div>
@@ -298,7 +275,6 @@
         <div class="section-title">The Universe by Topic</div>
       </div>
     </div>
-
     <div class="topic-grid">
       <a href="#" class="topic-card">
         <span class="topic-number">01</span>
@@ -348,6 +324,281 @@
         <p>Observation guides, star charts, events</p>
         <span class="topic-arrow">→</span>
       </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ── VIDEOS ── -->
+<section class="section" id="videos" style="padding-top:0">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Watch</span>
+        <div class="section-title">From the Cosmos</div>
+      </div>
+      <a href="#" class="view-all">All Videos →</a>
+    </div>
+    <div class="video-grid">
+      <a href="https://www.youtube.com/watch?v=0FH9cgRhQ-k" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/0FH9cgRhQ-k/maxresdefault.jpg" alt="NASA Video" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">NASA</div>
+          <div class="video-title">James Webb Space Telescope: Year Three Highlights</div>
+          <div class="video-date">July 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=TNVkFfb9s0g" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/TNVkFfb9s0g/maxresdefault.jpg" alt="SpaceX Video" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">SpaceX</div>
+          <div class="video-title">Starship Integrated Flight Test 9</div>
+          <div class="video-date">July 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=ZSt9tm3RoUU" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/ZSt9tm3RoUU/maxresdefault.jpg" alt="Michio Kaku" class="video-thumb" loading="lazy" onerror="this.src='hero-3.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">Michio Kaku</div>
+          <div class="video-title">The Future of Space Travel and Type I Civilization</div>
+          <div class="video-date">June 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=uD4izuDMUQA" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/uD4izuDMUQA/maxresdefault.jpg" alt="Brian Cox" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">Brian Cox</div>
+          <div class="video-title">Black Holes: The Edge of Everything We Know</div>
+          <div class="video-date">June 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=Ld_A3MraCHo" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/Ld_A3MraCHo/maxresdefault.jpg" alt="Anton Petrov" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">Anton Petrov</div>
+          <div class="video-title">Something Incredible Was Just Discovered Near the Galactic Center</div>
+          <div class="video-date">July 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=7kg1C5G7ik4" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/7kg1C5G7ik4/maxresdefault.jpg" alt="Everyday Astronaut" class="video-thumb" loading="lazy" onerror="this.src='hero-3.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">Everyday Astronaut</div>
+          <div class="video-title">Why Starship Changes Everything</div>
+          <div class="video-date">May 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=HdPzOen8hE8" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/HdPzOen8hE8/maxresdefault.jpg" alt="PBS Space Time" class="video-thumb" loading="lazy" onerror="this.src='hero-1.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">PBS Space Time</div>
+          <div class="video-title">What Actually Happens Inside a Black Hole</div>
+          <div class="video-date">June 2026</div>
+        </div>
+      </a>
+      <a href="https://www.youtube.com/watch?v=pP44EPBMb8A" target="_blank" rel="noopener" class="video-card">
+        <div class="video-thumb-wrap">
+          <img src="https://img.youtube.com/vi/pP44EPBMb8A/maxresdefault.jpg" alt="Scott Manley" class="video-thumb" loading="lazy" onerror="this.src='hero-2.jpg'" />
+          <div class="video-play">▶</div>
+        </div>
+        <div class="video-info">
+          <div class="video-channel">Scott Manley</div>
+          <div class="video-title">How NASA Plans to Return to the Moon</div>
+          <div class="video-date">July 2026</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ── APOD ── -->
+<section class="apod-section" id="apod">
+  <div class="container">
+    <div class="apod-inner">
+      <div>
+        <span class="section-label">Astronomy Picture of the Day</span>
+        <h2 class="apod-title">Pillars of Creation<br/>in Infrared</h2>
+        <p class="apod-desc">
+          The James Webb Space Telescope reveals the Pillars of Creation in stunning infrared,
+          piercing through dust to expose thousands of never-before-seen young stars embedded
+          within these towering columns of gas and cosmic material in the Eagle Nebula.
+        </p>
+        <a href="https://apod.nasa.gov" target="_blank" rel="noopener" class="btn-primary">View Full Resolution</a>
+      </div>
+      <div>
+        <img src="hero-3.jpg" alt="Astronomy Picture of the Day" class="apod-image" loading="lazy" />
+        <p class="apod-credit">Image Credit: NASA, ESA, CSA, STScI</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ── VOICES ── -->
+<section class="section" id="voices">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Voices of the Universe</span>
+        <div class="section-title">Scientists, Explorers & Communicators</div>
+      </div>
+    </div>
+    <div class="voices-grid">
+
+      <div class="voice-card">
+        <div class="voice-name">Michio Kaku</div>
+        <div class="voice-title">Theoretical Physicist & Futurist</div>
+        <p class="voice-bio">Co-founder of string field theory and professor at CUNY, Kaku is one of the world's most recognized science communicators. His work spans quantum mechanics, cosmology, and the future of humanity among the stars.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Futurism</span>
+          <span class="voice-tag">Cosmology</span>
+          <span class="voice-tag">Physics</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Elon Musk</div>
+        <div class="voice-title">CEO, SpaceX</div>
+        <p class="voice-bio">Founder of SpaceX and the driving force behind Starship, the most powerful rocket ever built. Musk's stated mission is to make humanity a multi-planetary species, with Mars as the first destination.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">SpaceX</span>
+          <span class="voice-tag">Mars</span>
+          <span class="voice-tag">Futurism</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Brian Cox</div>
+        <div class="voice-title">Particle Physicist & BBC Host</div>
+        <p class="voice-bio">Professor at the University of Manchester and host of landmark BBC documentaries including Wonders of the Universe and The Planets. Cox brings rigorous science to mainstream audiences with rare clarity and wonder.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Cosmology</span>
+          <span class="voice-tag">Astrophysics</span>
+          <span class="voice-tag">Education</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Sara Seager</div>
+        <div class="voice-title">MIT Astrophysicist</div>
+        <p class="voice-bio">A pioneer in exoplanet research, Seager has been called the "Indiana Jones of astronomy." Her work on atmospheric biosignatures is at the forefront of the search for life beyond Earth.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Exoplanets</span>
+          <span class="voice-tag">Astrobiology</span>
+          <span class="voice-tag">JWST</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Kip Thorne</div>
+        <div class="voice-title">Nobel Laureate, Caltech</div>
+        <p class="voice-bio">2017 Nobel Prize in Physics for the detection of gravitational waves. Thorne's theoretical work on black holes and wormholes inspired the science behind the film Interstellar.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Black Holes</span>
+          <span class="voice-tag">Gravitational Waves</span>
+          <span class="voice-tag">Relativity</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Chris Hadfield</div>
+        <div class="voice-title">Astronaut & Author</div>
+        <p class="voice-bio">Former commander of the International Space Station, Hadfield became a global phenomenon by sharing life in space with millions online. His recordings from the ISS and candid storytelling made space personal for a generation.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">ISS</span>
+          <span class="voice-tag">Exploration</span>
+          <span class="voice-tag">NASA</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Katie Mack</div>
+        <div class="voice-title">Cosmologist & Science Communicator</div>
+        <p class="voice-bio">Theoretical astrophysicist and author of The End of Everything, Mack is one of the most engaging voices in science on social media. Her work focuses on the ultimate fate of the universe.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Cosmology</span>
+          <span class="voice-tag">Dark Energy</span>
+          <span class="voice-tag">End of Universe</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Lex Fridman</div>
+        <div class="voice-title">AI Researcher & Podcaster</div>
+        <p class="voice-bio">MIT researcher and host of the Lex Fridman Podcast, featuring deep conversations with Elon Musk, physicists, and space entrepreneurs. His long-form interviews are among the most watched science discussions online.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Podcast</span>
+          <span class="voice-tag">SpaceX</span>
+          <span class="voice-tag">Futurism</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Anton Petrov</div>
+        <div class="voice-title">YouTube Science Communicator</div>
+        <p class="voice-bio">Creator of the daily space news channel "What Da Math" with over 1 million subscribers. Petrov covers every major astronomical discovery in plain language, often within hours of publication.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">YouTube</span>
+          <span class="voice-tag">Astronomy</span>
+          <span class="voice-tag">Daily News</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Gwynne Shotwell</div>
+        <div class="voice-title">President & COO, SpaceX</div>
+        <p class="voice-bio">The operational genius behind SpaceX, Shotwell has overseen the company's growth from a startup to the world's leading launch provider. She manages the day-to-day execution of humanity's most ambitious space program.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">SpaceX</span>
+          <span class="voice-tag">Rockets</span>
+          <span class="voice-tag">Leadership</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Everyday Astronaut</div>
+        <div class="voice-title">Tim Dodd — Space Journalist</div>
+        <p class="voice-bio">Tim Dodd makes rocketry accessible through deep-dive YouTube videos and live launch coverage. His interviews with Elon Musk at Starbase are among the most detailed public conversations about Starship ever recorded.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">YouTube</span>
+          <span class="voice-tag">Rockets</span>
+          <span class="voice-tag">Starship</span>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <div class="voice-name">Janna Levin</div>
+        <div class="voice-title">Columbia Astrophysicist & Author</div>
+        <p class="voice-bio">Professor at Barnard College and author of Black Hole Blues, Levin writes and speaks about the sound of gravitational waves and the nature of black holes with rare literary and scientific depth.</p>
+        <div class="voice-tags">
+          <span class="voice-tag">Black Holes</span>
+          <span class="voice-tag">Gravitational Waves</span>
+          <span class="voice-tag">Author</span>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
@@ -408,8 +659,9 @@
         <h4>Univursyl</h4>
         <ul>
           <li><a href="#">About</a></li>
-          <li><a href="#">Gallery</a></li>
-          <li><a href="#">Videos</a></li>
+          <li><a href="#voices">Voices</a></li>
+          <li><a href="#videos">Videos</a></li>
+          <li><a href="#apod">Photo of the Day</a></li>
           <li><a href="#">Explainers</a></li>
           <li><a href="#">Sources</a></li>
           <li><a href="#">Contact</a></li>
