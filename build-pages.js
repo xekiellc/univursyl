@@ -116,8 +116,10 @@ async function main() {
   ]);
 
   if (!template) {
-    console.log('ℹ️  No index.template.html — skipping injection');
-    return;
+    // A missing template means the build cannot produce a real page — fail the job
+    // instead of silently exiting 0 with no changes made. A missing template file
+    // is a real error, not a soft/no-op condition.
+    throw new Error('index.template.html not found — cannot build index.html. This is a hard failure, not a skip.');
   }
 
   const { articles } = JSON.parse(articlesRaw);
