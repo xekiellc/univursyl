@@ -12,23 +12,26 @@ import fs        from 'fs/promises';
 import path      from 'path';
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_KEY });
-const parser    = new Parser();
+const parser    = new Parser({
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; UnivursylBot/1.0; +https://univursyl.com)',
+  },
+});
 
 const CATEGORIES = [
   'Cosmology', 'Astrophysics', 'Exoplanets', 'Black Holes',
   'Dark Matter', 'NASA', 'SpaceX', 'Missions', 'Astronomy', 'Solar System', 'Futurism'
 ];
 
+// Removed: nasa.gov solar_system.rss (404), feeds.spacenews.com (DNS dead),
+// blogs.nasa.gov/webb (malformed XML — unescaped entities break the parser)
 const RSS_FEEDS = [
   'https://www.nasa.gov/rss/dyn/breaking_news.rss',
-  'https://www.nasa.gov/rss/dyn/solar_system.rss',
   'https://www.esa.int/rssfeed/Our_Activities/Space_Science',
-  'https://feeds.spacenews.com/SpaceNews/news',
   'https://www.skyandtelescope.com/feed/',
   'https://www.universetoday.com/feed/',
   'https://phys.org/rss-feed/space-news/',
   'https://www.sciencedaily.com/rss/space_time.xml',
-  'https://blogs.nasa.gov/webb/feed/',
   'https://www.space.com/feeds/all',
 ];
 
@@ -136,6 +139,43 @@ async function fetchYouTubeVideos() {
   return videos;
 }
 
+// Split into small chunks so Claude's JSON response can never get long enough to truncate
+function chunkArray(arr, size) {
+  const out = [];
+  for (let i = 0; i < arr.length; i += size) out.push(arr.slice(i, i + size));
+  return out;
+}
+
+async function filterChunk(chunk, offset) {
+  const prompt = `You are the editorial AI for Univursyl, a premium space science publication covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, dark matter, black holes, solar system, and futurism. Tone: positive, inspiring, wonder-driven. No negative stories.
+
+For each article below return JSON:
+- index (0-based, matching the number in brackets)
+- include (true/false) — true only for positive space/science content
+- category — one of: ${CATEGORIES.join(', ')}
+- quality (1-5) — 5=major discovery or landmark mission
+- summary — 1-2 sentence plain-English summary
+
+Exclude: negative news, politics, non-space content, duplicates.
+
+Articles:
+${chunk.map((a, i) => `[${i}] ${a.title}\n${a.description?.slice(0, 120)}`).join('\n\n')}
+
+Return ONLY a JSON array, no markdown, no explanation.`;
+
+  const msg = await anthropic.messages.create({
+    model:      'claude-haiku-4-5-20251001',
+    max_tokens: 4000,
+    messages:   [{ role: 'user', content: prompt }],
+  });
+  const raw     = msg.content[0].text.replace(/```json|```/g, '').trim();
+  const ratings = JSON.parse(raw);
+
+  return ratings
+    .filter(r => r.include && r.quality >= 3)
+    .map(r => ({ ...chunk[r.index], category: r.category, quality: r.quality, summary: r.summary }));
+}
+
 async function categorizeAndFilter(articles) {
   const seen   = new Set();
   const unique = articles.filter(a => {
@@ -146,39 +186,30 @@ async function categorizeAndFilter(articles) {
   });
 
   const batch  = unique.slice(0, 60);
-  const prompt = `You are the editorial AI for Univursyl, a premium space science publication covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, dark matter, black holes, solar system, and futurism. Tone: positive, inspiring, wonder-driven. No negative stories.
+  const chunks = chunkArray(batch, 15); // small enough that 4000 tokens is never a bottleneck
 
-For each article below return JSON:
-- index (0-based)
-- include (true/false) — true only for positive space/science content
-- category — one of: ${CATEGORIES.join(', ')}
-- quality (1-5) — 5=major discovery or landmark mission
-- summary — 1-2 sentence plain-English summary
+  let results     = [];
+  let failedChunks = 0;
 
-Exclude: negative news, politics, non-space content, duplicates.
-
-Articles:
-${batch.map((a, i) => `[${i}] ${a.title}\n${a.description?.slice(0, 120)}`).join('\n\n')}
-
-Return ONLY a JSON array, no markdown.`;
-
-  try {
-    const msg  = await anthropic.messages.create({
-      model:      'claude-haiku-4-5-20251001',
-      max_tokens: 4000,
-      messages:   [{ role: 'user', content: prompt }],
-    });
-    const raw     = msg.content[0].text.replace(/```json|```/g, '').trim();
-    const ratings = JSON.parse(raw);
-    return ratings
-      .filter(r => r.include && r.quality >= 3)
-      .sort((a, b) => b.quality - a.quality)
-      .slice(0, 30)
-      .map(r => ({ ...batch[r.index], category: r.category, quality: r.quality, summary: r.summary }));
-  } catch (e) {
-    console.error('Claude filtering failed:', e.message);
-    return batch.slice(0, 20);
+  for (let i = 0; i < chunks.length; i++) {
+    try {
+      const filtered = await filterChunk(chunks[i], i * 15);
+      results = results.concat(filtered);
+    } catch (e) {
+      failedChunks++;
+      console.error(`Claude filtering failed on chunk ${i + 1}/${chunks.length}:`, e.message);
+    }
   }
+
+  // If every chunk failed, we have nothing trustworthy to publish — fail loudly
+  // instead of silently re-publishing old/incomplete content.
+  if (chunks.length > 0 && failedChunks === chunks.length) {
+    throw new Error('All Claude filtering chunks failed — refusing to publish unfiltered content.');
+  }
+
+  return results
+    .sort((a, b) => b.quality - a.quality)
+    .slice(0, 30);
 }
 
 async function main() {
@@ -191,12 +222,16 @@ async function main() {
   console.log('🎬 Fetching YouTube...');
   const videos = await fetchYouTubeVideos();
 
-  const all      = [...rss, ...news];
+  const all = [...rss, ...news];
   console.log(`  ${all.length} raw articles, ${videos.length} videos`);
 
   console.log('🤖 Filtering with Claude Haiku...');
   const filtered = await categorizeAndFilter(all);
   console.log(`  ${filtered.length} articles passed`);
+
+  if (filtered.length === 0) {
+    throw new Error('No articles passed filtering — refusing to overwrite existing content with an empty set.');
+  }
 
   await fs.mkdir('data', { recursive: true });
 
