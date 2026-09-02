@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Univursyl — The Universe, Explained</title>
+  <meta name="description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="https://univursyl.com/" />
+  <meta property="og:title"       content="Univursyl — The Universe, Explained" />
+  <meta property="og:description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
+  <meta property="og:image"       content="https://univursyl.com/hero-1.jpg" />
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:site"        content="@univursyl" />
+  <meta name="twitter:title"       content="Univursyl — The Universe, Explained" />
+  <meta name="twitter:description" content="Premium space science media covering astronomy, cosmology, astrophysics, exoplanets, NASA, SpaceX, black holes, dark matter, and more." />
+  <meta name="twitter:image"       content="https://univursyl.com/hero-1.jpg" />
+  <link rel="canonical" href="https://univursyl.com/" />
+  <link rel="stylesheet" href="style.css" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3DH3YH5B04"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3DH3YH5B04');
+  </script>
+</head>
+<body>
+
+<div id="intro-overlay">
+  <img id="intro-img" src="" alt="" />
+  <div id="intro-wordmark">UNIVURSYL</div>
+</div>
+
+<nav id="main-nav">
+  <div class="nav-inner">
+    <a href="/" class="logo">
+      <svg class="logo-svg" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="17" cy="17" r="15.5" stroke="#5B4CFF" stroke-width="0.75" stroke-dasharray="3 2" opacity="0.5"/>
+        <ellipse cx="17" cy="20" rx="10" ry="3.5" stroke="#D8B45C" stroke-width="0.6" opacity="0.6"/>
+        <path d="M11 9 L11 19 Q11 25 17 25 Q23 25 23 19 L23 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <circle cx="17" cy="22" r="1.5" fill="#5B4CFF"/>
+        <circle cx="17" cy="22" r="3" stroke="#5B4CFF" stroke-width="0.5" opacity="0.4"/>
+      </svg>
+      <span class="logo-wordmark">UNIVUR<span>SYL</span></span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="#news">News</a></li>
+      <li><a href="#astronomy">Discoveries</a></li>
+      <li><a href="#cosmology">Topics</a></li>
+      <li><a href="#videos">Videos</a></li>
+      <li><a href="#voices">Voices</a></li>
+      <li><a href="#missions">Missions</a></li>
+      <li><a href="#apod">Photo of the Day</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="nav-search" aria-label="Search">
+        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<section class="hero" id="hero">
+  <div class="hero-stars"></div>
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-eyebrow">
+        <span class="hero-dot"></span>
+        <span class="section-label">Premium Space Science Media</span>
+      </div>
+      <h1>The Universe,<br/>Explained.</h1>
+      <p class="hero-sub">
+        From black holes to exoplanets, the Big Bang to tonight's sky —
+        every discovery, every mission, every breakthrough. Explored here.
+      </p>
+      <div class="hero-cta">
+        <a href="#news" class="btn-primary">Explore Now</a>
+        <a href="#voices" class="btn-ghost">
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <polyline points="6 9 12 15 18 9"/>
+          </svg>
+          Meet the Voices
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-scroll-hint">
+    <div class="hero-scroll-line"></div>
+    <span>Scroll to explore</span>
+  </div>
+</section>
+
+<div class="ticker">
+  <div class="ticker-inner">
+    <div class="ticker-label">Breaking</div>
+    <div class="ticker-track">
+      <!-- TICKER_ITEMS -->
+    </div>
+  </div>
+</div>
+
+<div class="launch-section">
+  <div class="container">
+    <div class="launch-bar">
+      <div class="launch-info">
+        <span class="tag">🚀 Next Launch</span>
+        <div class="launch-mission"><!-- LAUNCH_NAME --></div>
+        <div class="launch-details"><!-- LAUNCH_DETAILS --></div>
+      </div>
+      <div class="countdown" data-launch-net="<!-- LAUNCH_NET -->">
+        <div class="countdown-unit"><span class="countdown-num" id="cd-days">--</span><span class="countdown-label">Days</span></div>
+        <div class="countdown-unit"><span class="countdown-num" id="cd-hours">--</span><span class="countdown-label">Hours</span></div>
+        <div class="countdown-unit"><span class="countdown-num" id="cd-mins">--</span><span class="countdown-label">Mins</span></div>
+        <div class="countdown-unit"><span class="countdown-num" id="cd-secs">--</span><span class="countdown-label">Secs</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="section" id="news">
+  <div class="container">
+    <div class="section-header">
+      <div><span class="section-label">Featured</span><div class="section-title">Top Stories</div></div>
+      <a href="#astronomy" class="view-all">All Stories →</a>
+    </div>
+    <div class="feature-grid">
+      <!-- FEATURE_CARDS -->
+    </div>
+  </div>
+</section>
+
+<section class="section" id="astronomy" style="padding-top:0">
+  <div class="container">
+    <div class="section-header">
+      <div><span class="section-label">Latest Discoveries</span><div class="section-title">From the Cosmos</div></div>
+      <a href="#news" class="view-all">View All →</a>
+    </div>
+    <div class="card-grid">
+      <!-- ARTICLE_CARDS -->
+    </div>
+  </div>
+</section>
+
+<section class="section" id="cosmology" style="padding-top:0">
+  <div class="container">
+    <div class="section-header">
+      <div><span class="section-label">Explore</span><div class="section-title">The Universe by Topic</div></div>
+    </div>
+    <div class="topic-grid">
+      <a href="#astronomy" class="topic-card"><span class="topic-number">01</span><h3>Black Holes</h3><p>Singularities, event horizons, Hawking radiation</p><span class="topic-arrow">→</span></a>
+      <a href="#astronomy" class="topic-card"><span class="topic-number">02</span><h3>Exoplanets</h3><p>Habitable worlds beyond our solar system</p><span class="topic-arrow">→</span></a>
+      <a href="#astronomy" class="topic-card"><span class="topic-number">03</span><h3>Dark Matter</h3><p>The invisible scaffold of the cosmos</p><span class="topic-arrow">→</span></a>
+      <a href="#missions" class="topic-card"><span class="topic-number">04</span><h3>Missions</h3><p>NASA, SpaceX, ESA, and beyond</p><span class="topic-arrow">→</span></a>
+      <a href="#astronomy" class="topic-card"><span class="topic-number">05</span><h3>Cosmology</h3><p>The Big Bang, inflation, and cosmic evolution</p><span class="topic-arrow">→</span></a>
+      <a href="#astronomy" class="topic-card"><span class="topic-number">06</span><h3>Astrophysics</h3><p>Stars, supernovae, neutron stars, pulsars</p><span class="topic-arrow">→</span></a>
+      <a href="#astronomy" class="topic-card"><span class="topic-number">07</span><h3>Solar System</h3><p>Planets, moons, asteroids, comets</p><span class="topic-arrow">→</span></a>
+      <a href="#apod" class="topic-card"><span class="topic-number">08</span><h3>Night Sky</h3><p>Observation guides, star charts, events</p><span class="topic-arrow">→</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="videos" style="padding-top:0">
+  <div class="container">
+    <div class="section-header">
+      <div><span class="section-label">Watch</span><div class="section-title">From the Cosmos</div></div>
+      <a href="https://www.youtube.com" target="_blank" rel="noopener" class="view-all">All Videos →</a>
+    </div>
+    <div class="video-grid">
+      <!-- VIDEO_CARDS -->
+    </div>
+  </div>
+</section>
+
+<section class="apod-section" id="apod">
+  <div class="container">
+    <div class="apod-inner">
+      <div>
+        <span class="section-label">Astronomy Picture of the Day</span>
+        <h2 class="apod-title"><!-- APOD_TITLE --></h2>
+        <p class="apod-desc"><!-- APOD_DESC --></p>
+        <a href="https://apod.nasa.gov" target="_blank" rel="noopener" class="btn-primary">View on NASA APOD</a>
+      </div>
+      <div>
+        <img src="<!-- APOD_IMG -->" alt="Astronomy Picture of the Day" class="apod-image" loading="lazy" onerror="this.style.background='var(--card-bg)'" />
+        <p class="apod-credit"><!-- APOD_CREDIT --></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="voices">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <span class="section-label">Voices of the Universe</span>
+        <div class="section-title">Scientists, Explorers & Communicators</div>
+      </div>
+    </div>
+    <div class="voices-grid">
+
+      <div class="voice-card">
+        <img src="voice-kaku.jpeg" alt="Michio Kaku" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Michio Kaku</div>
+          <div class="voice-title">Theoretical Physicist & Futurist</div>
+          <p class="voice-bio">Co-founder of string field theory and professor at CUNY. One of the world's most recognized science communicators spanning quantum mechanics, cosmology, and the future of humanity among the stars.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@michiokaku" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/michiokaku" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Futurism</span><span class="voice-tag">Cosmology</span><span class="voice-tag">Physics</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-musk.jpeg" alt="Elon Musk" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Elon Musk</div>
+          <div class="voice-title">CEO, SpaceX</div>
+          <p class="voice-bio">Founder of SpaceX and driving force behind Starship, the most powerful rocket ever built. Leading humanity's first serious attempt at becoming a multi-planetary species with Mars as the destination.</p>
+          <div class="voice-social"><a href="https://twitter.com/elonmusk" target="_blank" rel="noopener">𝕏</a><a href="https://www.youtube.com/@SpaceX" target="_blank" rel="noopener">▶ SpaceX</a></div>
+          <div class="voice-tags"><span class="voice-tag">SpaceX</span><span class="voice-tag">Mars</span><span class="voice-tag">Futurism</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-cox.jpeg" alt="Brian Cox" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Brian Cox</div>
+          <div class="voice-title">Particle Physicist & BBC Host</div>
+          <p class="voice-bio">Professor at University of Manchester and host of landmark BBC documentaries including Wonders of the Universe. Brings rigorous science to mainstream audiences with rare clarity and wonder.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@ProfBrianCox" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/ProfBrianCox" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Cosmology</span><span class="voice-tag">Astrophysics</span><span class="voice-tag">BBC</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-drbecky.jpeg" alt="Dr. Becky Smethurst" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Dr. Becky Smethurst</div>
+          <div class="voice-title">Oxford Astrophysicist</div>
+          <p class="voice-bio">Research fellow at Oxford specializing in galaxy evolution and black holes. Her YouTube channel blends cutting-edge research with humor and accessibility — one of the most trusted science communicators online with 870K subscribers.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@DrBecky" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/drbecky_" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Black Holes</span><span class="voice-tag">Galaxies</span><span class="voice-tag">JWST</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-seager.jpeg" alt="Sara Seager" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Sara Seager</div>
+          <div class="voice-title">MIT Astrophysicist</div>
+          <p class="voice-bio">Called the "Indiana Jones of astronomy," Seager pioneered exoplanet atmospheric research. Her work on biosignatures is at the forefront of humanity's search for life beyond Earth.</p>
+          <div class="voice-social"><a href="https://twitter.com/saraseeager" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Exoplanets</span><span class="voice-tag">Astrobiology</span><span class="voice-tag">JWST</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-kipping.jpeg" alt="David Kipping" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">David Kipping</div>
+          <div class="voice-title">Columbia Astronomer — Cool Worlds</div>
+          <p class="voice-bio">Astronomer at Columbia University and creator of Cool Worlds, the definitive YouTube channel for exoplanet science. Kipping's work on exomoons, alien life, and the Fermi Paradox pushes the boundaries of what we know about the universe.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@CoolWorldsLab" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/david_kipping" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Exoplanets</span><span class="voice-tag">Alien Life</span><span class="voice-tag">Fermi Paradox</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-thorne.jpeg" alt="Kip Thorne" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Kip Thorne</div>
+          <div class="voice-title">Nobel Laureate, Caltech</div>
+          <p class="voice-bio">2017 Nobel Prize winner for the detection of gravitational waves. Theoretical work on black holes and wormholes inspired the film Interstellar and changed our understanding of spacetime.</p>
+          <div class="voice-social"><a href="https://twitter.com/KipThorne" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Black Holes</span><span class="voice-tag">Gravitational Waves</span><span class="voice-tag">Nobel</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-hadfield.jpeg" alt="Chris Hadfield" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Chris Hadfield</div>
+          <div class="voice-title">Astronaut & Author</div>
+          <p class="voice-bio">Former commander of the ISS, Hadfield became a global phenomenon sharing life in space with millions online. His recordings from orbit and candid storytelling made space deeply personal for a generation.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@ColChrisHadfield" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/Cmdr_Hadfield" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">ISS</span><span class="voice-tag">Exploration</span><span class="voice-tag">NASA</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-godier.jpeg" alt="John Michael Godier" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">John Michael Godier</div>
+          <div class="voice-title">Science Documentarian</div>
+          <p class="voice-bio">Creator of Event Horizon, one of YouTube's most compelling documentary-style science channels. Godier's deep dives into Dyson spheres, strange stars, SETI, and future civilizations blend rigorous science with cinematic storytelling.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@JohnMichaelGodier" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/jmichaelgodier" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Dyson Spheres</span><span class="voice-tag">SETI</span><span class="voice-tag">Documentary</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-mack.jpeg" alt="Katie Mack" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Katie Mack</div>
+          <div class="voice-title">Cosmologist & Author</div>
+          <p class="voice-bio">Theoretical astrophysicist and author of The End of Everything. One of the most engaging voices in science on social media, focusing on the ultimate fate of the universe and dark energy.</p>
+          <div class="voice-social"><a href="https://twitter.com/AstroKatie" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Cosmology</span><span class="voice-tag">Dark Energy</span><span class="voice-tag">Author</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-fridman.jpeg" alt="Lex Fridman" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Lex Fridman</div>
+          <div class="voice-title">AI Researcher & Podcaster</div>
+          <p class="voice-bio">MIT researcher and host of one of the world's most-watched podcasts. Long-form conversations with Elon Musk, physicists, and space entrepreneurs rank among the best science discussions online.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@lexfridman" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/lexfridman" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Podcast</span><span class="voice-tag">SpaceX</span><span class="voice-tag">Futurism</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-cain.jpeg" alt="Fraser Cain" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Fraser Cain</div>
+          <div class="voice-title">Universe Today — Space Journalist</div>
+          <p class="voice-bio">Publisher of Universe Today and one of the most prolific space journalists online. If NASA announced something yesterday, Fraser has a video today. Clear, reliable, and passionately current with every space story that matters.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@frasercastronomy" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/fcain" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">News</span><span class="voice-tag">NASA</span><span class="voice-tag">Journalism</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-rober.jpeg" alt="Mark Rober" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Mark Rober</div>
+          <div class="voice-title">Former NASA JPL Engineer</div>
+          <p class="voice-bio">Spent 9 years at NASA designing hardware for the Mars Curiosity rover before becoming one of YouTube's biggest science communicators with 50M+ subscribers. Science made genuinely thrilling.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@MarkRober" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/markrober" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">NASA JPL</span><span class="voice-tag">YouTube</span><span class="voice-tag">Engineering</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-veritasium.jpeg" alt="Derek Muller" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Derek Muller</div>
+          <div class="voice-title">Veritasium</div>
+          <p class="voice-bio">Creator of Veritasium, one of YouTube's most respected science channels with 20M+ subscribers. Known for elegant, deeply researched explainers on physics, space, and the nature of reality.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@veritasium" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/veritasium" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">YouTube</span><span class="voice-tag">Physics</span><span class="voice-tag">Science</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-kurzgesagt.jpeg" alt="Kurzgesagt" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Kurzgesagt</div>
+          <div class="voice-title">Science Animation Studio</div>
+          <p class="voice-bio">The world's most watched science animation channel with 25M+ subscribers. Transforms the most complex topics in cosmology, astrophysics, and space exploration into stunning visual stories.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@kurzgesagt" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/kurzgesagt" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Animation</span><span class="voice-tag">YouTube</span><span class="voice-tag">Education</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-isaacarthur.jpeg" alt="Isaac Arthur" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Isaac Arthur</div>
+          <div class="voice-title">Futurist & Science Communicator</div>
+          <p class="voice-bio">Creator of Science and Futurism with Isaac Arthur — deep, rigorous explorations of space colonization, Dyson spheres, interstellar travel, and humanity's long-term future among the stars.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@isaacarthur" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/Isaac_A_Arthur" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Futurism</span><span class="voice-tag">Colonization</span><span class="voice-tag">YouTube</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-alexandra.jpeg" alt="Astro Alexandra" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Astro Alexandra</div>
+          <div class="voice-title">Space Educator & Creator</div>
+          <p class="voice-bio">One of Instagram's most compelling space educators, Alexandra brings astronomy and astrophysics to a massive audience through stunning visuals and accessible storytelling about the cosmos.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/astro.alexandra" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Instagram</span><span class="voice-tag">Astronomy</span><span class="voice-tag">Education</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-henderson.jpeg" alt="Andrea Henderson" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Andrea Henderson</div>
+          <div class="voice-title">Astronomy & Telescopes</div>
+          <p class="voice-bio">Creator of Astronomy with Andrea, sharing telescope tips, night sky guides, and deep-sky observations with a growing community of backyard astronomers and space enthusiasts worldwide.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/astronomywithandrea" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Telescopes</span><span class="voice-tag">Night Sky</span><span class="voice-tag">Observation</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-petrov.jpeg" alt="Anton Petrov" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Anton Petrov</div>
+          <div class="voice-title">YouTube Science Communicator</div>
+          <p class="voice-bio">Creator of "What Da Math" with over 1 million subscribers. Covers every major astronomical discovery in plain language, often within hours of publication — daily space news done right.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@whatdamath" target="_blank" rel="noopener">▶ YouTube</a><a href="https://twitter.com/antonpetrov" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">YouTube</span><span class="voice-tag">Daily News</span><span class="voice-tag">Astronomy</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-shotwell.jpeg" alt="Gwynne Shotwell" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Gwynne Shotwell</div>
+          <div class="voice-title">President & COO, SpaceX</div>
+          <p class="voice-bio">The operational genius behind SpaceX. Shotwell has overseen the company's growth from startup to world's leading launch provider, quietly executing the most ambitious space program in history.</p>
+          <div class="voice-social"><a href="https://twitter.com/gwynneShotwell" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">SpaceX</span><span class="voice-tag">Rockets</span><span class="voice-tag">Leadership</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-waugh.jpeg" alt="Dr. Rose Waugh" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Dr. Rose Waugh</div>
+          <div class="voice-title">Astrophysicist</div>
+          <p class="voice-bio">Known as @astrophysicist_rose, Dr. Waugh makes complex astrophysics concepts accessible and beautiful, building a growing community of science enthusiasts around the wonders of the cosmos.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/astrophysicist_rose" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Astrophysics</span><span class="voice-tag">Instagram</span><span class="voice-tag">Education</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-banks.jpeg" alt="Dr. Kirsten Banks" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Dr. Kirsten Banks</div>
+          <div class="voice-title">Astrophysicist & Communicator</div>
+          <p class="voice-bio">Sydney-based astrophysicist and one of Australia's most prominent science communicators. Bridges Indigenous Australian astronomical knowledge with modern astrophysics in a uniquely powerful way.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/astrokirsten" target="_blank" rel="noopener">◻ Instagram</a><a href="https://twitter.com/astrokirsten" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Astrophysics</span><span class="voice-tag">Australia</span><span class="voice-tag">Indigenous Astronomy</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-harrison.jpeg" alt="Abigail Harrison" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Abigail Harrison</div>
+          <div class="voice-title">Astronaut Candidate & Advocate</div>
+          <p class="voice-bio">Known as "Astronaut Abby," Harrison has been preparing publicly for a mission to Mars since she was a teenager. A passionate advocate for space exploration and STEM education for the next generation.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/astronautabbyofficial" target="_blank" rel="noopener">◻ Instagram</a><a href="https://twitter.com/astronautabby" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Mars</span><span class="voice-tag">STEM</span><span class="voice-tag">Advocacy</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-martinez.jpeg" alt="Susie Martínez" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Susie Martínez</div>
+          <div class="voice-title">Space Engineer</div>
+          <p class="voice-bio">Known as @adastrasu, Martínez is a space engineer sharing the reality of working in the space industry. Her content demystifies what it takes to build the rockets and systems that reach the stars.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/adastrasu" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Engineering</span><span class="voice-tag">Rockets</span><span class="voice-tag">Career</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-mcguire.jpeg" alt="Marty McGuire" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Marty McGuire</div>
+          <div class="voice-title">NASA JPL Solar System Ambassador</div>
+          <p class="voice-bio">The Backyard Astronomy Guy and official NASA JPL Solar System Ambassador. Connects communities with the night sky through public outreach, telescope events, and accessible space education.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/backyardastronomyguy" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">NASA JPL</span><span class="voice-tag">Outreach</span><span class="voice-tag">Night Sky</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-dodd.jpeg" alt="Tim Dodd" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Tim Dodd</div>
+          <div class="voice-title">Everyday Astronaut</div>
+          <p class="voice-bio">Makes rocketry accessible through deep-dive YouTube videos and live launch coverage. His interviews with Elon Musk at Starbase are among the most detailed public conversations about Starship ever recorded.</p>
+          <div class="voice-social"><a href="https://www.youtube.com/@EverydayAstronaut" target="_blank" rel="noopener">▶ YouTube</a><a href="https://www.instagram.com/everydayastronaut" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Starship</span><span class="voice-tag">Rockets</span><span class="voice-tag">YouTube</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-levin.jpeg" alt="Janna Levin" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Janna Levin</div>
+          <div class="voice-title">Columbia Astrophysicist & Author</div>
+          <p class="voice-bio">Professor at Barnard College and author of Black Hole Blues. Writes about gravitational waves and black holes with rare literary and scientific depth — science as art.</p>
+          <div class="voice-social"><a href="https://twitter.com/jannalevin" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Black Holes</span><span class="voice-tag">Gravitational Waves</span><span class="voice-tag">Author</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-bergin.jpeg" alt="Camille Bergin" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Camille Bergin</div>
+          <div class="voice-title">The Galactic Gal</div>
+          <p class="voice-bio">Science communicator and creator of @thegalacticgal, bringing space science to life through engaging social content covering everything from black holes to the latest NASA missions.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/thegalacticgal" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Social Media</span><span class="voice-tag">Education</span><span class="voice-tag">NASA</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-brock.jpeg" alt="Dr. Laci Brock" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Dr. Laci Brock</div>
+          <div class="voice-title">Planetary Astrophysicist & Space Artist</div>
+          <p class="voice-bio">Planetary astro PhD and artist who lives where science meets art. Creator of @stellerarts, Brock produces stunning space-inspired paintings that make the cosmos tangible and breathtaking.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/stellerarts" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Art</span><span class="voice-tag">Planetary Science</span><span class="voice-tag">Instagram</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-nance.jpeg" alt="Sarafina Nance" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Sarafina Nance</div>
+          <div class="voice-title">Astrophysicist & Author</div>
+          <p class="voice-bio">Astrophysics PhD from UC Berkeley, aerospace TPM, and author of STARSTRUCK. Forbes Under 30. Nance's personal story of perseverance and passion for the cosmos inspires the next generation of scientists.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/starstrickensf" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Astrophysics</span><span class="voice-tag">Author</span><span class="voice-tag">Aerospace</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-arceneaux.jpeg" alt="Hayley Arceneaux" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Hayley Arceneaux</div>
+          <div class="voice-title">SpaceX Inspiration4 Astronaut</div>
+          <p class="voice-bio">Became the youngest American to orbit Earth and the first person with a prosthetic body part in space aboard SpaceX's Inspiration4 mission in 2021. A childhood cancer survivor turned space pioneer.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/hayleyarc" target="_blank" rel="noopener">◻ Instagram</a><a href="https://twitter.com/hayleyarc" target="_blank" rel="noopener">𝕏</a></div>
+          <div class="voice-tags"><span class="voice-tag">Astronaut</span><span class="voice-tag">SpaceX</span><span class="voice-tag">Inspiration4</span></div>
+        </div>
+      </div>
+
+      <div class="voice-card">
+        <img src="voice-yammine.jpeg" alt="Samantha Yammine" class="voice-photo" />
+        <div class="voice-body">
+          <div class="voice-name">Samantha Yammine</div>
+          <div class="voice-title">Science Communicator, PhD</div>
+          <p class="voice-bio">Known as @science.sam, Yammine is a neuroscience PhD turned science communicator whose passion for discovery extends across space science, making complex research feel exciting and accessible.</p>
+          <div class="voice-social"><a href="https://www.instagram.com/science.sam" target="_blank" rel="noopener">◻ Instagram</a></div>
+          <div class="voice-tags"><span class="voice-tag">Science Comm</span><span class="voice-tag">PhD</span><span class="voice-tag">Instagram</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="logo">
+          <svg class="logo-svg" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="17" cy="17" r="15.5" stroke="#5B4CFF" stroke-width="0.75" stroke-dasharray="3 2" opacity="0.5"/>
+            <ellipse cx="17" cy="20" rx="10" ry="3.5" stroke="#D8B45C" stroke-width="0.6" opacity="0.6"/>
+            <path d="M11 9 L11 19 Q11 25 17 25 Q23 25 23 19 L23 9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <circle cx="17" cy="22" r="1.5" fill="#5B4CFF"/>
+            <circle cx="17" cy="22" r="3" stroke="#5B4CFF" stroke-width="0.5" opacity="0.4"/>
+          </svg>
+          <span class="logo-wordmark">UNIVUR<span>SYL</span></span>
+        </a>
+        <p>Premium space science media exploring the cosmos — from black holes to exoplanets, the Big Bang to tonight's sky.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="X">𝕏</a>
+          <a href="#" aria-label="YouTube">▶</a>
+          <a href="#" aria-label="Instagram">◻</a>
+          <a href="#" aria-label="RSS">◎</a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Topics</h4>
+        <ul>
+          <li><a href="#astronomy">Astronomy</a></li>
+          <li><a href="#astronomy">Cosmology</a></li>
+          <li><a href="#astronomy">Astrophysics</a></li>
+          <li><a href="#astronomy">Black Holes</a></li>
+          <li><a href="#astronomy">Exoplanets</a></li>
+          <li><a href="#astronomy">Dark Matter</a></li>
+          <li><a href="#astronomy">Solar System</a></li>
+          <li><a href="#apod">Night Sky</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Missions</h4>
+        <ul>
+          <li><a href="#missions">NASA</a></li>
+          <li><a href="#missions">SpaceX</a></li>
+          <li><a href="#missions">ESA</a></li>
+          <li><a href="#missions">JAXA</a></li>
+          <li><a href="#missions">Blue Origin</a></li>
+          <li><a href="#missions">Rocket Lab</a></li>
+          <li><a href="#missions">Upcoming Launches</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Univursyl</h4>
+        <ul>
+          <li><a href="#hero">About</a></li>
+          <li><a href="#voices">Voices</a></li>
+          <li><a href="#videos">Videos</a></li>
+          <li><a href="#apod">Photo of the Day</a></li>
+          <li><a href="#astronomy">Explainers</a></li>
+          <li><a href="#news">Sources</a></li>
+          <li><a href="mailto:hello@univursyl.com">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Univursyl. All rights reserved.</span>
+      <span class="footer-tagline">The Universe, Explained.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
