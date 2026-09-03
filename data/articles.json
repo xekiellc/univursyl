@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T23:58:42.947Z",
+  "generated": "2026-09-03T07:05:09.574Z",
   "count": 30,
   "articles": [
     {
@@ -8,9 +8,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
       "source": "ESA Space Science",
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
-      "category": "NASA",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope launches on a SpaceX Falcon Heavy rocket to conduct a transformative infrared survey of the cosmos."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully lifts off on a SpaceX Falcon Heavy rocket, beginning its mission to survey the infrared sky and revolutionize astronomy."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -20,7 +20,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission reaches its Mercury Arrival Phase, beginning unprecedented exploration of the closest planet to the Sun."
+      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission enters its Mercury Arrival Phase on September 3, 2026, marking a landmark moment in planetary exploration."
     },
     {
       "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -30,7 +30,7 @@
       "date": "Tue, 25 Aug 2026 15:00:00 +0200",
       "category": "NASA",
       "quality": 5,
-      "summary": "The cutting-edge Nancy Grace Roman Space Telescope is set to launch on August 30, 2026, beginning its mission to revolutionize infrared astronomy."
+      "summary": "The cutting-edge Nancy Grace Roman Space Telescope is set to launch on August 30, 2026, poised to revolutionize infrared astronomy and exoplanet discovery."
     },
     {
       "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
@@ -40,7 +40,7 @@
       "date": "Mon, 31 Aug 2026 05:23:21 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has launched to the L2 point to survey vast cosmic regions and unlock mysteries of dark matter and dark energy, representing a landmark observatory for modern cosmology."
+      "summary": "NASA's Roman Space Telescope launches toward L2 to investigate dark matter and dark energy, marking a major milestone in understanding the universe's mysteries."
     },
     {
       "title": "Astronomy Picture of the Day - Launch of the Roman Space Telescope",
@@ -51,7 +51,7 @@
       "image": null,
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope has launched into orbit to revolutionize our understanding of the universe through unprecedented observations of galaxies and exoplanets."
+      "summary": "The Nancy Grace Roman Space Telescope has launched successfully to study billions of stars, galaxies, and exoplanets during its groundbreaking five-year mission."
     },
     {
       "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
@@ -62,7 +62,7 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/RomanLaunch_NASA.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope launches on a landmark mission to study billions of stars and galaxies across the cosmos."
+      "summary": "The Nancy Grace Roman Space Telescope launches into orbit, beginning its historic mission to revolutionize our understanding of the cosmos."
     },
     {
       "title": "NASA’s Nancy Grace Roman space telescope launches",
@@ -73,18 +73,7 @@
       "image": "https://www.popsci.com/wp-content/uploads/2026/08/nancy-grace-roman-launch-lead.png?w=1200",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman space telescope begins its five-year primary mission to observe billions of stars and galaxies while surveying 100,000 exoplanets."
-    },
-    {
-      "title": "NASA’s powerful new Nancy Grace Roman Telescope begins cosmic mission",
-      "description": "NASA's new flagship astronomical observatory was launched into space from Florida on August 30 on a mission to probe some of the biggest mysteries in astrophysics and cosmology. The Nancy Grace Roman Space Telescope, a roughly $4 billion project, was carried …",
-      "url": "https://freerepublic.com/focus/f-chat/4393901/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-09-01T21:04:34Z",
-      "image": null,
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA's powerful Nancy Grace Roman Telescope launches on an ambitious mission to probe the cosmos and advance our understanding of the universe."
+      "summary": "NASA's Nancy Grace Roman Space Telescope has launched and will observe billions of celestial objects including 100,000 exoplanets during its transformative primary mission."
     },
     {
       "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
@@ -94,7 +83,7 @@
       "date": "Wed, 02 Sep 2026 18:00:37 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope discovers a remarkable 10-sided atmospheric wave circling Saturn's south pole, revealing dynamic planetary weather patterns."
+      "summary": "NASA's Hubble Space Telescope discovers a remarkable 10-sided atmospheric wave, called a decagon, evolving around Saturn's south pole, advancing our understanding of giant planet dynamics."
     },
     {
       "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
@@ -102,19 +91,29 @@
       "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
       "source": "NASA",
       "date": "Tue, 01 Sep 2026 21:08:37 +0000",
-      "category": "NASA",
+      "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA selects Blue Origin to develop a next-generation Mars Telecommunications Network, advancing humanity's communication capabilities for future Mars exploration."
+      "summary": "NASA selects Blue Origin to develop the Mars Telecommunications Network, marking a major milestone in establishing communications infrastructure for future Mars missions."
     },
     {
-      "title": "Historic Engines Take Their Place on Artemis III",
-      "description": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
-      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-      "source": "NASA",
-      "date": "Tue, 01 Sep 2026 17:30:35 +0000",
-      "category": "NASA",
+      "title": "Hubble tracks new decagon encircling Saturn’s south pole",
+      "description": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole",
+      "source": "ESA Space Science",
+      "date": "Wed, 02 Sep 2026 20:00:00 +0200",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Historic RS-25 engines are installed on the Artemis III core stage at Kennedy Space Center, marking progress toward humanity's return to the Moon."
+      "summary": "NASA/ESA Hubble Space Telescope reveals a giant, evolving 10-sided atmospheric wave encircling Saturn's south pole, providing new insights into planetary atmospheres."
+    },
+    {
+      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
+      "description": "Video: \n\t\t\t01:09:40\n\t\t\t\t\nRewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.\nThis briefing focused on the complexities of the separation of the Mercury Transfer Module (MTM), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio) in December 2026.\nThe briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three speakers:\nProf. Geraint Jones, Lead Project Scientist, ESA\nSanta Martinez, Mission Manager, ESA\nIgnacio Tanco, Head of Inner Solar System Mission Operations, ESA\nBepiColombo will be the most complex mission ever sent to Mercury. Its orbiters will be only the second and third to orbit the planet. Close to the Sun and more difficult for an orbiter to reach than Pluto, this small desert world is the least explored planet of the inner Solar System. Learning more about Mercury will shed light on the history of the entire Solar System.\nThe mission is a collaboration between ESA and JAXA, the latter providing the Mercury Magnetospheric Orbiter (Mio).\nClick here for a set of explanatory infographics",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
+      "source": "ESA Space Science",
+      "date": "Mon, 31 Aug 2026 16:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The European Space Agency briefs on BepiColombo's next major milestone as the spacecraft continues its groundbreaking journey toward Mercury."
     },
     {
       "title": "Fly around Schiaparelli Crater with Mars Express ",
@@ -122,9 +121,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
       "source": "ESA Space Science",
       "date": "Wed, 19 Aug 2026 11:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "ESA's Mars Express captures stunning video footage of Schiaparelli Crater, one of Mars's largest impact features. The mesmerizing flyover provides detailed views of the Martian surface and crater geology."
+      "summary": "ESA's Mars Express spacecraft provides stunning aerial footage of Schiaparelli Crater, one of Mars's largest impact features. The mesmerizing video offers new perspectives on Martian geology and planetary exploration."
     },
     {
       "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
@@ -134,7 +133,7 @@
       "date": "Wed, 02 Sep 2026 20:55:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers have discovered that a galactic merger can eject supermassive black holes at tremendous velocities. This breakthrough helps explain the mysterious phenomenon of runaway supermassive black holes traveling through space."
+      "summary": "Researchers have identified that galactic mergers can eject supermassive black holes from their host galaxies, explaining the phenomenon of runaway black holes. This discovery advances our understanding of black hole dynamics and galactic evolution."
     },
     {
       "title": "SuperCDMS SNOLAB Starts Its Dark Matter Hunt",
@@ -144,7 +143,7 @@
       "date": "Wed, 02 Sep 2026 13:30:07 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "The SuperCDMS SNOLAB experiment has begun its science operations as one of the world's most sensitive dark matter detectors. This milestone represents a major step forward in the decades-long quest to directly detect dark matter particles."
+      "summary": "The SuperCDMS SNOLAB experiment has begun its science operations in the search for dark matter particles. This represents a major milestone in humanity's quest to detect and understand dark matter."
     },
     {
       "title": "Distant Quasars Provide Crucial Link In Understanding Earliest Supermassive Black Holes",
@@ -154,7 +153,7 @@
       "date": "Wed, 02 Sep 2026 02:47:09 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Distant quasars from the early universe are providing crucial insights into how supermassive black holes formed in the cosmos's infancy. These extreme objects offer a unique window into black hole formation mechanisms."
+      "summary": "Distant quasars from the early universe provide crucial insights into how supermassive black holes formed in cosmic infancy. This research helps solve one of astrophysics' greatest mysteries."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn's south pole",
@@ -164,7 +163,7 @@
       "date": "Wed, 02 Sep 2026 16:40:07 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope has discovered a giant 10-sided atmospheric wave pattern encircling Saturn's south pole. This striking geometric feature reveals fascinating dynamics in Saturn's atmosphere."
+      "summary": "NASA's Hubble Space Telescope has discovered a remarkable 10-sided atmospheric wave structure encircling Saturn's south pole. This discovery reveals fascinating dynamics in Saturn's atmosphere."
     },
     {
       "title": "Young sunlike system reveals comets may carry water toward forming planets",
@@ -174,7 +173,7 @@
       "date": "Wed, 02 Sep 2026 12:20:01 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers have discovered evidence of exocomets orbiting a young sunlike star, suggesting that comets may deliver water to forming planets. This finding illuminates how habitable worlds acquire the water essential for life."
+      "summary": "Astronomers have discovered evidence that exocomets in a young solar system may transport water toward forming planets. This finding suggests an important mechanism for delivering life-essential water to new worlds."
     },
     {
       "title": "More than 120 molecular species found in giant cloud near Milky Way's center",
@@ -184,7 +183,7 @@
       "date": "Wed, 02 Sep 2026 08:30:02 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers have discovered an extraordinarily rich interstellar cloud near the Milky Way's center containing over 120 molecular species. This remarkable discovery deepens our understanding of complex chemistry in the galactic center."
+      "summary": "Astronomers have identified over 120 molecular species in a giant interstellar cloud near the Milky Way's center. This extraordinary chemical richness provides new insights into star and planet formation processes."
     },
     {
       "title": "Earth may have lost the Sun’s protective shield millions of years ago",
@@ -194,7 +193,7 @@
       "date": "Wed, 02 Sep 2026 00:25:48 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA-funded research suggests Earth's climate has been shaped by the Sun's passage through dense regions of the Milky Way, revealing profound connections between galactic dynamics and planetary protection."
+      "summary": "NASA-funded research suggests Earth's climate has been shaped by the Sun's journey through dense regions of the Milky Way, revealing new insights into our planetary history."
     },
     {
       "title": "This strange “spacetime crystal” can suddenly become a black hole",
@@ -204,7 +203,7 @@
       "date": "Sun, 30 Aug 2026 11:05:09 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Physicists have theoretically discovered a remarkable 'spacetime crystal' that can transform into a black hole, expanding our understanding of exotic spacetime geometries and quantum gravity."
+      "summary": "Physicists discover a mathematical model of an exotic 'spacetime crystal' that could transform into a black hole, opening new theoretical possibilities."
     },
     {
       "title": "Rocky planets may have formed just 100 million years after the Big Bang",
@@ -212,9 +211,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260828082345.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Mon, 31 Aug 2026 01:00:01 EDT",
-      "category": "Exoplanets",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "New research reveals that rocky planets may have begun forming just 100 million years after the Big Bang through massive early supernovae, pushing back the timeline of planetary genesis."
+      "summary": "Rocky planets may have begun forming just 100 million years after the Big Bang thanks to enormous early supermassive black holes, expanding our understanding of planetary origins."
     },
     {
       "title": " 2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3 ",
@@ -224,7 +223,7 @@
       "date": "Wed, 02 Sep 2026 18:00:00 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Japanese BepiColombo mission is beginning its long-awaited arrival phase at Mercury on September 3, promising groundbreaking observations of the solar system's innermost planet."
+      "summary": "The European-Japanese BepiColombo mission begins its highly anticipated Mercury arrival phase, marking a major milestone in planetary exploration."
     },
     {
       "title": " Blue Origin wins $700 million contract to build NASA's next Mars orbiter ",
@@ -234,7 +233,7 @@
       "date": "Wed, 02 Sep 2026 17:00:00 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA has awarded Blue Origin a $700 million contract to build an advanced Mars telecommunications orbiter, advancing human exploration capabilities for future Mars missions."
+      "summary": "NASA awards Blue Origin a $700 million contract to build the next Mars telecommunications orbiter, advancing human exploration infrastructure."
     },
     {
       "title": " Supermassive black holes 'too big' for the early universe may not be so massive after all ",
@@ -244,7 +243,18 @@
       "date": "Wed, 02 Sep 2026 15:00:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "James Webb Space Telescope observations of supermassive black holes in the early universe may have been misinterpreted, suggesting these objects aren't as massive as previously thought and resolving a cosmological puzzle."
+      "summary": "James Webb Space Telescope observations of supermassive black holes in the early universe may have overestimated their masses, offering new insights into how these cosmic giants form and evolve."
+    },
+    {
+      "title": "Every galaxy in our neighborhood, including our own, is being pulled toward a single point in space hidden directly behind the crowded disk of the Milky Way, and when astronomers finally looked through the dust, they found a large, previously hidden cluster of thousands of galaxies sitting almost exactly where the pull was coming from",
+      "description": "Astronomers spent decades chasing an invisible force pulling our galaxy through space, only to discover it was hidden in plain sight behind cosmic dust.\nThe post Every galaxy in our neighborhood, including our own, is being pulled toward a single point in spa…",
+      "url": "https://spacedaily.com/a-every-galaxy-in-our-neighborhood-including-our-own-is-being-pulled-toward-a-single-point-in-space-hidden-directly-behind-the-crowded-disk-of-the-milky-way-and-when-astronomers-finally-looked-throug/",
+      "source": "Space Daily",
+      "date": "2026-09-02T03:30:29Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way.png",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Astronomers solved a decades-long mystery by discovering a massive hidden cluster of thousands of galaxies behind the Milky Way's disk that explains the gravitational force pulling our galaxy through space."
     },
     {
       "title": "For 21 years, millions of volunteers let UC Berkeley use their home computers to search the sky for alien signals, producing 12 billion detections — after a decade of filtering, scientists narrowed them to roughly 100 targets worth a second look.",
@@ -255,7 +265,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/03/seti-at-home-2026-hg.jpg",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Two decades of SETI@home data from millions of volunteer computers identified approximately 100 promising targets for extraterrestrial signal searches after filtering 12 billion candidate detections."
+      "summary": "After 21 years of citizen-powered computing through SETI@home, researchers have narrowed 12 billion detection signals down to approximately 100 promising targets for further alien signal investigation."
     },
     {
       "title": "Radio telescopes have accumulated petabytes of observations originally used to map galaxies and black holes—but no one had searched those archives minute by minute for activity from every star in view. In 2026, a new algorithm reprocessed 1.4 years of LOFAR data and uncovered eight faint bursts from low-mass stars that conventional images had missed, including signals potentially produced by magnetic interactions with orbiting planets.",
@@ -266,28 +276,28 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/08/spacedaily-rims-gj687-jupiter-comparison-cc-by.jpg",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "A new algorithm discovered eight faint radio bursts from low-mass stars in archived LOFAR telescope data, including signals potentially caused by magnetic interactions with orbiting planets."
+      "summary": "A novel algorithm reprocessed archived radio telescope data and discovered eight faint stellar radio bursts from low-mass stars, including signals potentially from magnetic planet interactions."
     },
     {
-      "title": "On January 27, 2025, asteroid 2024 YR4 crossed the 1% impact-probability threshold; two days later, the International Asteroid Warning Network sent its first-ever formal asteroid warning to the UN’s space office—activating a planetary-defence protocol created more than a decade earlier but never previously used.",
-      "description": "Asteroid 2024 YR4 became the first object to trigger IAWN's formal UN notification protocol, testing a warning system whose successful end point was an all-clear.\nThe post On January 27, 2025, asteroid 2024 YR4 crossed the 1% impact-probability threshold; two…",
-      "url": "https://spacedaily.com/t-2024-yr4-first-iawn-un-asteroid-warning-protocol/",
-      "source": "Space Daily",
-      "date": "2026-08-29T14:30:00Z",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/08/spacedaily-2024-yr4-cneos-uncertainty-jan31-1024x421.png",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "Asteroid 2024 YR4 became the first object to trigger an international planetary-defense protocol, successfully testing a decade-old warning system designed to protect Earth."
-    },
-    {
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "description": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
-      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
-      "source": "NASA",
-      "date": "Wed, 02 Sep 2026 19:01:05 +0000",
+      "title": "Meet Jessica Meir and Sophie Adenot: The astronauts behind the historic all-female spacewalk",
+      "description": "NASA astronaut Jessica Meir and ESA astronaut Sophie Adenot made history with the sixth all-female spacewalk on September 1, 2026. Their 6-hour-49-minute mission involved replacing key equipment on the International Space Station. Meir, a marine biologist who…",
+      "url": "https://timesofindia.indiatimes.com/education/news/meet-jessica-meir-and-sophie-adenot-the-astronauts-behind-the-historic-all-female-spacewalk/articleshow/133699966.cms",
+      "source": "The Times of India",
+      "date": "2026-09-02T06:14:38Z",
+      "image": "https://static.toiimg.com/thumb/msid-133700276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "category": "NASA",
+      "quality": 4,
+      "summary": "Astronauts Jessica Meir and Sophie Adenot made history by conducting the sixth all-female spacewalk, advancing human space exploration and representation."
+    },
+    {
+      "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+      "description": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/",
+      "source": "NASA",
+      "date": "Thu, 03 Sep 2026 04:05:00 +0000",
+      "category": "Astronomy",
       "quality": 3,
-      "summary": "NASA expands educational pathways for community college students to pursue aerospace careers, inspiring the next generation of space professionals."
+      "summary": "APOD features an eclipse observation, exploring the celestial mechanics and cultural significance of this astronomical phenomenon."
     },
     {
       "title": "Rising Over Louisiana",
@@ -297,17 +307,7 @@
       "date": "Wed, 02 Sep 2026 15:38:50 +0000",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "The Moon passes through Earth's shadow in a partial lunar eclipse, offering skywatchers a spectacular celestial event."
-    },
-    {
-      "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-      "description": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
-      "source": "NASA",
-      "date": "Wed, 02 Sep 2026 14:53:54 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "A NASA rocket conducts groundbreaking multi-point observations of sporadic E layers, high-altitude metallic clouds at the edge of space."
+      "summary": "A lunar eclipse occurs as the Moon passes through Earth's shadow, creating a spectacular celestial display visible from Louisiana and beyond."
     }
   ]
 }
