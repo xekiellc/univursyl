@@ -1,19 +1,6 @@
 {
-  "generated": "2026-09-04T20:45:10.583Z",
+  "generated": "2026-09-04T23:57:33.550Z",
   "launches": [
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-09-03T21:25:00Z",
-      "status": "Success",
-      "provider": "Indian Space Research Organization",
-      "rocket": "GSLV Mk II",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "mission": "GISAT-1A (EOS-05)",
-      "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.\r\n\r\nEOS-05/GISAT-1A will replace EOS-03/GISAT-1 lost in launch failure in 2021.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
-    },
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
@@ -130,6 +117,19 @@
       "mission": "Flight 14",
       "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
+    },
+    {
+      "id": "548df42c-ae26-4cc9-921a-f0042941911a",
+      "name": "Electron | BlackSky Gen-3 6",
+      "net": "2026-09-30T00:00:00Z",
+      "status": "TBD",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Unknown Pad",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "mission": "BlackSky Gen-3 6",
+      "description": "BlackSky Gen-3 Earth-imaging satellites",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
     }
   ]
 }
