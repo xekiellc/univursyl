@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T07:22:29.796Z",
+  "generated": "2026-09-04T14:12:32.759Z",
   "launches": [
     {
       "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
@@ -17,7 +17,7 @@
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
-      "net": "2026-09-04T20:00:00Z",
+      "net": "2026-09-05T20:00:00Z",
       "status": "TBC",
       "provider": "Isar Aerospace",
       "rocket": "Spectrum",

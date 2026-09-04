@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T07:15:49.959Z",
+  "generated": "2026-09-04T14:08:35.687Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,17 @@
       "date": "Thu, 03 Sep 2026 14:24:23 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope begins its three-month journey to its final orbit, poised to revolutionize infrared astronomy and dark energy research."
+      "summary": "NASA's Nancy Grace Roman Space Telescope begins its million-mile journey to its final orbit, poised to reveal unprecedented infrared views of the cosmos."
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "ESA/JAXA's BepiColombo mission successfully arrives at Mercury after an eight-year journey, marking a major milestone in planetary exploration."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -18,9 +28,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
       "source": "ESA Space Science",
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
-      "category": "SpaceX",
+      "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches on a SpaceX Falcon Heavy rocket, beginning its mission to survey the infrared universe."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully lifts off aboard a SpaceX Falcon Heavy rocket, beginning its mission to survey the infrared sky."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +40,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission enters its arrival phase at Mercury, ready to unlock secrets of the inner solar system."
+      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission begins its historic arrival phase at Mercury on September 3, 2026, available for live viewing."
     },
     {
       "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -40,17 +50,27 @@
       "date": "Tue, 25 Aug 2026 15:00:00 +0200",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope, a cutting-edge infrared observatory, is set to launch and transform our understanding of the cosmos and dark energy."
+      "summary": "The Nancy Grace Roman Space Telescope, a major NASA mission, is set to launch on August 30, 2026, opening new frontiers in infrared space observation. This cutting-edge observatory will advance our understanding of the cosmos."
     },
     {
-      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-      "description": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 31 Aug 2026 05:23:21 EDT",
+      "title": " On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus ",
+      "description": "On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus.  Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 04 Sep 2026 14:00:00 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has launched on its journey to the L2 point one million miles away to unlock the universe's deepest mysteries. This flagship observatory will revolutionize our understanding of dark matter, dark energy, and the cosmos."
+      "summary": "On September 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever deep space rocket maneuver to reach Venus, pioneering interplanetary travel. This historic milestone launched the era of successful planetary exploration."
+    },
+    {
+      "title": " 2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do ",
+      "description": "After an 8-year trek to Mercury, BepiColombo will finally split into two spacecraft ready to track down the secrets of the least-explored planet in the inner solar system.",
+      "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 03 Sep 2026 18:00:00 +0000",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "After 8 years in space, the BepiColombo spacecraft will finally reach Mercury and split into two orbiters to unlock the secrets of the solar system's innermost planet."
     },
     {
       "title": "Every galaxy in our neighborhood, including our own, is being pulled toward a single point in space hidden directly behind the crowded disk of the Milky Way, and when astronomers finally looked through the dust, they found a large, previously hidden cluster of thousands of galaxies sitting almost exactly where the pull was coming from",
@@ -61,7 +81,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way.png",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "After decades of investigation, astronomers discovered a massive hidden cluster of thousands of galaxies behind the Milky Way's disk that explains the mysterious gravitational pull on our galaxy. This landmark discovery reveals a previously unknown structure in our cosmic neighborhood."
+      "summary": "Astronomers have solved a decades-long mystery by discovering a massive hidden cluster of thousands of galaxies behind the Milky Way's dust, revealing the source of a gravitational pull on our galaxy."
     },
     {
       "title": "Astronomy Picture of the Day - Launch of the Roman Space Telescope",
@@ -72,7 +92,7 @@
       "image": null,
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope has been successfully launched into space to revolutionize our understanding of the universe. This landmark mission represents a major advancement in space-based astronomy and cosmological research."
+      "summary": "The Nancy Grace Roman Space Telescope has launched into space to advance humanity's understanding of the universe."
     },
     {
       "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
@@ -83,7 +103,7 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/RomanLaunch_NASA.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope has launched, opening new frontiers in space observation and scientific discovery. This iconic mission will enable unprecedented studies of the cosmos and our place within it."
+      "summary": "The Nancy Grace Roman Space Telescope has launched into space to advance humanity's understanding of the universe."
     },
     {
       "title": "NASA’s Hubble Spies Superbubble Scene",
@@ -93,7 +113,7 @@
       "date": "Thu, 03 Sep 2026 13:16:02 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Hubble Space Telescope captures a stunning image of the N44 superbubble, revealing cosmic structures shaped by stellar processes and radiation."
+      "summary": "The Hubble Space Telescope captures a stunning image of N44, a sprawling superbubble region showcasing the dynamic stellar physics within the Large Magellanic Cloud."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -103,7 +123,7 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Hubble captures the spectacular N44 superbubble in the Large Magellanic Cloud, showcasing stellar feedback and cosmic dynamics."
+      "summary": "Hubble Space Telescope captures a breathtaking cosmic vista of a sprawling superbubble in the Large Magellanic Cloud, featured as the ESA/Hubble Picture of the Month."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -113,7 +133,7 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Hubble Space Telescope reveals a remarkable 10-sided atmospheric wave structure encircling Saturn's south pole, advancing planetary science understanding."
+      "summary": "The NASA/ESA Hubble Space Telescope reveals a giant, evolving 10-sided atmospheric wave pattern encircling Saturn's south pole in remarkable detail."
     },
     {
       "title": "Media briefing: BepiColombo's next milestone towards Mercury",
@@ -123,17 +143,7 @@
       "date": "Mon, 31 Aug 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA and JAXA's BepiColombo mission reaches a significant milestone on its journey to explore Mercury's mysteries."
-    },
-    {
-      "title": "Roman in a nutshell",
-      "description": "Image:\n\t\t\t\nRoman will scan a large patch of the sky in visible to near-infrared light, with its wide field of view and advanced optical design. The mission will provide key insights that will help reveal the nature of dark energy and dark matter and find new exoplanets.\nTo achieve its science goals, Roman is equipped with a primary mirror of 2.4 m and two instruments: the Wide Field Instrument (WFI) and a Coronagraph Instrument technology demonstrator.\nRoman is a NASA-led mission to which ESA contributes as a Mission of Opportunity, providing scientific expertise and guidance to maximise the mission's scientific return. ESA also provides essential hardware and communications support through its deep-space ground station network.\nFind out more here.",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_in_a_nutshell",
-      "source": "ESA Space Science",
-      "date": "Tue, 25 Aug 2026 15:00:00 +0200",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Roman Space Telescope will survey large sky patches in visible and near-infrared light with an exceptionally wide field of view, enabling groundbreaking discoveries in cosmology and exoplanet science."
+      "summary": "The European Space Agency holds a media briefing discussing BepiColombo's latest developments and next milestones toward its Mercury arrival phase."
     },
     {
       "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate",
@@ -143,7 +153,7 @@
       "date": "Thu, 03 Sep 2026 20:30:16 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Cross-disciplinary research expands the search for dark photons as a leading dark matter candidate, potentially unlocking mysteries about the universe's invisible mass."
+      "summary": "Cross-disciplinary research reveals that dark photons could be a leading candidate for explaining dark matter. This breakthrough expands the search for one of the universe's greatest mysteries."
     },
     {
       "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
@@ -153,7 +163,7 @@
       "date": "Wed, 02 Sep 2026 20:55:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers determine that galactic mergers can launch supermassive black holes into intergalactic space, explaining the phenomenon of 'runaway' black holes."
+      "summary": "Researchers have determined that galactic mergers can eject supermassive black holes into intergalactic space, explaining the phenomenon of 'runaway' black holes. This finding deepens our understanding of black hole dynamics."
     },
     {
       "title": "SuperCDMS SNOLAB Starts Its Dark Matter Hunt",
@@ -163,7 +173,7 @@
       "date": "Wed, 02 Sep 2026 13:30:07 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "SuperCDMS SNOLAB begins its scientific operations as one of the world's most sensitive dark matter detection experiments reaches a major milestone."
+      "summary": "The SuperCDMS SNOLAB experiment has begun its hunt for dark matter particles, marking a major milestone in one of the world's most sensitive dark matter detection efforts. This represents a promising new chapter in solving the dark matter mystery."
     },
     {
       "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage",
@@ -173,7 +183,7 @@
       "date": "Thu, 03 Sep 2026 12:30:02 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "Two Mercury-bound spacecraft separate from their mothership and enter the final phase of a nearly decade-long voyage to explore the solar system's innermost planet."
+      "summary": "Two spacecraft on a nearly decade-long journey have separated from their mothership and begun their final approach to Mercury. This milestone represents an exciting advancement in our exploration of the innermost planet."
     },
     {
       "title": "The biggest black hole merger ever observed could be less massive than it appears",
@@ -183,7 +193,7 @@
       "date": "Thu, 03 Sep 2026 08:30:49 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Gravitational wave observations reveal that a record-breaking black hole merger may be less massive than initially measured, refining our understanding of cosmic collisions. This discovery advances our ability to measure extreme objects through ripples in spacetime."
+      "summary": "Gravitational wave observations of the largest black hole merger ever detected reveal surprising insights about the true masses of merging black holes. This discovery advances our understanding of black hole physics through spacetime ripple analysis."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn's south pole",
@@ -193,47 +203,47 @@
       "date": "Wed, 02 Sep 2026 16:40:07 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope has captured a remarkable 10-sided atmospheric wave encircling Saturn's south pole. This evolving geometric pattern offers new insights into the planet's complex atmospheric dynamics."
+      "summary": "NASA's Hubble Space Telescope has captured a remarkable 10-sided atmospheric wave pattern evolving around Saturn's south pole. This discovery reveals surprising atmospheric dynamics on the gas giant."
     },
     {
-      "title": " 2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do ",
-      "description": "After an 8-year trek to Mercury, BepiColombo will finally split into two spacecraft ready to track down the secrets of the least-explored planet in the inner solar system.",
-      "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 18:00:00 +0000",
-      "category": "Missions",
+      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+      "description": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely declined. Using China’s FAST radio telescope and data from roughly 2.5 million galaxies observed by DESI, researchers found that star formation was about 2.5 times higher 4.5 billion years ago, while neutral hydrogen levels were only about 1.4 times higher.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 03:48:14 EDT",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "After 8 years traversing the inner solar system, BepiColombo is set to arrive at Mercury and separate into two spacecraft for groundbreaking observations. This mission will reveal Mercury's geological secrets and advance planetary science."
+      "summary": "Astronomers have discovered why star formation has declined dramatically across the universe over the past 4.5 billion years despite abundant hydrogen availability. This finding reshapes our understanding of galactic evolution."
     },
     {
-      "title": " 'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival ",
-      "description": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
-      "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 16:25:20 +0000",
-      "category": "Missions",
+      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
+      "description": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges long-held ideas about how complex planetary crusts form.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 20:52:29 EDT",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The BepiColombo spacecraft reaches Mercury after nearly eight years in space, beginning its groundbreaking mission to study the solar system's innermost planet. This historic arrival marks a major milestone in planetary exploration."
+      "summary": "Scientists have discovered vast magmatic systems hidden beneath Mars' surface, revealing geological activity once thought to require Earth-like plate tectonics. This breakthrough expands our understanding of planetary evolution."
     },
     {
-      "title": " On this day in space! Sept. 3, 2006: Europe's SMART-1 spacecraft crashes into the moon in lunar death dive ",
-      "description": "On Sept. 3, 2006, a European satellite named SMART-1 crashed into the moon!  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-3-2026",
+      "title": " How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust ",
+      "description": "New research suggests that dust from meteorites contains a \"fossil record\" dating back 4.6 billion years to the formation of the sun, revealing the role magnetism played in the birth of the solar system.",
+      "url": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust",
       "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 14:00:00 +0000",
-      "category": "Missions",
+      "date": "Fri, 04 Sep 2026 13:00:00 +0000",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Europe's SMART-1 spacecraft completed its mission by impacting the Moon on September 3, 2006, marking a significant achievement in lunar exploration. The controlled crash provided valuable scientific data about the lunar surface."
+      "summary": "Analysis of 4.6-billion-year-old meteorite dust reveals a 'fossil record' of the infant Sun's formation, providing unprecedented insights into our solar system's origins. This discovery illuminates the earliest moments of stellar formation."
     },
     {
-      "title": " India sends Earth-imaging satellite toward geosynchronous orbit in milestone launch (video) ",
-      "description": "India launched an Earth-imaging satellite toward geosynchronous orbit today (Sept. 3) —something it had not previously done successfully.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+      "title": " Scientists watch a comet being born 3 billion miles away ",
+      "description": "A rare look at a centaur transforming into a comet with coma is providing a missing link in the evolution of small, icy solar system bodies.",
+      "url": "https://www.space.com/astronomy/comets/scientists-watch-a-comet-being-born-3-billion-miles-away",
       "source": " Latest from Space.com ",
-      "date": "Thu, 03 Sep 2026 12:00:00 +0000",
-      "category": "NASA",
+      "date": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "India successfully launched an Earth-imaging satellite toward geosynchronous orbit, achieving a historic milestone in the nation's space program. This accomplishment demonstrates India's growing capabilities in space technology and satellite deployment."
+      "summary": "Scientists have observed a rare transformation of a centaur object into a comet 3 billion miles away, providing crucial insights into small icy body evolution. This observation fills a missing link in understanding cometary origins."
     },
     {
       "title": "Astronomers Spot an Uncannily Geometric, 10-Sided Structure in Saturn's Atmosphere",
@@ -242,31 +252,9 @@
       "source": "ScienceAlert",
       "date": "2026-09-02T18:00:00Z",
       "image": "https://www.sciencealert.com/images/2026/09/saturn-decagon.jpg",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers have discovered a remarkable 10-sided geometric structure forming in Saturn's atmosphere, adding to the planet's fascinating atmospheric phenomena. This uncanny polygon formation showcases the mysterious and beautiful dynamics of gas giant atmospheres."
-    },
-    {
-      "title": "Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure fell 16% between mid-2021 and July 2023. With Pluto continuing away from the Sun until 2114, astronomers may be witnessing the beginning of its nitrogen sky slowly freezing onto the surface.",
-      "description": "Stellar occultations suggest Pluto’s long pressure plateau is ending as nitrogen gas begins condensing back onto its frozen surface.\nThe post Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure f…",
-      "url": "https://spacedaily.com/t-pluto-atmosphere-pressure-decline-nitrogen-freezeout/",
-      "source": "Space Daily",
-      "date": "2026-09-01T16:30:00Z",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-spacedaily-pluto-haze-layers-pia20536-1024x484.jpg",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Observations reveal that Pluto's atmospheric pressure has declined 16% between 2021 and 2023, suggesting its nitrogen atmosphere may be gradually freezing onto the surface as it continues its journey away from the Sun. This long-term transformation provides insights into the dynamic nature of distant planetary atmospheres."
-    },
-    {
-      "title": "For 21 years, millions of volunteers let UC Berkeley use their home computers to search the sky for alien signals, producing 12 billion detections — after a decade of filtering, scientists narrowed them to roughly 100 targets worth a second look.",
-      "description": "SETI@home’s 12 billion threshold events became roughly 100 FAST follow-up targets after interference filtering, blind synthetic-signal tests and manual review.\nThe post For 21 years, millions of volunteers let UC Berkeley use their home computers to search th…",
-      "url": "https://spacedaily.com/t-seti-at-home-12-billion-detections-100-targets/",
-      "source": "Space Daily",
-      "date": "2026-08-30T16:30:00Z",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/03/seti-at-home-2026-hg.jpg",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "After 21 years, millions of volunteers contributing their home computers to SETI@home generated 12 billion detections in the search for alien signals, with roughly 100 promising targets identified for further study. This collaborative scientific achievement demonstrates the power of distributed computing in advancing the search for extraterrestrial intelligence."
+      "summary": "Astronomers have discovered a remarkable 10-sided geometric structure forming in Saturn's atmosphere, continuing the planet's fascinating pattern of polygon formation."
     },
     {
       "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
@@ -276,7 +264,7 @@
       "date": "Thu, 03 Sep 2026 17:06:00 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA will provide live coverage of the Roscosmos Progress 96 cargo spacecraft launch and docking, delivering essential supplies to orbit."
+      "summary": "NASA provides live coverage of the Roscosmos Progress 96 cargo spacecraft launch and docking to the International Space Station, delivering three tons of supplies and equipment."
     },
     {
       "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
@@ -286,7 +274,7 @@
       "date": "Thu, 03 Sep 2026 15:59:48 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA's Curiosity rover continues to demonstrate new capabilities and scientific discoveries on Mars after nearly a decade of exploration."
+      "summary": "NASA's Curiosity rover continues its groundbreaking exploration of Mars, demonstrating new capabilities and scientific discoveries during sols 4988-4994."
     },
     {
       "title": "Astronomers See How a Centaur Can Become a Comet",
@@ -296,7 +284,7 @@
       "date": "Thu, 03 Sep 2026 16:01:47 +0000",
       "category": "Solar System",
       "quality": 3,
-      "summary": "Astronomers reveal how Saturn's gravitational influence transformed Centaur 450P/LONEOS into a comet-like object by shifting its orbit closer to the Sun in 1992."
+      "summary": "Astronomers have observed how Centaur 450P/LONEOS transformed into a comet after a close encounter with Saturn in 1992. This discovery reveals the dynamic processes shaping objects in our outer solar system."
     },
     {
       "title": "New Research Shows How Mercury's Crust Formed by Extreme Volcanism",
@@ -306,7 +294,17 @@
       "date": "Wed, 02 Sep 2026 18:28:09 +0000",
       "category": "Solar System",
       "quality": 3,
-      "summary": "New research reveals how Mercury's crust formed through extreme volcanism by utilizing lunar samples as analogs for understanding ancient planetary geology."
+      "summary": "New research uses lunar samples to unlock the secrets of extreme volcanism that shaped Mercury's ancient crust. This study reveals how planetary surfaces are sculpted by dramatic geological processes."
+    },
+    {
+      "title": "Simulations Show That Dark Matter Isn't What Gives Stellar Streams Their Kinks",
+      "description": "Astronomers study dark matter through simulations of stellar streams around the Milky Way. They found that kinks and clumps within these streams aren't caused by dark matter clusters within the galactic halo.",
+      "url": "https://www.universetoday.com/articles/simulations-show-that-dark-matter-isnt-what-gives-stellar-streams-their-kinks",
+      "source": "Universe Today",
+      "date": "Wed, 02 Sep 2026 15:07:42 +0000",
+      "category": "Dark Matter",
+      "quality": 3,
+      "summary": "Advanced simulations show that dark matter is not responsible for the kinks in stellar streams around the Milky Way. This discovery refines our models of galactic structure and dark matter distribution."
     }
   ]
 }
