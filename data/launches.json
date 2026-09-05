@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-05T06:56:11.979Z",
+  "generated": "2026-09-05T16:47:13.570Z",
   "launches": [
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "net": "2026-09-05T20:00:00Z",
-      "status": "TBC",
+      "status": "Go",
       "provider": "Isar Aerospace",
       "rocket": "Spectrum",
       "pad": "Orbital Launch Pad",
