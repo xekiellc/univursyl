@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-05T20:17:00.697Z",
+  "generated": "2026-09-05T23:48:59.699Z",
   "launches": [
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "net": "2026-09-05T20:12:00Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "Isar Aerospace",
       "rocket": "Spectrum",
       "pad": "Orbital Launch Pad",
@@ -17,7 +17,7 @@
     {
       "id": "153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
       "name": "Falcon 9 Block 5 | Starlink Group 15-24",
-      "net": "2026-09-06T10:59:00Z",
+      "net": "2026-09-06T14:26:28Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T20:13:19.079Z",
+  "generated": "2026-09-05T23:43:51.240Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "ESA/JAXA's BepiColombo spacecraft successfully arrives at Mercury after an eight-year journey, marking a major milestone in planetary exploration. This international mission will provide unprecedented insights into the innermost planet."
+      "summary": "ESA/JAXA's BepiColombo spacecraft reaches Mercury after an eight-year journey, marking a major milestone in planetary science. This mission will unlock secrets about the solar system's innermost planet."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -20,7 +20,7 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope launches on a SpaceX Falcon Heavy rocket to survey the infrared sky. This transformative mission will unlock revolutionary discoveries about dark energy, exoplanets, and the universe's structure."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket to survey the infrared sky. This powerful observatory will revolutionize our understanding of the Universe."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +30,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "BepiColombo begins its historic arrival at Mercury after eight years of travel, entering a critical phase of its ESA/JAXA mission. This moment marks a triumphant achievement in humanity's quest to understand the solar system's innermost planet."
+      "summary": "BepiColombo begins its arrival phase at Mercury after an eight-year journey through the solar system. This ESA/JAXA mission marks a major achievement in scientific exploration of our nearest planetary neighbor."
     },
     {
       "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -40,7 +40,7 @@
       "date": "Tue, 25 Aug 2026 15:00:00 +0200",
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope, a cutting-edge infrared observatory led by NASA, is scheduled to launch on August 30, 2026, marking a major milestone for space science. This flagship mission will revolutionize our understanding of the cosmos through advanced infrared observations."
+      "summary": "The Nancy Grace Roman Space Telescope, a cutting-edge infrared observatory, is set to launch on August 30, 2026, promising groundbreaking observations of the universe. This NASA-led mission represents a major advancement in space-based astronomy."
     },
     {
       "title": "The DESI Legacy Imaging Survey Releases the Largest 2-D Map of the Universe",
@@ -50,7 +50,17 @@
       "date": "Fri, 04 Sep 2026 21:30:12 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The DESI Legacy Imaging Survey has released the largest 2-D map of the universe, cataloging nearly four billion objects across three-quarters of the sky. This unprecedented dataset will enable groundbreaking discoveries about cosmic structure and evolution."
+      "summary": "The DESI Legacy Imaging Survey has released the largest two-dimensional map of the universe, cataloging nearly four billion objects across three-quarters of the sky. This monumental dataset provides unprecedented insights into the structure of the cosmos."
+    },
+    {
+      "title": " Private German rocket makes history, reaches orbit from European soil ",
+      "description": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 05 Sep 2026 14:00:00 +0000",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "Isar Aerospace's Spectrum rocket makes historic achievement as the first vehicle to reach orbit from European soil."
     },
     {
       "title": " On this day in space! Sept. 5, 1977: NASA launches Voyager 1 on epic journey across the solar system ",
@@ -60,7 +70,18 @@
       "date": "Sat, 05 Sep 2026 13:00:00 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "Voyager 1 launched on September 5, 1977, beginning its legendary journey through the solar system and beyond, becoming humanity's most distant messenger."
+      "summary": "On September 5, 1977, NASA launched Voyager 1 on its epic journey through the solar system and beyond, beginning decades of groundbreaking interplanetary exploration."
+    },
+    {
+      "title": "On 18 August 1868, French astronomer Pierre Janssen pointed a spectroscope at a total solar eclipse over Guntur, India, and saw a bright yellow line that matched no element known on Earth — helium would not be found in a laboratory here for another 27 years.",
+      "description": "During a total solar eclipse over Guntur, India on 18 August 1868, French astronomer Pierre Janssen spotted an unfamiliar yellow line in the Sun's chromosphere — the fingerprint of an element that would not be isolated on Earth until 1895. Helium remains the …",
+      "url": "https://theartfulage.com/ap-on-18-august-1868-french-astronomer-pierre-janssen-pointed-a-spectroscope-at-a-total-solar-eclipse-over-guntur-india-and-saw-a-bright-yellow-line-that-matched-no-element-known-on-earth-helium-would/",
+      "source": "Theartfulage.com",
+      "date": "2026-09-04T10:38:30Z",
+      "image": "https://theartfulage.com/wp-content/uploads/2026/09/on-18-august-1868-french-astronomer-pier.jpg",
+      "category": "Astronomy",
+      "quality": 5,
+      "summary": "In 1868, French astronomer Pierre Janssen made the historic discovery of helium by observing a bright yellow spectral line during a total solar eclipse over India. This landmark moment revealed an entirely new element and demonstrated the power of eclipse observations in astronomical science."
     },
     {
       "title": "Rocky planets were expected to become common only after generations of stars enriched the universe over billions of years. But simulations show that a powerful early supernova could seed a disk with several Earth masses of planetesimals just 100 million years after the Big Bang—less than one percent of the universe’s current age.",
@@ -71,207 +92,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-dawn-planetesimals-pexels-19108651-1024x683.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "New simulations reveal that a powerful early supernova could have seeded rocky planetesimals just 100 million years after the Big Bang, challenging our understanding of rocky planet formation timelines."
-    },
-    {
-      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-      "description": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-      "source": "NASA",
-      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Astronomy Picture of the Day features a celestial event capturing the Moon's shadow during a solar eclipse or lunar occultation. This offers a stunning visual of one of nature's most inspiring astronomical phenomena."
-    },
-    {
-      "title": "Lunar Occultation of Venus",
-      "description": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 14:14:57 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "A rare daytime lunar occultation of Venus delighted skywatchers across North America on June 17. This celestial alignment offered an inspiring opportunity for amateur astronomers to witness an uncommon astronomical event."
-    },
-    {
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "description": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-      "source": "NASA",
-      "date": "Thu, 03 Sep 2026 15:59:48 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's Curiosity rover continues to make groundbreaking discoveries on Mars after nearly 14 years, demonstrating the rover's enduring capability and scientific value. This highlights human ingenuity and the longevity of robotic exploration."
-    },
-    {
-      "title": "Hubble's superbubble scene",
-      "description": "Image:\n\t\t\t\nThis sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.\nThe appearance of this photogenic nebula is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years. The glittering stars at the centre of the void are responsible for its creation; through their powerful stellar winds and explosive supernovae, these stars have expelled much of the gas from which they were born.\nWhen the stars of N44’s central star cluster swept away this gas, the expelled gas formed a shell around the superbubble. New stars are forming in this compressed gas shell, making N44 an interesting target for researchers studying the process of star formation. In particular, astronomers have turned to this nebula as an ideal place to time this process from start to finish. Their goal is to understand how long it takes from the collapse of cold gas clouds into dense knots to the moment nuclear fusion ignites in the heart of a newborn star.\nResearchers used Hubble to survey N44 and take a census of its stars, cataloguing nearly half a million stars within the cluster as well as interlopers drifting in front of it. Of the stars surveyed, nearly 30 000 are what astronomers call pre-main-sequence stars, which have yet to begin fusing hydrogen into helium in their cores. This treasure trove of baby stars was discoverable thanks to the high sensitivity and fine spatial resolution of Hubble’s instruments that can pick out faint objects in crowded clusters.\nThe gas shell surrounding the superbubble is energised by ultraviolet radiation from massive stars, causing it to glow and highlighting several distinct features. Each feature within the broader N44 star-forming complex was catalogued by astronomer Karl Henize in the 1950s. One feature is a smaller bubble, catalogued as N44F, that is located near the upper-right corner of this image. N44F is an interstellar bubble blown by the intense stellar winds of a single hot and massive star. As this previously released Hubble closeup shows, the star’s furious winds and radiation have sculpted the surrounding bubble and created pillars of dusty gas.\nThe data used to create this image come from an observing programme (#14689; PI: Gouliermis) that aimed to probe stars in the N44 complex that have not yet begun fusing hydrogen into heavier elements in their cores. These data help to determine how long the process of star formation takes, as well as what masses newborn stars typically have. Hubble's sensitive observations of the lowest-mass stars in this region open a new window onto star formation in regions that, like the LMC or the galaxies of the early Universe, are poor in elements heavier than helium.\n[Image Description: A dense field of stars fills the image, surrounded by wispy clouds of gas and dust. Pale blue and grey nebulosity forms an intricate web across the scene, with darker clouds of dust concentrated towards the lower right. Numerous bright stars appear in shades of blue, white and orange.]",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The Hubble Space Telescope captures a stunning image of a cosmic superbubble in the Large Magellanic Cloud. This spectacular vista reveals the dynamic processes of star formation and stellar feedback across the galaxy."
-    },
-    {
-      "title": "Hubble tracks new decagon encircling Saturn’s south pole",
-      "description": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole",
-      "source": "ESA Space Science",
-      "date": "Wed, 02 Sep 2026 20:00:00 +0200",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Hubble Space Telescope observations reveal a giant decagonal atmospheric wave encircling Saturn's south pole. This discovery enhances our understanding of the complex atmospheric dynamics of the gas giant."
-    },
-    {
-      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-      "description": "Video: \n\t\t\t01:09:40\n\t\t\t\t\nRewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.\nThis briefing focused on the complexities of the separation of the Mercury Transfer Module (MTM), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio) in December 2026.\nThe briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three speakers:\nProf. Geraint Jones, Lead Project Scientist, ESA\nSanta Martinez, Mission Manager, ESA\nIgnacio Tanco, Head of Inner Solar System Mission Operations, ESA\nBepiColombo will be the most complex mission ever sent to Mercury. Its orbiters will be only the second and third to orbit the planet. Close to the Sun and more difficult for an orbiter to reach than Pluto, this small desert world is the least explored planet of the inner Solar System. Learning more about Mercury will shed light on the history of the entire Solar System.\nThe mission is a collaboration between ESA and JAXA, the latter providing the Mercury Magnetospheric Orbiter (Mio).\nClick here for a set of explanatory infographics",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
-      "source": "ESA Space Science",
-      "date": "Mon, 31 Aug 2026 16:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "ESA hosts a media briefing on BepiColombo's latest developments as the spacecraft approaches its historic Mercury arrival. This milestone represents a major achievement in international space exploration cooperation."
-    },
-    {
-      "title": "The 20th Data Release (DR 20) of the Sloan Digital Sky Survey (SDSS) is Here!",
-      "description": "The Sloan Digital Sky Survey (SDSS) has officially launched its twentieth data release (DR20), featuring updated data from multiple observations projects.",
-      "url": "https://www.universetoday.com/articles/the-20th-data-release-dr-20-of-the-sloan-digital-sky-survey-sdss-is-here",
-      "source": "Universe Today",
-      "date": "Fri, 04 Sep 2026 18:40:15 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Sloan Digital Sky Survey has released its twentieth data archive (DR20), providing the astronomical community with updated and expanded observational data. This landmark release continues to be a treasure trove for cosmic discovery and research."
-    },
-    {
-      "title": "Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars",
-      "description": "Pulsar Timing Arrays have been used to observe the background of gravitational waves in our galaxy. We aren't certain of their origin, but a new study shows a strong source could be early supermassive giants known as dark stars.",
-      "url": "https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
-      "source": "Universe Today",
-      "date": "Fri, 04 Sep 2026 15:14:21 +0000",
-      "category": "Dark Matter",
-      "quality": 4,
-      "summary": "Pulsar Timing Arrays offer a promising new method for detecting dark matter stars by observing gravitational wave backgrounds in our galaxy. This innovative approach expands the toolkit for understanding dark matter's mysterious nature."
-    },
-    {
-      "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate",
-      "description": "Cross-disciplinary research at Perimeter Institute and University of Maryland shows that dark photons could be lurking in more places than previously thought.",
-      "url": "https://www.universetoday.com/articles/new-study-expands-search-for-dark-photons-a-leading-dark-matter-candidate",
-      "source": "Universe Today",
-      "date": "Thu, 03 Sep 2026 20:30:16 +0000",
-      "category": "Dark Matter",
-      "quality": 4,
-      "summary": "Cross-disciplinary research reveals that dark photons, a leading dark matter candidate, could be detected through new experimental approaches. This study opens exciting avenues for solving one of physics' greatest mysteries."
-    },
-    {
-      "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
-      "description": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
-      "url": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
-      "source": "Universe Today",
-      "date": "Wed, 02 Sep 2026 20:55:00 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Researchers have determined that a galactic merger propelled a supermassive black hole into an intergalactic journey, solving the mystery of 'runaway' black holes. This finding reveals the dramatic dynamics occurring during galaxy collisions."
-    },
-    {
-      "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
-      "description": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
-      "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 05 Sep 2026 13:00:01 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Theoretical research reveals that dark matter could enable the existence of ultra-lightweight black holes as small as 40 tons within stars, expanding Hawking's revolutionary predictions. This discovery opens new frontiers in understanding black hole physics and dark matter interactions."
-    },
-    {
-      "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
-      "description": "After an eight-year journey, a spacecraft carrying European and Japanese probes began the monthslong, high-risk approach to Mercury on Thursday to study the sun-scorched planet.",
-      "url": "https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 05 Sep 2026 06:20:01 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "After an eight-year journey, the BepiColombo spacecraft carrying European and Japanese probes has begun its complex final approach to Mercury. This landmark international mission promises unprecedented insights into the solar system's innermost planet."
-    },
-    {
-      "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
-      "description": "For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.",
-      "url": "https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 04 Sep 2026 12:20:03 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers observe Betelgeuse's inner atmosphere for the first time since its 2020 dimming, discovering a spotty and asymmetric pattern possibly shaped by a nearby companion star."
-    },
-    {
-      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-      "description": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "NASA scientists discover a remarkable 10-sided atmospheric pattern around Saturn's south pole, providing new insights into the giant planet's dynamic weather systems."
-    },
-    {
-      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-      "description": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely declined. Using China’s FAST radio telescope and data from roughly 2.5 million galaxies observed by DESI, researchers found that star formation was about 2.5 times higher 4.5 billion years ago, while neutral hydrogen levels were only about 1.4 times higher.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 03 Sep 2026 03:48:14 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Astronomers uncover the reasons behind a dramatic cosmic decline in star formation over the past 4.5 billion years, revealing fundamental truths about galaxy evolution."
-    },
-    {
-      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
-      "description": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges long-held ideas about how complex planetary crusts form.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 03 Sep 2026 20:52:29 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists discover vast hidden magma systems beneath Mars' surface, revealing that the Red Planet once possessed geological activity previously thought impossible without plate tectonics."
-    },
-    {
-      "title": "Dying radio galaxies fade faster than scientists expected",
-      "description": "Astronomers have identified a surprisingly young population of fading radio galaxies whose supermassive black holes have already switched off their powerful jets. The confirmed remnants range from about 8 to 42 million years old, suggesting many may disappear from view much faster than previously recognized. More distant remnants also seem to fade especially quickly, helping explain why they have been so difficult to detect.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 04 Sep 2026 06:07:20 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Astronomers discover a surprisingly young population of fading radio galaxies, revealing that supermassive black holes cease activity faster than previously expected."
-    },
-    {
-      "title": " Watch Isar Aerospace try to make history today with launch from Norway ",
-      "description": "Isar Aerospace's Spectrum rocket will attempt to become the first vehicle to reach orbit from European soil today (Sept. 5), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 05 Sep 2026 14:00:00 +0000",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "Isar Aerospace's Spectrum rocket attempts to make history by becoming the first vehicle to reach orbit from European soil in a landmark launch from Norway."
-    },
-    {
-      "title": " This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system ",
-      "description": "NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.",
-      "url": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 05 Sep 2026 10:00:00 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is funding an innovative 'Slingshot' spacecraft concept designed to map minerals across the Moon, asteroids, and Mars using new remote sensing techniques."
-    },
-    {
-      "title": " Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? ",
-      "description": "Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger.",
-      "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 21:00:00 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Astronomers using the MeerKAT radio telescope have detected hydrogen gas signals from billions of light-years away, opening new possibilities for mapping the universe's large-scale structure."
+      "summary": "Simulations reveal that powerful early supernovae could have seeded the universe with enough material to form rocky planets just 100 million years after the Big Bang, far earlier than previously believed. This groundbreaking finding challenges our understanding of planetary formation in the early universe."
     },
     {
       "title": "Every galaxy in our neighborhood, including our own, is being pulled toward a single point in space hidden directly behind the crowded disk of the Milky Way, and when astronomers finally looked through the dust, they found a large, previously hidden cluster of thousands of galaxies sitting almost exactly where the pull was coming from",
@@ -281,28 +102,208 @@
       "date": "2026-09-02T03:30:29Z",
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way.png",
       "category": "Cosmology",
-      "quality": 4,
-      "summary": "After decades of investigation, astronomers have revealed a massive hidden cluster of thousands of galaxies behind the Milky Way that explains the gravitational pull on our galactic neighborhood."
+      "quality": 5,
+      "summary": "After decades of investigation, astronomers discovered that the mysterious gravitational force pulling our galaxy through space originates from a massive hidden cluster of thousands of galaxies concealed behind the Milky Way's disk. This remarkable finding reveals a previously unknown cosmic structure influencing our galactic motion."
     },
     {
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "description": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+      "description": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
       "source": "NASA",
-      "date": "Fri, 04 Sep 2026 16:48:59 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA hosts an educational webinar for the blind and low-vision community about the RS-25 Engine and the future Artemis missions. This demonstrates NASA's commitment to making space exploration accessible to all."
-    },
-    {
-      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-      "description": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 04:05:00 +0000",
+      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
       "category": "Astronomy",
-      "quality": 3,
-      "summary": "Astronomy Picture of the Day features a celestial image with cultural significance. This showcases the universal human appreciation for the cosmos across different cultures and traditions."
+      "quality": 4,
+      "summary": "Astronomy Picture of the Day features a celestial observation of the Moon's shadow during a solar eclipse event. This captures a spectacular astronomical phenomenon visible from Earth."
+    },
+    {
+      "title": "Lunar Occultation of Venus",
+      "description": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
+      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
+      "source": "NASA",
+      "date": "Fri, 04 Sep 2026 14:14:57 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "A rare daytime lunar occultation of Venus was visible to skywatchers across North America on June 17. This celestial alignment offered observers an extraordinary viewing opportunity."
+    },
+    {
+      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
+      "description": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
+      "source": "NASA",
+      "date": "Thu, 03 Sep 2026 15:59:48 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "The Curiosity rover continues its groundbreaking exploration of Mars with new scientific discoveries and capabilities. This long-lived mission demonstrates the enduring success of planetary exploration."
+    },
+    {
+      "title": "Hubble's superbubble scene",
+      "description": "Image:\n\t\t\t\nThis sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.\nThe appearance of this photogenic nebula is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years. The glittering stars at the centre of the void are responsible for its creation; through their powerful stellar winds and explosive supernovae, these stars have expelled much of the gas from which they were born.\nWhen the stars of N44’s central star cluster swept away this gas, the expelled gas formed a shell around the superbubble. New stars are forming in this compressed gas shell, making N44 an interesting target for researchers studying the process of star formation. In particular, astronomers have turned to this nebula as an ideal place to time this process from start to finish. Their goal is to understand how long it takes from the collapse of cold gas clouds into dense knots to the moment nuclear fusion ignites in the heart of a newborn star.\nResearchers used Hubble to survey N44 and take a census of its stars, cataloguing nearly half a million stars within the cluster as well as interlopers drifting in front of it. Of the stars surveyed, nearly 30 000 are what astronomers call pre-main-sequence stars, which have yet to begin fusing hydrogen into helium in their cores. This treasure trove of baby stars was discoverable thanks to the high sensitivity and fine spatial resolution of Hubble’s instruments that can pick out faint objects in crowded clusters.\nThe gas shell surrounding the superbubble is energised by ultraviolet radiation from massive stars, causing it to glow and highlighting several distinct features. Each feature within the broader N44 star-forming complex was catalogued by astronomer Karl Henize in the 1950s. One feature is a smaller bubble, catalogued as N44F, that is located near the upper-right corner of this image. N44F is an interstellar bubble blown by the intense stellar winds of a single hot and massive star. As this previously released Hubble closeup shows, the star’s furious winds and radiation have sculpted the surrounding bubble and created pillars of dusty gas.\nThe data used to create this image come from an observing programme (#14689; PI: Gouliermis) that aimed to probe stars in the N44 complex that have not yet begun fusing hydrogen into heavier elements in their cores. These data help to determine how long the process of star formation takes, as well as what masses newborn stars typically have. Hubble's sensitive observations of the lowest-mass stars in this region open a new window onto star formation in regions that, like the LMC or the galaxies of the early Universe, are poor in elements heavier than helium.\n[Image Description: A dense field of stars fills the image, surrounded by wispy clouds of gas and dust. Pale blue and grey nebulosity forms an intricate web across the scene, with darker clouds of dust concentrated towards the lower right. Numerous bright stars appear in shades of blue, white and orange.]",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 10:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope reveals a spectacular cosmic superbubble in the Large Magellanic Cloud. This image showcases the Universe's magnificent stellar structures."
+    },
+    {
+      "title": "Hubble tracks new decagon encircling Saturn’s south pole",
+      "description": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole",
+      "source": "ESA Space Science",
+      "date": "Wed, 02 Sep 2026 20:00:00 +0200",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Hubble observations discover a giant 10-sided atmospheric wave pattern encircling Saturn's south pole. This finding reveals new atmospheric dynamics in our solar system."
+    },
+    {
+      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
+      "description": "Video: \n\t\t\t01:09:40\n\t\t\t\t\nRewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.\nThis briefing focused on the complexities of the separation of the Mercury Transfer Module (MTM), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio) in December 2026.\nThe briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three speakers:\nProf. Geraint Jones, Lead Project Scientist, ESA\nSanta Martinez, Mission Manager, ESA\nIgnacio Tanco, Head of Inner Solar System Mission Operations, ESA\nBepiColombo will be the most complex mission ever sent to Mercury. Its orbiters will be only the second and third to orbit the planet. Close to the Sun and more difficult for an orbiter to reach than Pluto, this small desert world is the least explored planet of the inner Solar System. Learning more about Mercury will shed light on the history of the entire Solar System.\nThe mission is a collaboration between ESA and JAXA, the latter providing the Mercury Magnetospheric Orbiter (Mio).\nClick here for a set of explanatory infographics",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
+      "source": "ESA Space Science",
+      "date": "Mon, 31 Aug 2026 16:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The European Space Agency holds a press briefing on BepiColombo's latest developments as it approaches Mercury. This mission represents international collaboration in planetary exploration."
+    },
+    {
+      "title": "The 20th Data Release (DR 20) of the Sloan Digital Sky Survey (SDSS) is Here!",
+      "description": "The Sloan Digital Sky Survey (SDSS) has officially launched its twentieth data release (DR20), featuring updated data from multiple observations projects.",
+      "url": "https://www.universetoday.com/articles/the-20th-data-release-dr-20-of-the-sloan-digital-sky-survey-sdss-is-here",
+      "source": "Universe Today",
+      "date": "Fri, 04 Sep 2026 18:40:15 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Sloan Digital Sky Survey has released its 20th Data Release featuring updated astronomical data from extensive sky observations. This milestone release continues to provide invaluable resources for astronomers worldwide."
+    },
+    {
+      "title": "Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars",
+      "description": "Pulsar Timing Arrays have been used to observe the background of gravitational waves in our galaxy. We aren't certain of their origin, but a new study shows a strong source could be early supermassive giants known as dark stars.",
+      "url": "https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
+      "source": "Universe Today",
+      "date": "Fri, 04 Sep 2026 15:14:21 +0000",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "Researchers propose that Pulsar Timing Arrays could be used to search for evidence of dark matter stars through gravitational wave observations. This novel approach opens new experimental pathways in dark matter detection."
+    },
+    {
+      "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate",
+      "description": "Cross-disciplinary research at Perimeter Institute and University of Maryland shows that dark photons could be lurking in more places than previously thought.",
+      "url": "https://www.universetoday.com/articles/new-study-expands-search-for-dark-photons-a-leading-dark-matter-candidate",
+      "source": "Universe Today",
+      "date": "Thu, 03 Sep 2026 20:30:16 +0000",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "Cross-disciplinary research identifies dark photons as a promising candidate for dark matter and expands experimental search methods. This study advances the quest to understand one of the universe's greatest mysteries."
+    },
+    {
+      "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
+      "description": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
+      "url": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
+      "source": "Universe Today",
+      "date": "Wed, 02 Sep 2026 20:55:00 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Physicists have determined that a galactic merger can eject a supermassive black hole into interstellar space, explaining the phenomenon of 'runaway' black holes. This research deepens our understanding of black hole dynamics in the universe."
+    },
+    {
+      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+      "description": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics  journal on Aug. 4.",
+      "url": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 05 Sep 2026 14:40:02 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The FAST telescope has discovered two mysterious hydrogen clouds near the Whirlpool galaxy that contain almost no visible stars. This enigmatic finding raises intriguing questions about star formation and galactic evolution."
+    },
+    {
+      "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
+      "description": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
+      "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 05 Sep 2026 13:00:01 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "New research suggests that dark matter could enable primordial black holes as light as 40 tons to exist within stars, building on Hawking's groundbreaking 1974 predictions. This work bridges black hole physics with dark matter research in innovative ways."
+    },
+    {
+      "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
+      "description": "After an eight-year journey, a spacecraft carrying European and Japanese probes began the monthslong, high-risk approach to Mercury on Thursday to study the sun-scorched planet.",
+      "url": "https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 05 Sep 2026 06:20:01 EDT",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "After an eight-year journey, the BepiColombo spacecraft carrying European and Japanese probes has begun its delicate and critical approach to Mercury. This ambitious mission represents international collaboration in planetary exploration."
+    },
+    {
+      "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
+      "description": "For the first time since its dramatic dimming in 2020, a team of astronomers has observed the inner atmosphere of Betelgeuse using the Atacama Large Millimeter Array (ALMA). Led by Bill Dent at the University of Manchester, the team found that the giant star's inner atmosphere has become increasingly uneven and asymmetric, in a way that could be connected to a far smaller companion star.",
+      "url": "https://phys.org/news/2026-09-betelgeuse-atmosphere-spotty-asymmetric-nearby.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 04 Sep 2026 12:20:03 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers observe Betelgeuse's inner atmosphere for the first time since its 2020 dimming, revealing spotty and asymmetric patterns potentially shaped by a nearby companion star."
+    },
+    {
+      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+      "description": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 08:41:39 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "NASA scientists discover a giant 10-sided atmospheric pattern around Saturn's south pole, offering a remarkable counterpart to the planet's known hexagonal north pole feature."
+    },
+    {
+      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+      "description": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely declined. Using China’s FAST radio telescope and data from roughly 2.5 million galaxies observed by DESI, researchers found that star formation was about 2.5 times higher 4.5 billion years ago, while neutral hydrogen levels were only about 1.4 times higher.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 03:48:14 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Astronomers investigate why star formation has dramatically declined over the past 4.5 billion years despite the universe's abundant hydrogen supply."
+    },
+    {
+      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
+      "description": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges long-held ideas about how complex planetary crusts form.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 20:52:29 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists discover evidence of vast hidden magma systems beneath Mars, revealing planetary processes previously thought to require Earth-like plate tectonics."
+    },
+    {
+      "title": "Dying radio galaxies fade faster than scientists expected",
+      "description": "Astronomers have identified a surprisingly young population of fading radio galaxies whose supermassive black holes have already switched off their powerful jets. The confirmed remnants range from about 8 to 42 million years old, suggesting many may disappear from view much faster than previously recognized. More distant remnants also seem to fade especially quickly, helping explain why they have been so difficult to detect.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010656.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Fri, 04 Sep 2026 06:07:20 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Astronomers discover a surprisingly young population of fading radio galaxies whose supermassive black holes are shutting down faster than previously expected."
+    },
+    {
+      "title": " This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system ",
+      "description": "NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.",
+      "url": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 05 Sep 2026 10:00:00 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA is funding an innovative 'Slingshot' spacecraft concept designed to map minerals across planets and moons throughout our solar system. This early-stage technology could revolutionize our understanding of lunar, asteroid, and Martian geology."
+    },
+    {
+      "title": " Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? ",
+      "description": "Astronomers have used the MeerKAT radio telescope to detect hydrogen gas located billions of light-years away, from a period when the cosmos was billions of years younger.",
+      "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 04 Sep 2026 21:00:00 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Astronomers using the MeerKAT radio telescope have detected hydrogen signals from billions of light-years away, opening new possibilities for mapping the universe's structure and composition. This discovery demonstrates the power of advanced radio astronomy in understanding cosmic history."
     }
   ]
 }
