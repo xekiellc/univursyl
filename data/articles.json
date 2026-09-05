@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T23:53:28.491Z",
+  "generated": "2026-09-05T06:52:30.970Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "ESA/JAXA's BepiColombo spacecraft arrives at Mercury after an eight-year journey, marking a major milestone in planetary exploration. The livestream replay captures this historic arrival moment."
+      "summary": "ESA/JAXA's BepiColombo spacecraft arrives at Mercury after an eight-year journey, marking a landmark milestone in planetary exploration. Watch the full replay of this historic arrival event."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -18,9 +18,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
       "source": "ESA Space Science",
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
-      "category": "NASA",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches on a SpaceX Falcon Heavy rocket, beginning its mission to survey the infrared sky and unlock cosmic mysteries."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket from Kennedy Space Center, beginning its mission to survey the infrared sky. This landmark deployment opens new windows for infrared astronomy and cosmology."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +30,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission enters its Mercury Arrival Phase on September 3, 2026, representing a landmark achievement in planetary science."
+      "summary": "After eight years of travel, ESA/JAXA's BepiColombo enters its Mercury Arrival Phase on September 3, 2026, marking a major milestone in planetary science exploration. This multi-year mission promises groundbreaking data about the solar system's innermost planet."
     },
     {
       "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -40,7 +40,7 @@
       "date": "Tue, 25 Aug 2026 15:00:00 +0200",
       "category": "NASA",
       "quality": 5,
-      "summary": "The cutting-edge Nancy Grace Roman Space Telescope is set to launch on August 30, 2026, promising groundbreaking infrared observations of the Universe."
+      "summary": "The Nancy Grace Roman Space Telescope is set to launch on August 30, 2026, beginning its mission as a cutting-edge infrared observatory. This flagship NASA mission will revolutionize our understanding of dark energy, exoplanets, and the universe's structure."
     },
     {
       "title": "The DESI Legacy Imaging Survey Releases the Largest 2-D Map of the Universe",
@@ -50,27 +50,7 @@
       "date": "Fri, 04 Sep 2026 21:30:12 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The DESI Legacy Imaging Survey releases the largest 2-D map of the Universe, cataloging nearly four billion objects across three-quarters of the sky and advancing our understanding of cosmic structure."
-    },
-    {
-      "title": " Stars forge and deliver the elements that make up your body — and scientists may finally know how ",
-      "description": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.",
-      "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 16:00:00 +0000",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Scientists are on the verge of fully understanding stellar nucleosynthesis—how stars create the chemical elements that comprise planets and life itself. This breakthrough represents a major milestone in explaining the cosmic origins of matter."
-    },
-    {
-      "title": " On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus ",
-      "description": "On Sept. 4, 1962, NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space as it did a quick mid-course correction on its way to Venus.  Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA's Mariner 2 spacecraft performed the first-ever rocket maneuver in deep space on September 4, 1962, paving the way for all subsequent interplanetary missions. This historic achievement revolutionized space exploration capabilities."
+      "summary": "The DESI Legacy Imaging Survey releases the largest 2-D map of the Universe, cataloging nearly four billion objects across three-quarters of the sky. This unprecedented dataset provides essential resources for cosmological research and discovery."
     },
     {
       "title": "Rocky planets were expected to become common only after generations of stars enriched the universe over billions of years. But simulations show that a powerful early supernova could seed a disk with several Earth masses of planetesimals just 100 million years after the Big Bang—less than one percent of the universe’s current age.",
@@ -81,7 +61,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-dawn-planetesimals-pexels-19108651-1024x683.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Simulations reveal that a Population III supernova could have seeded rocky planet precursors just 100 million years after the Big Bang, far earlier than previously believed. This finding dramatically transforms understanding of when the universe became capable of forming Earth-like worlds."
+      "summary": "Simulations reveal that early supernovae could have seeded the universe with enough material to form rocky planets just 100 million years after the Big Bang, fundamentally reshaping our understanding of planetary formation timelines."
     },
     {
       "title": "Every galaxy in our neighborhood, including our own, is being pulled toward a single point in space hidden directly behind the crowded disk of the Milky Way, and when astronomers finally looked through the dust, they found a large, previously hidden cluster of thousands of galaxies sitting almost exactly where the pull was coming from",
@@ -92,7 +72,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way.png",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers discovered a massive hidden cluster of thousands of galaxies behind the Milky Way's dust that explains the gravitational force pulling our galaxy through space. This landmark discovery resolves decades of mystery about an invisible cosmic attractor."
+      "summary": "Astronomers discovered a massive hidden galaxy cluster behind the Milky Way's dust that explains the gravitational force pulling our galaxy through space. This landmark discovery reveals a previously invisible structure that has shaped galactic motion for billions of years."
     },
     {
       "title": "BepiColombo: Η αποστολή της ESA και της JAXA φτάνει στον Ερμή μετά από 8 χρόνια",
@@ -103,7 +83,7 @@
       "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-09/pericolo.jpg?itok=S9oc4EvL",
       "category": "Missions",
       "quality": 5,
-      "summary": "The ESA and JAXA BepiColombo mission has reached Mercury after 8 years of travel, beginning its study of the smallest planet in our solar system and its enigmatic surface features. This landmark achievement represents unprecedented scientific collaboration to unlock Mercury's mysteries."
+      "summary": "The ESA-JAXA BepiColombo mission has successfully reached Mercury after eight years of travel to study the solar system's smallest planet and its mysterious surface features. This landmark achievement marks a historic milestone in international space exploration."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -113,7 +93,7 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA/ESA's Hubble Space Telescope has discovered a remarkable 10-sided atmospheric wave pattern encircling Saturn's south pole, revealing new insights into gas giant dynamics."
+      "summary": "NASA/ESA Hubble observations reveal a giant 10-sided atmospheric wave pattern encircling Saturn's south pole, demonstrating dynamic weather phenomena in our solar system. This rare geometric formation expands our understanding of planetary atmospheres."
     },
     {
       "title": "Media briefing: BepiColombo's next milestone towards Mercury",
@@ -123,7 +103,7 @@
       "date": "Mon, 31 Aug 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency briefs media on BepiColombo's latest developments as the mission approaches its Mercury arrival phase, highlighting ongoing progress in this ambitious exploration."
+      "summary": "The European Space Agency presents the latest developments in BepiColombo's journey toward Mercury in this media briefing. The mission continues progressing toward its historic arrival phase."
     },
     {
       "title": "The 20th Data Release (DR 20) of the Sloan Digital Sky Survey (SDSS) is Here!",
@@ -133,7 +113,17 @@
       "date": "Fri, 04 Sep 2026 18:40:15 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Sloan Digital Sky Survey releases its twentieth data archive (DR20) with updated observations, continuing to provide invaluable resources for astronomical research."
+      "summary": "The Sloan Digital Sky Survey releases its twentieth data release (DR20) with updated astronomical data and observations. This major dataset release continues advancing large-scale surveys of the cosmos."
+    },
+    {
+      "title": "Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars",
+      "description": "Pulsar Timing Arrays have been used to observe the background of gravitational waves in our galaxy. We aren't certain of their origin, but a new study shows a strong source could be early supermassive giants known as dark stars.",
+      "url": "https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
+      "source": "Universe Today",
+      "date": "Fri, 04 Sep 2026 15:14:21 +0000",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "Pulsar Timing Arrays show promise for detecting dark matter stars through gravitational wave observations across our galaxy. This novel observational approach opens new avenues for dark matter research and detection."
     },
     {
       "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate",
@@ -143,7 +133,7 @@
       "date": "Thu, 03 Sep 2026 20:30:16 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Cross-disciplinary research reveals that dark photons, a leading dark matter candidate, could be detected through innovative observational techniques, expanding the search for invisible matter."
+      "summary": "Cross-disciplinary research identifies dark photons as a leading dark matter candidate through expanded detection methods. This breakthrough study demonstrates how dark photons could be hiding throughout the universe."
     },
     {
       "title": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
@@ -153,7 +143,7 @@
       "date": "Wed, 02 Sep 2026 20:55:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers at UCSB and UT Austin determine that galactic mergers can propel supermassive black holes into intergalactic space, advancing our understanding of cosmic dynamics."
+      "summary": "Researchers at UCSB and UT Austin explain how a galactic merger ejected a supermassive black hole into intergalactic space at high velocity. This discovery reveals new physics governing black hole dynamics in galaxy collisions."
     },
     {
       "title": "New Research Shows How Mercury's Crust Formed by Extreme Volcanism",
@@ -163,17 +153,7 @@
       "date": "Wed, 02 Sep 2026 18:28:09 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Researchers have discovered how to use lunar samples to understand the extreme volcanic activity that formed Mercury's ancient crust. This breakthrough provides new insights into the geological processes that shaped one of our solar system's innermost planets."
-    },
-    {
-      "title": "How Mercury formed its graphite crust and core",
-      "description": "As the BepiColombo mission prepares to enter the final phase of its journey to Mercury, a series of studies conducted by researchers at the University of Liège and KU Leuven sheds new light on the early stages of the evolution of the planet closest to the sun. Using experimental petrology, the researchers are reconstructing in the laboratory the formation of Mercury's core, the crystallization of its magma ocean and the formation of its mantle. The studies are published in Earth and Planetary Science Letters, Nature Communications and Advances in Geochemistry and Cosmochemistry.",
-      "url": "https://phys.org/news/2026-09-mercury-graphite-crust-core.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 04 Sep 2026 16:00:01 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "As the BepiColombo mission approaches its final phase toward Mercury, new studies reveal how Mercury formed its distinctive graphite crust and core. This research will be validated by the spacecraft's upcoming observations."
+      "summary": "Researchers have developed methods to use lunar samples to understand the extreme volcanic processes that shaped Mercury's ancient crust. This discovery reveals new insights into planetary formation in the inner solar system."
     },
     {
       "title": "Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee",
@@ -181,9 +161,9 @@
       "url": "https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "date": "Fri, 04 Sep 2026 14:20:06 EDT",
-      "category": "Solar System",
+      "category": "Missions",
       "quality": 4,
-      "summary": "A new Nature Communications study develops a universal framework for predicting asteroid strength using particle shape and size, revealing surprising properties of Bennu's surface. This discovery advances our understanding of asteroid composition and behavior."
+      "summary": "A new Nature Communications study reveals how particle shape and size determine asteroid strength, with findings from NASA's Bennu sample showing its surface is remarkably fragile. This discovery advances our understanding of asteroid composition and structure."
     },
     {
       "title": "Turbulent times for star formation in Stephan's Quintet",
@@ -193,7 +173,7 @@
       "date": "Fri, 04 Sep 2026 13:40:04 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered how turbulent galaxy interactions in Stephan's Quintet drive vigorous star formation by disturbing molecular gas. This insight reveals the dynamic processes shaping stellar birth in interacting galaxy systems."
+      "summary": "Astronomers have discovered that galaxy interactions in Stephan's Quintet dramatically influence star formation through molecular gas dynamics. This research illuminates how cosmic collisions shape stellar birth in distant galaxies."
     },
     {
       "title": "Betelgeuse's atmosphere is becoming spotty and asymmetric—and a nearby companion could be shaping the pattern",
@@ -203,7 +183,7 @@
       "date": "Fri, 04 Sep 2026 12:20:03 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "For the first time since its dramatic dimming in 2020, astronomers have observed Betelgeuse's inner atmosphere becoming spotty and asymmetric, with evidence that a nearby companion star may be shaping these patterns. This observation reveals fascinating stellar dynamics in this famous red supergiant."
+      "summary": "For the first time since its 2020 dimming event, astronomers have observed Betelgeuse's inner atmosphere, revealing spotty and asymmetric patterns potentially shaped by a nearby companion star. This breakthrough provides new insights into the red supergiant's dynamic behavior."
     },
     {
       "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
@@ -213,7 +193,7 @@
       "date": "Thu, 03 Sep 2026 08:41:39 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA scientists have discovered a giant 10-sided atmospheric pattern around Saturn's south pole, revealing surprising geometric structures in the gas giant's dynamic atmosphere. This unexpected discovery demonstrates how much remains to be learned about our planetary neighbors."
+      "summary": "NASA scientists have discovered a massive 10-sided atmospheric pattern at Saturn's south pole, providing a surprising planetary counterpart to its northern hexagon. This remarkable discovery deepens our understanding of giant planet dynamics."
     },
     {
       "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
@@ -223,7 +203,7 @@
       "date": "Thu, 03 Sep 2026 03:48:14 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers have discovered that despite the universe's abundant hydrogen, star formation has collapsed dramatically over the past 4.5 billion years—and they've uncovered the mechanisms driving this cosmic evolution. This finding reshapes our understanding of the universe's life cycle."
+      "summary": "Astronomers have uncovered why star formation has dramatically declined over the past 4.5 billion years despite abundant hydrogen in the universe. This discovery reveals fundamental shifts in cosmic star-making efficiency across time."
     },
     {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
@@ -233,7 +213,7 @@
       "date": "Thu, 03 Sep 2026 20:52:29 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists have found evidence deep beneath Mars of vast magmatic systems once thought to require Earth-like plate tectonics. This discovery reveals Mars possessed more dynamic internal geology than previously understood."
+      "summary": "Scientists have discovered evidence of vast hidden magma systems deep beneath Mars, revealing geological complexity once thought impossible without Earth-like plate tectonics. This finding revolutionizes our understanding of Martian internal dynamics."
     },
     {
       "title": "Dying radio galaxies fade faster than scientists expected",
@@ -243,7 +223,7 @@
       "date": "Fri, 04 Sep 2026 06:07:20 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers discovered a surprisingly young population of fading radio galaxies, revealing new insights into supermassive black hole behavior and galaxy evolution. This unexpected finding challenges existing models of how long radio galaxies remain active."
+      "summary": "Astronomers have discovered a surprisingly young population of fading radio galaxies powered by supermassive black holes, revealing unexpected dynamics of galactic evolution."
     },
     {
       "title": " Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe? ",
@@ -253,17 +233,17 @@
       "date": "Fri, 04 Sep 2026 21:00:00 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Using the MeerKAT radio telescope, astronomers detected ancient hydrogen gas signals from billions of light-years away, enabling new methods to map the universe's structure and history. This breakthrough opens powerful new avenues for understanding cosmic evolution."
+      "summary": "Using the MeerKAT radio telescope, astronomers have detected hydrogen gas signals from billions of light-years away, offering new tools to map the universe's structure and history."
     },
     {
-      "title": " Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026 ",
-      "description": "The Hubble Space Telescope has spotted a spectacular 'super bubble' in our Milky Way's nearest neighbor the Large Magellanic Cloud. Check out our space photo of the day.",
-      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
+      "title": " Stars forge and deliver the elements that make up your body — and scientists may finally know how ",
+      "description": "Scientists are close to understanding how stars forge the elements that comprise our planet, bodies and pretty much everything else around us, and how they explode to distribute these elements.",
+      "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
       "source": " Latest from Space.com ",
-      "date": "Fri, 04 Sep 2026 14:00:00 +0000",
-      "category": "Astronomy",
+      "date": "Fri, 04 Sep 2026 16:00:00 +0000",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Hubble Space Telescope has captured a stunning image of a massive superbubble in the Large Magellanic Cloud, showcasing dramatic stellar activity and energy release. This spectacular observation reveals the dynamic processes shaping galaxies."
+      "summary": "Scientists are reaching a breakthrough understanding of how stars forge the elements essential to planets, life, and the universe itself."
     },
     {
       "title": " How did the infant sun form? Scientists get surprising new insights from 4.6-billion-year-old space dust ",
@@ -271,9 +251,9 @@
       "url": "https://www.space.com/astronomy/solar-system/how-did-the-infant-sun-form-scientists-get-surprising-new-insights-from-4-6-billion-year-old-space-dust",
       "source": " Latest from Space.com ",
       "date": "Fri, 04 Sep 2026 13:00:00 +0000",
-      "category": "Solar System",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Analysis of ancient meteorite dust reveals a 4.6-billion-year-old fossil record of solar system formation, providing surprising new insights into the young sun's development. This research bridges planetary science and early solar system history."
+      "summary": "Analysis of 4.6-billion-year-old meteorite dust reveals a fossil record of our infant sun's formation, unlocking secrets of our solar system's birth."
     },
     {
       "title": "Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure fell 16% between mid-2021 and July 2023. With Pluto continuing away from the Sun until 2114, astronomers may be witnessing the beginning of its nitrogen sky slowly freezing onto the surface.",
@@ -284,18 +264,29 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-spacedaily-pluto-haze-layers-pia20536-1024x484.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Observations reveal that Pluto's atmospheric pressure has declined 16% between 2021 and 2023, suggesting its nitrogen sky is beginning to freeze as the dwarf planet continues its orbit away from the Sun. This rare opportunity allows astronomers to witness dramatic seasonal changes on a distant world."
+      "summary": "Observations show Pluto's atmospheric pressure dropped 16% between 2021 and 2023 as the dwarf planet continues its journey away from the Sun. Scientists are witnessing nitrogen gas beginning to condense back onto Pluto's frozen surface in a fascinating planetary transformation."
     },
     {
-      "title": "Avant de filer vers Mercure, la sonde BepiColombo envoie un ultime selfie d’adieu",
-      "description": "Avant d'attaquer Mercure, la sonde BepiColombo a pris un dernier autoportrait, à 3,3 millions de kilomètres de la planète. Un vrai adieu, puisque les caméras qui l'ont réalisé partent avec le module que la mission vient de larguer.",
-      "url": "https://www.numerama.com/sciences/2324227-avant-de-filer-vers-mercure-la-sonde-bepicolombo-envoie-un-ultime-selfie-dadieu.html",
-      "source": "Numerama",
-      "date": "2026-09-03T11:53:45Z",
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/01/bepicolombo-s.jpg?resize=1600,900&key=660d7b91",
+      "title": "️ BepiColombo abandonne son propulseur interplanétaire après huit ans de voyage",
+      "description": "Après presque huit ans de voyage, BepiColombo vient d'abandonner la partie du vaisseau qui l'a transporté jusqu'aux portes de Mercure. Le 3 septembre, le module de transfert de la mission s'est séparé avec succès, à plus de 200 millions de…",
+      "url": "https://www.techno-science.net/fr/actualites/bepicolombo-mercure-apres-huit-ans-29392",
+      "source": "Techno-science.net",
+      "date": "2026-09-04T04:00:00Z",
+      "image": "https://static.techno-science.net/illustrations/libre/2026/09/04/mercury_transfer_module_separation_pillars.jpg",
       "category": "Missions",
       "quality": 4,
-      "summary": "The ESA-JAXA BepiColombo spacecraft captured a final selfie before its arrival at Mercury, having traveled millions of kilometers on its historic journey. The mission marks a major milestone in humanity's exploration of the inner solar system."
+      "summary": "After eight years of interplanetary travel, the BepiColombo spacecraft has successfully deployed its ion thruster stage to begin its final approach to Mercury. This milestone marks the beginning of the mission's crucial orbital insertion phase."
+    },
+    {
+      "title": "When Georgia Tech scientists tipped out a tumbler of Titan-like organic grains, 2 to 5 percent refused to fall, held to the walls by static electricity. In comparable experiments with terrestrial sand and volcanic ash, nothing stuck.",
+      "description": "Organic grain analogues clung to a nitrogen-filled tumbler after becoming charged, but later tholin tests show why the result cannot yet be assumed to describe Titan's real dunes.\nThe post When Georgia Tech scientists tipped out a tumbler of Titan-like organi…",
+      "url": "https://spacedaily.com/t-titan-organic-grains-static-electricity-tumbler/",
+      "source": "Space Daily",
+      "date": "2026-09-03T14:08:22Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-titan-equatorial-dunes.jpg",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Georgia Tech scientists discovered that organic grains analogous to those on Titan's surface exhibit unique static electricity properties, with 2-5% clinging to chamber walls. This finding provides new insights into how organic materials behave in extraterrestrial environments."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -305,7 +296,17 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "The Hubble Space Telescope captures a stunning image of a cosmic superbubble in the Large Magellanic Cloud, showcasing stellar phenomena and the beauty of deep space."
+      "summary": "The Hubble Space Telescope captures a stunning cosmic vista featuring a superbubble structure in the Large Magellanic Cloud. This ESA/Hubble Picture of the Month showcases stellar feedback and gas dynamics in nearby galaxies."
+    },
+    {
+      "title": "Penultimate Lunar Occultations Inbound for Jupiter, Venus and More in September",
+      "description": "The Moon is busy in September. Coming off of eclipse season in August, the Moon visits no less than two planets, two bright stars and one open cluster in September, as it heads towards the Full Harvest Moon of 2026 on September 26th. No matter where on Earth you happen to be observing from this month, chances are, there’s an occultation of a bright celestial object by the Moon coming to a sky near you.",
+      "url": "https://www.universetoday.com/articles/penultimate-lunar-occultations-inbound-for-jupiter-venus-and-more-in-september",
+      "source": "Universe Today",
+      "date": "Thu, 03 Sep 2026 19:34:00 +0000",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "September brings a busy schedule of lunar occultations involving Jupiter, Venus, and other celestial bodies, offering skywatchers multiple observational opportunities. These penultimate occultations showcase dynamic celestial mechanics."
     }
   ]
 }

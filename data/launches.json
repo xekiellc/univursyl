@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T23:57:33.550Z",
+  "generated": "2026-09-05T06:56:11.979Z",
   "launches": [
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
@@ -119,17 +119,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
     },
     {
-      "id": "548df42c-ae26-4cc9-921a-f0042941911a",
-      "name": "Electron | BlackSky Gen-3 6",
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
       "net": "2026-09-30T00:00:00Z",
       "status": "TBD",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Unknown Pad",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "mission": "BlackSky Gen-3 6",
-      "description": "BlackSky Gen-3 Earth-imaging satellites",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
     }
   ]
 }
