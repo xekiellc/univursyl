@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T23:42:26.465Z",
+  "generated": "2026-09-07T07:14:27.836Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "ESA/JAXA's BepiColombo spacecraft arrives at Mercury after eight years of spaceflight, beginning its mission to study the Sun's innermost planet. This landmark achievement represents a major international collaboration in planetary exploration."
+      "summary": "ESA/JAXA's BepiColombo spacecraft begins its arrival at Mercury after an eight-year journey, marking a major milestone in planetary exploration."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -20,7 +20,7 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope launches on a SpaceX Falcon Heavy rocket from Kennedy Space Center to survey the infrared sky. This landmark mission promises revolutionary discoveries in cosmology and exoplanet science."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches on a SpaceX Falcon Heavy rocket to begin its infrared sky survey mission."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +30,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "BepiColombo begins its arrival phase at Mercury on September 3, 2026, after eight years of interplanetary travel. This historic ESA/JAXA collaboration marks a major milestone in humanity's exploration of the inner solar system."
+      "summary": "BepiColombo begins its historic arrival at Mercury after eight years of travel, entering a critical phase of the ESA/JAXA mission."
     },
     {
       "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -40,7 +40,17 @@
       "date": "Tue, 25 Aug 2026 15:00:00 +0200",
       "category": "NASA",
       "quality": 5,
-      "summary": "The Nancy Grace Roman Space Telescope, a cutting-edge infrared observatory led by NASA, is scheduled to launch on August 30, 2026, promising revolutionary observations of the cosmos."
+      "summary": "The cutting-edge Nancy Grace Roman Space Telescope is poised to launch and revolutionize infrared astronomy with unprecedented capabilities."
+    },
+    {
+      "title": "Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.",
+      "description": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light years away, demonstrating a powerful new way to map the Universe.",
+      "url": "https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past",
+      "source": "Universe Today",
+      "date": "Sun, 06 Sep 2026 21:03:35 +0000",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "Astronomers have directly detected an extremely faint radio signal from distant hydrogen gas billions of light years away, opening new observational windows to the early universe."
     },
     {
       "title": "The DESI Legacy Imaging Survey Releases the Largest 2-D Map of the Universe",
@@ -50,28 +60,7 @@
       "date": "Fri, 04 Sep 2026 21:30:12 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The DESI Legacy Imaging Survey has released the largest 2-D map of the universe, cataloging nearly four billion objects across three-quarters of the sky."
-    },
-    {
-      "title": " Private German rocket makes history, reaches orbit from European soil ",
-      "description": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 05 Sep 2026 14:00:00 +0000",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "Isar Aerospace's Spectrum rocket made history as the first vehicle to reach orbit from European soil, marking a major milestone for private space launch capabilities."
-    },
-    {
-      "title": "Rocky planets were expected to become common only after generations of stars enriched the universe over billions of years. But simulations show that a powerful early supernova could seed a disk with several Earth masses of planetesimals just 100 million years after the Big Bang—less than one percent of the universe’s current age.",
-      "description": "A simulated Population III supernova remnant produced enough concentrated solids for rocky-world precursors at cosmic dawn, but the calculation stopped well before a finished planet.\nThe post Rocky planets were expected to become common only after generations…",
-      "url": "https://spacedaily.com/t-rocky-planetesimals-100-million-years-after-big-bang/",
-      "source": "Space Daily",
-      "date": "2026-09-03T18:30:00Z",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-dawn-planetesimals-pexels-19108651-1024x683.jpg",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "Simulations reveal that a powerful early supernova could have seeded planetary formation just 100 million years after the Big Bang, suggesting rocky planets formed far earlier than previously expected."
+      "summary": "The DESI Legacy Imaging Survey releases the largest 2-D map of the universe, cataloging nearly four billion objects across three-quarters of the sky."
     },
     {
       "title": "Every galaxy in our neighborhood, including our own, is being pulled toward a single point in space hidden directly behind the crowded disk of the Milky Way, and when astronomers finally looked through the dust, they found a large, previously hidden cluster of thousands of galaxies sitting almost exactly where the pull was coming from",
@@ -82,27 +71,18 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way.png",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers discovered that the mysterious gravitational force pulling the Milky Way through space originates from a massive, previously hidden cluster of thousands of galaxies behind our galactic disk."
+      "summary": "After decades of investigation, astronomers have identified the source of the gravitational force pulling the Milky Way through space: a massive, previously hidden cluster of thousands of galaxies behind our galaxy's dust disk."
     },
     {
-      "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-      "description": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-      "source": "NASA",
-      "date": "Sat, 05 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Astronomy Picture of the Day features a celestial event involving the Moon's shadow, capturing a remarkable astronomical phenomenon. This showcases the dynamic and visually stunning interactions within our solar system."
-    },
-    {
-      "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-      "description": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-      "source": "NASA",
-      "date": "Thu, 03 Sep 2026 15:59:48 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "The Curiosity rover continues its groundbreaking work on Mars with newly demonstrated capabilities after years of exploration. This testament to robotic exploration showcases humanity's remarkable achievements in planetary science."
+      "title": "La primera misión en llegar a Mercurio con dos satélites por fin alcanza su destino",
+      "description": "Tras ocho años de viaje interplanetario y complejas maniobras de frenado orbital, la misión BepiColombo libera sus dos sondas científicas para desvelar los secretos geológicos y magnéticos de Mercurio.",
+      "url": "https://muyinteresante.okdiario.com/ciencia/bepicolombo-separa-orbitadores-llegada-mercurio.html",
+      "source": "Okdiario.com",
+      "date": "2026-09-05T07:29:11Z",
+      "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/09/a26090304-bepicolombo-separa-orbitadores-llegada-mercurio-portada-og.jpg",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "After eight years of interplanetary travel and complex orbital maneuvers, the BepiColombo mission has finally arrived at Mercury and successfully deployed its two spacecraft to begin studying the solar system's innermost planet."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -110,9 +90,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
       "source": "ESA Space Science",
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The Hubble Space Telescope captures a spectacular cosmic superbubble in the Large Magellanic Cloud, revealing stellar phenomena on a grand scale. This image exemplifies the remarkable discoveries enabled by modern space-based observatories."
+      "summary": "Hubble captures a stunning cosmic vista of a superbubble structure in the Large Magellanic Cloud, showcasing the beauty of stellar phenomena."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -122,7 +102,7 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Hubble observations reveal a giant evolving 10-sided atmospheric wave encircling Saturn's south pole, showcasing the dynamic weather systems of gas giants. This discovery deepens our understanding of planetary atmospheres in our solar system."
+      "summary": "Hubble Space Telescope reveals a remarkable 10-sided atmospheric wave evolving around Saturn's south pole, advancing our understanding of gas giant dynamics."
     },
     {
       "title": "Media briefing: BepiColombo's next milestone towards Mercury",
@@ -132,17 +112,7 @@
       "date": "Mon, 31 Aug 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency holds a media briefing on BepiColombo's latest achievements as the mission approaches Mercury. This provides insights into this groundbreaking international planetary exploration mission."
-    },
-    {
-      "title": "Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.",
-      "description": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light years away, demonstrating a powerful new way to map the Universe.",
-      "url": "https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past",
-      "source": "Universe Today",
-      "date": "Sun, 06 Sep 2026 21:03:35 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light-years away, providing a window into the distant past of the universe."
+      "summary": "ESA holds a media briefing on BepiColombo's latest developments as the mission approaches its Mercury arrival milestone."
     },
     {
       "title": "A Pair of White Dwarfs Locked in a Six-Minute Orbit Might One Day Be Observed By Gravitational Waves",
@@ -152,7 +122,37 @@
       "date": "Sun, 06 Sep 2026 15:30:42 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "A pair of white dwarfs locked in a six-minute orbit represents a promising target for future gravitational wave observatories to detect gravitational waves from binary star systems."
+      "summary": "A close binary pair of white dwarfs in a six-minute orbit could become observable through future gravitational wave detectors, advancing multi-messenger astronomy."
+    },
+    {
+      "title": "Snapping the Sun's Grand Magnetic Border at 0.3 AU",
+      "description": "Out in the solar system, there is a giant rippling curtain of charged particles that is actually the largest structure in our solar system. Known as the Heliospheric Current Sheet (HCS), it marks the spot where the sun flips its magnetic north and south poles, and grows directly out of giant, glowing loops of plasma on its surface called helmet streamers. However, so far, studies of it have only occurred near Earth, using space-based instruments such as SoHo and Wind. But now, a new paper from Keiichi Ogasawara of the Southwest Research Institute (SwRI) and his team used the joint ESA/NASA mission Solar Orbiter to capture the HCS at only about ⅓ the distance to Earth - before interactions with interstellar space and the solar wind change it. In other words, this paper represents the clearest ever picture of what the solar system’s largest coherent structure is actually made out of.",
+      "url": "https://www.universetoday.com/articles/snapping-the-suns-grand-magnetic-border-at-03-au",
+      "source": "Universe Today",
+      "date": "Sun, 06 Sep 2026 13:26:42 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Observations reveal the sun's grand magnetic border at 0.3 AU, showing the heliosphere's largest and most dynamic structure."
+    },
+    {
+      "title": "The 20th Data Release (DR 20) of the Sloan Digital Sky Survey (SDSS) is Here!",
+      "description": "The Sloan Digital Sky Survey (SDSS) has officially launched its twentieth data release (DR20), featuring updated data from multiple observations projects.",
+      "url": "https://www.universetoday.com/articles/the-20th-data-release-dr-20-of-the-sloan-digital-sky-survey-sdss-is-here",
+      "source": "Universe Today",
+      "date": "Fri, 04 Sep 2026 18:40:15 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Sloan Digital Sky Survey releases its twentieth data archive, providing updated astronomical data for researchers worldwide."
+    },
+    {
+      "title": "Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars",
+      "description": "Pulsar Timing Arrays have been used to observe the background of gravitational waves in our galaxy. We aren't certain of their origin, but a new study shows a strong source could be early supermassive giants known as dark stars.",
+      "url": "https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
+      "source": "Universe Today",
+      "date": "Fri, 04 Sep 2026 15:14:21 +0000",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "Pulsar Timing Arrays offer a promising new method to search for evidence of dark matter stars through gravitational wave observations."
     },
     {
       "title": "New Study Expands Search for \"Dark Photons,\" a Leading Dark Matter Candidate",
@@ -162,7 +162,7 @@
       "date": "Thu, 03 Sep 2026 20:30:16 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Cross-disciplinary research expands the search for dark photons, a leading dark matter candidate that could be hiding throughout the universe."
+      "summary": "Cross-disciplinary research expands the search for dark photons as a leading dark matter candidate, advancing our understanding of the universe's invisible matter."
     },
     {
       "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
@@ -172,7 +172,7 @@
       "date": "Sat, 05 Sep 2026 13:00:01 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "New theoretical research suggests that black holes as light as 40 tons could exist inside stars if dark matter plays a stabilizing role, expanding our understanding of black hole physics."
+      "summary": "Theoretical research shows that dark matter could enable the existence of surprisingly light black holes within stars, expanding our understanding of black hole physics beyond Hawking's predictions."
     },
     {
       "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
@@ -182,17 +182,7 @@
       "date": "Sat, 05 Sep 2026 06:20:01 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "After an eight-year journey, the BepiColombo spacecraft carrying European and Japanese probes begins its critical monthslong approach to Mercury."
-    },
-    {
-      "title": "Particle shape and size predict asteroid strength, revealing Bennu's surface is 50 times weaker than ground coffee",
-      "description": "In a new Nature Communications study, researchers developed a universal scaling framework for the strength of granular asteroids, showing that their tensile strength can be predicted from the size and shape of their constituent particles.",
-      "url": "https://phys.org/news/2026-09-particle-size-asteroid-strength-revealing.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 04 Sep 2026 14:20:06 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Researchers developed a universal framework predicting granular material strength, revealing Bennu's asteroid surface is surprisingly weak—50 times softer than ground coffee, with implications for future asteroid missions."
+      "summary": "The BepiColombo spacecraft, carrying European and Japanese probes, begins its critical monthslong arrival sequence after an eight-year journey to Mercury."
     },
     {
       "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
@@ -202,7 +192,7 @@
       "date": "Thu, 03 Sep 2026 08:41:39 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA scientists discover a massive 10-sided atmospheric pattern around Saturn's south pole, offering a striking geometric counterpart to known planetary phenomena."
+      "summary": "NASA scientists discover a striking 10-sided atmospheric pattern around Saturn's south pole, providing a fascinating counterpart to the planet's famous hexagonal storm."
     },
     {
       "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
@@ -212,7 +202,7 @@
       "date": "Thu, 03 Sep 2026 03:48:14 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers investigate the dramatic decline in universal star formation over 4.5 billion years despite abundant hydrogen, uncovering fundamental insights into cosmic evolution."
+      "summary": "Despite abundant hydrogen throughout the universe, star formation has declined dramatically over 4.5 billion years, but astronomers uncover the mechanisms driving this cosmic evolution."
     },
     {
       "title": "Deep beneath Mars, scientists find a vast hidden magma system",
@@ -222,7 +212,7 @@
       "date": "Thu, 03 Sep 2026 20:52:29 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover vast magmatic systems deep beneath Mars' surface, revealing previously unknown geological complexity that challenges assumptions about the Red Planet's interior."
+      "summary": "Scientists discover vast hidden magma systems deep beneath Mars, revealing geological complexity once thought to require Earth-like plate tectonics."
     },
     {
       "title": " NASA expands Deep Space Network with giant new dish in California desert ",
@@ -232,7 +222,17 @@
       "date": "Sun, 06 Sep 2026 10:00:00 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA expands its Deep Space Network with a new giant dish antenna in California, strengthening communications infrastructure for Artemis and other ambitious deep-space missions."
+      "summary": "NASA has expanded its Deep Space Network with a new giant antenna dish in California, strengthening communications infrastructure for Artemis and future deep-space missions. This infrastructure upgrade enables more ambitious exploration objectives."
+    },
+    {
+      "title": " Private German rocket makes history, reaches orbit from European soil ",
+      "description": "Isar Aerospace's Spectrum rocket made history today (Sept. 5), becoming the first vehicle ever to reach orbit from European soil.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 05 Sep 2026 14:00:00 +0000",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "Isar Aerospace's Spectrum rocket made history on September 5 by becoming the first vehicle to reach orbit from European soil. This achievement marks a significant milestone for European commercial spaceflight development."
     },
     {
       "title": "Astronomers already knew the Milky Way’s magnetic field reverses near the Sagittarius Arm, but a new 2026 three-dimensional model revealed the boundary’s unexpected shape: not a vertical wall between spiral arms, but a tilted magnetic plane slicing diagonally through the Galactic disc and passing just above our own region of space.",
@@ -241,70 +241,73 @@
       "source": "Space Daily",
       "date": "2026-09-05T13:30:00Z",
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/milky-way-magnetic-field-representative-pexels-1169754.jpg",
-      "category": "Astronomy",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "A groundbreaking 2026 3D model reveals the Milky Way's magnetic field boundary near the Sagittarius Arm is a tilted plane rather than a vertical wall, passing directly above our solar region."
+      "summary": "A new 2026 three-dimensional model reveals the Milky Way's magnetic field boundary near the Sagittarius Arm has an unexpected tilted plane structure rather than a vertical wall. This discovery reshapes our understanding of galactic magnetic architecture."
     },
     {
-      "title": "On 18 August 1868, French astronomer Pierre Janssen pointed a spectroscope at a total solar eclipse over Guntur, India, and saw a bright yellow line that matched no element known on Earth — helium would not be found in a laboratory here for another 27 years.",
-      "description": "During a total solar eclipse over Guntur, India on 18 August 1868, French astronomer Pierre Janssen spotted an unfamiliar yellow line in the Sun's chromosphere — the fingerprint of an element that would not be isolated on Earth until 1895. Helium remains the …",
-      "url": "https://theartfulage.com/ap-on-18-august-1868-french-astronomer-pierre-janssen-pointed-a-spectroscope-at-a-total-solar-eclipse-over-guntur-india-and-saw-a-bright-yellow-line-that-matched-no-element-known-on-earth-helium-would/",
-      "source": "Theartfulage.com",
-      "date": "2026-09-04T10:38:30Z",
-      "image": "https://theartfulage.com/wp-content/uploads/2026/09/on-18-august-1868-french-astronomer-pier.jpg",
-      "category": "Astronomy",
+      "title": "Rocky planets were expected to become common only after generations of stars enriched the universe over billions of years. But simulations show that a powerful early supernova could seed a disk with several Earth masses of planetesimals just 100 million years after the Big Bang—less than one percent of the universe’s current age.",
+      "description": "A simulated Population III supernova remnant produced enough concentrated solids for rocky-world precursors at cosmic dawn, but the calculation stopped well before a finished planet.\nThe post Rocky planets were expected to become common only after generations…",
+      "url": "https://spacedaily.com/t-rocky-planetesimals-100-million-years-after-big-bang/",
+      "source": "Space Daily",
+      "date": "2026-09-03T18:30:00Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-dawn-planetesimals-pexels-19108651-1024x683.jpg",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "French astronomer Pierre Janssen's 1868 spectroscopic observation of a solar eclipse discovered helium's signature, decades before the element was found on Earth."
+      "summary": "New simulations show that a powerful early supernova could have created enough planetesimals for rocky worlds just 100 million years after the Big Bang. This discovery suggests rocky planets may have formed far earlier than previously thought possible."
     },
     {
-      "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-      "description": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and […]",
-      "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 16:48:59 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA hosts an educational webinar about the RS-25 Engine and Artemis Mission for the blind and low-vision community. This demonstrates NASA's commitment to inclusive science education and the future of human lunar exploration."
-    },
-    {
-      "title": "Lunar Occultation of Venus",
-      "description": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
-      "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 14:14:57 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "A rare daytime lunar occultation of Venus delighted skywatchers across North America on June 17. This striking celestial alignment offered observers a breathtaking view of two celestial bodies in rare geometric alignment."
-    },
-    {
-      "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
-      "description": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/",
-      "source": "NASA",
-      "date": "Fri, 04 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "Astronomy Picture of the Day features a stunning cosmic image with cultural significance. This highlights the beauty and wonder of the universe as viewed through modern astronomical observation."
-    },
-    {
-      "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-      "description": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
-      "source": "NASA",
-      "date": "Thu, 03 Sep 2026 17:06:00 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA provides live coverage of the Progress 96 spacecraft launch and docking with supplies for the International Space Station. This demonstrates the continuous international collaboration supporting human presence in space."
-    },
-    {
-      "title": "Snapping the Sun's Grand Magnetic Border at 0.3 AU",
-      "description": "Out in the solar system, there is a giant rippling curtain of charged particles that is actually the largest structure in our solar system. Known as the Heliospheric Current Sheet (HCS), it marks the spot where the sun flips its magnetic north and south poles, and grows directly out of giant, glowing loops of plasma on its surface called helmet streamers. However, so far, studies of it have only occurred near Earth, using space-based instruments such as SoHo and Wind. But now, a new paper from Keiichi Ogasawara of the Southwest Research Institute (SwRI) and his team used the joint ESA/NASA mission Solar Orbiter to capture the HCS at only about ⅓ the distance to Earth - before interactions with interstellar space and the solar wind change it. In other words, this paper represents the clearest ever picture of what the solar system’s largest coherent structure is actually made out of.",
-      "url": "https://www.universetoday.com/articles/snapping-the-suns-grand-magnetic-border-at-03-au",
-      "source": "Universe Today",
-      "date": "Sun, 06 Sep 2026 13:26:42 +0000",
+      "title": "Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure fell 16% between mid-2021 and July 2023. With Pluto continuing away from the Sun until 2114, astronomers may be witnessing the beginning of its nitrogen sky slowly freezing onto the surface.",
+      "description": "Stellar occultations suggest Pluto’s long pressure plateau is ending as nitrogen gas begins condensing back onto its frozen surface.\nThe post Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure f…",
+      "url": "https://spacedaily.com/t-pluto-atmosphere-pressure-decline-nitrogen-freezeout/",
+      "source": "Space Daily",
+      "date": "2026-09-01T16:30:00Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-spacedaily-pluto-haze-layers-pia20536-1024x484.jpg",
       "category": "Solar System",
+      "quality": 4,
+      "summary": "Stellar occultation observations reveal that Pluto's atmospheric pressure has declined 16% between 2021 and 2023, potentially marking the beginning of its nitrogen atmosphere freezing back onto the surface as it travels away from the Sun."
+    },
+    {
+      "title": "Radioactive isotopes leaking from Europa’s seafloor rocks could split ocean water into hydrogen- and oxygen-bearing chemicals capable of feeding microbial life, according to a model presented in December 2025 — meaning the January 2026 finding that Europa probably lacks active seafloor faulting and hydrothermal vents may not eliminate its ocean as a potentially habitable environment.",
+      "description": "A conference model suggests radioactive salts could maintain chemical energy in Europa's ocean even if its seafloor lacks the active faults and hydrothermal vents once imagined.\nThe post Radioactive isotopes leaking from Europa’s seafloor rocks could split oc…",
+      "url": "https://spacedaily.com/t-europa-radioactive-isotopes-radiolysis-quiet-seafloor/",
+      "source": "Space Daily",
+      "date": "2026-09-05T14:50:14Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/europa-radiolysis-quiet-seafloor-ice-cave-pexels-27079995.jpg",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "New models suggest that radioactive isotopes from Europa's seafloor rocks could generate chemical energy to sustain microbial life, potentially making the moon habitable even without active hydrothermal vents."
+    },
+    {
+      "title": "Cette lune de Mars cache les traces d’un impact colossal : les simulations révèlent enfin son histoire",
+      "description": "Phobos et Deimos, les lunes de Mars, ont curieusement été découvertes bien après les lunes de Jupiter, Saturne et Uranus, plus lointaines. On cherche toutefois à comprendre leurs origines, comme celles des autres lunes, et ce n'est pas facile. Un nouvel éléme…",
+      "url": "https://www.futura-sciences.com/sciences/actualites/mars-cette-lune-mars-cache-traces-impact-colossal-simulations-revelent-enfin-son-histoire-137401/",
+      "source": "Futura",
+      "date": "2026-09-04T10:43:28Z",
+      "image": "https://cdn8.futura-sciences.com/a1920/images/Mars_Deimos_Hope_EAU_HopeMarsMission_1.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "New simulations reveal the hidden history of Phobos, one of Mars' moons, unveiling evidence of a colossal impact event that shaped its geology and orbital characteristics."
+    },
+    {
+      "title": "Could life exist on Venus? Peptides survive harsh acid.",
+      "description": "The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturn’s largest moon, Titan, Venus is shrouded in a thick atmosphere that can’t be viewed with optical telescopes and require radar images to see the surface. Unlike Titan, whose atmosphere looks quite dull, Venus’s swirling and awe-inspiring clouds give observers the impression that its surface is covered in wonderous features. However, the truth is far from ideal, as Venus’s surface is a living hell with searing temperatures and crushing pressures. But, unlike its surface and Titan, Venus’s atmosphere provides many more ideal conditions, even Earth-like conditions. But while life would be hard to exist on its surface, could we find life in the atmospheric clouds of Venus?",
+      "url": "https://www.universetoday.com/articles/could-life-exist-on-venus-peptides-survive-harsh-acid",
+      "source": "Universe Today",
+      "date": "Sat, 05 Sep 2026 08:40:20 +0000",
+      "category": "Exoplanets",
       "quality": 3,
-      "summary": "New observations capture the Sun's grand magnetic border at 0.3 AU, revealing the largest structure in our solar system as a giant rippling curtain of charged particles."
+      "summary": "Research demonstrates that peptides can survive the harsh acidic conditions of Venus, expanding possibilities for detecting biosignatures on the planet."
+    },
+    {
+      "title": "'Quiet' pulsar suddenly reveals three glitches in 15 years of observations",
+      "description": "Using more than 15 years of observations from the Parkes radio telescope, astronomers detected three rotational glitches in the pulsar PSR J1637−4642—a young neutron star that had shown no signs of glitches since its discovery. The three glitches included one that changed its rotation rate by nearly 3 parts per million. Their paper was posted to the arXiv preprint server on Aug. 20. It has been accepted for publication in the Astrophysical Journal Letters.",
+      "url": "https://phys.org/news/2026-09-quiet-pulsar-suddenly-reveals-glitches.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sun, 06 Sep 2026 08:40:03 EDT",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "Using 15+ years of Parkes radio telescope observations, astronomers detected three unexpected rotational glitches in a previously 'quiet' pulsar, revealing new insights into neutron star behavior."
     }
   ]
 }
