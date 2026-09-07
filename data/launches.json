@@ -1,32 +1,6 @@
 {
-  "generated": "2026-09-07T07:18:20.004Z",
+  "generated": "2026-09-07T21:29:31.719Z",
   "launches": [
-    {
-      "id": "153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-24",
-      "net": "2026-09-06T14:26:54Z",
-      "status": "Success",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "Starlink Group 15-24",
-      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-    },
-    {
-      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-      "name": "Long March 2D/YZ-3 | Unknown Payload",
-      "net": "2026-09-09T09:00:00Z",
-      "status": "Go",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 2D/YZ-3",
-      "pad": "Launch Area 94 (SLS-2 / 603)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg"
-    },
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
@@ -39,6 +13,19 @@
       "mission": "Progress MS-35 (96P)",
       "description": "Progress resupply mission to the International Space Station.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+    },
+    {
+      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
+      "name": "Long March 2D/YZ-3 | Unknown Payload",
+      "net": "2026-09-10T09:00:00Z",
+      "status": "Go",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 2D/YZ-3",
+      "pad": "Launch Area 94 (SLS-2 / 603)",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg"
     },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
@@ -130,6 +117,19 @@
       "mission": "BlackSky Gen-3 6",
       "description": "BlackSky Gen-3 Earth-imaging satellites",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-09-30T00:00:00Z",
+      "status": "TBD",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
     }
   ]
 }
