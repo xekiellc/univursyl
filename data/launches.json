@@ -1,19 +1,6 @@
 {
-  "generated": "2026-09-08T07:13:53.756Z",
+  "generated": "2026-09-08T21:04:32.713Z",
   "launches": [
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-09T16:15:03Z",
-      "status": "Go",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "rocket": "Soyuz 2.1b",
-      "pad": "31/6",
-      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "mission": "Progress MS-35 (96P)",
-      "description": "Progress resupply mission to the International Space Station.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-    },
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
       "name": "Long March 2D/YZ-3 | Unknown Payload",
@@ -67,6 +54,19 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
     },
     {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "net": "2026-09-15T00:00:00Z",
+      "status": "TBD",
+      "provider": "SpaceX",
+      "rocket": "Starship",
+      "pad": "Orbital Launch Pad 2",
+      "location": "SpaceX Starbase, TX, USA",
+      "mission": "Flight 14",
+      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
+    },
+    {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "name": "Vega-C | Sentinel-3C & FLEX",
       "net": "2026-09-15T01:21:07Z",
@@ -80,17 +80,43 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg"
     },
     {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "net": "2026-09-30T00:00:00Z",
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-16T00:00:00Z",
       "status": "TBD",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "rocket": "Soyuz 2.1b",
+      "pad": "31/6",
+      "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "mission": "Progress MS-35 (96P)",
+      "description": "Progress resupply mission to the International Space Station.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+    },
+    {
+      "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-09-17T00:00:00Z",
+      "status": "TBC",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 12",
+      "pad": "Commercial LC-2",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+    },
+    {
+      "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-27",
+      "net": "2026-09-20T01:47:00Z",
+      "status": "Go",
       "provider": "SpaceX",
-      "rocket": "Starship",
-      "pad": "Orbital Launch Pad 2",
-      "location": "SpaceX Starbase, TX, USA",
-      "mission": "Flight 14",
-      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "Starlink Group 15-27",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -104,32 +130,6 @@
       "mission": "Amazon Leo (LV-01)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-    },
-    {
-      "id": "548df42c-ae26-4cc9-921a-f0042941911a",
-      "name": "Electron | BlackSky Gen-3 6",
-      "net": "2026-09-30T00:00:00Z",
-      "status": "TBD",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Unknown Pad",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "mission": "BlackSky Gen-3 6",
-      "description": "BlackSky Gen-3 Earth-imaging satellites",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-    },
-    {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-09-30T00:00:00Z",
-      "status": "TBD",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "SDA Tranche 1 Transport Layer A",
-      "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
     }
   ]
 }
