@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T23:59:33.497Z",
+  "generated": "2026-09-09T07:17:13.939Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "The European Space Agency's BepiColombo mission successfully completes its Mercury Transfer Module separation, marking a critical milestone in its journey to Mercury. This landmark event brings humanity closer to studying the solar system's innermost planet."
+      "summary": "BepiColombo successfully completes its magnetometer tripod module separation, a critical milestone in its arrival sequence at Mercury. This achievement represents a major step toward one of the most ambitious planetary science missions in history."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -20,7 +20,7 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope successfully lifts off aboard a SpaceX Falcon Heavy rocket from Kennedy Space Center on an infrared sky survey mission. This landmark launch enables transformative observations of distant galaxies, exoplanets, and cosmic phenomena."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket, beginning its mission to survey the infrared sky. This landmark achievement represents a major advancement in space-based astronomy and technology partnership."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +30,7 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission is entering its Mercury Arrival Phase on September 3, 2026, marking a landmark achievement in planetary exploration."
+      "summary": "The ESA/JAXA BepiColombo mission prepares for its historic arrival at Mercury after eight years of travel, marking a major milestone in planetary exploration."
     },
     {
       "title": "Japan's Hayabusa2 Achieves First-Ever Laser Ranging Experiment with an Asteroid",
@@ -40,7 +40,7 @@
       "date": "Tue, 08 Sep 2026 23:08:17 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "Japan's Hayabusa2 spacecraft achieved the first-ever successful laser ranging experiment with an asteroid, advancing our capabilities in asteroid science and spacecraft technology."
+      "summary": "Japan's Hayabusa2 spacecraft successfully conducts the first-ever laser ranging experiment on an asteroid, demonstrating innovative space exploration techniques."
     },
     {
       "title": "Extremely massive galaxy proto-supercluster smashes distance record",
@@ -50,7 +50,7 @@
       "date": "Tue, 08 Sep 2026 18:00:03 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "An international team discovered the most distant galaxy supercluster progenitor ever observed, smashing previous distance records and revealing the early universe's large-scale structure."
+      "summary": "Astronomers discover the most distant galaxy supercluster progenitor ever observed, setting a new record and revealing the universe's early structure."
     },
     {
       "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
@@ -60,198 +60,7 @@
       "date": "Tue, 08 Sep 2026 08:09:21 EDT",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicists have directly observed a long-predicted quantum effect of gravity for the first time, validating one of Einstein's foundational ideas about how gravity operates at quantum scales."
-    },
-    {
-      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies ",
-      "description": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are […]",
-      "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 20:16:16 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA seeks innovative proposals to accelerate development of lunar surface technologies for exploration and establishing a permanent Moon base. This initiative advances humanity's return to the lunar surface with cutting-edge infrastructure."
-    },
-    {
-      "title": "Superbubble in the Large Magellanic Cloud",
-      "description": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]",
-      "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 16:49:15 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "NASA's Hubble Space Telescope captures a stunning image of the superbubble nebula N44 in the Large Magellanic Cloud. The photogenic cosmic structure reveals the beauty and complexity of stellar nurseries."
-    },
-    {
-      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-      "description": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-      "source": "NASA",
-      "date": "Tue, 08 Sep 2026 14:00:28 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "NASA's Hubble and James Webb Space Telescopes combine their power for the first time to study distant solar system objects, revealing how they retain memories of their past orbital interactions. This collaborative breakthrough opens new avenues for understanding our cosmic neighborhood."
-    },
-    {
-      "title": "BepiColombo’s Mercury arrival begins - full replay",
-      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "ESA/JAXA's BepiColombo mission livestream replay captures the excitement of Mercury arrival operations. The mission represents international collaboration in advancing our understanding of Mercury's geology and magnetic environment."
-    },
-    {
-      "title": "Hubble's superbubble scene",
-      "description": "Image:\n\t\t\t\nThis sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.\nThe appearance of this photogenic nebula is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years. The glittering stars at the centre of the void are responsible for its creation; through their powerful stellar winds and explosive supernovae, these stars have expelled much of the gas from which they were born.\nWhen the stars of N44’s central star cluster swept away this gas, the expelled gas formed a shell around the superbubble. New stars are forming in this compressed gas shell, making N44 an interesting target for researchers studying the process of star formation. In particular, astronomers have turned to this nebula as an ideal place to time this process from start to finish. Their goal is to understand how long it takes from the collapse of cold gas clouds into dense knots to the moment nuclear fusion ignites in the heart of a newborn star.\nResearchers used Hubble to survey N44 and take a census of its stars, cataloguing nearly half a million stars within the cluster as well as interlopers drifting in front of it. Of the stars surveyed, nearly 30 000 are what astronomers call pre-main-sequence stars, which have yet to begin fusing hydrogen into helium in their cores. This treasure trove of baby stars was discoverable thanks to the high sensitivity and fine spatial resolution of Hubble’s instruments that can pick out faint objects in crowded clusters.\nThe gas shell surrounding the superbubble is energised by ultraviolet radiation from massive stars, causing it to glow and highlighting several distinct features. Each feature within the broader N44 star-forming complex was catalogued by astronomer Karl Henize in the 1950s. One feature is a smaller bubble, catalogued as N44F, that is located near the upper-right corner of this image. N44F is an interstellar bubble blown by the intense stellar winds of a single hot and massive star. As this previously released Hubble closeup shows, the star’s furious winds and radiation have sculpted the surrounding bubble and created pillars of dusty gas.\nThe data used to create this image come from an observing programme (#14689; PI: Gouliermis) that aimed to probe stars in the N44 complex that have not yet begun fusing hydrogen into heavier elements in their cores. These data help to determine how long the process of star formation takes, as well as what masses newborn stars typically have. Hubble's sensitive observations of the lowest-mass stars in this region open a new window onto star formation in regions that, like the LMC or the galaxies of the early Universe, are poor in elements heavier than helium.\n[Image Description: A dense field of stars fills the image, surrounded by wispy clouds of gas and dust. Pale blue and grey nebulosity forms an intricate web across the scene, with darker clouds of dust concentrated towards the lower right. Numerous bright stars appear in shades of blue, white and orange.]",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 10:00:00 +0200",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Hubble Space Telescope reveals a sprawling cosmic vista featuring the superbubble region in the Large Magellanic Cloud. This ESA/Hubble Picture of the Month showcases the telescope's ability to capture breathtaking stellar phenomena."
-    },
-    {
-      "title": "Hubble tracks new decagon encircling Saturn’s south pole",
-      "description": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole",
-      "source": "ESA Space Science",
-      "date": "Wed, 02 Sep 2026 20:00:00 +0200",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Hubble Space Telescope discovers and tracks a giant 10-sided atmospheric wave evolving around Saturn's south pole. This unusual geometric formation provides insights into the complex atmospheric dynamics of gas giants."
-    },
-    {
-      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-      "description": "Video: \n\t\t\t01:09:40\n\t\t\t\t\nRewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.\nThis briefing focused on the complexities of the separation of the Mercury Transfer Module (MTM), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio) in December 2026.\nThe briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three speakers:\nProf. Geraint Jones, Lead Project Scientist, ESA\nSanta Martinez, Mission Manager, ESA\nIgnacio Tanco, Head of Inner Solar System Mission Operations, ESA\nBepiColombo will be the most complex mission ever sent to Mercury. Its orbiters will be only the second and third to orbit the planet. Close to the Sun and more difficult for an orbiter to reach than Pluto, this small desert world is the least explored planet of the inner Solar System. Learning more about Mercury will shed light on the history of the entire Solar System.\nThe mission is a collaboration between ESA and JAXA, the latter providing the Mercury Magnetospheric Orbiter (Mio).\nClick here for a set of explanatory infographics",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
-      "source": "ESA Space Science",
-      "date": "Mon, 31 Aug 2026 16:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "ESA holds a media briefing on BepiColombo's latest milestone toward Mercury arrival, sharing updates on this groundbreaking mission. The briefing highlights progress in exploring one of the solar system's most extreme environments."
-    },
-    {
-      "title": "Icy Exocomets Around a Distant Star Help Explain Earth's Water",
-      "description": "Did icy comets deliver water to the young Earth? That idea won't go away. Now, astronomers at Lund University in Sweden have found evidence of exocomets orbiting a young star named PDS 70. The observations suggest that these comets are delivering water to that system's inner regions.",
-      "url": "https://www.universetoday.com/articles/icy-exocomets-around-a-distant-star-help-explain-earths-water",
-      "source": "Universe Today",
-      "date": "Tue, 08 Sep 2026 20:29:34 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Astronomers discovered icy exocomets around a distant star, providing new insights into how water may have been delivered to young Earth billions of years ago."
-    },
-    {
-      "title": "Scientists Are Still Trying To Understand How the Moon Formed",
-      "description": "The Earth and the Moon have nearly identical isotopic compositions, and the Giant Impact Hypothesis strives to explain this. New research into the ancient impact shows how the temperature of both worlds, and how it affects the strength of the materials involved in the collision, shaped the outcome, including the isotopic compositions.",
-      "url": "https://www.universetoday.com/articles/scientists-are-still-trying-to-understand-how-the-moon-formed",
-      "source": "Universe Today",
-      "date": "Tue, 08 Sep 2026 17:27:47 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists continue investigating the Moon's formation through isotopic analysis, with the Giant Impact Hypothesis explaining the Earth-Moon system's similarities."
-    },
-    {
-      "title": "Some Black Holes Grow Much Faster Than Their Galaxies",
-      "description": "New observations find that a few supermassive black holes are unexpectedly large given the size of their galaxies. This suggests the connection between black holes and galaxies isn't as strong as we thought.",
-      "url": "https://www.universetoday.com/articles/some-black-holes-grow-much-faster-than-their-galaxies",
-      "source": "Universe Today",
-      "date": "Tue, 08 Sep 2026 15:12:38 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "New observations reveal that some supermassive black holes grow unexpectedly large compared to their host galaxies, challenging existing models of black hole-galaxy co-evolution."
-    },
-    {
-      "title": "Do Black Holes Grow Along With the Universe? A New Study Says Yes",
-      "description": "We know the universe is constantly expanding. We also know that gravitationally bound objects, such as solar systems and black holes, seem to be immune to that expansion. But a new paper, available in pre-print on arXiv by theoretical physicists Valerio Faraoni and Massimiliano Rinaldi challenges that assumption. They suggest that black holes can’t just ignore the expanding universe around them. Instead they have to expand along with it.",
-      "url": "https://www.universetoday.com/articles/do-black-holes-grow-along-with-the-universe-a-new-study-says-yes",
-      "source": "Universe Today",
-      "date": "Tue, 08 Sep 2026 11:45:00 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "A new study reveals that black holes grow in proportion with the expanding universe, suggesting a fundamental connection between black hole evolution and cosmic expansion."
-    },
-    {
-      "title": "Fast radio bursts could help disentangle galactic feedback from dark matter effects",
-      "description": "Intense, brief flashes of radio light called fast radio bursts (FRBs) travel across billions of light-years to reach Earth, passing through a fog of matter along the way. The bursts' origins are unclear but may originate from highly magnetized dead stars called magnetars. The denser the fog through which FRBs travel, the more dispersed their signals become—similar to the way a prism splits white light into a rainbow of colors.",
-      "url": "https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 08 Sep 2026 16:00:10 EDT",
-      "category": "Dark Matter",
-      "quality": 4,
-      "summary": "Fast radio bursts traveling across billions of light-years can help astronomers distinguish between galactic feedback effects and dark matter, advancing our understanding of cosmic structure."
-    },
-    {
-      "title": "Hubble and Webb find that far-out solar system objects 'remember' the past",
-      "description": "For the first time, scientists used the combined power of NASA's Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, trans-Neptunian objects (TNOs). Some are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than expected and that the colors of these bodies followed the same relationships as those of their larger family members.",
-      "url": "https://phys.org/news/2026-09-hubble-webb-solar.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 08 Sep 2026 12:05:13 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "NASA's Hubble and James Webb Space Telescopes combined their power to study far-out solar system objects, revealing how these bodies retain records of the early solar system's history."
-    },
-    {
-      "title": "Interstellar visitor 3I/ATLAS carries clues from the frozen outskirts of another star system",
-      "description": "UK astronomers have uncovered new clues about the origin of 3I/ATLAS—only the third known object from beyond the solar system ever spotted. In a new paper published in Monthly Notices of the Royal Astronomical Society, researchers reveal that the comet formed in extremely cold conditions, far from any star.",
-      "url": "https://phys.org/news/2026-09-interstellar-visitor-3iatlas-clues-frozen.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 08 Sep 2026 11:50:01 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "UK astronomers have uncovered new clues about the origin of 3I/ATLAS, only the third known interstellar visitor from beyond our solar system, carrying evidence from another star's frozen outer regions."
-    },
-    {
-      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-      "description": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 03 Sep 2026 08:41:39 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "NASA scientists have discovered a giant 10-sided atmospheric pattern around Saturn's south pole, providing surprising new insights into the planet's dynamic weather systems."
-    },
-    {
-      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
-      "description": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges long-held ideas about how complex planetary crusts form.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 03 Sep 2026 20:52:29 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists have discovered evidence of enormous magmatic systems deep beneath Mars' surface, revealing geological complexity once thought to require Earth-like plate tectonics."
-    },
-    {
-      "title": " Did Venus eat its own moon? ",
-      "description": "Scientists may finally know why Venus, Earth's twin, lacks a moon, finding that the hottest planet in the solar system may have consumed its own natural satellite.",
-      "url": "https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 21:00:00 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists may have discovered why Venus lacks a moon, finding evidence that the planet's extreme conditions may have prevented or consumed lunar formation."
-    },
-    {
-      "title": " Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch ",
-      "description": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 08 Sep 2026 19:23:56 +0000",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "Stoke Space has secured $1 billion in funding to develop fully reusable Nova rockets, targeting an early 2027 launch for their groundbreaking aerospace technology."
-    },
-    {
-      "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
-      "description": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field.",
-      "url": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
-      "source": "Universe Today",
-      "date": "2026-09-07T22:21:00Z",
-      "image": "https://www.universetoday.com/article_images/noirlab2618a_20260907_195017.jpeg",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Vera C. Rubin Observatory captures a spectacular deep-field image of the COSMOS region, revealing unprecedented detail of distant galaxies and cosmic structures. This represents a major advance in wide-field astronomical imaging capabilities."
+      "summary": "Physicists have directly observed a quantum effect of gravity predicted by Einstein, validating a fundamental theory at the intersection of quantum mechanics and general relativity."
     },
     {
       "title": "Is it a planet or a moon? Scientists discover a strange Jupiter-sized world orbiting a brown dwarf in a never-before-seen cosmic system",
@@ -261,19 +70,8 @@
       "date": "2026-09-07T16:15:03Z",
       "image": "https://img.etimg.com/thumb/msid-133888996,width-1200,height-630,imgsize-48938,overlay-economictimes/articleshow.jpg",
       "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Astronomers discovered a Jupiter-sized object orbiting a brown dwarf in an unprecedented configuration that challenges our understanding of planetary formation. This discovery expands the diversity of planetary systems we know to exist."
-    },
-    {
-      "title": "Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.",
-      "description": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light years away, demonstrating a powerful new way to map the Universe.",
-      "url": "https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past",
-      "source": "Universe Today",
-      "date": "2026-09-06T21:03:35Z",
-      "image": "https://www.universetoday.com/article_images/South-Africas-MeerKAT-peers-deep-into-the-Universe-2_20260905_232345.jpg",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Astronomers directly detected faint radio signals from primordial hydrogen gas billions of light-years away, opening a new window into the early universe. This achievement demonstrates breakthrough capabilities in detecting extremely distant cosmic structures."
+      "quality": 5,
+      "summary": "Astronomers discovered a Jupiter-sized object orbiting a brown dwarf star in an unprecedented cosmic system, challenging our understanding of planet and moon definitions."
     },
     {
       "title": "Rocky planets were expected to become common only after generations of stars enriched the universe over billions of years. But simulations show that a powerful early supernova could seed a disk with several Earth masses of planetesimals just 100 million years after the Big Bang—less than one percent of the universe’s current age.",
@@ -283,29 +81,231 @@
       "date": "2026-09-03T18:30:00Z",
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/cosmic-dawn-planetesimals-pexels-19108651-1024x683.jpg",
       "category": "Cosmology",
-      "quality": 4,
-      "summary": "Simulations reveal that early Population III supernovae could seed planetary disks with Earth-mass planetesimals just 100 million years after the Big Bang. This finding suggests rocky planets may have formed far earlier than previously expected."
+      "quality": 5,
+      "summary": "Simulations demonstrate that a powerful early supernova could have seeded rocky planet precursors just 100 million years after the Big Bang, suggesting planets formed far earlier than expected."
     },
     {
-      "title": "Japan's MMX mission will attempt to land on Phobos and bring Martian moon samples back to Earth",
-      "description": "MMX is expected to take about a year to reach Mars. It will then spend three years operating around the planet and its moons before beginning a roughly one-year trip back to Earth. The sample return is expected in 2031.Read Entire Article",
-      "url": "https://www.techspot.com/news/113757-japan-mmx-mission-attempt-land-phobos-bring-martian.html",
-      "source": "TechSpot",
-      "date": "2026-09-07T13:33:00Z",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-07-image-4.jpg",
+      "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+      "description": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+      "source": "NASA",
+      "date": "Wed, 09 Sep 2026 06:20:49 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "Japan's MMX mission will land on Phobos and return Martian moon samples to Earth, launching a three-year orbital study of Mars and its moons. This ambitious mission represents a major step in sample-return exploration of the Mars system."
+      "summary": "NASA's Curiosity rover celebrates 5,000 Martian days of exploration on Mars, marking a remarkable milestone in planetary science. The rover continues to advance our understanding of the Red Planet's geology and potential for past habitability."
     },
     {
-      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-      "description": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble: Decagon Around […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies ",
+      "description": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are […]",
+      "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/",
       "source": "NASA",
-      "date": "Tue, 08 Sep 2026 04:05:00 +0000",
+      "date": "Tue, 08 Sep 2026 20:16:16 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA seeks innovative proposals to advance lunar surface technologies and infrastructure for establishing a sustained Moon base. This initiative represents a critical step toward long-term lunar exploration and scientific discovery."
+    },
+    {
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "description": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]",
+      "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+      "source": "NASA",
+      "date": "Tue, 08 Sep 2026 16:49:15 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "NASA's Hubble Space Telescope captures stunning images of superbubble N44 in the Large Magellanic Cloud, revealing massive stellar structures and stellar feedback processes. This observation provides insights into star formation and galactic evolution."
+    },
+    {
+      "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+      "description": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+      "source": "NASA",
+      "date": "Tue, 08 Sep 2026 14:00:28 +0000",
       "category": "Solar System",
-      "quality": 3,
-      "summary": "Hubble Space Telescope captures a remarkable decagonal atmospheric wave pattern encircling Saturn's south pole. This striking geometric formation showcases the dynamic and ever-evolving nature of gas giant atmospheres."
+      "quality": 4,
+      "summary": "NASA's Hubble and James Webb Space Telescopes collaborate to study distant solar system objects, revealing surprising preservation of their orbital history. This joint observation demonstrates the power of combining multiple space observatories for deeper cosmic insights."
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The ESA/JAXA BepiColombo mission livestream captures the excitement of Mercury arrival operations. This public broadcast celebration demonstrates international collaboration in advancing solar system science."
+    },
+    {
+      "title": "Hubble tracks new decagon encircling Saturn’s south pole",
+      "description": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole",
+      "source": "ESA Space Science",
+      "date": "Wed, 02 Sep 2026 20:00:00 +0200",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Hubble observations reveal a giant, evolving 10-sided atmospheric wave pattern encircling Saturn's south pole. This discovery enhances our understanding of Saturn's complex atmospheric dynamics and planetary science."
+    },
+    {
+      "title": "Icy Exocomets Around a Distant Star Help Explain Earth's Water",
+      "description": "Did icy comets deliver water to the young Earth? That idea won't go away. Now, astronomers at Lund University in Sweden have found evidence of exocomets orbiting a young star named PDS 70. The observations suggest that these comets are delivering water to that system's inner regions.",
+      "url": "https://www.universetoday.com/articles/icy-exocomets-around-a-distant-star-help-explain-earths-water",
+      "source": "Universe Today",
+      "date": "Tue, 08 Sep 2026 20:29:34 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Astronomers discover icy exocomets around a distant star that provide new insights into how water may have been delivered to early Earth."
+    },
+    {
+      "title": "Scientists Are Still Trying To Understand How the Moon Formed",
+      "description": "The Earth and the Moon have nearly identical isotopic compositions, and the Giant Impact Hypothesis strives to explain this. New research into the ancient impact shows how the temperature of both worlds, and how it affects the strength of the materials involved in the collision, shaped the outcome, including the isotopic compositions.",
+      "url": "https://www.universetoday.com/articles/scientists-are-still-trying-to-understand-how-the-moon-formed",
+      "source": "Universe Today",
+      "date": "Tue, 08 Sep 2026 17:27:47 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists continue investigating the Giant Impact Hypothesis to explain how the Moon formed, using isotopic composition analysis to unlock lunar origins."
+    },
+    {
+      "title": "Some Black Holes Grow Much Faster Than Their Galaxies",
+      "description": "New observations find that a few supermassive black holes are unexpectedly large given the size of their galaxies. This suggests the connection between black holes and galaxies isn't as strong as we thought.",
+      "url": "https://www.universetoday.com/articles/some-black-holes-grow-much-faster-than-their-galaxies",
+      "source": "Universe Today",
+      "date": "Tue, 08 Sep 2026 15:12:38 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "New observations reveal that some supermassive black holes grow unexpectedly large relative to their host galaxies, challenging current understanding of black hole formation."
+    },
+    {
+      "title": "A New Mission Could Rendezvous With Halley's Comet In 2061",
+      "description": "Halley’s comet captures the imagination in a way that few other astronomical objects do. When it last made its approach toward the Sun (admittedly when this author, who is now middle-aged, was one year old in 1986), humanity responded with a fleet of spacecraft known informally as the “Halley Armada”. Yet, because of the comet’s trajectory, those spacecraft were only able to visit their target for a fleeting few hours, leaving planetary scientists wanting more. Now, a new paper by researchers at Khalifa University and their co-authors, and available in pre-print on arXiv, describes a mission plan that would allow a spacecraft to actually rendezvous with this most well-known comet for the first time ever.",
+      "url": "https://www.universetoday.com/articles/a-new-mission-could-rendezvous-with-halleys-comet-in-2061",
+      "source": "Universe Today",
+      "date": "Tue, 08 Sep 2026 12:41:18 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "A proposed mission aims to rendezvous with Halley's Comet during its 2061 appearance, opening new possibilities for studying this iconic celestial object."
+    },
+    {
+      "title": "Do Black Holes Grow Along With the Universe? A New Study Says Yes",
+      "description": "We know the universe is constantly expanding. We also know that gravitationally bound objects, such as solar systems and black holes, seem to be immune to that expansion. But a new paper, available in pre-print on arXiv by theoretical physicists Valerio Faraoni and Massimiliano Rinaldi challenges that assumption. They suggest that black holes can’t just ignore the expanding universe around them. Instead they have to expand along with it.",
+      "url": "https://www.universetoday.com/articles/do-black-holes-grow-along-with-the-universe-a-new-study-says-yes",
+      "source": "Universe Today",
+      "date": "Tue, 08 Sep 2026 11:45:00 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "A new study suggests that supermassive black holes grow in proportion with the expanding universe, providing fresh insights into cosmic evolution."
+    },
+    {
+      "title": "Fast radio bursts could help disentangle galactic feedback from dark matter effects",
+      "description": "Intense, brief flashes of radio light called fast radio bursts (FRBs) travel across billions of light-years to reach Earth, passing through a fog of matter along the way. The bursts' origins are unclear but may originate from highly magnetized dead stars called magnetars. The denser the fog through which FRBs travel, the more dispersed their signals become—similar to the way a prism splits white light into a rainbow of colors.",
+      "url": "https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 08 Sep 2026 16:00:10 EDT",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "Fast radio bursts offer a powerful new tool for distinguishing dark matter effects from galactic feedback processes across billions of light-years."
+    },
+    {
+      "title": "Martian air could yield methane rocket fuel with fewer unwanted byproducts",
+      "description": "As NASA prepares to send humans to Mars as early as the 2030s, University of Mississippi researchers are working on one of the key questions: How will they get back?",
+      "url": "https://phys.org/news/2026-09-martian-air-yield-methane-rocket.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 08 Sep 2026 15:20:01 EDT",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "University of Mississippi researchers develop methods to extract methane fuel from Martian atmosphere with minimal byproducts, supporting NASA's human Mars missions planned for the 2030s."
+    },
+    {
+      "title": "Quiet black holes with a stellar companion raise questions about how they form",
+      "description": "Active black holes are easy to detect. Their superheated accretion disks emit bright X-rays, and the jets streaming from their poles are easily seen at visible and radio wavelengths. But most stellar-mass black holes are inactive. They either drift through the galaxy alone or orbit a companion star without consuming its material. We can't observe inactive black holes directly. We can only observe their effects on nearby objects. We currently know of three such black holes thanks to the Gaia spacecraft.",
+      "url": "https://phys.org/news/2026-09-quiet-black-holes-stellar-companion.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 08 Sep 2026 12:20:01 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Observations of quiet black holes with stellar companions provide new clues about black hole formation mechanisms, expanding our understanding of these cosmic objects."
+    },
+    {
+      "title": "Hubble and Webb find that far-out solar system objects 'remember' the past",
+      "description": "For the first time, scientists used the combined power of NASA's Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, trans-Neptunian objects (TNOs). Some are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than expected and that the colors of these bodies followed the same relationships as those of their larger family members.",
+      "url": "https://phys.org/news/2026-09-hubble-webb-solar.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 08 Sep 2026 12:05:13 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Hubble and James Webb Space Telescopes combine their power to study distant solar system objects, revealing how they retain memories of the early solar system's formation."
+    },
+    {
+      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+      "description": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the past few years and is still growing stronger. Researchers hope continued observations will reveal why it suddenly formed and whether it could persist for decades.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 08:41:39 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "NASA scientists discover a striking 10-sided atmospheric pattern around Saturn's south pole, revealing unexpected geometric structures in the gas giant's dynamic atmosphere."
+    },
+    {
+      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+      "description": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely declined. Using China’s FAST radio telescope and data from roughly 2.5 million galaxies observed by DESI, researchers found that star formation was about 2.5 times higher 4.5 billion years ago, while neutral hydrogen levels were only about 1.4 times higher.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 03:48:14 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Astronomers investigate why star formation has declined dramatically over the past 4.5 billion years despite abundant hydrogen, uncovering mysteries about cosmic evolution."
+    },
+    {
+      "title": "Deep beneath Mars, scientists find a vast hidden magma system",
+      "description": "Deep beneath Mars, scientists have found evidence of enormous magmatic systems once thought to require Earth-like plate tectonics. Seismic measurements suggest molten rock repeatedly evolved and recycled itself through the Martian crust, potentially across hundreds or thousands of kilometers. The discovery challenges long-held ideas about how complex planetary crusts form.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070529.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 03 Sep 2026 20:52:29 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists discover vast hidden magma systems deep beneath Mars' surface, revealing the Red Planet once possessed Earth-like geological processes."
+    },
+    {
+      "title": " Stoke Space raises $1 billion for fully reusable rockets, targets 'early 2027' for 1st-ever launch ",
+      "description": "Stoke Space announced a $1 billion round of funding to support development of its fully reusable Nova rockets, including the newly revealed Nova Block 2, which will be capable of delivering 15-ton payloads to low Earth orbit.",
+      "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 08 Sep 2026 19:23:56 +0000",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "Stoke Space secures $1 billion in funding to develop fully reusable Nova rockets, targeting an early 2027 launch for a groundbreaking spaceflight innovation."
+    },
+    {
+      "title": "NASA Scientists Discover Giant 10-Sided Pattern on Saturn’s South Pole",
+      "description": "NASA’s Hubble Space Telescope has detected a massive, evolving 10-sided atmospheric wave circling Saturn’s south pole, according to a study published Sept. 3, 2026, in the journal Science Advances. The finding, reported by NASA’s Goddard Space Flight Center, …",
+      "url": "https://www.naturalnews.com/2026-09-08-nasa-scientists-discover-pattern-saturn-south-pole.html",
+      "source": "Naturalnews.com",
+      "date": "2026-09-08T06:00:00Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/saturns-south-pole-decagon-hubble-space-telescope-3887-original.jpg",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "NASA's Hubble Space Telescope discovered a massive 10-sided atmospheric wave circling Saturn's south pole, offering scientists a rare opportunity to observe an unusual and evolving cosmic phenomenon."
+    },
+    {
+      "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
+      "description": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field.",
+      "url": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
+      "source": "Universe Today",
+      "date": "2026-09-07T22:21:00Z",
+      "image": "https://www.universetoday.com/article_images/noirlab2618a_20260907_195017.jpeg",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The Vera C. Rubin Observatory captured a spectacularly deep image of the famous COSMOS field, revealing unprecedented detail of distant galaxies and cosmic structures."
+    },
+    {
+      "title": "In 1974, humans sent their first message to the stars from a radio telescope in Puerto Rico, aimed at a cluster 25,000 light-years away",
+      "description": "On 16 November 1974, the Arecibo radio telescope in Puerto Rico transmitted humanity's first deliberate interstellar message toward the M13 star cluster — a 1,679-bit binary picture that will not arrive for 25,000 years.\nThe post In 1974, humans sent their fi…",
+      "url": "https://theartfulage.com/ap-in-1974-humans-sent-their-first-message-to-the-stars-from-a-radio-telescope-in-puerto-rico-aimed-at-a-cluster-25-000-light-years-away/",
+      "source": "Theartfulage.com",
+      "date": "2026-09-07T10:00:36Z",
+      "image": "https://theartfulage.com/wp-content/uploads/2026/09/in-1974-humans-sent-their-first-message-.jpg",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "On November 16, 1974, humanity transmitted its first deliberate interstellar message from the Arecibo radio telescope in Puerto Rico, aimed at a star cluster 25,000 light-years away."
     }
   ]
 }
