@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T07:21:11.522Z",
+  "generated": "2026-09-09T14:25:06.745Z",
   "launches": [
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
@@ -26,19 +26,6 @@
       "mission": "USSF-153",
       "description": "USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites for a US government entity based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
-    },
-    {
-      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
-      "name": "Long March 8A | Unknown Payload",
-      "net": "2026-09-11T16:00:00Z",
-      "status": "TBC",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 8A",
-      "pad": "Commercial LC-1",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
     },
     {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
@@ -80,6 +67,19 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg"
     },
     {
+      "id": "767f7827-53d8-4621-803b-f456a1e6b512",
+      "name": "Gravity-1 | Unknown Payload",
+      "net": "2026-09-15T21:55:00Z",
+      "status": "Go",
+      "provider": "Orienspace Technology",
+      "rocket": "Gravity-1",
+      "pad": "Yellow Sea (launch location 5)",
+      "location": "Haiyang Oriental Spaceport",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg"
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
       "net": "2026-09-16T00:00:00Z",
@@ -95,8 +95,8 @@
     {
       "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
       "name": "Long March 12 | Unknown Payload",
-      "net": "2026-09-17T00:00:00Z",
-      "status": "TBC",
+      "net": "2026-09-17T00:30:00Z",
+      "status": "Go",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 12",
       "pad": "Commercial LC-2",
