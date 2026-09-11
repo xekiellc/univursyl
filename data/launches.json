@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T20:51:14.674Z",
+  "generated": "2026-09-11T00:02:17.319Z",
   "launches": [
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
@@ -18,7 +18,7 @@
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
       "name": "Falcon 9 Block 5 | USSF-153",
       "net": "2026-09-10T15:42:30Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
