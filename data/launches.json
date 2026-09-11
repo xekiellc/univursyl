@@ -1,19 +1,6 @@
 {
-  "generated": "2026-09-11T07:16:35.027Z",
+  "generated": "2026-09-11T14:17:44.530Z",
   "launches": [
-    {
-      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-      "name": "Long March 4B | Yaogan 53-01 to 03/56-01 to 03",
-      "net": "2026-09-10T09:00:00Z",
-      "status": "Success",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 4B",
-      "pad": "Launch Area 94 (SLS-2 / 603)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Yaogan 53-01 to 03/56-01 to 03",
-      "description": "6 Chinese military “remote sensing” satellite of unknown purposes.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
-    },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
       "name": "Falcon 9 Block 5 | USSF-153",
@@ -130,6 +117,19 @@
       "mission": "Unknown Payload",
       "description": "Details TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+    },
+    {
+      "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-09-17T02:35:00Z",
+      "status": "Go",
+      "provider": "ExPace",
+      "rocket": "Kuaizhou 11",
+      "pad": "Launch Area 95A",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg"
     }
   ]
 }
