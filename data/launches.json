@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T00:02:17.319Z",
+  "generated": "2026-09-11T07:16:35.027Z",
   "launches": [
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
@@ -26,6 +26,19 @@
       "mission": "USSF-153",
       "description": "USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+    },
+    {
+      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
+      "name": "Electron | Happily Ever Faster (BlackSky Gen-3 5)",
+      "net": "2026-09-11T03:28:00Z",
+      "status": "Success",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Rocket Lab Launch Complex 1A",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "mission": "Happily Ever Faster (BlackSky Gen-3 5)",
+      "description": "Note: Payload and customer identities were not publicly announced.\r\n\r\n5th of the BlackSky Gen-3 high resolution Earth-imaging satellites.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
     },
     {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
@@ -117,19 +130,6 @@
       "mission": "Unknown Payload",
       "description": "Details TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "net": "2026-09-18T00:00:00Z",
-      "status": "TBD",
-      "provider": "SpaceX",
-      "rocket": "Starship",
-      "pad": "Orbital Launch Pad 2",
-      "location": "SpaceX Starbase, TX, USA",
-      "mission": "Flight 14",
-      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
     }
   ]
 }
