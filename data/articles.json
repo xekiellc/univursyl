@@ -1,16 +1,16 @@
 {
-  "generated": "2026-09-11T14:13:56.888Z",
+  "generated": "2026-09-12T00:03:31.262Z",
   "count": 30,
   "articles": [
     {
-      "title": "Dust and Water in Sagittarius A*",
-      "description": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
-      "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 16:14:03 +0000",
-      "category": "Astrophysics",
+      "title": "BepiColombo begins Mercury arrival with MTM separation success",
+      "description": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+      "source": "ESA Space Science",
+      "date": "Mon, 07 Sep 2026 10:25:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "NASA's James Webb Space Telescope captures a remarkable image of Sagittarius A* revealing dust and water distribution around the supermassive black hole."
+      "summary": "ESA's BepiColombo mission successfully completes Mercury arrival module separation on September 3, 2026, marking a major milestone after eight years of travel. This achievement represents a landmark moment in European-Japanese space exploration of our solar system's innermost planet."
     },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
@@ -20,17 +20,7 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket to survey the infrared universe."
-    },
-    {
-      "title": "Watch live: BepiColombo begins its arrival at Mercury",
-      "description": "After eight years, the ESA/JAXA BepiColombo mission is about to enter its Mercury Arrival Phase. On 3 September 2026, ESA’s Mercury Transfer Module (MTM) will separate from BepiColombo’s two science orbiters – the first major step in one of the most operationally challenging planetary arrival sequences ever attempted by ESA.  \nThe European Space Agency (ESA) will livestream the critical milestone from 13:45 CEST. Tune in and witness the first step of one of the most complex phases of the mission, live from ESA mission control.  \nJoin ESA's livestream on YouTube here!",
-      "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
-      "source": "ESA Space Science",
-      "date": "Thu, 27 Aug 2026 07:17:00 +0200",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission is entering its Mercury Arrival Phase on September 3, 2026, marking a landmark achievement in planetary exploration."
+      "summary": "NASA's Nancy Grace Roman Space Telescope launches aboard a SpaceX Falcon Heavy rocket from Kennedy Space Center on a mission to survey the infrared sky. This landmark mission will unlock new discoveries about dark energy, exoplanets, and the universe's structure."
     },
     {
       "title": "eROSITA's Second Data Release Catalog Delivering the Most Comprehensive High-Energy Census of the Cosmos to Date",
@@ -40,7 +30,17 @@
       "date": "Thu, 10 Sep 2026 23:38:21 +0000",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "The eROSITA Consortium's second data release nearly doubles the known X-ray sources, delivering the most comprehensive high-energy census of the cosmos to date."
+      "summary": "eROSITA's second data release catalog delivers the most comprehensive high-energy census of the cosmos to date, nearly doubling previously known X-ray sources. This landmark dataset opens unprecedented windows into understanding energetic phenomena across the universe."
+    },
+    {
+      "title": "eROSITA's second data release catalog delivering most comprehensive high-energy census of the cosmos to date",
+      "description": "The eROSITA (extended ROentgen Survey with an Imaging Telescope Array) telescope, the primary instrument aboard the Russian-German Spektr-RG space observatory, was developed by the Max Planck Institute for Extraterrestrial Physics (MPE) and collaborators to study the soft X-ray night sky. The mission launched in 2019 and has delivered deep, sharp images over very large areas of the sky to map the high-energy universe. This past summer, the German eROSITA Consortium made its second data release (DR2), the most comprehensive catalog of the X-ray universe ever released.",
+      "url": "https://phys.org/news/2026-09-erosita-comprehensive-high-energy-census.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 11 Sep 2026 09:00:08 EDT",
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "The eROSITA telescope has released its second comprehensive data catalog, delivering the most complete high-energy census of the cosmos to date. This landmark achievement opens new insights into X-ray sources across the universe."
     },
     {
       "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
@@ -50,58 +50,28 @@
       "date": "Tue, 08 Sep 2026 08:09:21 EDT",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicists directly observe quantum gravity effects for the first time, confirming Einstein's foundational predictions at the quantum scale."
+      "summary": "Physicists have directly observed a quantum effect of gravity predicted by Einstein for the first time, validating foundational theories. This landmark achievement bridges quantum mechanics and general relativity."
     },
     {
-      "title": "Is it a planet or a moon? Scientists discover a strange Jupiter-sized world orbiting a brown dwarf in a never-before-seen cosmic system",
-      "description": "Astronomers found a massive object orbiting a brown dwarf star. This discovery challenges existing definitions of planets and moons. The unusual system features a nested orbital arrangement unlike our solar system. Scientists are debating the object's classif…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/is-it-a-planet-or-a-moon-scientists-discover-a-strange-jupiter-sized-world-orbiting-a-brown-dwarf-in-a-never-before-seen-cosmic-system/articleshow/133888874.cms",
-      "source": "The Times of India",
-      "date": "2026-09-07T16:15:03Z",
-      "image": "https://img.etimg.com/thumb/msid-133888996,width-1200,height-630,imgsize-48938,overlay-economictimes/articleshow.jpg",
-      "category": "Exoplanets",
-      "quality": 5,
-      "summary": "Astronomers discovered a Jupiter-sized world orbiting a brown dwarf in an unprecedented cosmic system, challenging conventional definitions of planets and moons."
-    },
-    {
-      "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-      "description": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
-      "source": "NASA",
-      "date": "Fri, 11 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "APOD features M83, the stunning Southern Pinwheel galaxy, showcasing the beauty of spiral galaxy structures and stellar formations visible from Earth."
-    },
-    {
-      "title": "NASA Answers President’s Call to Establish United States Space Academy",
-      "description": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 20:26:52 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "NASA leads the rapid establishment of the United States Space Academy following an Executive Order, inspiring the next generation of space professionals and explorers."
-    },
-    {
-      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
-      "description": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
-      "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
-      "source": "NASA",
-      "date": "Thu, 10 Sep 2026 12:00:00 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA and IBM launch an advanced AI foundation model to revolutionize lunar science research and accelerate lunar data analysis capabilities."
-    },
-    {
-      "title": "BepiColombo begins Mercury arrival with MTM separation success",
-      "description": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
-      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-      "source": "ESA Space Science",
-      "date": "Mon, 07 Sep 2026 10:25:00 +0200",
+      "title": " On this day in space! Sept. 11, 1985: The International Cometary Explorer makes 1st comet flyby in history for NASA and Europe ",
+      "description": "On Sept. 11, 1985, the International Cometary Explorer, or \"ICE,\" became the first spacecraft to fly by a comet. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-11-1985-the-international-cometary-explorer-makes-1st-comet-flyby-in-history-for-nasa-and-europe",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 11 Sep 2026 14:00:00 +0000",
       "category": "Missions",
-      "quality": 4,
-      "summary": "BepiColombo successfully completes Mercury Transfer Module separation, marking a major milestone in ESA and JAXA's joint mission to explore Mercury."
+      "quality": 5,
+      "summary": "On September 11, 1985, NASA and Europe's International Cometary Explorer became the first spacecraft ever to successfully flyby a comet, marking a historic milestone in space exploration."
+    },
+    {
+      "title": "In 1974, humans sent their first message to the stars from a radio telescope in Puerto Rico, aimed at a cluster 25,000 light-years away",
+      "description": "On 16 November 1974, the Arecibo radio telescope in Puerto Rico transmitted humanity's first deliberate interstellar message toward the M13 star cluster — a 1,679-bit binary picture that will not arrive for 25,000 years.\nThe post In 1974, humans sent their fi…",
+      "url": "https://theartfulage.com/ap-in-1974-humans-sent-their-first-message-to-the-stars-from-a-radio-telescope-in-puerto-rico-aimed-at-a-cluster-25-000-light-years-away/",
+      "source": "Theartfulage.com",
+      "date": "2026-09-07T10:00:36Z",
+      "image": "https://theartfulage.com/wp-content/uploads/2026/09/in-1974-humans-sent-their-first-message-.jpg",
+      "category": "Futurism",
+      "quality": 5,
+      "summary": "In 1974, the Arecibo radio telescope transmitted humanity's first deliberate interstellar message toward a star cluster 25,000 light-years away. This landmark moment represents humanity's first attempt to communicate with potential extraterrestrial civilizations."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -111,17 +81,27 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Hubble discovers a remarkable giant decagon atmospheric wave encircling Saturn's south pole, advancing understanding of planetary atmospheric dynamics."
+      "summary": "NASA/ESA's Hubble Space Telescope reveals a giant, evolving 10-sided atmospheric wave encircling Saturn's south pole. This fascinating discovery provides new insights into the dynamic atmospheric phenomena of our solar system's ringed giant."
     },
     {
-      "title": "What's Carving Active Gullies on Mars? It's Not Water",
-      "description": "Scientists were shocked when they received the first images of Martian gullies. They were even more shocked as those gullies appeared to change over time. Their similarities to gullies seen on Earth were uncanny, but all of Earth’s gullies are formed by the water run-off, and Martian is too cold and has too sparse an atmosphere to have liquid water on its surface. Whatever has been causing those changing gullies couldn’t have been water, so what was it? A new paper from Apolline Leclef of the Institut d’Astrophysique Spatiale at Université Paris-Saclay and her colleagues, available in pre-print on arXiv, shows how they are likely caused by CO2 frost turning into a fluid.",
-      "url": "https://www.universetoday.com/articles/whats-carving-active-gullies-on-mars-its-not-water",
+      "title": "Dense Galaxies Are Carving Out A Bubble in the Early Universe",
+      "description": "Light could only travel freely in the Universe after cosmic reionization. Before that, neutral hydrogen stopped photons from travelling. The JWST has found evidence of an overdensity of galaxies carving out a bubble of reionization. Is this how it all started?",
+      "url": "https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe",
       "source": "Universe Today",
-      "date": "Fri, 11 Sep 2026 13:12:56 +0000",
-      "category": "Solar System",
+      "date": "Fri, 11 Sep 2026 22:51:28 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists have discovered new insights into the formation of active gullies on Mars through analysis of the latest imagery data."
+      "summary": "Research reveals how dense galaxies carved out bubbles in the early universe during the cosmic reionization epoch. This discovery illuminates the remarkable role of the first galaxies in transforming the universe from opaque to transparent."
+    },
+    {
+      "title": "How Big Can The Universe's First Starbursts Get?",
+      "description": "As our telescopes have improved and we’ve been able to peer farther back in time, we’ve begun finding more fascinating features of the universe. But one thing we definitely haven’t found yet is Population III (Pop III) stars. These were the earliest stars in the universe, formed completely from pristine hydrogen and helium, with no “metals” (i.e. elements heavier than those two) polluting their processes. They are also theorized to be absolutely massive, and “die with passion” as Bill Wurtz once put it in a famous YouTube video. A new paper, available in pre-print form on arXiv by Tae Bong Jeon from the Cosmic Frontier Center at the University of Texas at Austin, looks at just how massive those starbursts could be, and whether the James Webb Space Telescope could detect one.",
+      "url": "https://www.universetoday.com/articles/how-big-can-the-universes-first-starbursts-get",
+      "source": "Universe Today",
+      "date": "Fri, 11 Sep 2026 14:19:27 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Improved telescopes are revealing increasingly fascinating starburst galaxies in the early universe, pushing the boundaries of our understanding of star formation. These discoveries showcase the remarkable scale and power of the cosmos's first stellar populations."
     },
     {
       "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
@@ -131,7 +111,7 @@
       "date": "Fri, 11 Sep 2026 10:49:44 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "NASA's next-generation observatory will have the capability to detect oceans on distant exoplanets, building on the discovery of over 5,500 known exoplanets in habitable zones."
+      "summary": "NASA's next-generation observatory could detect oceans on distant exoplanets, advancing the search for potentially habitable worlds beyond our solar system. With over 5,500 exoplanets already discovered, this technology represents a transformative tool for astrobiology."
     },
     {
       "title": "Unexplained Gamma-Rays from the Galactic Center Could be from Self-Annihilating Dark Matter",
@@ -141,7 +121,7 @@
       "date": "Thu, 10 Sep 2026 19:56:32 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Unexplained gamma-ray emissions detected by the Fermi satellite in the galactic center may originate from self-annihilating dark matter, offering new insights into this cosmic mystery."
+      "summary": "An unexplained gamma-ray excess detected by the Fermi satellite at the galactic center may originate from self-annihilating dark matter particles. This intriguing finding offers a tantalizing clue to solving one of physics's greatest mysteries."
     },
     {
       "title": "A New Surface Atlas of Phobos Will Help JAXA's MMX Mission Collect its Samples",
@@ -151,17 +131,37 @@
       "date": "Thu, 10 Sep 2026 17:27:17 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "JAXA's Martian Moon eXploration (MMX) mission will use a new surface atlas of Phobos to guide its sample collection from Mars' intriguing moon."
+      "summary": "A new surface atlas of Phobos supports JAXA's Martian Moon eXploration (MMX) mission launching next month to collect samples from Mars's enigmatic moon. This detailed mapping prepares humanity for an exciting new phase of solar system exploration."
     },
     {
-      "title": "New Revelations About the Origin of Interstellar Comet 3I/ATLAS",
-      "description": "UK astronomers have uncovered new clues about the origin of 3I/Atlas – only the third known object from beyond our Solar System ever spotted in our cosmic neighbourhood.",
-      "url": "https://www.universetoday.com/articles/new-revelations-about-the-origin-of-interstellar-comet-3iatlas",
+      "title": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
+      "description": "The James Webb Space Telescope (JWST) has opened up many wonders of the cosmos to scientists since it began its science operations a few years ago. But one thing that it hasn’t done is find an “exomoon”. These, as yet still theoretical, moons orbit exoplanets in other star systems, and JWST was supposed to find a plethora of them. However, so far it has found precisely none. It seems the cause is noise in the telescope’s instrumentation or noise from the star itself. But a new paper, available in pre-print form on arXiv from David Kipping, an astronomer at Columbia and also the host of the Cool Worlds YouTube Channel, shows how JWST can, in fact, find an exomoon. It likely just has to look for one in the same place repeatedly.",
+      "url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
       "source": "Universe Today",
-      "date": "Thu, 10 Sep 2026 02:24:37 +0000",
+      "date": "Thu, 10 Sep 2026 14:42:29 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "JWST has successfully ruled out the presence of tiny moons around an exoplanet, refining our understanding of planetary system formation. This methodological achievement opens new avenues for characterizing exoplanetary environments."
+    },
+    {
+      "title": "Scientists discover a strange new form of ice that could help explain the interiors of Neptune and Uranus",
+      "description": "Scientists have discovered that there is ice deep inside planets like Neptune and Uranus and want to find out what form it takes and how it behaves. They cannot dig for it and transport it all the way back to Earth, so they do the next best thing: recreate those extreme conditions in the lab.",
+      "url": "https://phys.org/news/2026-09-scientists-strange-ice-interiors-neptune.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 11 Sep 2026 14:40:08 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "UK astronomers have revealed new clues about the origin of 3I/Atlas, only the third known interstellar object to visit our solar system."
+      "summary": "Scientists have discovered a new exotic form of ice that exists in the deep interiors of Neptune and Uranus, advancing our knowledge of ice giant composition. This discovery helps explain the mysterious internal structures of these distant worlds."
+    },
+    {
+      "title": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
+      "description": "NASA is bringing artificial intelligence to the study of the moon, helping researchers transform how they analyze its surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, one of the first open-source AI models built specifically for lunar science. The model, trained primarily on data from NASA's Lunar Reconnaissance Orbiter (LRO), is hosted publicly on Hugging Face for anyone to use, with the complete codebase available on GitHub for testing and experimentation.",
+      "url": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 11 Sep 2026 10:40:09 EDT",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA has deployed an open AI model trained on 17 years of lunar data to map ice, craters, and volcanoes on the Moon. This innovation revolutionizes how researchers analyze lunar surface features."
     },
     {
       "title": "A new surface atlas of Phobos will help MMX mission collect its samples",
@@ -171,7 +171,7 @@
       "date": "Fri, 11 Sep 2026 09:20:04 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "JAXA's surface atlas of Phobos will enable the MMX mission to successfully collect samples from Mars' moon on its upcoming journey."
+      "summary": "JAXA has created a detailed surface atlas of Phobos to support the MMX sample-return mission's collection efforts. This mapping will enable groundbreaking sample collection from Mars' mysterious moon."
     },
     {
       "title": "Continuous video of black hole radio observations challenges shock wave theory",
@@ -181,47 +181,7 @@
       "date": "Thu, 10 Sep 2026 12:50:01 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Continuous video observations of black hole radio emissions are challenging existing shock wave theory and advancing our understanding of these cosmic phenomena."
-    },
-    {
-      "title": "Scientists want to 3D print houses on Mars with the help of yeast",
-      "description": "Mars is a terrible place to build a house. It's bitterly cold, blasted by radiation and a near vacuum. Not to mention that the building materials, even for a modest shelter, could spend months hurtling through space before construction begins.",
-      "url": "https://phys.org/news/2026-09-scientists-3d-houses-mars-yeast.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 10 Sep 2026 11:00:01 EDT",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "Scientists are exploring innovative biotechnology solutions using yeast to 3D print habitable structures on Mars, overcoming the planet's harsh environmental challenges."
-    },
-    {
-      "title": "BepiColombo measures Mercury's particle bombardment up close",
-      "description": "The joint BepiColombo mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) is settling into orbit around Mercury after an eight-year journey. In early September, BepiColombo's two orbiters, the Mercury Planetary Orbiter and the Mercury Magnetospheric Orbiter, separated from the transfer module. The orbiters will enter Mercury's orbit in November and separate from each other in December.",
-      "url": "https://phys.org/news/2026-09-bepicolombo-mercury-particle-bombardment.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 10 Sep 2026 10:40:09 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The joint ESA/JAXA BepiColombo mission is taking close-up measurements of Mercury's particle bombardment, revealing new data about the planet's environment."
-    },
-    {
-      "title": "Asteroid Ryugu's dust reveals nitrogen's slow concentration into complex molecules",
-      "description": "Nitrogen is a key ingredient in the biomolecules that form the building blocks of life. Yet as an unbonded gas, it is far more likely to drift into space than to lock itself into solid compounds, making it difficult for astronomers to trace its journey to Earth in the distant past.",
-      "url": "https://phys.org/news/2026-09-asteroid-ryugu-reveals-nitrogen-complex.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 10 Sep 2026 10:30:11 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Analysis of asteroid Ryugu's dust reveals how nitrogen concentrates into complex molecules essential for life, offering insights into prebiotic chemistry in space."
-    },
-    {
-      "title": "Physicists just found a tiny glitch in time itself",
-      "description": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 11 Sep 2026 01:18:44 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Physicists discover that quantum theories suggest time itself has fundamental uncertainty at the smallest scales, revealing a profound limit to nature's precision."
+      "summary": "Continuous video observations of black hole radio emissions challenge existing shock wave theory and reveal new dynamics. This discovery enhances our understanding of black hole behavior and physics."
     },
     {
       "title": "The Moon may have formed intact just hours after a giant collision",
@@ -231,7 +191,7 @@
       "date": "Thu, 10 Sep 2026 21:40:57 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research suggests the Moon may have formed intact just hours after a giant collision, revolutionizing our understanding of lunar origin."
+      "summary": "Scientists have found that the Moon likely formed intact within hours of the giant collision that created it, depending on specific temperature and physical conditions. This challenges traditional lunar formation timelines."
     },
     {
       "title": "Interstellar comet 3I/ATLAS is bursting with methanol",
@@ -239,9 +199,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Interstellar comet 3I/ATLAS contains exceptionally high methanol levels, revealing unique formation conditions in interstellar space."
+      "summary": "Interstellar comet 3I/ATLAS contains exceptionally high levels of methanol, revealing unique formation conditions from another star system. This discovery provides insights into chemistry across different stellar environments."
     },
     {
       "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
@@ -251,7 +211,7 @@
       "date": "Tue, 08 Sep 2026 23:06:55 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers detect an exceptionally faint hydrogen signal from billions of light-years away, opening new possibilities for mapping the universe's structure."
+      "summary": "Astronomers have detected an exceptionally faint ancient hydrogen radio signal from billions of light-years away using advanced instruments. This breakthrough enables new methods for mapping the large-scale structure of the universe."
     },
     {
       "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
@@ -261,27 +221,27 @@
       "date": "Thu, 03 Sep 2026 08:41:39 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA scientists discover a giant 10-sided atmospheric pattern around Saturn's south pole, adding to the planet's remarkable geometric mysteries."
+      "summary": "NASA scientists have discovered a giant 10-sided atmospheric pattern around Saturn's south pole, providing a surprising counterpart to its famous hexagon. This discovery reveals unexpected atmospheric dynamics on the gas giant."
     },
     {
-      "title": " Scientists discover mysterious new X-ray objects 'unlike any they have seen before' ",
-      "description": "Faint in X-rays but bright in ultraviolet light, new objects found by NASA's Chandra space telescope could help solve two great astrophysical mysteries.",
-      "url": "https://www.space.com/astronomy/galaxies/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before",
+      "title": " A star is exploding 45 million light-years away — here's how you can see it ",
+      "description": "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it fades.",
+      "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
       "source": " Latest from Space.com ",
-      "date": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "date": "Fri, 11 Sep 2026 20:00:00 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Chandra space telescope discovers mysterious new X-ray objects unlike any previously observed, potentially solving long-standing cosmic mysteries."
+      "summary": "A newly discovered Type Ia supernova SN 2026aaiv in galaxy NGC 7331 offers amateur astronomers and astrophotographers a rare chance to observe and photograph a stellar explosion 45 million light-years away."
     },
     {
-      "title": " On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity ",
-      "description": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+      "title": " The sun may once have swallowed a super-Earth planet and could still be hiding the evidence ",
+      "description": "The sun may have swallowed a super-Earth planet in its early history, and our star may still be hiding the evidence, new research suggests.",
+      "url": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence",
       "source": " Latest from Space.com ",
-      "date": "Thu, 10 Sep 2026 18:01:18 +0000",
-      "category": "NASA",
+      "date": "Fri, 11 Sep 2026 16:00:00 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA's GRAIL spacecraft launched on September 10, 2011, to map the Moon's gravity field and unlock secrets of lunar structure."
+      "summary": "New research suggests our sun may have swallowed a super-Earth planet during its early history, with evidence potentially still hidden within our star. This discovery reshapes our understanding of planetary system evolution."
     },
     {
       "title": "Four amateur astronomers using a telescope in Chile’s Atacama desert found a comet on 13 January 2026, 81 days before it would graze past the Sun. Nobody alive had seen its previous pass, because the orbit it travels on brings it back only about every 1,900 years.",
@@ -292,18 +252,62 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/Untitled-design-2026-09-08T225125.721.png",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Amateur astronomers in Chile's Atacama Desert discovered a comet with a rare 1,900-year orbit, last seen during the Middle Ages."
+      "summary": "Four amateur astronomers in Chile's Atacama Desert discovered a comet that won't reach perihelion for 81 days, with an orbit so long that no living person has witnessed its previous passage 1,900 years ago. This demonstrates the vital role citizen astronomers play in celestial discoveries."
     },
     {
-      "title": "Icy Exocomets Around a Distant Star Help Explain Earth's Water",
-      "description": "Did icy comets deliver water to the young Earth? That idea won't go away. Now, astronomers at Lund University in Sweden have found evidence of exocomets orbiting a young star named PDS 70. The observations suggest that these comets are delivering water to tha…",
-      "url": "https://www.universetoday.com/articles/icy-exocomets-around-a-distant-star-help-explain-earths-water",
+      "title": "Astronomy Picture of the Day - Hubble: Decagon Around Saturn's South Pole",
+      "description": "Explanation: Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.…",
+      "url": "https://freerepublic.com/focus/f-chat/4394713/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-09-08T18:18:45Z",
+      "image": null,
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope has revealed a geometric decagon (10-sided pattern) circling Saturn's south pole, adding to the mystery of why the gas giant's poles display such remarkable geometric shapes."
+    },
+    {
+      "title": "NASA Scientists Discover Giant 10-Sided Pattern on Saturn’s South Pole",
+      "description": "NASA’s Hubble Space Telescope has detected a massive, evolving 10-sided atmospheric wave circling Saturn’s south pole, according to a study published Sept. 3, 2026, in the journal Science Advances. The finding, reported by NASA’s Goddard Space Flight Center, …",
+      "url": "https://www.naturalnews.com/2026-09-08-nasa-scientists-discover-pattern-saturn-south-pole.html",
+      "source": "Naturalnews.com",
+      "date": "2026-09-08T06:00:00Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/saturns-south-pole-decagon-hubble-space-telescope-3887-original.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "NASA's Hubble Space Telescope has detected a massive, evolving 10-sided atmospheric wave circling Saturn's south pole, offering scientists a rare opportunity to study an unusual and dynamic planetary phenomenon."
+    },
+    {
+      "title": "Rubin Observatory Peers Deep Into the Famous COSMOS Field",
+      "description": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field.",
+      "url": "https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field",
       "source": "Universe Today",
-      "date": "2026-09-08T20:29:34Z",
-      "image": "https://www.universetoday.com/article_images/pds70_blender.png_20260908_200130.jpg",
+      "date": "2026-09-07T22:21:00Z",
+      "image": "https://www.universetoday.com/article_images/noirlab2618a_20260907_195017.jpeg",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The NSF–DOE Vera C. Rubin Observatory has captured a spectacularly deep image of the famous COSMOS field, revealing unprecedented detail of distant galaxies and advancing our understanding of the universe's large-scale structure."
+    },
+    {
+      "title": "Is it a planet or a moon? Scientists discover a strange Jupiter-sized world orbiting a brown dwarf in a never-before-seen cosmic system",
+      "description": "Astronomers found a massive object orbiting a brown dwarf star. This discovery challenges existing definitions of planets and moons. The unusual system features a nested orbital arrangement unlike our solar system. Scientists are debating the object's classif…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/is-it-a-planet-or-a-moon-scientists-discover-a-strange-jupiter-sized-world-orbiting-a-brown-dwarf-in-a-never-before-seen-cosmic-system/articleshow/133888874.cms",
+      "source": "The Times of India",
+      "date": "2026-09-07T16:15:03Z",
+      "image": "https://img.etimg.com/thumb/msid-133888996,width-1200,height-630,imgsize-48938,overlay-economictimes/articleshow.jpg",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers at Lund University discovered icy exocomets around a distant star, providing evidence that comets may have delivered water to early Earth."
+      "summary": "Astronomers discovered a Jupiter-sized object orbiting a brown dwarf in an unprecedented cosmic configuration. This finding expands our understanding of planetary formation and challenges traditional planet definitions."
+    },
+    {
+      "title": "Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.",
+      "description": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light years away, demonstrating a powerful new way to map the Universe.",
+      "url": "https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past",
+      "source": "Universe Today",
+      "date": "2026-09-06T21:03:35Z",
+      "image": "https://www.universetoday.com/article_images/South-Africas-MeerKAT-peers-deep-into-the-Universe-2_20260905_232345.jpg",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Astronomers have directly detected an extremely faint radio signal from hydrogen gas billions of light-years away, revealing the distant cosmic past. This achievement opens new windows into studying the early universe."
     }
   ]
 }
