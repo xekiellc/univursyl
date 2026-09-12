@@ -1,17 +1,7 @@
 {
-  "generated": "2026-09-12T16:54:14.626Z",
+  "generated": "2026-09-12T20:26:21.143Z",
   "count": 30,
   "articles": [
-    {
-      "title": "BepiColombo begins Mercury arrival with MTM separation success",
-      "description": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
-      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-      "source": "ESA Space Science",
-      "date": "Mon, 07 Sep 2026 10:25:00 +0200",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "The ESA/JAXA BepiColombo mission successfully completes its Mercury Transfer Module separation on September 3, 2026, marking a critical milestone in its approach to Mercury. This achievement advances humanity's exploration of the inner solar system."
-    },
     {
       "title": "Roman lifts off on a mission to survey the infrared sky ",
       "description": "Image:\n\t\t\t\nNASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.\nRoman is a NASA-led mission to which the European Space Agency (ESA) contributed star trackers, batteries, and detectors for the coronagraph instrument. ESA will also provide communications support through its deep-space ground station network, and enable data download using its new 35-metre antenna in New Norcia, Australia.\n“I warmly congratulate our colleagues at NASA on the successful launch of Roman,” says Carole Mundell, ESA’s Director of Science. “ESA is proud to have provided essential hardware and to continue supporting Roman’s ambitious scientific goals. Together, we are opening new windows on the cosmos.”\nLike ESA’s Euclid space telescope, Roman will enable astronomers to study the Universe in unprecedented detail. It is equipped with a primary mirror of 2.4 m and two instruments: the Wide Field Instrument (WFI) and a Coronagraph Instrument technology demonstration.\nWith its panoramic view of the sky, crisp infrared vision and quick re-orientation skills, Roman will perform fast and efficient surveys of a large area of the sky. By doing so, it will map clustering of galaxies over time and space and also study the light coming from thousands of distant type Ia supernovas which will help astronomers trace the expansion of the Universe.\n“Roman should provide our clearest picture yet of whether dark energy is truly constant or whether it evolves over cosmic time – either outcome would have profound implications for our understanding of the Universe. I'm also excited by Roman's exoplanet census, which will discover thousands of new worlds, including cold planets and free-floating planets that have remained largely beyond our reach until now,” says Bethan James, ESA’s Roman Project Scientist. “Perhaps what excites me most is the unexpected. With its unprecedented combination of depth, area, and image quality, Roman has every opportunity to surprise us.”\nAfter launch, Roman is on a steady course to the second Sun-Earth Lagrange point (L2), nearly 1.5 million km away from Earth. This location allows the telescope to have an unobstructed view of a wide area of the sky, almost 12%. Like ESA’s Euclid and the NASA/ESA/CSA James Webb Space Telescope, Roman will move in a wider orbit around the L2 point – much larger than the Moon’s orbit around Earth.\nIn the next three months following launch, the Roman team will conduct a carefully orchestrated series of deployments, calibrations, and tests. Once the commissioning period is complete, the mission will begin its science operations, starting with the first science image release. Roman will spend at least five years scanning the infrared sky and is designed to work in space for another five years.\n[Image description: A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Space Telescope on board is seen transiting the Sun during launch from Launch Complex 39A, on Sunday 30 August 2026, at NASA’s Kennedy Space Center in Florida, US.]",
@@ -20,7 +10,7 @@
       "date": "Mon, 31 Aug 2026 09:00:00 +0200",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket from Kennedy Space Center to survey the infrared universe. This landmark mission will unlock new discoveries about dark energy, exoplanets, and distant galaxies."
+      "summary": "NASA's Nancy Grace Roman Space Telescope successfully launches aboard a SpaceX Falcon Heavy rocket to conduct an infrared survey of the universe."
     },
     {
       "title": "Watch live: BepiColombo begins its arrival at Mercury",
@@ -30,7 +20,17 @@
       "date": "Thu, 27 Aug 2026 07:17:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "The ESA/JAXA BepiColombo mission enters its Mercury Arrival Phase after eight years of travel on September 3, 2026. This landmark mission will provide unprecedented insights into the solar system's innermost planet."
+      "summary": "After eight years of travel, the ESA/JAXA BepiColombo mission is beginning its historic arrival phase at Mercury on September 3, 2026. This landmark mission will provide unprecedented insights into the innermost planet's geology and magnetic field."
+    },
+    {
+      "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
+      "description": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of Arizona, available in pre-print on arXiv and submitted to the Astrophysical Journal, looks at a unique way we might be able to find one - by looking for its “glint”.",
+      "url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
+      "source": "Universe Today",
+      "date": "Fri, 11 Sep 2026 10:49:44 +0000",
+      "category": "Exoplanets",
+      "quality": 5,
+      "summary": "NASA's next-generation observatory will be capable of detecting oceans on distant exoplanets, revolutionizing the search for habitable worlds. Over 5,500 exoplanets await deeper investigation with this transformative technology."
     },
     {
       "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
@@ -40,7 +40,7 @@
       "date": "Tue, 08 Sep 2026 08:09:21 EDT",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicists have directly observed a long-predicted quantum effect of gravity for the first time, confirming a foundational prediction of Einstein's theory in the quantum realm."
+      "summary": "Scientists have directly observed quantum gravitational effects for the first time, confirming Einstein's century-old predictions about gravity at quantum scales. This landmark finding bridges general relativity and quantum mechanics."
     },
     {
       "title": "Is it a planet or a moon? Scientists discover a strange Jupiter-sized world orbiting a brown dwarf in a never-before-seen cosmic system",
@@ -51,7 +51,7 @@
       "image": "https://img.etimg.com/thumb/msid-133888996,width-1200,height-630,imgsize-48938,overlay-economictimes/articleshow.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have discovered a Jupiter-sized object orbiting a brown dwarf in an unprecedented cosmic system, challenging conventional definitions of planets and moons. This discovery expands our understanding of planetary formation."
+      "summary": "Astronomers discovered a Jupiter-sized object orbiting a brown dwarf in an unprecedented cosmic system, challenging traditional planet definitions. This landmark discovery reveals the diversity of planetary systems across the universe."
     },
     {
       "title": "NASA’s Chandra Spots Galactic Gem",
@@ -61,7 +61,7 @@
       "date": "Fri, 11 Sep 2026 17:19:47 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Chandra X-ray Observatory captures a stunning image of the II Zw 096 galaxy system showing two galaxies merging at an intense rate. This observation provides valuable insights into galactic collision dynamics."
+      "summary": "NASA's Chandra X-ray Observatory captures a stunning image of the II Zw 096 system showing two galaxies merging at an intense rate."
     },
     {
       "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
@@ -71,17 +71,17 @@
       "date": "Fri, 11 Sep 2026 14:56:25 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA commits to open science principles through the Artemis Accords, ensuring that all lunar samples, datasets, and discoveries from the Moon program will be openly shared with the scientific community. This promotes collaborative exploration and accelerates scientific progress."
+      "summary": "NASA commits to open science principles through the Artemis Accords, ensuring all lunar discoveries and data are shared with the global scientific community."
     },
     {
-      "title": "BepiColombo’s Mercury arrival begins - full replay",
-      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "title": "BepiColombo begins Mercury arrival with MTM separation success",
+      "description": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
+      "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
       "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA and JAXA's BepiColombo mission begins its Mercury arrival sequence with live coverage of the historic milestone. This collaborative international mission demonstrates cutting-edge planetary exploration capabilities."
+      "summary": "BepiColombo successfully completes the Mercury Transfer Module separation, a critical milestone in the European-Japanese mission's arrival at Mercury."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -91,7 +91,7 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "The Hubble Space Telescope discovers a new 10-sided atmospheric wave, or decagon, encircling Saturn's south pole, adding to the planet's known atmospheric phenomena. This observation reveals the dynamic and evolving nature of Saturn's atmosphere."
+      "summary": "Hubble discovers a giant 10-sided atmospheric wave pattern evolving around Saturn's south pole, providing new insights into the gas giant's atmosphere."
     },
     {
       "title": "Dense Galaxies Are Carving Out A Bubble in the Early Universe",
@@ -101,7 +101,7 @@
       "date": "Fri, 11 Sep 2026 22:51:28 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Dense galaxies in the early universe played a crucial role in cosmic reionization, carving bubbles through neutral hydrogen. This discovery illuminates how the universe's first structures shaped its evolution."
+      "summary": "Astronomers have discovered dense galaxies carving out bubbles in the early universe during the epoch of reionization. This discovery illuminates how the first galaxies shaped the universe we see today."
     },
     {
       "title": "How Big Can The Universe's First Starbursts Get?",
@@ -111,17 +111,7 @@
       "date": "Fri, 11 Sep 2026 14:19:27 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Advanced telescopes are revealing the universe's earliest and most massive starburst galaxies, expanding our understanding of cosmic history. These discoveries challenge our models of early galaxy formation and growth."
-    },
-    {
-      "title": "NASA's Next Great Observatory Could Spot Oceans on Distant Worlds",
-      "description": "We’ve found over 5,500 exoplanets so far. Dozens of them have been in the habitable zone of their parent stars, where, at least in theory, they could host an ocean. But we’ve never definitively found a liquid ocean on another planet. A new paper from researchers Eleanor Cornish and Tyler Robinson of the University of Arizona, available in pre-print on arXiv and submitted to the Astrophysical Journal, looks at a unique way we might be able to find one - by looking for its “glint”.",
-      "url": "https://www.universetoday.com/articles/nasas-next-great-observatory-could-spot-oceans-on-distant-worlds",
-      "source": "Universe Today",
-      "date": "Fri, 11 Sep 2026 10:49:44 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "NASA's next great observatory will be capable of detecting oceans and atmospheres on distant exoplanets. This breakthrough technology brings us closer to identifying potentially habitable worlds beyond our solar system."
+      "summary": "Improved telescopes are revealing increasingly massive starburst galaxies in the early universe, pushing the boundaries of our understanding. These discoveries reshape our knowledge of cosmic evolution and galaxy formation."
     },
     {
       "title": "eROSITA's Second Data Release Catalog Delivering the Most Comprehensive High-Energy Census of the Cosmos to Date",
@@ -131,7 +121,7 @@
       "date": "Thu, 10 Sep 2026 23:38:21 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The eROSITA mission's second data release provides nearly double the high-energy X-ray census of the cosmos. This comprehensive catalog advances our understanding of the universe's most energetic phenomena."
+      "summary": "The eROSITA Consortium has released its second comprehensive high-energy census of the cosmos, nearly doubling previous X-ray catalogs. This landmark dataset opens new avenues for understanding the universe's most energetic phenomena."
     },
     {
       "title": "Scientists discover a strange new form of ice that could help explain the interiors of Neptune and Uranus",
@@ -141,7 +131,7 @@
       "date": "Fri, 11 Sep 2026 14:40:08 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists have discovered a new form of ice that exists within Neptune and Uranus, revealing startling truths about ice giant interiors. This discovery deepens our understanding of planetary composition and structure."
+      "summary": "Scientists have discovered a remarkable new form of ice that exists deep within Neptune and Uranus, revolutionizing our understanding of ice-giant interiors. This breakthrough illuminates the diverse physics of our outer planets."
     },
     {
       "title": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
@@ -151,7 +141,7 @@
       "date": "Fri, 11 Sep 2026 10:40:09 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's AI model trained on 17 years of lunar data creates detailed maps of lunar ice, craters, and volcanoes. This innovative approach revolutionizes how scientists analyze the moon's surface and geology."
+      "summary": "NASA has released an open AI model trained on 17 years of lunar data that maps ice, craters, and volcanoes with unprecedented precision. This tool transforms lunar research and accelerates our understanding of the Moon."
     },
     {
       "title": "A new surface atlas of Phobos will help MMX mission collect its samples",
@@ -161,7 +151,7 @@
       "date": "Fri, 11 Sep 2026 09:20:04 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "JAXA's new surface atlas of Phobos provides crucial guidance for the MMX sample-return mission. This detailed mapping brings humanity closer to understanding the origins of Mars's fascinating moon."
+      "summary": "JAXA has created a comprehensive surface atlas of Phobos to support the MMX sample-return mission's groundbreaking objectives. This preparation enables humanity's first mission to collect samples from a Martian moon."
     },
     {
       "title": "Physicists just found a tiny glitch in time itself",
@@ -171,7 +161,7 @@
       "date": "Fri, 11 Sep 2026 01:18:44 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Physicists have discovered evidence that time itself may have fundamental quantum uncertainty at the smallest scales, potentially placing ultimate limits on the nature of reality."
+      "summary": "Quantum physics research suggests time itself may have fundamental uncertainty at the smallest scales. This discovery bridges Einstein's relativity with quantum mechanics, advancing our understanding of reality's nature."
     },
     {
       "title": "The Moon may have formed intact just hours after a giant collision",
@@ -181,7 +171,7 @@
       "date": "Thu, 10 Sep 2026 21:40:57 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research suggests the Moon may have formed intact just hours after a giant collision with early Earth, fundamentally changing our understanding of lunar formation."
+      "summary": "New research reveals the Moon may have formed remarkably quickly—within hours of the giant impact that created it. This discovery reshapes our understanding of planetary formation in the early solar system."
     },
     {
       "title": "Astronomers detect ancient hydrogen signal that could help map the Universe",
@@ -191,7 +181,7 @@
       "date": "Tue, 08 Sep 2026 23:06:55 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers have detected an exceptionally faint ancient hydrogen radio signal from billions of light-years away, opening new possibilities for mapping the universe's large-scale structure."
+      "summary": "Astronomers detected an exceptionally faint ancient hydrogen signal from billions of light-years away using advanced radio astronomy. This breakthrough enables new methods for mapping the structure and history of the universe."
     },
     {
       "title": "Four amateur astronomers using a telescope in Chile’s Atacama desert found a comet on 13 January 2026, 81 days before it would graze past the Sun. Nobody alive had seen its previous pass, because the orbit it travels on brings it back only about every 1,900 years.",
@@ -202,7 +192,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/Untitled-design-2026-09-08T225125.721.png",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Amateur astronomers in Chile discovered a comet in January 2026 that won't reach perihelion for 81 days, making its first observed pass in approximately 1,900 years. This discovery demonstrates the power of citizen astronomy."
+      "summary": "Four amateur astronomers in Chile's Atacama Desert discovered a comet on January 13, 2026, that last visited Earth during the Middle Ages—a remarkable find demonstrating the power of dedicated citizen science. This ancient celestial wanderer returns only every 1,900 years."
     },
     {
       "title": "Icy Exocomets Around a Distant Star Help Explain Earth's Water",
@@ -213,7 +203,7 @@
       "image": "https://www.universetoday.com/article_images/pds70_blender.png_20260908_200130.jpg",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers at Lund University have discovered icy exocomets around a distant star, providing new insights into whether cometary delivery could have brought water to early Earth. This research strengthens the case for panspermia of water-bearing bodies."
+      "summary": "Astronomers discovered icy exocomets around a distant star, providing new insights into whether comets delivered water to the young Earth. This discovery strengthens our understanding of planetary formation and Earth's origins."
     },
     {
       "title": "Astronomy Picture of the Day - Hubble: Decagon Around Saturn's South Pole",
@@ -224,7 +214,7 @@
       "image": null,
       "category": "Solar System",
       "quality": 4,
-      "summary": "The Hubble Space Telescope has captured an image of a mysterious 10-sided geometric pattern circling Saturn's south pole. This rare atmospheric phenomenon offers scientists a unique opportunity to study unusual planetary dynamics."
+      "summary": "The Hubble Space Telescope revealed a mysterious 10-sided geometric pattern surrounding Saturn's south pole. This discovery showcases the dynamic and surprising atmospheric phenomena occurring on gas giants."
     },
     {
       "title": "NASA Scientists Discover Giant 10-Sided Pattern on Saturn’s South Pole",
@@ -235,18 +225,29 @@
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/saturns-south-pole-decagon-hubble-space-telescope-3887-original.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope has detected a massive 10-sided atmospheric wave evolving around Saturn's south pole. This discovery provides rare insight into unusual planetary atmospheric behavior."
+      "summary": "NASA's Hubble Space Telescope detected a massive 10-sided atmospheric wave circling Saturn's south pole, an evolving and unusual phenomenon. Scientists now have a rare opportunity to study this strange geometric pattern in real-time."
     },
     {
-      "title": "Thirty-six and a half seconds after Apollo 12 left the pad on 14 November 1969, lightning travelled through the Saturn V and its exhaust trail, and fifteen and a half seconds later a second strike hit — telemetry on the ground dissolved into nonsense numbers and the cabin filled with warning lights",
-      "description": "On 14 November 1969, lightning struck the Saturn V carrying Apollo 12 twice in the first minute of flight. The mission survived because a 26-year-old flight controller recognised a strange pattern in the telemetry — one he had seen once before, on a night shi…",
-      "url": "https://theartfulage.com/ap-thirty-six-and-a-half-seconds-after-apollo-12-left-the-pad-on-14-november-1969-lightning-travelled-through-the-saturn-v-and-its-exhaust-trail-and-fifteen-and-a-half-seconds-later-a-second-strike/",
+      "title": "In 1974, humans sent their first message to the stars from a radio telescope in Puerto Rico, aimed at a cluster 25,000 light-years away",
+      "description": "On 16 November 1974, the Arecibo radio telescope in Puerto Rico transmitted humanity's first deliberate interstellar message toward the M13 star cluster — a 1,679-bit binary picture that will not arrive for 25,000 years.\nThe post In 1974, humans sent their fi…",
+      "url": "https://theartfulage.com/ap-in-1974-humans-sent-their-first-message-to-the-stars-from-a-radio-telescope-in-puerto-rico-aimed-at-a-cluster-25-000-light-years-away/",
       "source": "Theartfulage.com",
-      "date": "2026-09-11T08:18:19Z",
-      "image": "https://theartfulage.com/wp-content/uploads/2026/09/thirty-six-and-a-half-seconds-after-apol.jpg",
-      "category": "NASA",
+      "date": "2026-09-07T10:00:36Z",
+      "image": "https://theartfulage.com/wp-content/uploads/2026/09/in-1974-humans-sent-their-first-message-.jpg",
+      "category": "Futurism",
       "quality": 4,
-      "summary": "Apollo 12 was struck by lightning twice during its November 14, 1969 launch, yet the mission successfully continued to the moon through crew expertise and spacecraft resilience. This remarkable event showcases the robustness of Apollo engineering."
+      "summary": "On November 16, 1974, the Arecibo radio telescope transmitted humanity's first deliberate interstellar message toward a star cluster 25,000 light-years away. This historic achievement represents our species' first attempt to communicate with potential extraterrestrial civilizations."
+    },
+    {
+      "title": "L’Europe veut enfin son « Dragon » : un contrat record de 760 millions pour une jeune entreprise cofondée par une Française",
+      "description": "L'Agence spatiale européenne a signé, lors du Sommet de l'espace à Paris, son plus important contrat de transport spatial avec une entreprise franco-allemande. La capsule Nyx de The Exploration Company, en cours de développement, doit désormais s'amarrer à l'…",
+      "url": "https://www.futura-sciences.com/sciences/actualites/exploration-company-europe-veut-enfin-son-dragon-contrat-record-760-millions-jeune-entreprise-cofondee-francaise-137669/",
+      "source": "Futura",
+      "date": "2026-09-11T13:08:20Z",
+      "image": "https://cdn8.futura-sciences.com/a1280/images/capsule-Nyx-montage.png",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "The European Space Agency signed a record €760 million contract with a French-cofounded company for space transportation services. This major investment demonstrates Europe's commitment to advancing independent spaceflight capabilities."
     },
     {
       "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
@@ -256,7 +257,7 @@
       "date": "Fri, 11 Sep 2026 19:48:09 +0000",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "Scientists use the Artifact InSPECtor tool to refine and validate data collected by space telescopes operating hundreds of thousands of miles from Earth. This quality assurance process ensures the accuracy and reliability of astronomical observations."
+      "summary": "Scientists use advanced artifact detection tools to refine and validate data collected by space telescopes observing the cosmos from distant orbital positions."
     },
     {
       "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
@@ -266,7 +267,7 @@
       "date": "Fri, 11 Sep 2026 04:05:00 +0000",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "The Astronomy Picture of the Day features M83, the Southern Pinwheel Galaxy, showcasing its magnificent spiral structure and stellar regions. This iconic galaxy continues to inspire wonder through detailed astronomical imagery."
+      "summary": "The Astronomy Picture of the Day showcases M83, the Southern Pinwheel Galaxy, revealing stunning stellar formations and cosmic beauty."
     },
     {
       "title": "NASA Answers President’s Call to Establish United States Space Academy",
@@ -276,7 +277,17 @@
       "date": "Thu, 10 Sep 2026 20:26:52 +0000",
       "category": "Futurism",
       "quality": 3,
-      "summary": "NASA leads the establishment of the United States Space Academy following a presidential executive order, creating an institution dedicated to space education and workforce development. This initiative inspires the next generation of space professionals and explorers."
+      "summary": "NASA is leading efforts to establish the first United States Space Academy, fulfilling an executive order to advance space education and workforce development."
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "Watch the livestream replay of BepiColombo's Mercury arrival events as the ESA/JAXA mission approaches its destination planet."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -286,17 +297,7 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "The Hubble Space Telescope captures a spectacular image of a superbubble region in the Large Magellanic Cloud, revealing intricate stellar formations and cosmic structures. This photograph showcases the universe's remarkable beauty and complexity."
-    },
-    {
-      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-      "description": "Video: \n\t\t\t01:09:40\n\t\t\t\t\nRewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.\nThis briefing focused on the complexities of the separation of the Mercury Transfer Module (MTM), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio) in December 2026.\nThe briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three speakers:\nProf. Geraint Jones, Lead Project Scientist, ESA\nSanta Martinez, Mission Manager, ESA\nIgnacio Tanco, Head of Inner Solar System Mission Operations, ESA\nBepiColombo will be the most complex mission ever sent to Mercury. Its orbiters will be only the second and third to orbit the planet. Close to the Sun and more difficult for an orbiter to reach than Pluto, this small desert world is the least explored planet of the inner Solar System. Learning more about Mercury will shed light on the history of the entire Solar System.\nThe mission is a collaboration between ESA and JAXA, the latter providing the Mercury Magnetospheric Orbiter (Mio).\nClick here for a set of explanatory infographics",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
-      "source": "ESA Space Science",
-      "date": "Mon, 31 Aug 2026 16:00:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "The European Space Agency hosts a media briefing on BepiColombo's latest developments as it approaches Mercury. This update showcases the mission's progress toward its historic scientific objectives."
+      "summary": "Hubble Space Telescope captures a breathtaking cosmic vista of a superbubble structure in the Large Magellanic Cloud, revealing stellar dynamics."
     },
     {
       "title": "A New Design For A Plasma Engine Fuels On Only Thin Air",
@@ -306,7 +307,7 @@
       "date": "Sat, 12 Sep 2026 12:10:46 +0000",
       "category": "Futurism",
       "quality": 3,
-      "summary": "A new plasma engine design uses atmospheric air as fuel, offering innovative solutions for very low Earth orbit satellite operations. This technology demonstrates promising advances in spacecraft propulsion efficiency."
+      "summary": "A new plasma engine design uses thin air as fuel, offering revolutionary advantages for satellites in Very Low Earth Orbit. This innovation could transform satellite operations and reduce launch complexity."
     }
   ]
 }
