@@ -1,7 +1,17 @@
 {
-  "generated": "2026-09-23T00:14:16.086Z",
+  "generated": "2026-09-23T07:38:30.645Z",
   "count": 30,
   "articles": [
+    {
+      "title": "Webb reveals stunning panorama of star formation",
+      "description": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
+      "source": "ESA Space Science",
+      "date": "Tue, 15 Sep 2026 16:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "The James Webb Space Telescope captures one of its largest panoramic images showing the star-forming region IC 348 in stunning detail. This remarkable observation reveals the birth of stars in unprecedented clarity."
+    },
     {
       "title": "A Rare, Distant Clump of Early Galaxies Reveals Ancient Cosmic Secrets",
       "description": "The discovery of a very early and rare proto-supercluster of infant galaxies may help give clues to the formation of such clusters and their connection to the Cosmic Web.",
@@ -10,17 +20,7 @@
       "date": "Tue, 22 Sep 2026 03:16:03 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Discovery of a rare early proto-supercluster of infant galaxies from the ancient universe provides unprecedented clues about cosmic structure formation."
-    },
-    {
-      "title": "Largest dataset of its kind could clarify how massive stars shaped early galaxies",
-      "description": "The more astronomers learn about the universe's earliest galaxies, the stranger they seem. Many of their surprising properties may be explained by differences between their massive stars and those in galaxies like our own Milky Way. A new University of Utah-led survey with the Hubble Space Telescope is shedding light on the stellar astrophysics operating in early galaxies.",
-      "url": "https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 22 Sep 2026 14:00:05 EDT",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "A major new dataset of massive stars helps astronomers understand how these cosmic giants shaped the structure and properties of the early universe's galaxies."
+      "summary": "Astronomers discover a rare, distant proto-supercluster of infant galaxies from the early universe, revealing secrets about cosmic structure formation. This groundbreaking observation provides crucial clues about how the universe organized itself in its infancy."
     },
     {
       "title": "Astronomers detect radio signals coming from an exoplanet for the first time",
@@ -30,7 +30,7 @@
       "date": "Tue, 22 Sep 2026 12:40:07 EDT",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have detected radio signals from an exoplanet for the first time, opening a new window for studying distant worlds beyond our solar system."
+      "summary": "Astronomers have detected radio signals from an exoplanet for the first time, opening a new window into studying distant worlds."
     },
     {
       "title": "NASA just powered up Roman’s massive 300-megapixel camera",
@@ -40,7 +40,7 @@
       "date": "Mon, 21 Sep 2026 08:10:58 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA successfully activated the Roman Space Telescope's groundbreaking 300-megapixel infrared camera, ready to capture unprecedented views of the universe."
+      "summary": "NASA's Roman Space Telescope successfully activated its groundbreaking 300-megapixel infrared camera for deep space exploration."
     },
     {
       "title": "Astronomers Confirm Youngest Known Planet, Less Than 1 Million Years Old",
@@ -51,18 +51,18 @@
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/youngest-known-planet-elias-2-24-b-planet-formation-4275-original-1.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have confirmed the youngest known planet yet, a Jupiter-sized world less than 1 million years old, offering unprecedented insights into planetary formation."
+      "summary": "Astronomers have confirmed the youngest known planet to date, a Jupiter-sized world less than 1 million years old still in its formation stage. This discovery provides rare insights into planetary birth and early development."
     },
     {
-      "title": "Little Red Dots Are The Seeds of Quasars and Supermassive Black Holes",
-      "description": "Computer simulations find that overmassive black holes form readily in the early universe. Their spectra match that of Little Red Dots, which later become powerful quasars and supermassive galactic black holes.",
-      "url": "https://www.universetoday.com/articles/little-red-dots-are-the-seeds-of-quasars-and-supermassive-black-holes",
-      "source": "Universe Today",
-      "date": "2026-09-17T15:08:31Z",
-      "image": "https://www.universetoday.com/article_images/LRDs_20260917_150728.jpg",
-      "category": "Cosmology",
+      "title": "Where does a planet end and a star begin? Webb found a free-floating brown dwarf only about twice Jupiter’s mass, surrounded by a disk of planet-forming material — an object with a planet’s mass that appears to have formed like a star.",
+      "description": "Webb spectroscopy identifies a roughly two-Jupiter-mass IC 348 member with infrared excess from a disk, while spatial evidence favors star-like formation over planetary ejection.\nThe post Where does a planet end and a star begin? Webb found a free-floating br…",
+      "url": "https://spacedaily.com/t-webb-ic348-two-jupiter-mass-brown-dwarf-disk/",
+      "source": "Space Daily",
+      "date": "2026-09-20T12:25:05Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/pexels-orion-nebula-ic348-representative-20525375.jpg",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "Computer simulations reveal that supermassive black holes form readily in the early universe, with spectral signatures matching observed 'little red dots' that seed quasars."
+      "summary": "The James Webb Space Telescope discovered a free-floating brown dwarf with only twice Jupiter's mass surrounded by planet-forming material, challenging our understanding of how celestial objects form. This discovery reveals objects that blur the boundary between planets and stars."
     },
     {
       "title": "Juice to fly past Earth for third gravity assist",
@@ -72,17 +72,7 @@
       "date": "Mon, 21 Sep 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) completes its third Earth gravity assist on September 28, advancing toward its mission to study Jupiter's potentially habitable moons."
-    },
-    {
-      "title": "Webb reveals stunning panorama of star formation",
-      "description": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-      "source": "ESA Space Science",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "James Webb Space Telescope unveils a breathtaking panoramic view of the nearby star-forming region IC 348, showcasing stellar birth in stunning detail."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) completes its third Earth gravity assist on September 28, advancing toward its mission to study Jupiter's icy moons. This crucial maneuver demonstrates successful mission execution and brings the spacecraft closer to groundbreaking discoveries about potential subsurface oceans."
     },
     {
       "title": "BepiColombo begins Mercury arrival with MTM separation success",
@@ -92,7 +82,17 @@
       "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA and JAXA's BepiColombo successfully separates from its Mercury Transfer Module on September 3, 2026, marking the beginning of its Mercury orbital insertion phase."
+      "summary": "ESA and JAXA's BepiColombo mission successfully completes the Mercury Transport Module separation on September 3, 2026, marking the beginning of the final approach to Mercury. This critical milestone brings the spacecraft to its destination for studying the innermost planet."
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "ESA and JAXA's BepiColombo mission arrives at Mercury, with complete livestream coverage documenting the historic moment. The successful arrival represents a major achievement in planetary exploration."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -102,7 +102,27 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Hubble observations discover a giant 10-sided atmospheric wave pattern encircling Saturn's south pole, revealing dynamic planetary weather systems."
+      "summary": "Hubble Space Telescope reveals a giant, evolving 10-sided atmospheric wave encircling Saturn's south pole, marking a rare and fascinating discovery. This observation demonstrates Saturn's dynamic atmosphere and provides new insights into planetary dynamics."
+    },
+    {
+      "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
+      "description": "Studying exoplanets has provided astronomers with a plethora of insights regarding what characteristics need to be searched to find life beyond Earth. For the longest time, astronomers merely thought an exoplanet in a star’s habitable zone was a sufficient criterion for an Earth-like world. However, astronomers have learned that certain stars are more active than our Sun, resulting in exoplanets orbiting in the habitable zone being blasted with far more radiation than Earth could handle. In recent years, astronomers have recognized that a planet’s magnetic field, which shields the Earth from harmful radiation, could be a prime characteristic for identifying Earth-like worlds.",
+      "url": "https://www.universetoday.com/articles/ska-may-detect-magnetic-fields-on-distant-exoplanets",
+      "source": "Universe Today",
+      "date": "Wed, 23 Sep 2026 06:35:18 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The Square Kilometre Array (SKA) may be capable of detecting magnetic fields on distant exoplanets, opening new avenues for characterizing alien worlds. This advancement could revolutionize exoplanet science by revealing previously hidden planetary properties."
+    },
+    {
+      "title": "First Diagnostic X-Rays in Space Mark New Era for Astronaut Health",
+      "description": "A team of researchers acquired the first diagnostic X-ray images during a commercial spaceflight, demonstrating that X-ray medicine can be performed in space.",
+      "url": "https://www.universetoday.com/articles/first-diagnostic-x-rays-in-space-mark-new-era-for-astronaut-health",
+      "source": "Universe Today",
+      "date": "Wed, 23 Sep 2026 03:15:50 +0000",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Researchers successfully acquire the first diagnostic X-ray images during commercial spaceflight, demonstrating new medical capabilities in space. This breakthrough marks a transformative milestone in astronaut health monitoring and future space medicine."
     },
     {
       "title": "Space Rocks Carry Hundreds of Thousands of Complex Organic Molecules—and We Just Photographed Them",
@@ -112,27 +132,17 @@
       "date": "Tue, 22 Sep 2026 11:26:30 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Scientists photograph hundreds of thousands of complex organic molecules in meteorites, advancing understanding of life's building blocks in space."
+      "summary": "Scientists photograph and document hundreds of thousands of complex organic molecules in meteorites, advancing understanding of life's chemical building blocks. This discovery strengthens evidence that space rocks delivered the ingredients necessary for life to Earth."
     },
     {
-      "title": "Solar Orbiter Catches the Sun’s Missing High-Speed Vibrations",
-      "description": "The Sun’s magnetic fields are a twisty, curvy, ever changing mess. In particular, our star’s polar regions host regions called polar coronal holes that host invisible magnetic highways that stretch out into interplanetary space. But there’s a lot we don’t know about how those highways actually work, and in particular how they give the particles that form the fast solar wind an extra “kick” that sends them zooming at hundreds of kilometers per second. A new paper from a team led by Dr. Yuhang Gao and Prof. Hui Tian at Peking University, and published recently in the journal National Science Review, thinks they might have found an answer by using high-speed shots from Solar Orbiter to detect never-before seen rapid, high-frequency magnetic waves in those areas.",
-      "url": "https://www.universetoday.com/articles/solar-orbiter-catches-the-suns-missing-high-speed-vibrations",
-      "source": "Universe Today",
-      "date": "Mon, 21 Sep 2026 14:18:11 +0000",
-      "category": "Astrophysics",
+      "title": "Largest dataset of its kind could clarify how massive stars shaped early galaxies",
+      "description": "The more astronomers learn about the universe's earliest galaxies, the stranger they seem. Many of their surprising properties may be explained by differences between their massive stars and those in galaxies like our own Milky Way. A new University of Utah-led survey with the Hubble Space Telescope is shedding light on the stellar astrophysics operating in early galaxies.",
+      "url": "https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 22 Sep 2026 14:00:05 EDT",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Solar Orbiter detects previously elusive high-speed vibrations in the Sun's magnetic fields, advancing solar physics understanding."
-    },
-    {
-      "title": "Astronomers Uncover \"Hypersoft\" X-ray Sources",
-      "description": "X-rays showcase some of the most unique astronomical objects in the universe. Neutron stars and black holes siphoning gas from companion stars stick out like sore thumbs at this level of radiation. However, according to a new paper by Mustafa Muhibullah and Jimmy Irwin from the University of Alabama and Rosanne Di Stefano from the Center for Astrophysics at Harvard & the Smithsonian, there appears to be another group of ultra-bright X-ray emitters that we’ve completely missed until now. They call them Hypersoft X-ray Sources (HSSs) and, according to a press release accompanying the paper, might answer two long-standing astronomical questions.",
-      "url": "https://www.universetoday.com/articles/astronomers-uncover-hypersoft-x-ray-sources",
-      "source": "Universe Today",
-      "date": "Mon, 21 Sep 2026 10:53:59 +0000",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers have discovered rare 'hypersoft' X-ray sources, showcasing unique astronomical objects like neutron stars and black holes accreting material from companion stars."
+      "summary": "A massive new dataset of early galaxies helps astronomers understand how massive stars shaped the universe's earliest cosmic structures."
     },
     {
       "title": "Milky Way's first microblazar may produce fastest particles in the galaxy",
@@ -142,7 +152,7 @@
       "date": "Tue, 22 Sep 2026 11:40:01 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "An international team discovered the Milky Way's first microblazar, which appears to produce some of the fastest particles ever detected in our galaxy."
+      "summary": "An international team discovered the Milky Way's first microblazar, which may produce the fastest particles ever detected in our galaxy."
     },
     {
       "title": "A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays",
@@ -152,7 +162,17 @@
       "date": "Tue, 22 Sep 2026 03:57:28 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers traced a 42-light-year X-ray tail connecting a pulsar to previously unexplained gamma-ray sources, solving a century-old cosmic ray mystery."
+      "summary": "A 42-light-year X-ray tail connects a pulsar to previously mysterious gamma-ray sources, advancing understanding of cosmic rays."
+    },
+    {
+      "title": "The Solar System chose fire over ice from the very beginning",
+      "description": "Ancient iron meteorites reveal that some of the Solar System’s first solid bodies were built mostly from tiny heat-forged rock beads called chondrules, while water-rich dust was largely excluded. The finding pushes this selective planet-building process back to within the Solar System’s first million years.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081052.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 22 Sep 2026 23:06:29 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Ancient iron meteorites reveal that the Solar System's earliest solid bodies were built from heat-forged materials, shedding light on planetary formation."
     },
     {
       "title": "Black holes of every size follow the same surprising rule",
@@ -162,27 +182,17 @@
       "date": "Mon, 21 Sep 2026 09:23:10 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Scientists discovered that black holes of vastly different sizes follow the same surprising rule when launching powerful relativistic jets."
+      "summary": "Scientists discover that black holes of vastly different sizes follow the same surprising rule when launching powerful jets."
     },
     {
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "description": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decades.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
+      "description": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any unexpected difference would be a major surprise and could potentially point toward new physics, including a hypothetical fifth force.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 18 Sep 2026 07:31:56 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Roman Space Telescope now has sufficient fuel reserves to operate for at least 22 years, more than double its originally planned 10-year mission."
-    },
-    {
-      "title": "A $100 detector can see invisible particles raining down from space",
-      "description": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major experiments, balloon missions, and potentially future spacecraft.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 17 Sep 2026 09:54:19 EDT",
+      "date": "Fri, 18 Sep 2026 07:07:25 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "A $100 pocket-sized detector can reveal the invisible stream of cosmic particles constantly passing through Earth, democratizing access to cosmic ray observation."
+      "summary": "Scientists have developed a new method to create controlled beams of muonium, an exotic atom, to test Einstein's theories of gravity in unprecedented ways. This breakthrough could provide new insights into fundamental physics."
     },
     {
       "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
@@ -193,7 +203,18 @@
       "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies lacking ongoing star formation, winning $25,000 and contributing to our understanding of unusual galactic structures."
+      "summary": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies lacking ongoing star formation, winning $25,000 for this remarkable contribution to astronomical science. This discovery highlights the importance of citizen participation in advancing our understanding of the cosmos."
+    },
+    {
+      "title": "What Is Humanity’s Place in the Cosmos?",
+      "description": "A lifelong fascination with terra incognita led the astrophysicist Priyamvada Natarajan to map out the universe’s most enigmatic phenomena.",
+      "url": "https://www.theatlantic.com/podcasts/2026/09/what-is-humanitys-place-in-the-cosmos/688668/",
+      "source": "The Atlantic",
+      "date": "2026-09-20T13:00:00Z",
+      "image": "https://cdn.theatlantic.com/thumbor/lTTmglryPfdPIGyPnoezEOA2Z94=/0x0:1920x1000/1200x625/media/img/mt/2026/09/Permanent_Questions_Ollie_Artwork_Wide_shot_tiled/original.png",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Astrophysicist Priyamvada Natarajan explores humanity's place in the cosmos through her groundbreaking work mapping the universe's most extreme structures. Her research illuminates how we fit into the vast cosmic landscape."
     },
     {
       "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
@@ -204,7 +225,7 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "The James Webb Space Telescope's mysterious 'little red dots' may represent a new class of black hole stars, challenging existing theories about these cosmic objects."
+      "summary": "The James Webb Space Telescope has discovered mysterious 'little red dots' throughout the universe, with astronomers debating whether they are primordial black holes or exotic black hole stars. This discovery challenges our understanding of early cosmic structure formation."
     },
     {
       "title": "A Cosmic Catastrophe May Have Turned Neptune’s Ancient Moons Inside Out",
@@ -215,7 +236,7 @@
       "image": null,
       "category": "Solar System",
       "quality": 4,
-      "summary": "A cosmic catastrophe may have turned Neptune's ancient moons inside out, revealing new insights into the dynamic early history of the outer solar system."
+      "summary": "New simulations suggest a cosmic catastrophe may have dramatically altered Neptune's ancient moons, potentially turning them inside out. This research reveals the dynamic and violent history of our outer solar system."
     },
     {
       "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
@@ -226,7 +247,7 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance rover discovered evidence of complex water systems on early Mars, revealing that ancient Mars had the conditions necessary to support life."
+      "summary": "NASA's Perseverance rover discovered evidence of complex water systems on early Mars, suggesting conditions that may have been favorable for life billions of years ago. This finding reveals Mars had more dynamic hydrological processes than previously understood."
     },
     {
       "title": "The 2024 World Economic Forum report that put the space economy on track for $1.8 trillion by 2035 also framed the coming decade as the most transformative the industry has ever seen, with UC San Diego labs already building for the medical and climate applications it forecasts",
@@ -237,29 +258,7 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/09/the-2024-world-economic-forum-report-tha.png",
       "category": "Futurism",
       "quality": 4,
-      "summary": "The space economy is projected to reach $1.8 trillion by 2035, with transformative applications in medicine and climate emerging from institutional research like UC San Diego's labs."
-    },
-    {
-      "title": "La Nasa fête les 5 000 jours de Curiosity sur Mars avec un panorama qui fusionne l’aube et le crépuscule",
-      "description": "Le rover Curiosity a vécu le 5 000e « sol » (jour) de sa mission sur Mars. Pour marquer le coup lors de ce cap symbolique, la Nasa lui a fait immortaliser un superbe panorama de la planète rouge. Un véritable paysage de carte postale. À quoi ressemble une jou…",
-      "url": "https://www.numerama.com/sciences/2336665-la-nasa-fete-les-5-000-jours-de-curiosity-sur-mars-avec-un-panorama-qui-fusionne-laube-et-le-crepuscule.html",
-      "source": "Numerama",
-      "date": "2026-09-21T11:15:00Z",
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/09/curiosity-nasa-panorama.jpg?resize=1600,900&key=67a977f3",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Curiosity rover celebrates 5,000 sols on Mars with a stunning panoramic image merging dawn and dusk observations from the Martian surface."
-    },
-    {
-      "title": "Where does a planet end and a star begin? Webb found a free-floating brown dwarf only about twice Jupiter’s mass, surrounded by a disk of planet-forming material — an object with a planet’s mass that appears to have formed like a star.",
-      "description": "Webb spectroscopy identifies a roughly two-Jupiter-mass IC 348 member with infrared excess from a disk, while spatial evidence favors star-like formation over planetary ejection.\nThe post Where does a planet end and a star begin? Webb found a free-floating br…",
-      "url": "https://spacedaily.com/t-webb-ic348-two-jupiter-mass-brown-dwarf-disk/",
-      "source": "Space Daily",
-      "date": "2026-09-20T12:25:05Z",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/pexels-orion-nebula-ic348-representative-20525375.jpg",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The James Webb Space Telescope discovered a free-floating brown dwarf with only twice Jupiter's mass surrounded by planet-forming disk material, challenging conventional understanding of stellar and planetary formation."
+      "summary": "The space economy is projected to reach $1.8 trillion by 2035, with the coming decade poised as the most transformative in industry history. Innovation in medical and climate applications from space technology promises revolutionary breakthroughs across multiple sectors."
     },
     {
       "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
@@ -270,7 +269,7 @@
       "image": "https://a.fsdn.com/sd/topics/space_64.png",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "The James Webb Space Telescope continues detecting mysterious 'little red dots' that may represent newly discovered black hole stars and early supermassive black hole precursors."
+      "summary": "The James Webb Space Telescope has identified mysterious red dots in its observations that may represent a new class of 'black hole stars,' potentially reshaping our understanding of black hole formation and evolution. These discoveries suggest black holes may form through unexpected pathways."
     },
     {
       "title": "A galaxy spinning out of sync",
@@ -280,7 +279,7 @@
       "date": "Fri, 18 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "Hubble Space Telescope captures a striking image of a spiral galaxy with unexpected internal dynamics, revealing the complexity of galactic structures."
+      "summary": "Hubble Space Telescope captures a stunning image of a spiral galaxy with unexpected internal dynamics. The observation reveals fascinating insights into galactic structure and behavior."
     },
     {
       "title": "Purple swirls on the Red Planet",
@@ -290,7 +289,7 @@
       "date": "Wed, 16 Sep 2026 11:00:00 +0200",
       "category": "Solar System",
       "quality": 3,
-      "summary": "NASA's Mars reconnaissance reveals a stunning ice cliff at the Red Planet's south pole, displaying striking purple, pink, and red coloration."
+      "summary": "NASA's Mars reconnaissance reveals a visually striking ice cliff near Mars's south pole with vibrant purple, pink, and red swirls. The image showcases the dynamic geological features and seasonal changes on the Red Planet."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -300,7 +299,7 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "Hubble Space Telescope reveals a sprawling cosmic vista featuring a superbubble structure in the Large Magellanic Cloud, showcasing stellar dynamics."
+      "summary": "Hubble Space Telescope captures a sprawling cosmic vista of a superbubble structure in the Large Magellanic Cloud. The image showcases the dynamic and energetic processes occurring in star-forming regions."
     },
     {
       "title": "3I/ATLAS Has An Extreme Taste For Heavy Water",
@@ -308,9 +307,9 @@
       "url": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water",
       "source": "Universe Today",
       "date": "Tue, 22 Sep 2026 12:56:45 +0000",
-      "category": "Astrophysics",
+      "category": "Solar System",
       "quality": 3,
-      "summary": "Interstellar comet 3I/ATLAS exhibits an unusual concentration of heavy water, providing insights into the composition of objects from beyond our solar system."
+      "summary": "Scientists reveal new details about interstellar comet 3I/ATLAS, including its unusual composition containing heavy water isotopes. These findings provide valuable insights into the composition of objects from beyond our solar system."
     }
   ]
 }
