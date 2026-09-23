@@ -1,17 +1,7 @@
 {
-  "generated": "2026-09-23T14:50:56.492Z",
+  "generated": "2026-09-23T21:23:28.969Z",
   "count": 30,
   "articles": [
-    {
-      "title": "Webb reveals stunning panorama of star formation",
-      "description": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-      "source": "ESA Space Science",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "The James Webb Space Telescope captured an expansive panorama of star formation in the IC 348 region, revealing the cosmic nursery in unprecedented detail. This stunning observation showcases stellar birth on a breathtaking scale."
-    },
     {
       "title": "Astronomers Directly Image the Youngest Exoplanet Ever",
       "description": "Most exoplanets we find have been around a long time. They’ve cleared out their orbital path (one of the requirements of planethood, as fans of Pluto well know), have their own gravitational pull, and in many cases shine with their own infrared light. But it takes a long time to get to that point - finding “young” planets is much harder. But a new paper available in The Astrophysical Journal Letters by a research team led by Andrea Bernardi of Diego Portales University in Chile describes a new paper that definitely takes the prize as the youngest exoplanet we’ve yet found.",
@@ -20,7 +10,7 @@
       "date": "Wed, 23 Sep 2026 11:07:30 +0000",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers achieve direct imaging of the youngest exoplanet ever discovered, providing unprecedented insights into planetary formation in its earliest stages."
+      "summary": "Astronomers directly image the youngest exoplanet ever discovered, providing rare insights into planetary formation in its earliest stages."
     },
     {
       "title": "A Rare, Distant Clump of Early Galaxies Reveals Ancient Cosmic Secrets",
@@ -30,17 +20,17 @@
       "date": "Tue, 22 Sep 2026 03:16:03 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Discovery of a rare proto-supercluster of ancient infant galaxies unveils secrets about galaxy formation in the early universe."
+      "summary": "Discovery of a rare, distant proto-supercluster of infant galaxies reveals secrets about early cosmic structure formation and galaxy evolution."
     },
     {
-      "title": "Astronomers detect radio signals coming from an exoplanet for the first time",
-      "description": "Exoplanets are exotic worlds orbiting distant stars far beyond our solar system. Ever since the first ones were discovered in the 1990s, astronomers have turned their attention to these distant worlds to understand more about them. Now, for the first time, scientists have detected radio signals coming directly from one of these planets, a massive gas giant named β Pictoris b.",
-      "url": "https://phys.org/news/2026-09-astronomers-radio-exoplanet.html",
+      "title": "NASA's Hubble seeks lensed supernova, marks 200,000 orbits",
+      "description": "NASA's Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another milestone for an observatory that continues to transform our understanding of the universe.",
+      "url": "https://phys.org/news/2026-09-nasa-hubble-lensed-supernova-orbits.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 22 Sep 2026 12:40:07 EDT",
-      "category": "Exoplanets",
+      "date": "Wed, 23 Sep 2026 15:00:01 EDT",
+      "category": "NASA",
       "quality": 5,
-      "summary": "Astronomers have detected radio signals from an exoplanet for the first time, opening a new way to study distant worlds beyond our solar system."
+      "summary": "Hubble Space Telescope marks its 200,000th orbit while hunting lensed supernovae, celebrating decades of transformative discoveries in astronomy."
     },
     {
       "title": "NASA just powered up Roman’s massive 300-megapixel camera",
@@ -50,7 +40,7 @@
       "date": "Mon, 21 Sep 2026 08:10:58 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has successfully activated its groundbreaking 300-megapixel infrared camera, ready to capture unprecedented views of the universe."
+      "summary": "NASA's Roman Space Telescope successfully powered up its revolutionary 300-megapixel infrared camera, enabling unprecedented cosmic imaging capabilities for future discoveries."
     },
     {
       "title": "Astronomers Confirm Youngest Known Planet, Less Than 1 Million Years Old",
@@ -61,38 +51,48 @@
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/youngest-known-planet-elias-2-24-b-planet-formation-4275-original-1.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have confirmed the youngest known planet ever discovered, a Jupiter-sized world less than 1 million years old still forming."
+      "summary": "Astronomers confirmed the youngest known planet ever discovered—a Jupiter-size world less than 1 million years old—marking a landmark find in planetary science."
     },
     {
-      "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-      "description": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they…",
-      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
-      "source": "NASA",
-      "date": "2026-09-21T16:54:43Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
+      "title": "Новая статья: Шпионское наследство и триумф баллистики: как телескоп „Нэнси Грейс Роман“ отправился переписывать космологию",
+      "description": "30 августа 2026 года со стартового комплекса LC-39A во Флориде была запущена новейшая флагманская обсерватория NASA — Космический телескоп имени Нэнси Грейс Роман NGRST (Nancy Grace Roman Space Telescope). Аппарат, чей путь от чертежей до стартового стола зан…",
+      "url": "https://3dnews.ru/1148802/nensi-greys-roman-otpravilsya-perepisivat-kosmologiyu",
+      "source": "3dnews.ru",
+      "date": "2026-09-22T21:00:00Z",
+      "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/09/21/1148802/sm.ILL-00_Bez_podpisi.800.jpg",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Perseverance rover discovery reveals complex ancient water systems on Mars, providing significant evidence of Mars' habitable past."
+      "summary": "The Nancy Grace Roman Space Telescope, NASA's flagship observatory, launched on August 30, 2026, promising to revolutionize cosmology and rewrite our understanding of the universe."
     },
     {
-      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-      "description": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
-      "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "source": "NASA",
-      "date": "Tue, 22 Sep 2026 17:33:10 +0000",
-      "category": "Futurism",
+      "date": "Wed, 23 Sep 2026 20:09:42 +0000",
+      "category": "NASA",
       "quality": 4,
-      "summary": "NASA-funded researchers discovered an organism thriving at record-breaking extreme temperatures, expanding our understanding of life's resilience. This discovery has profound implications for the search for life in extreme environments across the universe."
+      "summary": "NASA selects PRIMA, a far-infrared telescope mission, to explore the universe's history and evolution, launching a new class of scientific missions."
     },
     {
-      "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-      "description": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "description": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and […]",
+      "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
       "source": "NASA",
-      "date": "Tue, 22 Sep 2026 15:40:48 +0000",
-      "category": "Astrophysics",
+      "date": "Wed, 23 Sep 2026 18:43:43 +0000",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "NASA's Chandra X-ray Observatory identified mysterious low-energy X-ray objects within the Pinwheel Galaxy. These unusual objects represent a new category of cosmic phenomena worthy of further investigation."
+      "summary": "NASA's Hubble Space Telescope reaches a significant milestone while capturing stunning images of galaxy cluster MACS J0417 in its ongoing search for supernovae."
+    },
+    {
+      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+      "description": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
+      "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+      "source": "NASA",
+      "date": "Wed, 23 Sep 2026 16:03:37 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "Shannon Lucid's record-setting mission aboard the Mir space station represents a landmark achievement in human spaceflight and international cooperation."
     },
     {
       "title": "Juice to fly past Earth for third gravity assist",
@@ -102,7 +102,17 @@
       "date": "Mon, 21 Sep 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency's JUICE mission completes its third Earth gravity assist on September 28, 2026, on its journey to explore Jupiter's icy moons. This milestone demonstrates precision interplanetary navigation."
+      "summary": "The ESA's Jupiter Icy Moons Explorer (Juice) completes its third Earth gravity assist on September 28, advancing toward its mission to explore Jupiter's icy moons."
+    },
+    {
+      "title": "Webb reveals stunning panorama of star formation",
+      "description": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
+      "source": "ESA Space Science",
+      "date": "Tue, 15 Sep 2026 16:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope reveals a breathtaking panorama of star formation in the nearby region IC 348, showcasing one of its largest and most detailed images."
     },
     {
       "title": "BepiColombo begins Mercury arrival with MTM separation success",
@@ -112,7 +122,7 @@
       "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo successfully completed the Mercury Transfer Module separation on September 3, 2026, marking a major milestone in its journey to orbit Mercury. The ESA/JAXA mission continues toward groundbreaking discoveries about the innermost planet."
+      "summary": "BepiColombo successfully completes its Mercury Thermal Model separation on September 3, 2026, marking the beginning of its historic arrival at Mercury."
     },
     {
       "title": "Hubble tracks new decagon encircling Saturn’s south pole",
@@ -122,7 +132,7 @@
       "date": "Wed, 02 Sep 2026 20:00:00 +0200",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Hubble Space Telescope discovers a giant 10-sided atmospheric wave circling Saturn's south pole, revealing new details about the ice giant's dynamic atmosphere."
+      "summary": "Hubble Space Telescope reveals a giant 10-sided atmospheric wave circling Saturn's south pole, expanding understanding of the ice giant's dynamic weather systems."
     },
     {
       "title": "How Diffractive Solar Sails Could Stop a Killer Asteroid at 100 km/s",
@@ -132,7 +142,7 @@
       "date": "Wed, 23 Sep 2026 10:10:20 +0000",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Diffractive solar sails could revolutionize planetary defense by deflecting killer asteroids traveling at extreme speeds without traditional propulsion systems."
+      "summary": "Diffractive solar sails represent an innovative technology capable of deflecting hazardous asteroids at extreme velocities, advancing planetary defense strategies."
     },
     {
       "title": "First Diagnostic X-Rays in Space Mark New Era for Astronaut Health",
@@ -140,9 +150,9 @@
       "url": "https://www.universetoday.com/articles/first-diagnostic-x-rays-in-space-mark-new-era-for-astronaut-health",
       "source": "Universe Today",
       "date": "Wed, 23 Sep 2026 03:15:50 +0000",
-      "category": "Missions",
+      "category": "NASA",
       "quality": 4,
-      "summary": "First diagnostic X-ray imaging performed during commercial spaceflight marks a breakthrough in space-based astronaut health monitoring capabilities."
+      "summary": "First diagnostic X-ray imaging performed in space during commercial spaceflight demonstrates medical capabilities essential for long-duration human space missions."
     },
     {
       "title": "Space Rocks Carry Hundreds of Thousands of Complex Organic Molecules—and We Just Photographed Them",
@@ -152,7 +162,17 @@
       "date": "Tue, 22 Sep 2026 11:26:30 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Scientists photograph hundreds of thousands of complex organic molecules in meteorites, confirming that space rocks carry essential building blocks of life."
+      "summary": "Scientists photograph hundreds of thousands of complex organic molecules in meteorites, reinforcing evidence that space rocks deliver life's chemical building blocks."
+    },
+    {
+      "title": "Roaming black holes may tell the hidden history of galaxies",
+      "description": "If you want to understand the origins of black holes, Yale astronomers say, you need to look beyond the centers of galaxies and start searching in the nooks and crannies. That's where you'll find the \"wanderers\"—black holes whose journeys may tell the story of how the first black holes formed.",
+      "url": "https://phys.org/news/2026-09-roaming-black-holes-hidden-history.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 23 Sep 2026 13:00:06 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Yale astronomers propose that roaming black holes beyond galactic centers may unlock mysteries of black hole origins and galactic evolution."
     },
     {
       "title": "Earth may have gained optimal conditions for life's chemistry 4.33 billion years ago",
@@ -162,27 +182,7 @@
       "date": "Wed, 23 Sep 2026 10:40:16 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "New research suggests Earth achieved optimal chemical conditions for life's origins around 4.33 billion years ago, refining our understanding of abiogenesis."
-    },
-    {
-      "title": "Largest dataset of its kind could clarify how massive stars shaped early galaxies",
-      "description": "The more astronomers learn about the universe's earliest galaxies, the stranger they seem. Many of their surprising properties may be explained by differences between their massive stars and those in galaxies like our own Milky Way. A new University of Utah-led survey with the Hubble Space Telescope is shedding light on the stellar astrophysics operating in early galaxies.",
-      "url": "https://phys.org/news/2026-09-largest-dataset-kind-massive-stars.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 22 Sep 2026 14:00:05 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "A comprehensive dataset on massive stars clarifies their role in shaping the earliest galaxies, solving key puzzles about cosmic evolution."
-    },
-    {
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "description": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was blasted into Earth roughly 390 million years ago.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 22 Sep 2026 06:43:31 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "An amateur astronomer discovered a massive 390-million-year-old impact crater on Earth through satellite maps, revealing hidden geological history."
+      "summary": "Early Earth achieved optimal chemical conditions for life's emergence approximately 4.33 billion years ago, refining our understanding of abiogenesis."
     },
     {
       "title": "The Solar System chose fire over ice from the very beginning",
@@ -192,7 +192,7 @@
       "date": "Tue, 22 Sep 2026 23:06:29 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Ancient iron meteorites reveal that the Solar System's first solid bodies were formed from heat-forged material, shedding light on planetary formation."
+      "summary": "Ancient iron meteorites reveal that the early Solar System's first solid bodies formed from heat-forged materials, reshaping our understanding of planetary formation."
     },
     {
       "title": "Black holes of every size follow the same surprising rule",
@@ -202,7 +202,7 @@
       "date": "Mon, 21 Sep 2026 09:23:10 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Scientists have discovered that black holes of vastly different sizes follow the same surprising rule when launching powerful jets into space."
+      "summary": "Scientists discovered that black holes of vastly different sizes follow the same surprising rule when launching powerful jets, unifying black hole physics across scales."
     },
     {
       "title": "A giant crater may reveal the origin of Mars’ doomed moon",
@@ -212,17 +212,7 @@
       "date": "Sat, 19 Sep 2026 08:12:41 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "A massive crater on Mars' moon Phobos may reveal compressed material that could explain the moon's mysterious origin."
-    },
-    {
-      "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-      "description": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on second-generation particles exactly as Einstein’s theory predicts. Any unexpected difference would be a major surprise and could potentially point toward new physics, including a hypothetical fifth force.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 18 Sep 2026 07:07:25 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Scientists have developed a new method to create controlled beams of muonium to test Einstein's theory of gravity with exotic matter."
+      "summary": "A massive crater on Mars' moon Phobos may reveal compressed material that could explain the moon's mysterious origins and formation history."
     },
     {
       "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
@@ -231,9 +221,9 @@
       "source": "The Times of India",
       "date": "2026-09-21T14:48:36Z",
       "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
-      "category": "Astronomy",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "Eighteen-year-old Julian Shapiro discovered three unusual isolated dwarf galaxies, earning $25,000 and contributing to our understanding of galaxy formation."
+      "summary": "Eighteen-year-old Julian Shapiro discovered three unusual isolated dwarf galaxies lacking star formation, winning recognition and $25,000 for his groundbreaking citizen science contribution."
     },
     {
       "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’",
@@ -244,7 +234,7 @@
       "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "The James Webb Space Telescope discovers mysterious 'little red dots' throughout the universe, sparking debate about whether they represent black holes or an entirely new class of celestial objects."
+      "summary": "The James Webb Space Telescope has discovered mysterious 'little red dots' throughout the cosmos, with astronomers debating whether these objects are black holes or a novel type of star, potentially reshaping our understanding of early universe formation."
     },
     {
       "title": "A Cosmic Catastrophe May Have Turned Neptune’s Ancient Moons Inside Out",
@@ -255,27 +245,28 @@
       "image": null,
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research suggests a cosmic catastrophe may have dramatically altered Neptune's ancient moons, revealed through James Webb Space Telescope observations of the Neptune system."
+      "summary": "New research suggests a cosmic catastrophe may have dramatically altered Neptune's ancient moons, potentially turning them inside out—a discovery made possible by NASA's James Webb Space Telescope's infrared observations."
     },
     {
-      "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-      "description": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
-      "source": "NASA",
-      "date": "Wed, 23 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "Astronomy Picture of the Day features McGetchin, a newly identified lunar crater. The discovery adds to our understanding of the Moon's geological history."
+      "title": "NASA makes big step for next Artemis mission and goal of landing on the moon by 2028",
+      "description": "NASA is making progress towards its mission to land astronauts on the moon.",
+      "url": "https://nypost.com/2026/09/22/science/nasa-makes-big-step-for-next-artemis-mission-and-goal-of-landing-on-the-moon-by-2028/",
+      "source": "New York Post",
+      "date": "2026-09-22T17:14:03Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40935255.jpg?quality=75&strip=all&w=1200",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA continues making significant progress toward its Artemis mission goal of landing astronauts on the moon by 2028, marking humanity's triumphant return to lunar exploration."
     },
     {
-      "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-      "description": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "description": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
       "source": "NASA",
-      "date": "Wed, 23 Sep 2026 00:40:16 +0000",
-      "category": "Missions",
+      "date": "Wed, 23 Sep 2026 20:37:19 +0000",
+      "category": "NASA",
       "quality": 3,
-      "summary": "NASA's Curiosity rover continues its exploration of Mars, analyzing mineral compositions and geological features during sols 5010-5015. The mission reveals new insights into Martian surface chemistry."
+      "summary": "Croatia becomes the 74th nation to sign the Artemis Accords, demonstrating growing international commitment to peaceful space exploration and lunar governance."
     },
     {
       "title": "A galaxy spinning out of sync",
@@ -283,9 +274,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
       "source": "ESA Space Science",
       "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 3,
-      "summary": "The Hubble Space Telescope captured a spiral galaxy with surprising internal dynamics, revealing its stars rotating out of sync with expected patterns. This discovery challenges our models of galactic structure."
+      "summary": "Hubble captures a striking image of a spiral galaxy that reveals unexpected internal dynamics, challenging existing models of galactic rotation."
     },
     {
       "title": "Purple swirls on the Red Planet",
@@ -295,7 +286,7 @@
       "date": "Wed, 16 Sep 2026 11:00:00 +0200",
       "category": "Solar System",
       "quality": 3,
-      "summary": "NASA imaging reveals a stunning ice cliff at Mars's south pole with striking purple, pink, and red hues. These vivid geological features showcase the dynamic and colorful landscapes of the Red Planet."
+      "summary": "A stunning image from Mars reveals a spectacular ice cliff near the south pole, displaying striking purple, pink, and red swirls that showcase the planet's diverse geology."
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
@@ -305,7 +296,17 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 3,
-      "summary": "A replay of the BepiColombo Mercury arrival livestream allows the public to experience the ESA/JAXA spacecraft's historic approach to Mercury. This mission represents an international triumph in planetary exploration."
+      "summary": "ESA and JAXA's BepiColombo mission documents its Mercury arrival milestone with a detailed livestream replay, exciting the global space exploration community."
+    },
+    {
+      "title": "Hubble's superbubble scene",
+      "description": "Image:\n\t\t\t\nThis sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.\nThe appearance of this photogenic nebula is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years. The glittering stars at the centre of the void are responsible for its creation; through their powerful stellar winds and explosive supernovae, these stars have expelled much of the gas from which they were born.\nWhen the stars of N44’s central star cluster swept away this gas, the expelled gas formed a shell around the superbubble. New stars are forming in this compressed gas shell, making N44 an interesting target for researchers studying the process of star formation. In particular, astronomers have turned to this nebula as an ideal place to time this process from start to finish. Their goal is to understand how long it takes from the collapse of cold gas clouds into dense knots to the moment nuclear fusion ignites in the heart of a newborn star.\nResearchers used Hubble to survey N44 and take a census of its stars, cataloguing nearly half a million stars within the cluster as well as interlopers drifting in front of it. Of the stars surveyed, nearly 30 000 are what astronomers call pre-main-sequence stars, which have yet to begin fusing hydrogen into helium in their cores. This treasure trove of baby stars was discoverable thanks to the high sensitivity and fine spatial resolution of Hubble’s instruments that can pick out faint objects in crowded clusters.\nThe gas shell surrounding the superbubble is energised by ultraviolet radiation from massive stars, causing it to glow and highlighting several distinct features. Each feature within the broader N44 star-forming complex was catalogued by astronomer Karl Henize in the 1950s. One feature is a smaller bubble, catalogued as N44F, that is located near the upper-right corner of this image. N44F is an interstellar bubble blown by the intense stellar winds of a single hot and massive star. As this previously released Hubble closeup shows, the star’s furious winds and radiation have sculpted the surrounding bubble and created pillars of dusty gas.\nThe data used to create this image come from an observing programme (#14689; PI: Gouliermis) that aimed to probe stars in the N44 complex that have not yet begun fusing hydrogen into heavier elements in their cores. These data help to determine how long the process of star formation takes, as well as what masses newborn stars typically have. Hubble's sensitive observations of the lowest-mass stars in this region open a new window onto star formation in regions that, like the LMC or the galaxies of the early Universe, are poor in elements heavier than helium.\n[Image Description: A dense field of stars fills the image, surrounded by wispy clouds of gas and dust. Pale blue and grey nebulosity forms an intricate web across the scene, with darker clouds of dust concentrated towards the lower right. Numerous bright stars appear in shades of blue, white and orange.]",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 10:00:00 +0200",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "Hubble captures a sprawling cosmic vista of a superbubble in the Large Magellanic Cloud, showcasing stellar phenomena in spectacular detail."
     }
   ]
 }
