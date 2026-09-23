@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T07:42:15.759Z",
+  "generated": "2026-09-23T00:18:49.072Z",
   "launches": [
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -70,7 +70,7 @@
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
       "net": "2026-10-01T15:10:06Z",
-      "status": "TBC",
+      "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 40",
