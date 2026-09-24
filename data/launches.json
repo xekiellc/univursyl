@@ -1,30 +1,17 @@
 {
-  "generated": "2026-09-24T00:25:38.571Z",
+  "generated": "2026-09-24T14:54:14.279Z",
   "launches": [
     {
-      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
-      "name": "Long March 8A | SatNet LEO Group 26",
-      "net": "2026-09-23T13:32:00Z",
-      "status": "Success",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 8A",
-      "pad": "Commercial LC-1",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "mission": "SatNet LEO Group 26",
-      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-    },
-    {
       "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
-      "name": "Long March 6A | Unknown Payload",
-      "net": "2026-09-24T08:45:00Z",
-      "status": "Go",
+      "name": "Long March 6A | Yaogan 40 Group 04",
+      "net": "2026-09-24T08:46:00Z",
+      "status": "Success",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 6A",
       "pad": "Launch Complex 9A",
       "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
+      "mission": "Yaogan 40 Group 04",
+      "description": "3 Chinese reconnaissance satellites of unknown purposes, officially reported as for \"Electromagnetic environment probing\".",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
     },
     {
@@ -91,6 +78,19 @@
       "mission": "Transporter 18 (Dedicated SSO Rideshare)",
       "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+    },
+    {
+      "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+      "name": "Falcon Heavy | NROL-97",
+      "net": "2026-10-02T03:53:00Z",
+      "status": "Go",
+      "provider": "SpaceX",
+      "rocket": "Falcon Heavy",
+      "pad": "Launch Complex 39A",
+      "location": "Kennedy Space Center, FL, USA",
+      "mission": "NROL-97",
+      "description": "Classified payload for the US National Reconnaissance Office.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg"
     },
     {
       "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
