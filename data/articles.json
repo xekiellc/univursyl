@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T07:32:24.831Z",
+  "generated": "2026-09-25T21:24:57.168Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Tue, 15 Sep 2026 16:00:00 +0200",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "The James Webb Space Telescope captures a panoramic view of star formation in IC 348, one of the most spectacular observations of stellar birth in nearby regions."
+      "summary": "The James Webb Space Telescope reveals a stunning panoramic view of star formation in the nearby region IC 348, showcasing stellar birth in unprecedented detail."
     },
     {
       "title": "BepiColombo begins Mercury arrival with MTM separation success",
@@ -20,27 +20,17 @@
       "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "BepiColombo successfully completes Mercury Transient Module separation, marking a major milestone in the ESA/JAXA mission's historic arrival at Mercury."
+      "summary": "BepiColombo successfully begins its historic Mercury arrival with the successful separation of the Mercury Transfer Module on September 3, 2026."
     },
     {
-      "title": "BepiColombo’s Mercury arrival begins - full replay",
-      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
-      "category": "Missions",
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "ESA and JAXA's BepiColombo mission begins its Mercury arrival sequence, a landmark achievement in international planetary exploration."
-    },
-    {
-      "title": "Astronomers Directly Image the Youngest Exoplanet Ever",
-      "description": "Most exoplanets we find have been around a long time. They’ve cleared out their orbital path (one of the requirements of planethood, as fans of Pluto well know), have their own gravitational pull, and in many cases shine with their own infrared light. But it takes a long time to get to that point - finding “young” planets is much harder. But a new paper available in The Astrophysical Journal Letters by a research team led by Andrea Bernardi of Diego Portales University in Chile describes a new paper that definitely takes the prize as the youngest exoplanet we’ve yet found.",
-      "url": "https://www.universetoday.com/articles/astronomers-directly-image-the-youngest-exoplanet-ever",
-      "source": "Universe Today",
-      "date": "Wed, 23 Sep 2026 11:07:30 +0000",
-      "category": "Exoplanets",
-      "quality": 5,
-      "summary": "Astronomers achieve a landmark direct imaging of the youngest exoplanet ever observed, opening new insights into planetary formation."
+      "summary": "Scientists discovered an unprecedented shock wave produced by a white dwarf star without a detectable disk, challenging existing models of stellar physics."
     },
     {
       "title": "NASA just powered up Roman’s massive 300-megapixel camera",
@@ -50,7 +40,7 @@
       "date": "Mon, 21 Sep 2026 08:10:58 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has successfully activated its groundbreaking 300-megapixel infrared camera, marking a major milestone for future deep-space observations."
+      "summary": "NASA's Roman Space Telescope successfully activated its groundbreaking 300-megapixel infrared camera, positioning it to capture unprecedented views of the cosmos."
     },
     {
       "title": "Astronomers Confirm Youngest Known Planet, Less Than 1 Million Years Old",
@@ -61,7 +51,7 @@
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/youngest-known-planet-elias-2-24-b-planet-formation-4275-original-1.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have confirmed the youngest known planet yet, a Jupiter-sized world less than 1 million years old that orbits a nearby star. This discovery provides unprecedented insights into planetary formation in its earliest stages."
+      "summary": "Astronomers have confirmed the youngest known planet ever discovered, a Jupiter-sized world less than 1 million years old still in its formation stage. This remarkable finding provides unprecedented insights into planetary birth and early development."
     },
     {
       "title": "Artemis 2 Set Out to Prove Orion Could Handle Deep Space. Here’s How It Delivered",
@@ -70,59 +60,29 @@
       "source": "Gizmodo.com",
       "date": "2026-09-23T11:20:35Z",
       "image": "https://gizmodo.com/app/uploads/2026/09/NASA-Artremis-2-Orion-Science-Fair-1200x675.jpg",
-      "category": "Missions",
+      "category": "NASA",
       "quality": 5,
-      "summary": "The Artemis 2 mission successfully sent astronauts back to the Moon aboard the Orion spacecraft on its first crewed flight. This landmark achievement proves the spacecraft's capabilities and paves the way for sustained lunar exploration."
+      "summary": "The Artemis II mission successfully validated the Orion spacecraft's capability to handle deep space operations by returning astronauts to the Moon aboard an uncrewed-proven vehicle. This landmark mission represents a critical step toward sustainable human lunar exploration and eventual Mars missions."
     },
     {
-      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-      "description": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "description": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "source": "NASA",
-      "date": "Fri, 25 Sep 2026 04:05:00 +0000",
+      "date": "Fri, 25 Sep 2026 19:36:10 +0000",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "NASA successfully tests an innovative dual-mode propulsion CubeSat that combines fuel efficiency with versatile maneuvering capabilities, advancing small satellite technology."
+    },
+    {
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "description": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
+      "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 15:54:10 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomy Picture of the Day features Omega Centauri, one of the most spectacular globular star clusters visible from Earth, showcasing stellar beauty and structure."
-    },
-    {
-      "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-      "description": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States […]",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 21:27:17 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Côte d'Ivoire becomes the 75th signatory of NASA's Artemis Accords, expanding international cooperation for safe and peaceful space exploration."
-    },
-    {
-      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-      "description": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
-      "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 21:15:46 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA assigns four crew members from three space agencies to SpaceX Crew-14 mission to the International Space Station, demonstrating international collaboration in human spaceflight."
-    },
-    {
-      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge ",
-      "description": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 18:01:45 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "NASA announces winners of the Deep Space Food Challenge, advancing innovative solutions for sustaining human missions to Mars and beyond."
-    },
-    {
-      "title": "Practicing for Safe Landings on the Moon and Beyond",
-      "description": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
-      "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
-      "source": "NASA",
-      "date": "Thu, 24 Sep 2026 16:29:19 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA tests advanced guidance and navigation systems for safe lunar and planetary landings, progressing toward crewed missions beyond Earth."
+      "summary": "NASA's Hubble Space Telescope reveals surprising chaotic activity hidden within the seemingly peaceful spiral galaxy NGC 4698."
     },
     {
       "title": "Juice to fly past Earth for third gravity assist",
@@ -132,7 +92,7 @@
       "date": "Mon, 21 Sep 2026 16:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency's Jupiter Icy Moons Explorer (Juice) returns to Earth for a gravity assist on its ambitious journey to explore Jupiter's moons."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) returns to Earth on September 28 for its third gravity assist maneuver on its journey to Jupiter."
     },
     {
       "title": "A galaxy spinning out of sync",
@@ -140,9 +100,19 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
       "source": "ESA Space Science",
       "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The Hubble Space Telescope reveals a spiral galaxy with intriguing dynamics, uncovering cosmic mysteries about galactic rotation and structure."
+      "summary": "Hubble and NASA/ESA reveal hidden chaotic dynamics within a seemingly serene spiral galaxy, expanding our understanding of galactic behavior."
+    },
+    {
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "ESA and JAXA's BepiColombo mission initiates its Mercury arrival sequence with a live broadcast replay documenting this historic moment in planetary exploration."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -152,7 +122,17 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Hubble captures a stunning cosmic vista of a superbubble structure, offering a spectacular window into stellar phenomena and cosmic structures."
+      "summary": "Hubble captures a stunning image of a cosmic superbubble in the Large Magellanic Cloud, showcasing the grandeur of stellar structures and interstellar phenomena."
+    },
+    {
+      "title": "Astronomers Find a Sub-Neptune Orbiting Completely Backward Around a Red Dwarf",
+      "description": "In our own solar system, all eight planets orbit our Sun in a nice, orderly fashion. None are more than 7° or so out of alignment with the equator, and all of them rotate in the same direction as the Sun itself. But that’s not the case for all solar systems, and a new paper published in Astronomy & Astrophysics from a team of researchers led by Yann Carteret, a PhD student at the University of Geneva (UNIGE), describes the first time we’ve ever found an exoplanet orbiting the opposite direction of its red dwarf parent star - and it has major implications for our understanding of planet formation theory.",
+      "url": "https://www.universetoday.com/articles/astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf",
+      "source": "Universe Today",
+      "date": "Fri, 25 Sep 2026 18:52:59 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Astronomers discover a remarkable sub-Neptune exoplanet orbiting backward around a red dwarf, expanding our understanding of planetary system diversity."
     },
     {
       "title": "Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on Early Mars",
@@ -160,9 +140,9 @@
       "url": "https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
       "source": "Universe Today",
       "date": "Thu, 24 Sep 2026 21:37:42 +0000",
-      "category": "Missions",
+      "category": "NASA",
       "quality": 4,
-      "summary": "Perseverance rover uncovers evidence of complex ancient water systems that shaped Jezero Crater, revealing Mars' potentially habitable past."
+      "summary": "NASA's Perseverance rover reveals that Jezero Crater was shaped by complex ancient water systems, providing crucial insights into early Mars' potential habitability."
     },
     {
       "title": "Strange Galaxies in the Early Universe Were Shaped by Weird Stars",
@@ -172,7 +152,27 @@
       "date": "Thu, 24 Sep 2026 03:07:08 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers discover that early universe galaxies were shaped by unusual stellar populations, revealing surprising differences from modern galaxies."
+      "summary": "Astronomers discover that early universe galaxies possessed unusual stellar populations, revealing fascinating differences in cosmic evolution compared to modern galaxies."
+    },
+    {
+      "title": "Great news from Saturn's moon Enceladus in the search for life in space",
+      "description": "What are the chances of finding extraterrestrial life in our solar system? Frank Postberg, a professor of planetary science at Freie Universität Berlin, has published a study in Science Advances with an international team of researchers. They present new evidence that it is easier to determine the constituents of the ocean hidden beneath Enceladus's icy surface than previously assumed.",
+      "url": "https://phys.org/news/2026-09-great-news-saturn-moon-enceladus.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 25 Sep 2026 14:00:21 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "New discoveries about Saturn's moon Enceladus enhance prospects for finding extraterrestrial life within our solar system, bolstering astrobiology research."
+    },
+    {
+      "title": "Webb detects ammonia and unexpected chill on a distant giant planet",
+      "description": "Using the James Webb Space Telescope (JWST), a team of astronomers led by the University of Maryland identified water, methane and ammonia in the atmosphere of HATS-6 b, a giant planet 500 light-years from Earth. The observations also revealed that HATS-6 b may be significantly cooler than standard calculations predict—suggesting that the planet's relationship with its star may be far more complicated than previously thought.",
+      "url": "https://phys.org/news/2026-09-webb-ammonia-unexpected-chill-distant.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 25 Sep 2026 12:40:05 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope detects ammonia and unexpected atmospheric conditions on a distant giant planet, revealing surprising planetary characteristics."
     },
     {
       "title": "Coolest lava world yet with signs of an atmosphere offers clues to early Earth",
@@ -182,57 +182,7 @@
       "date": "Thu, 24 Sep 2026 18:20:06 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Discovery of the coolest lava world with atmospheric signatures offers valuable clues about early Earth conditions and habitability possibilities."
-    },
-    {
-      "title": "Is the universe twisted? A new check on a possible twist in the universe's oldest light",
-      "description": "The cosmic microwave background (CMB) is the universe's oldest light, leftover thermal radiation from about 380,000 years after the big bang. Maps of the CMB offer a picture of the \"baby universe\" as it was 13.8 billion years ago.",
-      "url": "https://phys.org/news/2026-09-universe-oldest.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 24 Sep 2026 13:30:01 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Researchers investigate whether the universe exhibits rotation by analyzing patterns in the cosmic microwave background radiation."
-    },
-    {
-      "title": "Supernova or black hole: Neutrino 'flavor' may determine the fate of dying stars",
-      "description": "As a star nears the end of its life, it faces two very different fates: It can explode as a supernova, leaving behind a neutron star, or collapse and become a black hole. What determines the outcome remains one of astrophysics' great unanswered questions.",
-      "url": "https://phys.org/news/2026-09-supernova-black-hole-neutrino-flavor.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 24 Sep 2026 12:20:08 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Physicists explore how neutrino behavior may determine whether dying stars become supernovae or collapse into black holes."
-    },
-    {
-      "title": "Astronomers capture an unprecedented view of gas giant formation in action",
-      "description": "In recent decades, astronomers have reconstructed a fairly complete scenario for planet formation, from minute dust motes clumping together to the emergence of rocky spheres thousands of kilometers across, like Earth, or larger gas giants like Jupiter.",
-      "url": "https://phys.org/news/2026-09-astronomers-capture-unprecedented-view-gas.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 24 Sep 2026 11:20:10 EDT",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Astronomers have captured unprecedented observations of gas giant formation in real-time, advancing our understanding of how planetary systems develop from dust and gas."
-    },
-    {
-      "title": "Faint young stars reveal spiral galaxy Messier 74 may be twice as large as thought",
-      "description": "Astronomers have discovered a faint population of young stars extending far beyond the known edge of the nearby spiral galaxy Messier 74. The finding suggests the galaxy is nearly twice as large as previously measured. The new study was published Sept. 4 in Astronomy & Astrophysics.",
-      "url": "https://phys.org/news/2026-09-faint-young-stars-reveal-spiral.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 24 Sep 2026 09:00:01 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Discovery of faint young stars suggests the nearby spiral galaxy Messier 74 may be twice as large as previously thought, revealing hidden stellar populations."
-    },
-    {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers have discovered a white dwarf producing an unexpected shock wave despite having no detectable disk, revealing new physics about stellar remnants."
+      "summary": "Astronomers discovered a rocky exoplanet with signs of an atmosphere, offering insights into early planetary formation and the potential habitability of similar worlds."
     },
     {
       "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
@@ -242,7 +192,7 @@
       "date": "Thu, 24 Sep 2026 22:45:24 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Ancient meteorite grains reveal that a surprisingly strong magnetic field existed during the early Solar System, providing new insights into planetary formation."
+      "summary": "Analysis of ancient meteorite grains reveals a surprisingly powerful magnetic field existed during the early Solar System, reshaping understanding of planetary formation."
     },
     {
       "title": "These massive stars could explain Webb’s strangest galaxies",
@@ -252,7 +202,7 @@
       "date": "Thu, 24 Sep 2026 06:42:50 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Hubble observations of massive stars in metal-poor dwarf galaxies provide clues to explaining the unusual properties of early universe galaxies observed by the James Webb Space Telescope."
+      "summary": "Hubble observations of massive stars in metal-poor dwarf galaxies provide new insights into the formation of galaxies observed by the James Webb Space Telescope in the early universe."
     },
     {
       "title": "First stellar stream beyond the Milky Way could reveal dark matter",
@@ -262,39 +212,93 @@
       "date": "Wed, 23 Sep 2026 07:23:11 EDT",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "The first globular cluster stellar stream discovered beyond the Milky Way opens new avenues for studying dark matter distribution in other galaxies."
+      "summary": "Astronomers detected the first globular cluster stellar stream beyond the Milky Way, opening new avenues to study dark matter distribution in distant galaxies."
     },
     {
-      "title": "When cell service disappears, a rescue beacon developed by NASA can summon help from space",
-      "description": "NASA-developed technology, now part of a federal and international satellite search-and-rescue network, can locate people in trouble far beyond the reach of ordinary communications.",
-      "url": "https://www.nextgov.com/emerging-tech/2026/09/when-cell-service-disappears-rescue-beacon-developed-nasa-can-summon-help-space/416179/",
-      "source": "Nextgov",
-      "date": "2026-09-23T22:35:00Z",
-      "image": "https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2229958533/open-graph.jpg",
-      "category": "NASA",
+      "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
+      "description": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies that lack ongoing star formation, a puzzling combination for astronomers. His research suggests they could be “backsplash” galaxies that once passed near a massive galaxy, lost star-for…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/meet-julian-shapiro-the-new-york-student-who-found-3-unusual-dwarf-galaxies-and-won-25000/articleshow/134391429.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21T14:48:36Z",
+      "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "NASA-developed rescue beacon technology, now integrated into a federal and international satellite search-and-rescue network, can locate people in distress from space. This innovation demonstrates how space technology directly saves lives on Earth."
+      "summary": "Eighteen-year-old Julian Shapiro discovered three unusual isolated dwarf galaxies lacking active star formation, earning recognition for his contribution to astronomical research."
     },
     {
-      "title": "El telescopio espacial Roman ya viaja más allá de la Luna y podría funcionar durante más de 20 años",
-      "description": "El observatorio Nancy Grace Roman de la NASA avanza hacia el punto de Lagrange L2, situado a unos 1,5 millones de kilómetros de la Tierra. La precisión de su lanzamiento permitió ahorrar tanto combustible que su vida operativa podría superar ampliamente las d…",
-      "url": "https://es.gizmodo.com/el-telescopio-espacial-roman-ya-viaja-mas-alla-de-la-luna-y-podria-funcionar-durante-mas-de-20-anos-2000259759",
-      "source": "Gizmodo.com",
-      "date": "2026-09-23T12:27:23Z",
-      "image": "https://es.gizmodo.com/app/uploads/2026/09/Gizmodo-47-5-1200x675.jpg",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Nancy Grace Roman Space Telescope is traveling beyond the Moon toward the Lagrange Point L2 and is expected to operate for over 20 years. This mission will enable unprecedented observations of the universe's structure and exoplanet atmospheres."
-    },
-    {
-      "title": "NASA’s Machines for Mars Make Beer Bubbly ",
-      "description": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "description": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition chall…",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
       "source": "NASA",
-      "date": "Thu, 24 Sep 2026 16:41:01 +0000",
-      "category": "Futurism",
+      "date": "2026-09-24T18:01:45Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA has announced winners of the Deep Space Food Challenge with a $300,000 top prize for innovative Mars food systems. These winning designs will help sustain human life during future deep space exploration missions."
+    },
+    {
+      "title": "Sous la surface de Mars, des chercheurs ont repéré une immense poche brûlante : selon eux, un cataclysme survenu il y a des milliards d’années en serait la cause",
+      "description": "Mars garde-t-elle encore les stigmates de sa jeunesse au plus profond de son hémisphère Sud ? Grâce à 16 ans de données satellitaires et à une technique d’imagerie par gravité, des scientifiques y ont identifié une gigantesque anomalie thermique.",
+      "url": "https://www.journaldugeek.com/2026/09/24/sous-surface-mars-chercheurs-repere-immense-poche-brulante-cataclysme-survenu-des-milliards-dannees-en-serait-la-cause/",
+      "source": "Journal du geek",
+      "date": "2026-09-24T17:02:30Z",
+      "image": "https://www.journaldugeek.com/app/uploads/2025/11/Planete-Mars-1600x900.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Researchers have detected a massive subsurface thermal region beneath Mars' southern hemisphere using 16 years of satellite data, with evidence suggesting it originated from a cataclysmic event billions of years ago. This discovery reveals Mars retains remarkable geological activity from its ancient past."
+    },
+    {
+      "title": "Erstes Bild des Roman-Teleskops: Wie der JPL-Koronagraf Exoplaneten sichtbar machen soll",
+      "description": "Das Nancy-Grace-Roman-Weltraumteleskop soll mithilfe eines sogenannten aktiven Koronagrafen unerwünschtes Sternenlicht ausblenden. Dadurch könnte eine Vielzahl unentdeckter Planeten sichtbar werden. Die Nasa ist hoch erfreut: Das Nany-Grace-Roman-Weltraumtele…",
+      "url": "https://t3n.de/news/bild-roman-teleskops-jpl-koronagraf-1754264/",
+      "source": "T3n",
+      "date": "2026-09-24T15:55:00Z",
+      "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-11.55.38.png?class=content",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The Nancy Grace Roman Space Telescope's active coronagraph technology will use innovative optical systems to suppress unwanted starlight and reveal exoplanets. This breakthrough imaging capability will revolutionize exoplanet discovery and characterization."
+    },
+    {
+      "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship",
+      "description": "Meanwhile, Falcon 9 is still doing much of the work in the commercial launch market. In 2025, it launched 165 times, successfully delivered every payload to orbit, and had one unsuccessful booster recovery. The rocket accounted for nearly half of all launches…",
+      "url": "https://www.techspot.com/news/113977-spacex-may-stop-flying-falcon-9-after-2028.html",
+      "source": "TechSpot",
+      "date": "2026-09-24T15:53:00Z",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-24-image-24.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX has ceased Falcon 9 bookings past 2028 as it focuses development efforts on Starship, while Falcon 9 continues its remarkable track record with 165 launches in 2025. This strategic pivot represents SpaceX's confidence in next-generation heavy-lift capabilities."
+    },
+    {
+      "title": "NASA PRIMA: инфракрасный телескоп за $1.2 млрд будет искать воду во Вселенной с 2033 года",
+      "description": "NASA перевело миссию PRIMA в фазу активной разработки: новый телескоп за 54 млрд грн будет искать воду во Вселенной.",
+      "url": "https://gagadget.com/ru/727311-nasa-prima-infrakrasnyij-teleskop-za-12-mlrd-budet-iskat-vodu-vo-vselennoj-s-2033-goda/",
+      "source": "Gagadget.com",
+      "date": "2026-09-24T11:35:44Z",
+      "image": "https://gagadget.com/media/cache/d7/a7/d7a7efe8a063d5256e2f043a743b09f9.webp",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA has advanced the PRIMA mission into active development, a $1.2 billion infrared telescope launching in 2033 to search for water throughout the universe. This mission will revolutionize our understanding of water distribution and habitability across cosmic scales."
+    },
+    {
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords  ",
+      "description": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 19:53:03 +0000",
+      "category": "NASA",
       "quality": 3,
-      "summary": "Carbon-capture technology developed for Mars exploration finds creative applications in Earth-based industries, demonstrating space innovation's broader benefits."
+      "summary": "San Marino becomes the 76th nation to sign the Artemis Accords, strengthening international cooperation for sustainable lunar exploration and space governance."
+    },
+    {
+      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+      "description": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 04:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "NASA's Astronomy Picture of the Day features the stunning globular star cluster Omega Centauri, showcasing the beauty of dense stellar systems."
     },
     {
       "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury ",
@@ -304,7 +308,7 @@
       "date": "Thu, 24 Sep 2026 15:00:00 +0200",
       "category": "Missions",
       "quality": 3,
-      "summary": "ESA invites the public to participate in celebrating BepiColombo's historic arrival at Mercury through creative expressions and messages."
+      "summary": "ESA invites the public to celebrate BepiColombo's historic arrival at Mercury by creating welcoming messages through art, music, or poetry."
     }
   ]
 }

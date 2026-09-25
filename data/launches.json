@@ -1,19 +1,6 @@
 {
-  "generated": "2026-09-25T07:36:54.311Z",
+  "generated": "2026-09-25T21:29:02.970Z",
   "launches": [
-    {
-      "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
-      "name": "Long March 6A | Yaogan 40 Group 04",
-      "net": "2026-09-24T08:46:00Z",
-      "status": "Success",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 6A",
-      "pad": "Launch Complex 9A",
-      "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "mission": "Yaogan 40 Group 04",
-      "description": "3 Chinese reconnaissance satellites of unknown purposes, officially reported as for \"Electromagnetic environment probing\".",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
-    },
     {
       "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
       "name": "Electron | Owlright, Owlright, Owlright (StriX Launch 13)",
@@ -30,7 +17,7 @@
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "name": "Falcon 9 Block 5 | USSF-385",
-      "net": "2026-09-26T11:56:00Z",
+      "net": "2026-09-26T12:56:13Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -106,17 +93,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sr-75_liftoff__image_20240503065630.jpeg"
     },
     {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-10-07T00:00:00Z",
-      "status": "TBD",
-      "provider": "Arianespace",
-      "rocket": "Ariane 64",
-      "pad": "Ariane Launch Area 4",
-      "location": "Guiana Space Centre, French Guiana",
-      "mission": "Amazon Leo (LE-04)",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-10-05T08:06:00Z",
+      "status": "TBC",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
     },
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
@@ -130,6 +117,19 @@
       "mission": "NeonSat-2 to 6",
       "description": "NeonSat-2 to 6 are part of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite). The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nuri_liftoff_2_image_20240820080542.jpeg"
+    },
+    {
+      "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-25",
+      "net": "2026-10-10T16:00:00Z",
+      "status": "Go",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "Starlink Group 15-25",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     }
   ]
 }
