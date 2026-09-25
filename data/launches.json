@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T00:29:01.381Z",
+  "generated": "2026-09-25T07:36:54.311Z",
   "launches": [
     {
       "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
@@ -69,8 +69,8 @@
     {
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
       "name": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
-      "net": "2026-10-01T18:08:00Z",
-      "status": "TBC",
+      "net": "2026-10-01T18:18:00Z",
+      "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",

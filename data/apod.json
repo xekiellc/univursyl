@@ -1,4 +1,9 @@
 {
-  "explanation": "I don't see any NASA APOD explanation provided in your message. Could you please share the text you'd like me to rewrite? Once you paste it, I'll be happy to condense it into 2 engaging sentences using vivid, accessible language!",
-  "copyright": "NASA"
+  "title": "Globular Cluster Omega Centauri",
+  "date": "2026-09-25",
+  "url": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg",
+  "hdurl": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg",
+  "media_type": "image",
+  "explanation": "# Omega Centauri: A Cosmic Puzzle\n\nDeep in the halo surrounding our Milky Way lies Omega Centauri, a colossal ball of 10 million ancient stars packed into a region 150 light-years across—so densely packed and impossibly old that astronomers believe it may be the shattered core of a small galaxy that collided with ours billions of years ago. Hubble Space Telescope observations spanning two decades have revealed that a massive black hole lurks at its heart, adding another mystery to this unusual cluster whose stars display a strange range of ages and chemical compositions unlike typical star clusters.",
+  "copyright": "Javier O. Cadenas Parra"
 }
