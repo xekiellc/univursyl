@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T21:24:57.168Z",
+  "generated": "2026-09-26T00:29:20.537Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Tue, 15 Sep 2026 16:00:00 +0200",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "The James Webb Space Telescope reveals a stunning panoramic view of star formation in the nearby region IC 348, showcasing stellar birth in unprecedented detail."
+      "summary": "The James Webb Space Telescope captures a stunning panoramic view of star formation in the nearby region IC 348, one of its largest images to date."
     },
     {
       "title": "BepiColombo begins Mercury arrival with MTM separation success",
@@ -20,17 +20,7 @@
       "date": "Mon, 07 Sep 2026 10:25:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "BepiColombo successfully begins its historic Mercury arrival with the successful separation of the Mercury Transfer Module on September 3, 2026."
-    },
-    {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Scientists discovered an unprecedented shock wave produced by a white dwarf star without a detectable disk, challenging existing models of stellar physics."
+      "summary": "BepiColombo successfully completes its Mercury Transfer Module separation, marking the triumphant beginning of its arrival at Mercury on September 3, 2026."
     },
     {
       "title": "NASA just powered up Roman’s massive 300-megapixel camera",
@@ -40,7 +30,7 @@
       "date": "Mon, 21 Sep 2026 08:10:58 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope successfully activated its groundbreaking 300-megapixel infrared camera, positioning it to capture unprecedented views of the cosmos."
+      "summary": "NASA's Roman Space Telescope successfully activated its groundbreaking 300-megapixel infrared camera, setting the stage for unprecedented observations of the universe. This major milestone represents a significant leap forward in space-based astronomical capabilities."
     },
     {
       "title": "Astronomers Confirm Youngest Known Planet, Less Than 1 Million Years Old",
@@ -51,7 +41,18 @@
       "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/youngest-known-planet-elias-2-24-b-planet-formation-4275-original-1.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have confirmed the youngest known planet ever discovered, a Jupiter-sized world less than 1 million years old still in its formation stage. This remarkable finding provides unprecedented insights into planetary birth and early development."
+      "summary": "Astronomers have confirmed the youngest known planet yet, a Jupiter-sized world less than 1 million years old. This discovery provides unprecedented insights into planetary formation in real-time."
+    },
+    {
+      "title": "NASA PRIMA: инфракрасный телескоп за $1.2 млрд будет искать воду во Вселенной с 2033 года",
+      "description": "NASA перевело миссию PRIMA в фазу активной разработки: новый телескоп за 54 млрд грн будет искать воду во Вселенной.",
+      "url": "https://gagadget.com/ru/727311-nasa-prima-infrakrasnyij-teleskop-za-12-mlrd-budet-iskat-vodu-vo-vselennoj-s-2033-goda/",
+      "source": "Gagadget.com",
+      "date": "2026-09-24T11:35:44Z",
+      "image": "https://gagadget.com/media/cache/d7/a7/d7a7efe8a063d5256e2f043a743b09f9.webp",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA's PRIMA infrared telescope mission has entered active development phase and will search for water across the universe starting in 2033. This $1.2 billion mission represents a major advancement in space-based water detection."
     },
     {
       "title": "Artemis 2 Set Out to Prove Orion Could Handle Deep Space. Here’s How It Delivered",
@@ -62,7 +63,7 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/NASA-Artremis-2-Orion-Science-Fair-1200x675.jpg",
       "category": "NASA",
       "quality": 5,
-      "summary": "The Artemis II mission successfully validated the Orion spacecraft's capability to handle deep space operations by returning astronauts to the Moon aboard an uncrewed-proven vehicle. This landmark mission represents a critical step toward sustainable human lunar exploration and eventual Mars missions."
+      "summary": "The Artemis 2 mission successfully demonstrated that the Orion spacecraft could handle deep space conditions with astronauts aboard. This landmark achievement paves the way for humanity's return to the Moon and future deep space exploration."
     },
     {
       "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
@@ -70,9 +71,9 @@
       "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "source": "NASA",
       "date": "Fri, 25 Sep 2026 19:36:10 +0000",
-      "category": "SpaceX",
+      "category": "NASA",
       "quality": 4,
-      "summary": "NASA successfully tests an innovative dual-mode propulsion CubeSat that combines fuel efficiency with versatile maneuvering capabilities, advancing small satellite technology."
+      "summary": "NASA tests an innovative dual mode propulsion CubeSat that combines volatile fuel and maneuver systems into a single, more efficient spacecraft design."
     },
     {
       "title": "Hubble Spots Chaotic Secret in Galaxy",
@@ -80,19 +81,9 @@
       "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
       "source": "NASA",
       "date": "Fri, 25 Sep 2026 15:54:10 +0000",
-      "category": "Astronomy",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope reveals surprising chaotic activity hidden within the seemingly peaceful spiral galaxy NGC 4698."
-    },
-    {
-      "title": "Juice to fly past Earth for third gravity assist",
-      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
-      "source": "ESA Space Science",
-      "date": "Mon, 21 Sep 2026 16:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) returns to Earth on September 28 for its third gravity assist maneuver on its journey to Jupiter."
+      "summary": "NASA's Hubble Space Telescope discovers hidden chaotic dynamics within the seemingly serene spiral galaxy NGC 4698."
     },
     {
       "title": "A galaxy spinning out of sync",
@@ -100,9 +91,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
       "source": "ESA Space Science",
       "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "Hubble and NASA/ESA reveal hidden chaotic dynamics within a seemingly serene spiral galaxy, expanding our understanding of galactic behavior."
+      "summary": "The NASA/ESA Hubble Space Telescope reveals hidden chaotic dynamics within a seemingly peaceful spiral galaxy."
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
@@ -112,7 +103,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA and JAXA's BepiColombo mission initiates its Mercury arrival sequence with a live broadcast replay documenting this historic moment in planetary exploration."
+      "summary": "A full replay is available of the ESA/JAXA BepiColombo mission's historic Mercury arrival livestream."
     },
     {
       "title": "Hubble's superbubble scene",
@@ -122,7 +113,7 @@
       "date": "Thu, 03 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Hubble captures a stunning image of a cosmic superbubble in the Large Magellanic Cloud, showcasing the grandeur of stellar structures and interstellar phenomena."
+      "summary": "Hubble captures a stunning cosmic vista of a superbubble, showcasing the intricate structures formed by stellar processes in nearby galaxies."
     },
     {
       "title": "Astronomers Find a Sub-Neptune Orbiting Completely Backward Around a Red Dwarf",
@@ -132,7 +123,7 @@
       "date": "Fri, 25 Sep 2026 18:52:59 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers discover a remarkable sub-Neptune exoplanet orbiting backward around a red dwarf, expanding our understanding of planetary system diversity."
+      "summary": "Astronomers discover a sub-Neptune planet orbiting its red dwarf star in a retrograde direction, challenging our understanding of planetary formation and orbital dynamics."
     },
     {
       "title": "Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on Early Mars",
@@ -142,7 +133,7 @@
       "date": "Thu, 24 Sep 2026 21:37:42 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance rover reveals that Jezero Crater was shaped by complex ancient water systems, providing crucial insights into early Mars' potential habitability."
+      "summary": "NASA's Perseverance rover reveals evidence of complex ancient water systems that shaped Jezero Crater, providing crucial insights into early Mars' habitability."
     },
     {
       "title": "Strange Galaxies in the Early Universe Were Shaped by Weird Stars",
@@ -152,7 +143,7 @@
       "date": "Thu, 24 Sep 2026 03:07:08 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Astronomers discover that early universe galaxies possessed unusual stellar populations, revealing fascinating differences in cosmic evolution compared to modern galaxies."
+      "summary": "Astronomers investigate unusual galaxy and star formations in the early Universe, uncovering how different stellar populations shaped galactic evolution."
     },
     {
       "title": "Great news from Saturn's moon Enceladus in the search for life in space",
@@ -162,7 +153,7 @@
       "date": "Fri, 25 Sep 2026 14:00:21 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New discoveries about Saturn's moon Enceladus enhance prospects for finding extraterrestrial life within our solar system, bolstering astrobiology research."
+      "summary": "Recent discoveries from Saturn's moon Enceladus provide encouraging evidence for potential extraterrestrial life within our solar system."
     },
     {
       "title": "Webb detects ammonia and unexpected chill on a distant giant planet",
@@ -172,7 +163,7 @@
       "date": "Fri, 25 Sep 2026 12:40:05 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope detects ammonia and unexpected atmospheric conditions on a distant giant planet, revealing surprising planetary characteristics."
+      "summary": "The James Webb Space Telescope identifies ammonia and unexpected atmospheric conditions on a distant giant exoplanet, expanding our understanding of planetary atmospheres."
     },
     {
       "title": "Coolest lava world yet with signs of an atmosphere offers clues to early Earth",
@@ -182,7 +173,17 @@
       "date": "Thu, 24 Sep 2026 18:20:06 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers discovered a rocky exoplanet with signs of an atmosphere, offering insights into early planetary formation and the potential habitability of similar worlds."
+      "summary": "Astronomers discovered the coolest lava world yet with signs of an atmosphere, providing valuable clues about early Earth and the conditions suitable for life. This rocky exoplanet represents an important discovery in the search for extraterrestrial life."
+    },
+    {
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Scientists discovered a white dwarf star producing a powerful shock wave despite having no detectable disk, a phenomenon never seen before. This unexpected finding challenges existing models of stellar behavior."
     },
     {
       "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
@@ -192,17 +193,7 @@
       "date": "Thu, 24 Sep 2026 22:45:24 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Analysis of ancient meteorite grains reveals a surprisingly powerful magnetic field existed during the early Solar System, reshaping understanding of planetary formation."
-    },
-    {
-      "title": "These massive stars could explain Webb’s strangest galaxies",
-      "description": "Hubble observations of massive stars in metal-poor dwarf galaxies are revealing clues to why the early universe looks so unusual. Researchers found that stellar winds weaken sharply at extremely low metallicities, potentially allowing massive stars to retain more material and evolve in unexpected ways. The team also found large differences in iron abundance, a key ingredient in stellar winds and supernovae.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 06:42:50 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Hubble observations of massive stars in metal-poor dwarf galaxies provide new insights into the formation of galaxies observed by the James Webb Space Telescope in the early universe."
+      "summary": "Ancient meteorite grains reveal a surprisingly strong magnetic field existed during the Solar System's formation, revealing a powerful force that shaped planetary development. This discovery provides new insights into the early Solar System's dynamics."
     },
     {
       "title": "First stellar stream beyond the Milky Way could reveal dark matter",
@@ -212,18 +203,18 @@
       "date": "Wed, 23 Sep 2026 07:23:11 EDT",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Astronomers detected the first globular cluster stellar stream beyond the Milky Way, opening new avenues to study dark matter distribution in distant galaxies."
+      "summary": "Astronomers discovered the first globular cluster stellar stream beyond the Milky Way, opening a new avenue for studying dark matter. This landmark finding enables novel methods to investigate dark matter's properties outside our galaxy."
     },
     {
-      "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
-      "description": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies that lack ongoing star formation, a puzzling combination for astronomers. His research suggests they could be “backsplash” galaxies that once passed near a massive galaxy, lost star-for…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/meet-julian-shapiro-the-new-york-student-who-found-3-unusual-dwarf-galaxies-and-won-25000/articleshow/134391429.cms",
-      "source": "The Times of India",
-      "date": "2026-09-21T14:48:36Z",
-      "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
-      "category": "Astronomy",
+      "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+      "description": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as …",
+      "url": "https://www.nasa.gov/blogs/commercialcrew/2026/09/24/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+      "source": "NASA",
+      "date": "2026-09-24T21:32:01Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg",
+      "category": "NASA",
       "quality": 4,
-      "summary": "Eighteen-year-old Julian Shapiro discovered three unusual isolated dwarf galaxies lacking active star formation, earning recognition for his contribution to astronomical research."
+      "summary": "NASA has assigned four crew members from three space agencies for the SpaceX Crew-14 mission to the International Space Station launching in spring 2027. This continued international cooperation highlights humanity's commitment to space exploration."
     },
     {
       "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
@@ -234,7 +225,7 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA has announced winners of the Deep Space Food Challenge with a $300,000 top prize for innovative Mars food systems. These winning designs will help sustain human life during future deep space exploration missions."
+      "summary": "NASA announced winners of the Deep Space Food Challenge: Mars to Table, with the top prize of $300,000 awarded for innovative Mars food systems. This competition advances critical technology for future Mars missions."
     },
     {
       "title": "Sous la surface de Mars, des chercheurs ont repéré une immense poche brûlante : selon eux, un cataclysme survenu il y a des milliards d’années en serait la cause",
@@ -245,7 +236,7 @@
       "image": "https://www.journaldugeek.com/app/uploads/2025/11/Planete-Mars-1600x900.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Researchers have detected a massive subsurface thermal region beneath Mars' southern hemisphere using 16 years of satellite data, with evidence suggesting it originated from a cataclysmic event billions of years ago. This discovery reveals Mars retains remarkable geological activity from its ancient past."
+      "summary": "Researchers have discovered an immense hot pocket beneath Mars's surface using 16 years of data, revealing evidence of ancient geological upheaval. This finding deepens our understanding of Mars's dynamic past."
     },
     {
       "title": "Erstes Bild des Roman-Teleskops: Wie der JPL-Koronagraf Exoplaneten sichtbar machen soll",
@@ -254,9 +245,9 @@
       "source": "T3n",
       "date": "2026-09-24T15:55:00Z",
       "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-11.55.38.png?class=content",
-      "category": "Exoplanets",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The Nancy Grace Roman Space Telescope's active coronagraph technology will use innovative optical systems to suppress unwanted starlight and reveal exoplanets. This breakthrough imaging capability will revolutionize exoplanet discovery and characterization."
+      "summary": "The Nancy Grace Roman Space Telescope's first image demonstrates how its active coronagraph will make exoplanets visible by filtering unwanted starlight. This advancement will revolutionize exoplanet imaging capabilities."
     },
     {
       "title": "SpaceX has stopped taking Falcon 9 bookings past 2028, betting everything on Starship",
@@ -267,18 +258,17 @@
       "image": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-24-image-24.jpg",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX has ceased Falcon 9 bookings past 2028 as it focuses development efforts on Starship, while Falcon 9 continues its remarkable track record with 165 launches in 2025. This strategic pivot represents SpaceX's confidence in next-generation heavy-lift capabilities."
+      "summary": "SpaceX has stopped booking Falcon 9 launches past 2028 as it prioritizes Starship development, though Falcon 9 successfully completed 165 launches in 2025. This strategic shift marks a pivotal transition toward next-generation spaceflight."
     },
     {
-      "title": "NASA PRIMA: инфракрасный телескоп за $1.2 млрд будет искать воду во Вселенной с 2033 года",
-      "description": "NASA перевело миссию PRIMA в фазу активной разработки: новый телескоп за 54 млрд грн будет искать воду во Вселенной.",
-      "url": "https://gagadget.com/ru/727311-nasa-prima-infrakrasnyij-teleskop-za-12-mlrd-budet-iskat-vodu-vo-vselennoj-s-2033-goda/",
-      "source": "Gagadget.com",
-      "date": "2026-09-24T11:35:44Z",
-      "image": "https://gagadget.com/media/cache/d7/a7/d7a7efe8a063d5256e2f043a743b09f9.webp",
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "description": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+      "source": "NASA",
+      "date": "Fri, 25 Sep 2026 22:06:50 +0000",
       "category": "NASA",
-      "quality": 4,
-      "summary": "NASA has advanced the PRIMA mission into active development, a $1.2 billion infrared telescope launching in 2033 to search for water throughout the universe. This mission will revolutionize our understanding of water distribution and habitability across cosmic scales."
+      "quality": 3,
+      "summary": "NASA and Boeing leadership will provide an update on the Starliner spacecraft development program during a news conference on September 28."
     },
     {
       "title": "NASA Welcomes San Marino Signing the Artemis Accords  ",
@@ -288,17 +278,7 @@
       "date": "Fri, 25 Sep 2026 19:53:03 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "San Marino becomes the 76th nation to sign the Artemis Accords, strengthening international cooperation for sustainable lunar exploration and space governance."
-    },
-    {
-      "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-      "description": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-      "source": "NASA",
-      "date": "Fri, 25 Sep 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "NASA's Astronomy Picture of the Day features the stunning globular star cluster Omega Centauri, showcasing the beauty of dense stellar systems."
+      "summary": "San Marino becomes the 76th nation to sign the Artemis Accords, joining the international commitment to sustainable lunar exploration and cooperation."
     },
     {
       "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury ",
@@ -308,7 +288,27 @@
       "date": "Thu, 24 Sep 2026 15:00:00 +0200",
       "category": "Missions",
       "quality": 3,
-      "summary": "ESA invites the public to celebrate BepiColombo's historic arrival at Mercury by creating welcoming messages through art, music, or poetry."
+      "summary": "The European Space Agency invites the public to create welcoming messages for BepiColombo's historic arrival at Mercury."
+    },
+    {
+      "title": "Juice to fly past Earth for third gravity assist",
+      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+      "source": "ESA Space Science",
+      "date": "Mon, 21 Sep 2026 16:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "The European Space Agency's Jupiter Icy Moons Explorer (Juice) will perform its third Earth gravity assist on September 28 en route to Jupiter."
+    },
+    {
+      "title": "Purple swirls on the Red Planet",
+      "description": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+      "source": "ESA Space Science",
+      "date": "Wed, 16 Sep 2026 11:00:00 +0200",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "A striking image captures a prominent ice cliff near Mars's south pole with beautiful purple, pink, and red swirling patterns."
     }
   ]
 }
