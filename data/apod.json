@@ -1,9 +1,9 @@
 {
-  "title": "Andromeda before Photoshop",
-  "date": "2026-09-27",
-  "url": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg",
-  "hdurl": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg",
+  "title": "Cosmic Latte: The Average Color of the Universe",
+  "date": "2026-09-28",
+  "url": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg",
+  "hdurl": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg",
   "media_type": "image",
-  "explanation": "# Andromeda Galaxy's True Face\n\nThis stunning portrait of Andromeda, our galaxy's nearest major neighbor, is actually a composite of 223 long exposures from a Portuguese garden observatory, meticulously cleaned of Earth-based visual clutter—airplane trails, satellite streaks, and sensor errors—to reveal what this distant spiral galaxy truly looks like through our atmosphere. By carefully removing these terrestrial artifacts while preserving the real galaxy, astronomers transformed hours of raw observations into an authentic glimpse of Andromeda's delicate structure, showing that the most honest depiction of the universe sometimes requires digital restoration rather than removal.",
+  "explanation": "# The Universe's True Color\n\nWhen astronomers averaged the light from 200,000 galaxies, they discovered that if you could somehow blend all the starlight in the night sky together, the universe would appear as a warm, creamy beige—a shade so specific it has the computer code #FFF8E7 and earned the playful name \"cosmic latte.\" Over the past 10 billion years, this cosmic color has shifted from blue toward red, revealing that older, redder stars are becoming increasingly dominant as galaxies age.",
   "copyright": "NASA"
 }
