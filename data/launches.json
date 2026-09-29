@@ -1,19 +1,6 @@
 {
-  "generated": "2026-09-28T18:08:08.705Z",
+  "generated": "2026-09-29T16:31:02.116Z",
   "launches": [
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Starlink Group 31-1 (Starship Flight 14)",
-      "net": "2026-09-28T12:48:59Z",
-      "status": "Success",
-      "provider": "SpaceX",
-      "rocket": "Starship",
-      "pad": "Orbital Launch Pad 2",
-      "location": "SpaceX Starbase, TX, USA",
-      "mission": "Starlink Group 31-1 (Starship Flight 14)",
-      "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-1) into stable Low Earth Orbit.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 6 orbits around the planet for nearly 10 hours, with splashdown targeted in the Pacific Ocean west of Chile.\r\n\r\nThe booster’s primary test objective on Flight 14 will be executing a successful launch, ascent, stage separation, boostback burn, and landing burn at an offshore landing point in the Gulf.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the first time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg"
-    },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
@@ -108,8 +95,8 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-15T00:00:00Z",
-      "status": "TBD",
+      "net": "2026-10-13T17:00:00Z",
+      "status": "TBC",
       "provider": "Indian Space Research Organization",
       "rocket": "GSLV Mk II",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
@@ -130,6 +117,19 @@
       "mission": "Martian Moon eXplorer (MMX)",
       "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg"
+    },
+    {
+      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
+      "name": "SSLV | AayulSAT-1A & others",
+      "net": "2026-10-31T00:00:00Z",
+      "status": "TBD",
+      "provider": "Indian Space Research Organization",
+      "rocket": "SSLV",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "location": "Satish Dhawan Space Centre, India",
+      "mission": "AayulSAT-1A & others",
+      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
     }
   ]
 }

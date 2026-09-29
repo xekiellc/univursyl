@@ -1,17 +1,7 @@
 {
-  "generated": "2026-09-28T18:03:20.304Z",
+  "generated": "2026-09-29T16:26:46.273Z",
   "count": 30,
   "articles": [
-    {
-      "title": "Webb reveals stunning panorama of star formation",
-      "description": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-      "source": "ESA Space Science",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "The James Webb Space Telescope reveals an expansive panoramic view of star formation in the nearby IC 348 region."
-    },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
       "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
@@ -20,37 +10,37 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "ESA and JAXA's BepiColombo spacecraft successfully arrives at Mercury, marking a major milestone in planetary exploration."
+      "summary": "BepiColombo's historic arrival at Mercury is now available as a full replay, documenting this monumental achievement by ESA and JAXA in exploring the solar system's innermost planet."
     },
     {
-      "title": "How the Infant Universe Got Its First Heavy Elements",
-      "description": "Way back in the earliest epochs of the Universe, the Big Bang was followed by a period called the Cosmic Dark Ages. It was a time when the cosmic soup of primordial particles was so thick that light couldn't propagate. Hence the term \"dark\"; also, because, even with our best telescopes, we can't see \"into\" that epoch. Although we don't have a definite \"century by century\" timeline of activity, that doesn't mean that period of history didn't lead to something interesting.",
-      "url": "https://www.universetoday.com/articles/how-the-infant-universe-got-its-first-heavy-elements",
+      "title": "Direct neutral gas found in galaxies 700M yrs post-Big Bang",
+      "description": "Approximately 13.8 billion years ago, the Big Bang is hypothesized to have occurred, kickstarting our universe and eventually life on our small, blue world. While the Big Bang has yet to be directly observed, scientists have worked tirelessly to piece together the events that happened immediately after the Big Bang, specifically the first billion years or less, with the goal of gaining insight into the how the first stars, and potentially planets, formed and evolved.",
+      "url": "https://www.universetoday.com/articles/direct-neutral-gas-found-in-galaxies-700m-yrs-post-big-bang",
       "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 16:12:33 +0000",
+      "date": "Tue, 29 Sep 2026 05:14:39 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Scientists uncover how the early universe created its first heavy elements following the Big Bang and Cosmic Dark Ages."
+      "summary": "Astronomers detect neutral gas in galaxies formed just 700 million years after the Big Bang, providing crucial insights into early universe structure and galaxy formation."
     },
     {
-      "title": "ESA And JAXA's Planetary Defense Mission Powers On For The First Time",
-      "description": "There’s a once-in-a-millennia astronomical opportunity coming up in about three years, and space agencies are rushing to make sure they’re ready for it. On Friday April 13th, 2029, the asteroid 99942 Apophis will fly within 32,000km of the Earth’s surface. The cruise liner sized piece of rock won’t hit us, but it should put on a great show, and, given the date it will pass by, is sure to cause panic amongst some parts of western civilization. One of the missions planned to watch this historic event (and hopefully alleviate some people’s fears) - ESA and JAXA’s Rapid Apophis Mission for Space Safety (Ramses) - has just passed a successful development milestone - turning on its computer for the first time.",
-      "url": "https://www.universetoday.com/articles/esa-and-jaxas-planetary-defense-mission-powers-on-for-the-first-time",
+      "title": "SpaceX's Starship Rocket Does Its Job During First Orbital Flight",
+      "description": "SpaceX sent its Starship super-rocket on its first orbital flight — a shorter-than-planned test mission that put operational Starlink satellites into orbit for the first time.",
+      "url": "https://www.universetoday.com/articles/spacexs-starship-rocket-does-its-job-during-first-orbital-flight",
       "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 12:55:49 +0000",
-      "category": "Missions",
+      "date": "Mon, 28 Sep 2026 20:10:00 +0000",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "ESA and JAXA's planetary defense mission activates for the first time, preparing for a critical astronomical opportunity within three years."
+      "summary": "SpaceX's Starship super-rocket completes its first orbital test flight, successfully demonstrating critical capabilities and advancing humanity's journey toward fully reusable deep-space transportation."
     },
     {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "category": "Astrophysics",
+      "title": "How NASA's Nancy Grace Roman Space Telescope will open a window into the Milky Way",
+      "description": "Look up at the night sky with the naked eye and it may seem like it rarely changes. Yet the universe is in constant flux. Stars drift through space, orbiting the center of the Milky Way as planets orbit them. They rotate, showing spots on their surfaces and sometimes producing violent outbursts that affect planetary atmospheres much like solar storms produce auroras on Earth.",
+      "url": "https://phys.org/news/2026-09-nasa-nancy-grace-roman-space.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 29 Sep 2026 09:40:01 EDT",
+      "category": "NASA",
       "quality": 5,
-      "summary": "Astronomers discover a white dwarf producing a powerful shock wave with no detectable disk, representing an unprecedented and mysterious stellar phenomenon."
+      "summary": "NASA's Nancy Grace Roman Space Telescope will revolutionize our understanding of the Milky Way by revealing the dynamic, constantly-changing universe invisible to the naked eye."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -61,29 +51,94 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have identified a mysterious new class of objects called 'little red dots' in the early universe and are making breakthrough progress in understanding their nature. This discovery ranks among the most significant astronomical findings in recent decades."
+      "summary": "Astronomers have identified a new class of mysterious objects in the early universe known as 'tiny red dots,' potentially solving a years-long puzzle about fundamental cosmic structures. This discovery represents one of astronomy's most significant breakthroughs in recent decades."
     },
     {
-      "title": "Astronomers Confirm Youngest Known Planet, Less Than 1 Million Years Old",
-      "description": "Astronomers have confirmed the youngest known planet yet, a Jupiter-size world less than 1 million years old that orbits a star about 450 light-years from Earth, according to a study published Sept. 16 in The Astrophysical Journal Letters. The planet, designa…",
-      "url": "https://www.naturalnews.com/2026-09-19-astronomers-confirm-youngest-known-planet.html",
-      "source": "Naturalnews.com",
-      "date": "2026-09-19T06:00:00Z",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/youngest-known-planet-elias-2-24-b-planet-formation-4275-original-1.jpg",
-      "category": "Exoplanets",
+      "title": "Actualité : Starship est en orbite : la plus grosse fusée commerciale jamais construite tourne enfin autour de la Terre",
+      "description": "Après trois ans d'explosions spectaculaires, la fusée géante d'Elon Musk a enfin réussi à se placer en orbite autour de la Terre ce lundi, avec 26 satellites Starlink dans ses entrailles. Reste le dernier moment de vérité : le colosse de 124 m doit traverser …",
+      "url": "https://www.lesnumeriques.com/spatial/starship-est-en-orbite-la-plus-grosse-fusee-commerciale-jamais-construite-tourne-enfin-autour-de-la-terre-n262441.html",
+      "source": "Les Numériques",
+      "date": "2026-09-28T14:10:00Z",
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/262441/1f1f0934-starship-est-en-orbite-la-plus-grosse-fusee-jamais-construite-tourne-enfin-autour-de-la-terre_png__1200_678__0-0-2286-1200.jpg",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "Astronomers have confirmed the youngest known planet ever discovered—a Jupiter-sized world less than 1 million years old still in its infancy. This remarkable find provides unprecedented insights into planetary formation and evolution."
+      "summary": "SpaceX's Starship, the world's largest commercial rocket, has successfully achieved orbital flight after three years of testing. This landmark accomplishment represents a transformative moment in commercial spaceflight and humanity's expansion into space."
     },
     {
-      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
-      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics …",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-      "source": "NASA",
-      "date": "2026-09-23T20:09:42Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-      "category": "NASA",
+      "title": "Starship S41 впервые вышел на орбиту: SpaceX провела 14-й запуск несмотря на отказ двигателей",
+      "description": "SpaceX успешно вывела Starship S41 на орбиту во время 14-го испытательного полета, несмотря на технические неисправности двигателей Raptor.",
+      "url": "https://gagadget.com/ru/727804-starship-s41-vpervyie-vyishel-na-orbitu-spacex-provela-14-j-zapusk-nesmotrya-na-otkaz-dvigatelej/",
+      "source": "Gagadget.com",
+      "date": "2026-09-28T13:54:18Z",
+      "image": "https://gagadget.com/media/cache/18/83/1883aa92797c31cb1632c28c20a5f3e9.webp",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "NASA selected PRIMA (PRobe far-Infrared Mission) as the inaugural mission in a new class dedicated to exploring the universe's history and evolution. This landmark selection launches an ambitious new era of far-infrared astronomy."
+      "summary": "SpaceX successfully launched Starship S41 to orbit on its 14th test flight, overcoming engine challenges in a landmark achievement for the next-generation rocket."
+    },
+    {
+      "title": "SpaceX launches giant starship into orbit for the first time – Watch the flight",
+      "description": "The test marks a major step toward determining whether starship can move into the era of official space missions\nThe post SpaceX launches giant starship into orbit for the first time – Watch the flight appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2026/09/28/spacex-launches-giant-starship-into-orbit-for-the-first-time-watch-the-flight/",
+      "source": "Protothema.gr",
+      "date": "2026-09-28T12:58:39Z",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/09/htaskobxcaauqjp-3.jpg-3.jpg",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX achieved a historic first orbital flight of its giant Starship rocket, marking a major milestone toward enabling official space missions."
+    },
+    {
+      "title": "SpaceX launches Starship on first orbital flight",
+      "description": "SpaceX launched its next-generation Starship rocket early Monday on what's planned to be its first orbital mission.\nWhy it matters: The massive, fully-reusable Starship is key to SpaceX's commercial spaceflight ambitions, while NASA is counting on a modified …",
+      "url": "https://biztoc.com/x/58205a32f828afe5",
+      "source": "Biztoc.com",
+      "date": "2026-09-28T12:58:18Z",
+      "image": "https://biztoc.com/cdn/58205a32f828afe5_s.webp",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX successfully launched Starship on its first planned orbital mission early Monday, advancing toward operational space transportation capabilities."
+    },
+    {
+      "title": "SpaceX launches massive Starship into orbit for the first time despite engine shutting down",
+      "description": "Founder Elon Musk intends for the Starship to circle the globe six times from an altitude of 170 miles.",
+      "url": "https://nypost.com/2026/09/28/us-news/spacex-launches-massive-starship-for-first-orbital-mission/",
+      "source": "New York Post",
+      "date": "2026-09-28T14:05:57Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-41022539.jpg?quality=75&strip=all&w=1200",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX launched its massive Starship rocket into orbit for the first time despite engine challenges, demonstrating progress toward six full Earth orbits."
+    },
+    {
+      "title": "SpaceX launches Starship rocket to orbit for 1st time",
+      "description": "SpaceX launched its enormous Starship into orbit for the first time Monday, aiming for six full laps around Earth to prove its readiness for NASA's Artemis moon program.Starship’s 14th flight is set to launch on Monday, Sept 28. The 75-minute launch window op…",
+      "url": "https://tech.yahoo.com/science/articles/spacexs-supersized-starship-launches-toward-125036831.html",
+      "source": "Yahoo Entertainment",
+      "date": "2026-09-28T12:50:36Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/30513380fdede31b806630dc52071df80f7c4ec2f906a8cab91f2a934ce99454/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb05ce21b5351958ba6ad175d9386cb6b.jpg",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX successfully launched its enormous Starship into orbit for the first time on Monday, completing six laps around Earth in a historic achievement."
+    },
+    {
+      "title": "Watch live: SpaceX Starship launch on 1st orbital attempt",
+      "description": "SpaceX launched its Starship and Super Heavy rocket on Monday morning and made it to orbit for the first time ever despite losing one of its engines on its trip up to space.",
+      "url": "https://www.orlandosentinel.com/2026/09/28/watch-live-spacex-starship-launch-on-1st-orbital-attempt/",
+      "source": "Orlando Sentinel",
+      "date": "2026-09-28T12:38:01Z",
+      "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/09/spacexstarshiplaunch092826.jpg?w=1580&h=808",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX successfully launched Starship and Super Heavy rocket to orbit for the first time ever on Monday morning despite technical challenges."
+    },
+    {
+      "title": "Galaxies in a cosmic house of mirrors",
+      "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+      "source": "ESA Space Science",
+      "date": "Tue, 29 Sep 2026 10:00:00 +0200",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope reveals galaxies in unprecedented detail through gravitational lensing effects, acting like a cosmic magnifying glass to peer deeper into the universe."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -93,17 +148,27 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Juice spacecraft successfully conducted an Earth gravity assist maneuver, precisely adjusting its trajectory toward Jupiter and its icy moons."
+      "summary": "The European Space Agency's Juice spacecraft successfully completed an Earth flyby maneuver, using our planet's gravity to adjust its trajectory toward Jupiter and its icy moons."
     },
     {
-      "title": "Hubble's superbubble scene",
-      "description": "Image:\n\t\t\t\nThis sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.\nThe appearance of this photogenic nebula is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years. The glittering stars at the centre of the void are responsible for its creation; through their powerful stellar winds and explosive supernovae, these stars have expelled much of the gas from which they were born.\nWhen the stars of N44’s central star cluster swept away this gas, the expelled gas formed a shell around the superbubble. New stars are forming in this compressed gas shell, making N44 an interesting target for researchers studying the process of star formation. In particular, astronomers have turned to this nebula as an ideal place to time this process from start to finish. Their goal is to understand how long it takes from the collapse of cold gas clouds into dense knots to the moment nuclear fusion ignites in the heart of a newborn star.\nResearchers used Hubble to survey N44 and take a census of its stars, cataloguing nearly half a million stars within the cluster as well as interlopers drifting in front of it. Of the stars surveyed, nearly 30 000 are what astronomers call pre-main-sequence stars, which have yet to begin fusing hydrogen into helium in their cores. This treasure trove of baby stars was discoverable thanks to the high sensitivity and fine spatial resolution of Hubble’s instruments that can pick out faint objects in crowded clusters.\nThe gas shell surrounding the superbubble is energised by ultraviolet radiation from massive stars, causing it to glow and highlighting several distinct features. Each feature within the broader N44 star-forming complex was catalogued by astronomer Karl Henize in the 1950s. One feature is a smaller bubble, catalogued as N44F, that is located near the upper-right corner of this image. N44F is an interstellar bubble blown by the intense stellar winds of a single hot and massive star. As this previously released Hubble closeup shows, the star’s furious winds and radiation have sculpted the surrounding bubble and created pillars of dusty gas.\nThe data used to create this image come from an observing programme (#14689; PI: Gouliermis) that aimed to probe stars in the N44 complex that have not yet begun fusing hydrogen into heavier elements in their cores. These data help to determine how long the process of star formation takes, as well as what masses newborn stars typically have. Hubble's sensitive observations of the lowest-mass stars in this region open a new window onto star formation in regions that, like the LMC or the galaxies of the early Universe, are poor in elements heavier than helium.\n[Image Description: A dense field of stars fills the image, surrounded by wispy clouds of gas and dust. Pale blue and grey nebulosity forms an intricate web across the scene, with darker clouds of dust concentrated towards the lower right. Numerous bright stars appear in shades of blue, white and orange.]",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "title": "Supermassive Black Holes May Enhance Star Formation",
+      "description": "The black holes at the hearts of galaxies get the credit and/or blame for a lot of things in their hosts. For example, they take the blame for gobbling up star-forming material, effectively \"quenching\" starbirth in some areas of galaxies. On the bright side, it now turns out that some of them may be commonly participating in the births of stars, too.",
+      "url": "https://www.universetoday.com/articles/supermassive-black-holes-may-enhance-star-formation",
+      "source": "Universe Today",
+      "date": "Tue, 29 Sep 2026 10:42:00 +0000",
+      "category": "Black Holes",
       "quality": 4,
-      "summary": "Hubble captures a breathtaking cosmic vista featuring a superbubble structure in the Large Magellanic Cloud."
+      "summary": "Recent research suggests that supermassive black holes at galaxy centers may actually enhance rather than inhibit star formation in their host galaxies."
+    },
+    {
+      "title": "Cornell Lightsail Experiment Paves the Way for Interstellar Missions",
+      "description": "Students in Cornell’s Space Systems Design Studio have published results from two lightsail experiments (Alpha CubeSat and Sailing to the Stars) built by engineering students at Cornell University.",
+      "url": "https://www.universetoday.com/articles/cornell-university-successfully-deploys-free-flying-light-sails-in-orbit",
+      "source": "Universe Today",
+      "date": "Mon, 28 Sep 2026 23:49:00 +0000",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Cornell University students successfully tested lightsail technology through CubeSat experiments, advancing the promising technology toward future interstellar exploration missions."
     },
     {
       "title": "When It Comes To Burping Jets, Supermassive Black Holes and Stellar-Mass Black Holes Have The Same Table Manners",
@@ -113,77 +178,27 @@
       "date": "Mon, 28 Sep 2026 16:27:53 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers find that both stellar-mass and supermassive black holes produce similar ionized jets from their poles, revealing universal behavior."
+      "summary": "Research reveals that both stellar-mass and supermassive black holes produce ionized jets from their poles using similar mechanisms, demonstrating universal physics across vastly different scales."
     },
     {
-      "title": "A 1,000°C Lunar Microreactor Could Power the Next Era of Moon Bases",
-      "description": "As humanity continues to move towards a permanent settlement on the Moon, we still have at least one big hurdle to face - the lunar night, which lasts for roughly fourteen days straight and can drop temperatures to a bone-chilling -223°C. In order to survive those conditions, we need a power source that doesn’t come and go with the Sun, or rely on non-existent stock of coal, gas or wind. In other words, we need nuclear power, and a new paper, available in pre-print on arXiv by Julius Mercz of the Technical University of Munich and his co-authors, describes a new type of nuclear reactor that wouldn’t just power a habitat’s environmental systems, but also enable its materials extraction technologies as well.",
-      "url": "https://www.universetoday.com/articles/a-1000c-lunar-microreactor-could-power-the-next-era-of-moon-bases",
-      "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 09:46:40 +0000",
-      "category": "Futurism",
+      "title": "Hydrogen's distant glow opens new way to investigate dark energy",
+      "description": "The Canadian Hydrogen Intensity Mapping Experiment (CHIME) has shown for the first time that it can detect the faint glow of hydrogen gas from deep in the universe's past using only its own data.",
+      "url": "https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 28 Sep 2026 19:00:04 EDT",
+      "category": "Dark Matter",
       "quality": 4,
-      "summary": "Engineers develop a 1,000°C lunar microreactor concept to power the next generation of permanent moon bases."
+      "summary": "The CHIME experiment has successfully detected faint hydrogen signals from distant galaxies, opening a new observational pathway to investigate dark energy and the universe's expansion."
     },
     {
-      "title": "Astronomers Couldn't Explain This Ancient Star's Chemistry. A Lab Experiment Just Did.",
-      "description": "Everything from the gold in your smart phone to the calcium in your bones was originally created in a star. But for a long time there has been a question about the levels of one particular element - strontium, which makes fireworks burn bright red and is used in glow-in-the-dark paint. A new paper published in Nature Communications Physics from a large group of researchers led by Caley M. Harris, a graduate student at Michigan State University, thinks they have found an answer for why that particular elemental level was skewed - and doing so required some very elaborate laboratory testing.",
-      "url": "https://www.universetoday.com/articles/astronomers-couldnt-explain-this-ancient-stars-chemistry-a-lab-experiment-just-did",
-      "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 01:38:11 +0000",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Laboratory experiments finally explain the mysterious chemistry of an ancient star, revealing how cosmic elements were forged in stellar furnaces."
-    },
-    {
-      "title": "The Solar System’s First Planets Were Made of Fire, Not Ice",
-      "description": "The early stages of the solar system remain shrouded in mystery. Not much remains from that time, but scientists have developed plenty of theories about what was going on back then. One of those theories attempts to answer a simple question - did the early system prefer “fire” or “ice”? A new paper published in Nature Astrophysics from lead author Damanveer Grewal, an assistant professor of Earth and planetary sciences at Yale, and his co-authors, have a definitive answer to that question - the early solar system preferred fire.",
-      "url": "https://www.universetoday.com/articles/the-solar-systems-first-planets-were-made-of-fire-not-ice",
-      "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 01:37:57 +0000",
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "description": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space. The process could explain Cassini’s puzzling ice-grain chemistry while giving future spacecraft a powerful advantage in searching for organic compounds and clues to life.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 29 Sep 2026 05:58:00 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists reveal that the early solar system's planets formed from fiery materials rather than icy bodies, challenging previous theories about planetary formation."
-    },
-    {
-      "title": "Scientists find lunar 'magnetic fossil' in Chang'e-6 samples",
-      "description": "The moon no longer has a global magnetic field, but lunar rocks and soils still contain records of ancient magnetism. Studying the magnetic minerals in these samples can help scientists understand how the moon's magnetic field evolved over time.",
-      "url": "https://phys.org/news/2026-09-scientists-lunar-magnetic-fossil-samples.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 28 Sep 2026 13:40:10 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Chang'e-6 lunar samples contain magnetic fossils revealing the Moon's ancient magnetic field, providing insights into the Moon's geological history."
-    },
-    {
-      "title": "A tiny stellar system may be a 'satellite of a satellite'",
-      "description": "Astronomers using data from the Euclid space telescope have discovered an exceptionally faint stellar system near the Fornax dwarf galaxy. Called Fornax-7, it appears to contain only about 170 times the mass of the sun in stars. The discovery paper was posted to the arXiv preprint server on Sept. 13.",
-      "url": "https://phys.org/news/2026-09-tiny-stellar-satellite.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 28 Sep 2026 09:50:01 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Euclid space telescope discovers an exceptionally faint stellar system that may be orbiting a satellite of a larger galaxy, revealing unprecedented cosmic structures."
-    },
-    {
-      "title": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
-      "description": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant Metrewave Radio Telescope (GMRT), combined with data from MeerKAT and the Very Large Array, reveal four pairs of radio structures arranged symmetrically around the central galaxy.",
-      "url": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sun, 27 Sep 2026 10:20:05 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Astronomers identify a rare radio galaxy with evidence of four separate black hole jet outbursts, potentially representing a new class of galactic phenomena."
-    },
-    {
-      "title": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate",
-      "description": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir of raw material stretches 10–20 times the size of the visible portion of the galaxy.",
-      "url": "https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 26 Sep 2026 17:00:01 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Research reveals that black hole jets extend far beyond galaxy boundaries and play a crucial role in determining galactic evolution and star formation rates."
+      "summary": "Scientists have discovered that Saturn's moon Enceladus naturally concentrates and separates chemicals from its subsurface ocean through a freeze-shatter process, revealing surprising chemistry."
     },
     {
       "title": "Is the universe infinite? The answer gets weird fast",
@@ -193,7 +208,17 @@
       "date": "Sun, 27 Sep 2026 23:18:42 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Cosmic microwave background measurements suggest the universe is flat and possibly infinite, opening profound questions about the cosmos's true geometry."
+      "summary": "Cosmic microwave background measurements suggest the universe is remarkably flat, but this raises fascinating questions about whether the universe is truly infinite."
+    },
+    {
+      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+      "description": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Mon, 28 Sep 2026 23:45:39 EDT",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "CosmoCube, a suitcase-sized spacecraft stationed on the lunar far side, will search for faint signals from the universe's earliest moments before stars existed."
     },
     {
       "title": "James Webb reveals why planet formation is a race against time",
@@ -203,111 +228,94 @@
       "date": "Mon, 28 Sep 2026 08:02:24 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "James Webb Space Telescope reveals that planet formation is a race against time as young systems rapidly lose their planet-building gas through powerful jets."
+      "summary": "James Webb Space Telescope observations show that planet formation is a race against time, with young planetary systems losing their gas-building material through powerful jets."
     },
     {
-      "title": "The secret to growing food on Mars could be fungi",
-      "description": "Scientists think beneficial fungi could help transform nutrient-poor lunar and Martian regolith into a material capable of supporting crops. By helping plants access nutrients and withstand harsh conditions, these microbes could someday make self-sustaining space farming more realistic.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 25 Sep 2026 22:26:05 EDT",
+      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers discovered a white dwarf producing a powerful shock wave despite having no detectable disk, challenging existing theories about stellar physics. This unexpected phenomenon offers new insights into the behavior of dead stars."
+    },
+    {
+      "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
+      "description": "The Five-hundred-meter Aperture Spherical Radio Telescope (FAST), known as the China's \"Sky Eyes\", will mark the 10th anniversary of its inauguration on September 25. Since its launch, the facility has achieved a series of landmark scientific and technologica…",
+      "url": "https://www.globalsecurity.org/space/library/news/2026/space-260923-globaltimes01.htm",
+      "source": "Globalsecurity.org",
+      "date": "2026-09-23T12:00:00Z",
+      "image": null,
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "China's FAST telescope, the world's largest radio telescope, is advancing to Phase II construction as it celebrates its 10th anniversary. This expansion promises enhanced capabilities for astronomical discovery and space exploration research."
+    },
+    {
+      "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
+      "description": "Studying exoplanets has provided astronomers with a plethora of insights regarding what characteristics need to be searched to find life beyond Earth. For the longest time, astronomers merely thought an exoplanet in a star’s habitable zone was a sufficient cr…",
+      "url": "https://www.universetoday.com/articles/ska-may-detect-magnetic-fields-on-distant-exoplanets",
+      "source": "Universe Today",
+      "date": "2026-09-23T06:35:18Z",
+      "image": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The Square Kilometre Array (SKA) may have the capability to detect magnetic fields on distant exoplanets, opening new frontiers in exoplanet characterization. This advancement could revolutionize our understanding of planetary atmospheres and habitability."
+    },
+    {
+      "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
+      "description": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies that lack ongoing star formation, a puzzling combination for astronomers. His research suggests they could be “backsplash” galaxies that once passed near a massive galaxy, lost star-for…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/meet-julian-shapiro-the-new-york-student-who-found-3-unusual-dwarf-galaxies-and-won-25000/articleshow/134391429.cms",
+      "source": "The Times of India",
+      "date": "2026-09-21T14:48:36Z",
+      "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies lacking ongoing star formation, winning a $25,000 award for this remarkable find. This discovery demonstrates the potential for citizen science and young researchers to make significant contributions to astronomy."
+    },
+    {
+      "title": "Εξερράγη το Starship της Space X κατά τη προσθαλάσσωση, εκτόξευσε 26 δορυφόρους Starlink, δείτε βίντεο",
+      "description": "Το απρόοπτο με τον κινητήρα του Starship μόλις έφτασε στο διάστημα - H 14η πτήση του Starship και το νέο δορυφορικό δίκτυο Starlink | Space X | Starship | NASA | Starlink | Διάστημα | Έκρηξη | Κόσμος",
+      "url": "https://www.protothema.gr/world/article/1886133/live-eduposiakes-eikones-apo-to-gigadiaio-starship-tis-space-x-sto-diastima-ektoxeuei-26-doruforous-starlink/",
+      "source": "Protothema.gr",
+      "date": "2026-09-28T16:11:00Z",
+      "image": "https://www.protothema.gr/images/640x360share/jpg/files/2026-09-28/maketa-space-x-1.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship successfully launched 26 Starlink satellites to orbit during its 14th test flight, marking significant progress in commercial spaceflight capabilities. This achievement demonstrates advancing reliability and performance of the world's most powerful operational rocket."
+    },
+    {
+      "title": "SpaceX Starship Flight 14 live updates: Launch countdown underway",
+      "description": "SpaceX's massive Starship, the world's largest and most powerful rocket, is being readied for its next major test launch. Flight 14 is scheduled to liftoff as early as Monday, Sept. 28, at 8:15 a.m. EDT (1215 GMT) from Starbase, Texas. The mission will be the…",
+      "url": "https://biztoc.com/x/41a0a145f59a91eb",
+      "source": "Biztoc.com",
+      "date": "2026-09-28T13:30:57Z",
+      "image": "https://biztoc.com/cdn/41a0a145f59a91eb_s.webp",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's massive Starship, the world's largest and most powerful rocket, is prepared for its next major test launch representing continued progress."
+    },
+    {
+      "title": "SpaceX is moments away from monumental Starship launch",
+      "description": "The company is getting closer to making the rocket fully reusable.",
+      "url": "https://biztoc.com/x/41e3b96e27388504",
+      "source": "Biztoc.com",
+      "date": "2026-09-28T12:43:39Z",
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX prepares for a monumental Starship launch as the company progresses toward making the rocket fully reusable."
+    },
+    {
+      "title": "Google Project Suncatcher: The First Physical Step Toward Orbital AI Compute",
+      "description": "The Orbital Compute Frontier On October 1, a refrigerator-sized satellite built by Planet Labs will ride a SpaceX Falcon 9 into low Earth orbit from Vandenberg Space Force Base. Inside it: four Google Trillium Tensor Processing Units, a kilowatt of solar powe…",
+      "url": "https://forkast.news/google-project-suncatcher-the-first-physical-step-toward-orbital-ai-compute/",
+      "source": "Forkast.news",
+      "date": "2026-09-28T12:06:28Z",
+      "image": "https://forkast.news/wp-content/uploads/2026/09/google-suncatcher-clockwork-1024x687.jpg",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Scientists find that beneficial fungi could transform nutrient-poor lunar and Martian soil into fertile ground for growing food on other worlds."
-    },
-    {
-      "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-      "description": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity to help transform a vast cloud of gas and dust into the sun and planetary disk.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 22:45:24 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Ancient meteorite grains reveal a surprisingly powerful magnetic field played a crucial role in building our Solar System. This discovery provides new insights into the early conditions that shaped planetary formation."
-    },
-    {
-      "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
-      "description": "Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the distant Uranian system could harbor multiple hidden ocean worlds.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 07:19:19 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Uranus' moon Ariel may have harbored a subsurface ocean exceeding 100 miles in depth, suggesting it could be a promising target for future exploration. The discovery hints at the potential for hidden oceans across the outer solar system."
-    },
-    {
-      "title": "SpaceX Clears Launch Rehearsal Ahead of Starship’s First Orbital Attempt",
-      "description": "During this milestone test, Starship will circle the Earth six times over ten hours at an altitude of 171 miles before touching down.\nThe post SpaceX Clears Launch Rehearsal Ahead of Starship’s First Orbital Attempt first appeared on Le·gal In·sur·rec·tion.",
-      "url": "https://legalinsurrection.com/2026/09/spacex-clears-launch-rehearsal-ahead-of-starships-first-orbital-attempt/",
-      "source": "Legalinsurrection.com",
-      "date": "2026-09-26T16:00:29Z",
-      "image": "https://legalinsurrection.com/wp-content/uploads/2026/09/LI-215-Starship-14.png",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Starship completed a critical launch rehearsal, achieving its first orbital attempt by circling Earth six times at 171 miles altitude. This milestone represents a major stepping stone toward regular orbital operations and interplanetary exploration."
-    },
-    {
-      "title": "SpaceX Is Aiming for 3 Starship Flights in 5 Weeks?! [21:16]",
-      "description": "Starship Flight 14 is just a few days away now. SpaceX has stacked Ship 41 on Booster 21, loaded 26 Starlink V3 satellites and completed a wet dress rehearsal ahead of its planned first orbital flight. We'll look at the September 28 launch target, what the mi…",
-      "url": "https://freerepublic.com/focus/f-bloggers/4396948/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-09-26T12:28:43Z",
-      "image": null,
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX is pursuing an ambitious cadence of three Starship flights within five weeks, with Flight 14 imminent and Ship 41 stacked on Booster 21 carrying 26 Starlink V3 satellites. This accelerated tempo signals SpaceX's advancing confidence in rapid reusable rocket operations."
-    },
-    {
-      "title": "PRIMA, el futuro telescopio espacial de infrarrojo lejano de la NASA",
-      "description": "La NASA acaba de lanzar el telescopio espacial Nancy Grace Roman, pero ya planea el siguiente. En 2033, si no hay retrasos, despegará PRIMA, un nuevo telescopio espacial para observar […]\nLa entrada PRIMA, el futuro telescopio espacial de infrarrojo lejano de…",
-      "url": "https://danielmarin.naukas.com/2026/09/25/prima-el-futuro-telescopio-espacial-de-infrarrojo-lejano-de-la-nasa/",
-      "source": "Naukas.com",
-      "date": "2026-09-25T21:29:49Z",
-      "image": "https://danielmarin.naukas.com/files/2026/09/232.jpeg",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is developing PRIMA, a far-infrared space telescope planned for launch in 2033 to explore the universe's history and evolution. This next-generation observatory will complement the recently launched Nancy Grace Roman telescope and expand humanity's view of the cosmos."
-    },
-    {
-      "title": "Something Massive Is Hiding in the Kuiper Belt (And It's Not Planet 9) [20:26]",
-      "description": "The map of our solar system has changed. For most of history, we viewed our neighborhood as a tidy, organized place. We thought it was a simple system with eight planets orbiting a star, surrounded by a clean void. We assumed there was a clear finish line whe…",
-      "url": "https://freerepublic.com/focus/f-chat/4396819/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-09-25T04:55:10Z",
-      "image": null,
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "A massive undiscovered object has been detected hiding in the Kuiper Belt, reshaping our understanding of the solar system's outer regions. This discovery reveals that our cosmic neighborhood is far more dynamic and populated than previously thought."
-    },
-    {
-      "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury ",
-      "description": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! \nENTRY FORM  \nFull rules and how to enter below.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury",
-      "source": "ESA Space Science",
-      "date": "Thu, 24 Sep 2026 15:00:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "ESA invites the public to participate in welcoming BepiColombo's arrival at Mercury through creative submissions in a celebration of the historic mission."
-    },
-    {
-      "title": "A galaxy spinning out of sync",
-      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
-      "source": "ESA Space Science",
-      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "Hubble Space Telescope captures a stunning spiral galaxy revealing complex internal dynamics and hidden structural mysteries."
-    },
-    {
-      "title": "Purple swirls on the Red Planet",
-      "description": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
-      "source": "ESA Space Science",
-      "date": "Wed, 16 Sep 2026 11:00:00 +0200",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "A striking ice cliff near Mars's south pole displays remarkable purple, pink, and red colorations in new imagery."
+      "summary": "Planet Labs' refrigerator-sized satellite is set to launch on a SpaceX Falcon rocket, representing the first physical step toward orbital AI compute infrastructure."
     }
   ]
 }
