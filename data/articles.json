@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T16:26:46.273Z",
+  "generated": "2026-09-29T22:07:43.154Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "BepiColombo's historic arrival at Mercury is now available as a full replay, documenting this monumental achievement by ESA and JAXA in exploring the solar system's innermost planet."
+      "summary": "ESA and JAXA's BepiColombo spacecraft has arrived at Mercury, beginning its groundbreaking mission to study the planet closest to the Sun. Watch the complete livestream replay of this historic planetary arrival."
     },
     {
       "title": "Direct neutral gas found in galaxies 700M yrs post-Big Bang",
@@ -20,7 +20,7 @@
       "date": "Tue, 29 Sep 2026 05:14:39 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers detect neutral gas in galaxies formed just 700 million years after the Big Bang, providing crucial insights into early universe structure and galaxy formation."
+      "summary": "Astronomers have detected neutral gas in galaxies just 700 million years after the Big Bang, providing remarkable insights into the universe's earliest epochs. This discovery illuminates how galaxies formed and evolved in the infant universe."
     },
     {
       "title": "SpaceX's Starship Rocket Does Its Job During First Orbital Flight",
@@ -30,7 +30,7 @@
       "date": "Mon, 28 Sep 2026 20:10:00 +0000",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX's Starship super-rocket completes its first orbital test flight, successfully demonstrating critical capabilities and advancing humanity's journey toward fully reusable deep-space transportation."
+      "summary": "SpaceX's Starship super-rocket completed its first orbital flight test, achieving major milestones toward enabling human exploration of the Moon and Mars. This historic achievement marks a pivotal moment in commercial spaceflight development."
     },
     {
       "title": "How NASA's Nancy Grace Roman Space Telescope will open a window into the Milky Way",
@@ -40,7 +40,27 @@
       "date": "Tue, 29 Sep 2026 09:40:01 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope will revolutionize our understanding of the Milky Way by revealing the dynamic, constantly-changing universe invisible to the naked eye."
+      "summary": "NASA's Nancy Grace Roman Space Telescope will revolutionize our view of the Milky Way, revealing the dynamic changes in our universe that appear static to the naked eye."
+    },
+    {
+      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+      "description": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Mon, 28 Sep 2026 23:45:39 EDT",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "CosmoCube, a suitcase-sized spacecraft, will use the Moon's far side as a shield to detect faint signals from the universe's earliest epoch before stars formed."
+    },
+    {
+      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "Astronomers discover an extraordinary phenomenon: a white dwarf with no detectable disk producing a powerful shock wave that defies current understanding of stellar physics."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -51,84 +71,39 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have identified a new class of mysterious objects in the early universe known as 'tiny red dots,' potentially solving a years-long puzzle about fundamental cosmic structures. This discovery represents one of astronomy's most significant breakthroughs in recent decades."
+      "summary": "A newly discovered class of mysterious red dots in the early universe represents one of astronomy's most significant discoveries in decades, finally revealing their secrets."
     },
     {
-      "title": "Actualité : Starship est en orbite : la plus grosse fusée commerciale jamais construite tourne enfin autour de la Terre",
-      "description": "Après trois ans d'explosions spectaculaires, la fusée géante d'Elon Musk a enfin réussi à se placer en orbite autour de la Terre ce lundi, avec 26 satellites Starlink dans ses entrailles. Reste le dernier moment de vérité : le colosse de 124 m doit traverser …",
-      "url": "https://www.lesnumeriques.com/spatial/starship-est-en-orbite-la-plus-grosse-fusee-commerciale-jamais-construite-tourne-enfin-autour-de-la-terre-n262441.html",
-      "source": "Les Numériques",
-      "date": "2026-09-28T14:10:00Z",
-      "image": "https://cdn.lesnumeriques.com/optim/news/26/262441/1f1f0934-starship-est-en-orbite-la-plus-grosse-fusee-jamais-construite-tourne-enfin-autour-de-la-terre_png__1200_678__0-0-2286-1200.jpg",
+      "title": "SpaceX Starship makes orbit, deploys first payload",
+      "description": "SpaceX's Starship overcame an engine problem to reach orbit and deploy Starlink satellites on its first payload mission.",
+      "url": "https://www.rte.ie/news/2026/0928/1593259-spacex-starship-makes-orbit-deploys-first-payload/",
+      "source": "RTE",
+      "date": "2026-09-28T16:51:34Z",
+      "image": "https://www.rte.ie/images/0025159f-1600.jpg",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX's Starship, the world's largest commercial rocket, has successfully achieved orbital flight after three years of testing. This landmark accomplishment represents a transformative moment in commercial spaceflight and humanity's expansion into space."
+      "summary": "SpaceX's Starship successfully reaches orbit for the first time and deploys Starlink satellites despite an engine anomaly, marking a landmark achievement in reusable rocket technology. This breakthrough demonstrates significant progress toward sustainable space transportation."
     },
     {
-      "title": "Starship S41 впервые вышел на орбиту: SpaceX провела 14-й запуск несмотря на отказ двигателей",
-      "description": "SpaceX успешно вывела Starship S41 на орбиту во время 14-го испытательного полета, несмотря на технические неисправности двигателей Raptor.",
-      "url": "https://gagadget.com/ru/727804-starship-s41-vpervyie-vyishel-na-orbitu-spacex-provela-14-j-zapusk-nesmotrya-na-otkaz-dvigatelej/",
-      "source": "Gagadget.com",
-      "date": "2026-09-28T13:54:18Z",
-      "image": "https://gagadget.com/media/cache/18/83/1883aa92797c31cb1632c28c20a5f3e9.webp",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX successfully launched Starship S41 to orbit on its 14th test flight, overcoming engine challenges in a landmark achievement for the next-generation rocket."
-    },
-    {
-      "title": "SpaceX launches giant starship into orbit for the first time – Watch the flight",
-      "description": "The test marks a major step toward determining whether starship can move into the era of official space missions\nThe post SpaceX launches giant starship into orbit for the first time – Watch the flight appeared first on ProtoThema English.",
-      "url": "https://en.protothema.gr/2026/09/28/spacex-launches-giant-starship-into-orbit-for-the-first-time-watch-the-flight/",
-      "source": "Protothema.gr",
-      "date": "2026-09-28T12:58:39Z",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/09/htaskobxcaauqjp-3.jpg-3.jpg",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX achieved a historic first orbital flight of its giant Starship rocket, marking a major milestone toward enabling official space missions."
-    },
-    {
-      "title": "SpaceX launches Starship on first orbital flight",
-      "description": "SpaceX launched its next-generation Starship rocket early Monday on what's planned to be its first orbital mission.\nWhy it matters: The massive, fully-reusable Starship is key to SpaceX's commercial spaceflight ambitions, while NASA is counting on a modified …",
-      "url": "https://biztoc.com/x/58205a32f828afe5",
-      "source": "Biztoc.com",
-      "date": "2026-09-28T12:58:18Z",
-      "image": "https://biztoc.com/cdn/58205a32f828afe5_s.webp",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX successfully launched Starship on its first planned orbital mission early Monday, advancing toward operational space transportation capabilities."
-    },
-    {
-      "title": "SpaceX launches massive Starship into orbit for the first time despite engine shutting down",
-      "description": "Founder Elon Musk intends for the Starship to circle the globe six times from an altitude of 170 miles.",
-      "url": "https://nypost.com/2026/09/28/us-news/spacex-launches-massive-starship-for-first-orbital-mission/",
-      "source": "New York Post",
-      "date": "2026-09-28T14:05:57Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-41022539.jpg?quality=75&strip=all&w=1200",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX launched its massive Starship rocket into orbit for the first time despite engine challenges, demonstrating progress toward six full Earth orbits."
-    },
-    {
-      "title": "SpaceX launches Starship rocket to orbit for 1st time",
-      "description": "SpaceX launched its enormous Starship into orbit for the first time Monday, aiming for six full laps around Earth to prove its readiness for NASA's Artemis moon program.Starship’s 14th flight is set to launch on Monday, Sept 28. The 75-minute launch window op…",
-      "url": "https://tech.yahoo.com/science/articles/spacexs-supersized-starship-launches-toward-125036831.html",
+      "title": "SpaceX's Starship rocket reaches orbit for 1st time despite failure of an engine",
+      "description": "SpaceX (SPCX\r\n) put Starship into Earth orbit for the first time on Monday and deployed all 26 Starlink V3 satellites on board, despite an engine going out during ascent, a SpaceX representative said during the company's live broadcast.\"Payload deploy complet…",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-starship-test-reaches-earth-orbit-26-starlink-satellites-deployed-141955092.html",
       "source": "Yahoo Entertainment",
-      "date": "2026-09-28T12:50:36Z",
-      "image": "https://s.yimg.com/lo/mysterio/api/30513380fdede31b806630dc52071df80f7c4ec2f906a8cab91f2a934ce99454/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb05ce21b5351958ba6ad175d9386cb6b.jpg",
+      "date": "2026-09-28T20:03:32Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/af93c64297edd3a286bbebde51e210a95dbe12bf82c29516d2ba7ec3d18cb188/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1790601259248_4360.jpg_97179e05bf0721547563f339398dd782b6b237631988121af35941f3296bbdbe.jpg",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX successfully launched its enormous Starship into orbit for the first time on Monday, completing six laps around Earth in a historic achievement."
+      "summary": "SpaceX achieves a historic first by putting Starship into Earth orbit and successfully deploying all 26 Starlink V3 satellites. This milestone represents a transformative moment in reusable heavy-lift rocket development."
     },
     {
-      "title": "Watch live: SpaceX Starship launch on 1st orbital attempt",
-      "description": "SpaceX launched its Starship and Super Heavy rocket on Monday morning and made it to orbit for the first time ever despite losing one of its engines on its trip up to space.",
-      "url": "https://www.orlandosentinel.com/2026/09/28/watch-live-spacex-starship-launch-on-1st-orbital-attempt/",
-      "source": "Orlando Sentinel",
-      "date": "2026-09-28T12:38:01Z",
-      "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/09/spacexstarshiplaunch092826.jpg?w=1580&h=808",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX successfully launched Starship and Super Heavy rocket to orbit for the first time ever on Monday morning despite technical challenges."
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+      "description": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 21:27:56 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA launches a 2027 Human Lander Challenge inviting college students to develop innovative lunar communications solutions. This competition combines education with practical contributions to future Moon missions."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -138,7 +113,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals galaxies in unprecedented detail through gravitational lensing effects, acting like a cosmic magnifying glass to peer deeper into the universe."
+      "summary": "The James Webb Space Telescope reveals stunning details of distant galaxies through a gravitational lensing effect. This image exemplifies JWST's unprecedented ability to observe the early universe."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -148,7 +123,27 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency's Juice spacecraft successfully completed an Earth flyby maneuver, using our planet's gravity to adjust its trajectory toward Jupiter and its icy moons."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully completed an Earth flyby maneuver to refine its trajectory toward Jupiter. This gravity assist demonstrates precise orbital mechanics on an interplanetary scale."
+    },
+    {
+      "title": "Measuring the Distance Between Quasar Pairs Just Got Easier",
+      "description": "A new way to accurately measure the distance between quasar pairs is showing promise through University of Alberta research.",
+      "url": "https://www.universetoday.com/articles/measuring-the-distance-between-quasar-pairs-just-got-easier",
+      "source": "Universe Today",
+      "date": "Tue, 29 Sep 2026 21:21:07 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Researchers at the University of Alberta have developed a new method to accurately measure distances between quasar pairs, advancing our understanding of the universe's structure. This technique promises to enhance future cosmological studies."
+    },
+    {
+      "title": "A New Test Looks For A Subtle Twist In Ancient Light",
+      "description": "The standard model of cosmology predicts that the Universe is homogeneous. A new study tests this using the polarization of the cosmic microwave background and finds this isn't quite true. This study supports an earlier study which also found a small polarization bias.",
+      "url": "https://www.universetoday.com/articles/a-new-test-looks-for-a-subtle-twist-in-ancient-light",
+      "source": "Universe Today",
+      "date": "Tue, 29 Sep 2026 20:09:15 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "A new study uses the polarization of ancient light to test the cosmological principle of universal homogeneity. This innovative approach deepens our understanding of the universe's large-scale structure."
     },
     {
       "title": "Supermassive Black Holes May Enhance Star Formation",
@@ -158,7 +153,7 @@
       "date": "Tue, 29 Sep 2026 10:42:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Recent research suggests that supermassive black holes at galaxy centers may actually enhance rather than inhibit star formation in their host galaxies."
+      "summary": "New research reveals that supermassive black holes at galactic centers may actually enhance star formation rather than simply inhibit it. This discovery reshapes our understanding of how black holes influence their host galaxies."
     },
     {
       "title": "Cornell Lightsail Experiment Paves the Way for Interstellar Missions",
@@ -168,27 +163,7 @@
       "date": "Mon, 28 Sep 2026 23:49:00 +0000",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Cornell University students successfully tested lightsail technology through CubeSat experiments, advancing the promising technology toward future interstellar exploration missions."
-    },
-    {
-      "title": "When It Comes To Burping Jets, Supermassive Black Holes and Stellar-Mass Black Holes Have The Same Table Manners",
-      "description": "Both stellar-mass black holes and supermassive black holes can produce ionized jets streaming from their poles. Stellar-mass black holes consume the material of companion stars, while supermassive black holes rip stars apart in tidal disruption events. Despite these different eating habits, the formation of jets requires similar conditions.",
-      "url": "https://www.universetoday.com/articles/when-it-comes-to-burping-jets-supermassive-black-holes-and-stellar-mass-black-holes-have-the-same-ta",
-      "source": "Universe Today",
-      "date": "Mon, 28 Sep 2026 16:27:53 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Research reveals that both stellar-mass and supermassive black holes produce ionized jets from their poles using similar mechanisms, demonstrating universal physics across vastly different scales."
-    },
-    {
-      "title": "Hydrogen's distant glow opens new way to investigate dark energy",
-      "description": "The Canadian Hydrogen Intensity Mapping Experiment (CHIME) has shown for the first time that it can detect the faint glow of hydrogen gas from deep in the universe's past using only its own data.",
-      "url": "https://phys.org/news/2026-09-hydrogen-distant-dark-energy.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 28 Sep 2026 19:00:04 EDT",
-      "category": "Dark Matter",
-      "quality": 4,
-      "summary": "The CHIME experiment has successfully detected faint hydrogen signals from distant galaxies, opening a new observational pathway to investigate dark energy and the universe's expansion."
+      "summary": "Cornell University students have successfully demonstrated lightsail technology through the Alpha CubeSat experiments, paving the way for future interstellar missions. These breakthrough results show promise for revolutionary space propulsion methods."
     },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -198,7 +173,7 @@
       "date": "Tue, 29 Sep 2026 05:58:00 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists have discovered that Saturn's moon Enceladus naturally concentrates and separates chemicals from its subsurface ocean through a freeze-shatter process, revealing surprising chemistry."
+      "summary": "Saturn's moon Enceladus displays surprising chemistry as its hidden ocean naturally separates and concentrates chemicals through freeze-thaw processes in its ice plumes."
     },
     {
       "title": "Is the universe infinite? The answer gets weird fast",
@@ -208,17 +183,7 @@
       "date": "Sun, 27 Sep 2026 23:18:42 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Cosmic microwave background measurements suggest the universe is remarkably flat, but this raises fascinating questions about whether the universe is truly infinite."
-    },
-    {
-      "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
-      "description": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic dark ages ended and how dark matter helped build the first galaxies.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 28 Sep 2026 23:45:39 EDT",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "CosmoCube, a suitcase-sized spacecraft stationed on the lunar far side, will search for faint signals from the universe's earliest moments before stars existed."
+      "summary": "Measurements of the cosmic microwave background reveal the universe's remarkable flatness, opening profound questions about the nature of cosmic geometry and infinity."
     },
     {
       "title": "James Webb reveals why planet formation is a race against time",
@@ -228,17 +193,7 @@
       "date": "Mon, 28 Sep 2026 08:02:24 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "James Webb Space Telescope observations show that planet formation is a race against time, with young planetary systems losing their gas-building material through powerful jets."
-    },
-    {
-      "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
-      "description": "A dead white dwarf with no detectable disk has somehow produced a powerful shock wave that appears to have persisted for at least 1,000 years. Its magnetic field may be partly responsible, but astronomers say an unexplained “mystery engine” may also be at work.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 24 Sep 2026 23:19:34 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers discovered a white dwarf producing a powerful shock wave despite having no detectable disk, challenging existing theories about stellar physics. This unexpected phenomenon offers new insights into the behavior of dead stars."
+      "summary": "James Webb Space Telescope reveals that planet formation races against time, as young planetary systems lose their gas-building materials through powerful jets and winds."
     },
     {
       "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
@@ -247,9 +202,9 @@
       "source": "Globalsecurity.org",
       "date": "2026-09-23T12:00:00Z",
       "image": null,
-      "category": "Astronomy",
+      "category": "NASA",
       "quality": 4,
-      "summary": "China's FAST telescope, the world's largest radio telescope, is advancing to Phase II construction as it celebrates its 10th anniversary. This expansion promises enhanced capabilities for astronomical discovery and space exploration research."
+      "summary": "China's FAST telescope, the world's largest radio telescope known as 'Sky Eyes,' advances with Phase II construction as it marks a successful 10-year anniversary."
     },
     {
       "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
@@ -260,7 +215,7 @@
       "image": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Square Kilometre Array (SKA) may have the capability to detect magnetic fields on distant exoplanets, opening new frontiers in exoplanet characterization. This advancement could revolutionize our understanding of planetary atmospheres and habitability."
+      "summary": "The Square Kilometre Array may detect magnetic fields on distant exoplanets, opening a new frontier in characterizing potentially habitable worlds."
     },
     {
       "title": "Meet Julian Shapiro, the New York student who found 3 unusual dwarf galaxies and won $25,000",
@@ -269,53 +224,91 @@
       "source": "The Times of India",
       "date": "2026-09-21T14:48:36Z",
       "image": "https://img.etimg.com/thumb/msid-134392277,width-1200,height-630,imgsize-738352,overlay-economictimes/articleshow.jpg",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies lacking ongoing star formation, winning $25,000 for this remarkable contribution to galactic science. His discovery adds to our understanding of rare galactic populations."
+    },
+    {
+      "title": "ARTEMIS II CREW TO RECEIVE THE STEPHEN HAWKING MEDAL",
+      "description": "Astronauts Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen honoured for inspiring millions through their outstanding communication of the science, technology and human adventure of Artemis II On October 17th, The Artemis II crew will receive the…",
+      "url": "https://www.prnewswire.com/news-releases/artemis-ii-crew-to-receive-the-stephen-hawking-medal-302891849.html",
+      "source": "PRNewswire",
+      "date": "2026-09-28T19:00:00Z",
+      "image": "https://mmx.prnewswire.com/media/MS1983034/Starmus-Foundation-Artemis-II.jpg?id=OA2974655&p=facebook",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "Artemis II crew members Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen receive the Stephen Hawking Medal for inspiring millions through their extraordinary contributions to space exploration. This recognition celebrates their role in advancing human spaceflight."
+    },
+    {
+      "title": "How NASA’s Nancy Grace Roman Space Telescope will open a window into the Milky Way",
+      "description": "From supernovae in distant galaxies to the packed centre of the Milky Way, the new Roman telescope will help us see and understand the ever-changing cosmos.",
+      "url": "https://theconversation.com/how-nasas-nancy-grace-roman-space-telescope-will-open-a-window-into-the-milky-way-291966",
+      "source": "The Conversation Africa",
+      "date": "2026-09-28T18:28:33Z",
+      "image": "https://images.theconversation.com/files/761614/original/file-20260922-50-qklkjp.jpg?ixlib=rb-4.1.1&rect=0%2C59%2C1200%2C600&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Nancy Grace Roman Space Telescope will revolutionize our view of the universe, from distant supernovae to the galactic center of the Milky Way. This powerful observatory promises groundbreaking discoveries in astrophysics."
+    },
+    {
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "description": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an […]",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 20:08:01 +0000",
+      "category": "SpaceX",
+      "quality": 3,
+      "summary": "NASA adds Blue Origin's New Glenn 9×4 rocket to its launch services contract, expanding launch capability options. This decision strengthens NASA's portfolio of heavy-lift launch vehicles for future missions."
+    },
+    {
+      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
+      "description": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and college student innovation to the forefront of Earth technology development and deep-space exploration. Registration for the 2026–2027 challenge is open through Monday, Nov. 16, 2026, […]",
+      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/",
+      "source": "NASA",
+      "date": "Tue, 29 Sep 2026 15:11:15 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "NASA opens applications for the second season of the ORBIT Student Challenge, following a successful inaugural year. The program provides students with research, business, and innovation opportunities in aerospace."
+    },
+    {
+      "title": "Juice to fly past Earth for third gravity assist",
+      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+      "source": "ESA Space Science",
+      "date": "Mon, 21 Sep 2026 16:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "The Juice spacecraft will perform its third Earth gravity assist on September 28, continuing its journey toward Jupiter's icy moons. These precise maneuvers are essential for reaching its scientific objectives."
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
       "category": "Astronomy",
-      "quality": 4,
-      "summary": "Eighteen-year-old Julian Shapiro discovered three isolated dwarf galaxies lacking ongoing star formation, winning a $25,000 award for this remarkable find. This discovery demonstrates the potential for citizen science and young researchers to make significant contributions to astronomy."
+      "quality": 3,
+      "summary": "The Hubble Space Telescope captures a spiral galaxy with intriguing dynamics where its rotating disk operates asynchronously. This discovery deepens our understanding of galaxy formation and evolution."
     },
     {
-      "title": "Εξερράγη το Starship της Space X κατά τη προσθαλάσσωση, εκτόξευσε 26 δορυφόρους Starlink, δείτε βίντεο",
-      "description": "Το απρόοπτο με τον κινητήρα του Starship μόλις έφτασε στο διάστημα - H 14η πτήση του Starship και το νέο δορυφορικό δίκτυο Starlink | Space X | Starship | NASA | Starlink | Διάστημα | Έκρηξη | Κόσμος",
-      "url": "https://www.protothema.gr/world/article/1886133/live-eduposiakes-eikones-apo-to-gigadiaio-starship-tis-space-x-sto-diastima-ektoxeuei-26-doruforous-starlink/",
-      "source": "Protothema.gr",
-      "date": "2026-09-28T16:11:00Z",
-      "image": "https://www.protothema.gr/images/640x360share/jpg/files/2026-09-28/maketa-space-x-1.jpg",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Starship successfully launched 26 Starlink satellites to orbit during its 14th test flight, marking significant progress in commercial spaceflight capabilities. This achievement demonstrates advancing reliability and performance of the world's most powerful operational rocket."
+      "title": "Purple swirls on the Red Planet",
+      "description": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+      "source": "ESA Space Science",
+      "date": "Wed, 16 Sep 2026 11:00:00 +0200",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "A striking image reveals a prominent ice cliff near Mars's south pole featuring vibrant purple, pink, and red hues. This geological feature showcases Mars's dynamic and visually spectacular landscape."
     },
     {
-      "title": "SpaceX Starship Flight 14 live updates: Launch countdown underway",
-      "description": "SpaceX's massive Starship, the world's largest and most powerful rocket, is being readied for its next major test launch. Flight 14 is scheduled to liftoff as early as Monday, Sept. 28, at 8:15 a.m. EDT (1215 GMT) from Starbase, Texas. The mission will be the…",
-      "url": "https://biztoc.com/x/41a0a145f59a91eb",
-      "source": "Biztoc.com",
-      "date": "2026-09-28T13:30:57Z",
-      "image": "https://biztoc.com/cdn/41a0a145f59a91eb_s.webp",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's massive Starship, the world's largest and most powerful rocket, is prepared for its next major test launch representing continued progress."
-    },
-    {
-      "title": "SpaceX is moments away from monumental Starship launch",
-      "description": "The company is getting closer to making the rocket fully reusable.",
-      "url": "https://biztoc.com/x/41e3b96e27388504",
-      "source": "Biztoc.com",
-      "date": "2026-09-28T12:43:39Z",
-      "image": "https://biztoc.com/cdn/996/og.png",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX prepares for a monumental Starship launch as the company progresses toward making the rocket fully reusable."
-    },
-    {
-      "title": "Google Project Suncatcher: The First Physical Step Toward Orbital AI Compute",
-      "description": "The Orbital Compute Frontier On October 1, a refrigerator-sized satellite built by Planet Labs will ride a SpaceX Falcon 9 into low Earth orbit from Vandenberg Space Force Base. Inside it: four Google Trillium Tensor Processing Units, a kilowatt of solar powe…",
-      "url": "https://forkast.news/google-project-suncatcher-the-first-physical-step-toward-orbital-ai-compute/",
-      "source": "Forkast.news",
-      "date": "2026-09-28T12:06:28Z",
-      "image": "https://forkast.news/wp-content/uploads/2026/09/google-suncatcher-clockwork-1024x687.jpg",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "Planet Labs' refrigerator-sized satellite is set to launch on a SpaceX Falcon rocket, representing the first physical step toward orbital AI compute infrastructure."
+      "title": "Older Alien Worlds Might Still Be Stuck in the Slime Age",
+      "description": "There’s an active debate in the astrobiology community of where to use our best telescopes to look for our best chance of seeing alien life. That debate has been going on for decades, and will continue for some time to come, but now there’s another option up for consideration. A new paper in the International Journal of Astrobiology by Dr. Christopher Doughty of Northern Arizona University talks about how the total amount of carbon a planet is able to bring into the service of biology is a good indication of how evolved life on it might be.",
+      "url": "https://www.universetoday.com/articles/older-alien-worlds-might-still-be-stuck-in-the-slime-age",
+      "source": "Universe Today",
+      "date": "Tue, 29 Sep 2026 13:43:58 +0000",
+      "category": "Exoplanets",
+      "quality": 3,
+      "summary": "Astrobiologists continue debating which distant worlds show the greatest promise for hosting life, with new insights suggesting older alien worlds may possess conditions favorable for biological development. This research guides decisions on where to direct our most powerful telescopes."
     }
   ]
 }
