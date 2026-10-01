@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-29T22:14:01.069Z",
+  "generated": "2026-10-01T17:04:09.568Z",
   "launches": [
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
       "net": "2026-10-01T15:10:06Z",
-      "status": "Go",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 40",
@@ -17,7 +17,7 @@
     {
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
       "name": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
-      "net": "2026-10-01T18:18:00Z",
+      "net": "2026-10-01T18:32:00Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -41,23 +41,10 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg"
     },
     {
-      "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
-      "name": "SR75 | Flight 2",
-      "net": "2026-10-05T00:00:00Z",
-      "status": "TBD",
-      "provider": "HyImpulse",
-      "rocket": "SR75",
-      "pad": "Unknown Pad",
-      "location": "SaxaVord Spaceport",
-      "mission": "Flight 2",
-      "description": "Test flight of HyImpulse's SR75 sounding rocket.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sr-75_liftoff__image_20240503065630.jpeg"
-    },
-    {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-10-05T08:06:00Z",
-      "status": "TBC",
+      "net": "2026-10-05T08:16:00Z",
+      "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
@@ -80,9 +67,22 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nuri_liftoff_2_image_20240820080542.jpeg"
     },
     {
+      "id": "a1bb0984-19d4-4b47-9bba-706d225573e2",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-10-09T19:25:00Z",
+      "status": "Go",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 12",
+      "pad": "Commercial LC-2",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+    },
+    {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
       "name": "Falcon 9 Block 5 | Starlink Group 15-25",
-      "net": "2026-10-10T16:00:00Z",
+      "net": "2026-10-10T23:00:00Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -119,17 +119,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg"
     },
     {
-      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
-      "name": "SSLV | AayulSAT-1A & others",
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
       "net": "2026-10-31T00:00:00Z",
       "status": "TBD",
-      "provider": "Indian Space Research Organization",
-      "rocket": "SSLV",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "mission": "AayulSAT-1A & others",
-      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
+      "provider": "United Launch Alliance",
+      "rocket": "Vulcan VC6L",
+      "pad": "Space Launch Complex 41",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "mission": "Amazon Leo (LV-01)",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
     }
   ]
 }
