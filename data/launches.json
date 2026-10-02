@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T17:04:09.568Z",
+  "generated": "2026-10-02T08:22:22.839Z",
   "launches": [
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -18,7 +18,7 @@
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
       "name": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
       "net": "2026-10-01T18:32:00Z",
-      "status": "Go",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
@@ -30,8 +30,8 @@
     {
       "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
       "name": "Falcon Heavy | NROL-97",
-      "net": "2026-10-02T03:53:00Z",
-      "status": "Go",
+      "net": "2026-10-02T03:54:00Z",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon Heavy",
       "pad": "Launch Complex 39A",
@@ -43,7 +43,7 @@
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-10-05T08:16:00Z",
+      "net": "2026-10-05T08:17:00Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -93,17 +93,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-13T17:00:00Z",
+      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
+      "net": "2026-10-13T10:33:00Z",
       "status": "TBC",
-      "provider": "Indian Space Research Organization",
-      "rocket": "GSLV Mk II",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "mission": "IRNSS-1L (NVS-03)",
-      "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg"
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 40",
+      "location": "Cape Canaveral SFS, FL, USA",
+      "mission": "Dragon CRS-2 SpX-35",
+      "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
