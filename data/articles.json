@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T16:11:39.295Z",
+  "generated": "2026-10-02T22:03:40.522Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Thu, 01 Oct 2026 22:09:16 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA has selected PRIMA, a far-infrared telescope mission, to explore the history and evolution of the universe. This landmark mission will unlock new insights into cosmic origins and galaxy formation."
+      "summary": "NASA selects PRIMA, a far-infrared telescope mission, to explore the history and evolution of the universe at unprecedented infrared wavelengths."
     },
     {
       "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
@@ -20,27 +20,7 @@
       "date": "Thu, 01 Oct 2026 03:05:35 +0000",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have captured the first direct image of a protoplanet forming within surrounding gas, revolutionizing planetary science. This breakthrough directly reveals the planet-formation process in action."
-    },
-    {
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-      "description": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Astronomers discover strong evidence that mysterious X-ray flashes are born from colliding neutron stars, potentially creating magnetars."
-    },
-    {
-      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
-      "description": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three separate occasions.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 07:34:31 EDT",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "NASA's Perseverance rover uncovers a complex water history in Jezero Crater, discovering evidence of groundwater, ancient lakes, and hydrothermal activity."
+      "summary": "Astronomers capture the first direct image of a protoplanet embedded in its surrounding gas disk, revolutionizing understanding of planet formation."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -49,42 +29,19 @@
       "source": "Gizmodo.com",
       "date": "2026-09-25T11:15:37Z",
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
-      "category": "Astronomy",
-      "quality": 5,
-      "summary": "Astronomers solve a decades-long mystery by identifying a new class of tiny red objects in the early universe, marking one of astronomy's most significant recent discoveries."
-    },
-    {
-      "title": "SpaceX-Rakete Starship erreicht Erdorbit: Das sind die nächsten Ziele",
-      "description": "Monatelang endeten die Tests in Trümmern oder planmäßig im Meer. Jetzt hat das größte Raketensystem der Raumfahrtgeschichte eine entscheidende Flugphase absolviert. Für den Aufbau orbitaler Netzwerke rückt damit eine neue Ära näher.\nweiterlesen auf t3n.de",
-      "url": "https://t3n.de/news/spacex-starship-erreicht-orbit-testflug-1766249/",
-      "source": "T3n",
-      "date": "2026-10-01T15:41:49Z",
-      "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/09/starship-orbit.jpg?class=content",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX's Starship reaches Earth orbit for the first time, marking a historic milestone for the world's most powerful rocket system with ambitious future goals ahead."
-    },
-    {
-      "title": "The Largest 3D Map of the Universe Is Shaking Cosmology to Its Foundations",
-      "description": "Cosmology is entering a \"golden era\" of discovery and revelation—and at the center of the commotion lies the DESI Collaboration.",
-      "url": "https://gizmodo.com/the-largest-3d-map-of-the-universe-is-shaking-up-cosmology-to-its-roots-2000803927",
-      "source": "Gizmodo.com",
-      "date": "2026-10-01T11:30:17Z",
-      "image": "https://gizmodo.com/app/uploads/2026/09/DESI-Map-3D-Universe-Complete-laurel-added-450-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The DESI Collaboration's largest 3D map of the universe is revolutionizing cosmology with unprecedented discoveries, marking a golden era of cosmic revelation."
+      "summary": "Astronomers identify a revolutionary new class of objects in the early universe—tiny red dots—representing one of astronomy's most significant discoveries in recent decades."
     },
     {
-      "title": "UK-backed Mars rover to drill planet for signs of life before 2030 landing",
-      "description": "A UK-backed Mars rover, the Rosalind Franklin, is set to launch in 2028 and land in 2030 to drill beneath the planet’s surface for signs of life.\n\nRead More: https://punchng.com/uk-backed-mars-rover-to-drill-planet-for-signs-of-life-before-2030-landing/",
-      "url": "https://punchng.com/uk-backed-mars-rover-to-drill-planet-for-signs-of-life-before-2030-landing/",
-      "source": "The Punch",
-      "date": "2026-10-01T06:08:26Z",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/10/01065041/s960_ExoMars_TGO_1790833841-960x630.webp",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "The UK-backed Rosalind Franklin Mars rover will launch in 2028 and land in 2030 to drill beneath the Martian surface searching for signs of ancient life."
+      "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+      "description": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]",
+      "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:00:36 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's DAVINCI probe engineering unit successfully demonstrates its capability to withstand extreme temperatures for the upcoming Venus atmospheric investigation mission. The probe's heat-resistant design represents a major technological achievement for exploring Venus's harsh environment."
     },
     {
       "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
@@ -94,17 +51,7 @@
       "date": "Fri, 02 Oct 2026 04:05:00 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "An extraordinary astronomical achievement captures the complete Sharpless Catalog of 313 H II nebulae in stunning detail, showcasing stellar nurseries across the cosmos."
-    },
-    {
-      "title": "NASA’s SpaceX Crew-13 Launches",
-      "description": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a […]",
-      "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-      "source": "NASA",
-      "date": "Thu, 01 Oct 2026 18:05:38 +0000",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Crew-13 mission successfully launches aboard a Falcon 9 rocket from Cape Canaveral, advancing human spaceflight capabilities."
+      "summary": "An extraordinary astronomical achievement captures all 313 nebulas from the complete Sharpless Catalog of H II regions in a single image. This comprehensive celestial portrait showcases the remarkable diversity and beauty of star-forming regions."
     },
     {
       "title": "Science begins for Smile",
@@ -114,7 +61,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission is declared operational and ready to study Earth's magnetosphere and its interaction with solar wind."
+      "summary": "The European-Chinese Smile mission officially begins its science operations on September 23, ready to study how Earth's magnetosphere responds to solar wind interactions. This groundbreaking collaboration will provide unprecedented insights into planetary space weather."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -124,7 +71,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals galaxies in unprecedented detail through a cosmic gravitational lensing phenomenon, demonstrating the universe's natural magnifying power."
+      "summary": "The James Webb Space Telescope reveals intricate galactic details through a cosmic gravitational lens arrangement, providing unprecedented views of distant galaxies. This remarkable observation demonstrates the power of natural cosmic magnification for studying the early universe."
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
@@ -134,7 +81,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo, the joint ESA/JAXA mission, has arrived at Mercury to begin its groundbreaking study of the solar system's innermost planet. The mission marks a major milestone in international space exploration."
+      "summary": "ESA/JAXA's BepiColombo spacecraft arrives at Mercury, beginning its mission to study the innermost planet's composition and magnetic field."
     },
     {
       "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
@@ -144,7 +91,7 @@
       "date": "Fri, 02 Oct 2026 10:00:00 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Asteroid Bennu samples reveal clues about the early solar system and Jupiter's role in shaping asteroid compositions. This discovery deepens our understanding of planetary formation and solar system history."
+      "summary": "Sample analysis from asteroid Bennu reveals pristine early solar system material, offering clues about planetary formation and Jupiter's gravitational influence on asteroid trajectories."
     },
     {
       "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
@@ -154,7 +101,7 @@
       "date": "Thu, 01 Oct 2026 20:29:07 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Hubble Space Telescope celebrated its 200,000th orbit by observing a lensed supernova, continuing its legacy of remarkable discoveries. This milestone showcases three decades of transformative astronomical science."
+      "summary": "The Hubble Space Telescope celebrates its 200,000th orbit by observing a gravitationally lensed supernova, demonstrating its continued scientific excellence."
     },
     {
       "title": "Coldest Lava Exoplanet Found to Hold an Atmosphere",
@@ -164,7 +111,17 @@
       "date": "Thu, 01 Oct 2026 02:50:13 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "A cold lava exoplanet has been discovered to retain an atmosphere, challenging models of planetary evolution. This finding expands our understanding of exoplanet diversity and habitability potential."
+      "summary": "Discovery of an unexpectedly cool lava exoplanet that retains an atmosphere challenges existing planetary formation models and expands habitability possibilities."
+    },
+    {
+      "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
+      "description": "Astronomers analyzed 2,435 galaxies hosting actively feeding black holes using data from the Dark Energy Spectroscopic Instrument (DESI). Among them, they identified 546 \"bulgeless\" galaxies—systems with little or no central stellar bulge. Their paper, published in Monthly Notices of the Royal Astronomical Society, suggests that galaxies without a central bulge grow black holes just as effectively as galaxies that have one—a surprising sign that black holes don't need galaxy mergers to grow normally.",
+      "url": "https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 02 Oct 2026 15:20:02 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Analysis of 2,435 galaxies reveals that supermassive black holes can grow steadily alongside their host galaxies through quiet accretion without violent mergers."
     },
     {
       "title": "Astronomers discover the lowest-mass double neutron star system to date",
@@ -174,7 +131,7 @@
       "date": "Fri, 02 Oct 2026 08:20:08 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered the lowest-mass double neutron star system ever detected, expanding our understanding of stellar endpoints. This discovery reveals new possibilities in compact object formation."
+      "summary": "Astronomers discover the lowest-mass double neutron star system to date, providing new insights into stellar evolution and neutron star physics."
     },
     {
       "title": "Webb provides crash course on planet-shattering collisions",
@@ -182,49 +139,19 @@
       "url": "https://phys.org/news/2026-10-webb-planet-shattering-collisions.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "date": "Thu, 01 Oct 2026 18:00:13 EDT",
-      "category": "Cosmology",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The James Webb Space Telescope has revealed evidence of planet-shattering collisions in the early solar system, including the theorized Theia impact. These observations illuminate the violent, dynamic origins of our planetary system."
+      "summary": "Webb Space Telescope reveals insights into planet-forming collisions in our solar system's early history, including the theorized Mars-sized impact that formed the Moon."
     },
     {
-      "title": "Ultra-precise coatings help power the next generation of gravitational wave detectors",
-      "description": "Researchers from The Australian National University (ANU) have engineered new optical coatings for LIGO, the global collaboration hunting gravitational waves from colliding black holes and neutron stars.",
-      "url": "https://phys.org/news/2026-10-ultra-precise-coatings-power-generation.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 01 Oct 2026 14:40:18 EDT",
+      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "description": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Australian researchers have engineered ultra-precise optical coatings for LIGO gravitational wave detectors, enhancing sensitivity to cosmic phenomena. This advancement strengthens humanity's ability to detect gravitational waves from the universe's most violent events."
-    },
-    {
-      "title": "SpaceX launches 4 astronauts on a fast track to the International Space Station",
-      "description": "Four astronauts rocketed into orbit Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he's away.",
-      "url": "https://phys.org/news/2026-10-spacex-astronauts-fast-track-international.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 01 Oct 2026 12:52:29 EDT",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX successfully launches four astronauts toward the International Space Station on a multi-month mission, advancing human spaceflight capabilities."
-    },
-    {
-      "title": "Following ancient rain toward life-related chemistry clues on Mars",
-      "description": "The Mars we know today is a cold, dry world of dust and rocks. However, around 3.8–3.6 billion years ago, it may have looked very different. Geological and mineral evidence suggests that, in its distant past, the planet experienced periods warm and wet enough for water to exist on its surface, potentially forming rivers, lakes and even an ocean in the northern hemisphere.",
-      "url": "https://phys.org/news/2026-10-ancient-life-chemistry-clues-mars.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 01 Oct 2026 10:40:11 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Scientists trace evidence of ancient water on Mars and investigate the chemical conditions that may have supported life billions of years ago."
-    },
-    {
-      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "description": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 04:36:42 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Crew-13 mission prepares to set a new speed record for crewed flights from Earth to the International Space Station."
+      "summary": "Astronomers discover strong evidence that mysterious X-ray flashes are produced by colliding neutron stars, potentially revealing the birth of magnetars."
     },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -234,27 +161,17 @@
       "date": "Tue, 29 Sep 2026 05:58:00 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Saturn's moon Enceladus reveals unexpected chemical processes in its subsurface ocean, concentrating life-related compounds through natural freezing mechanisms."
+      "summary": "New research reveals that Saturn's moon Enceladus naturally concentrates chemicals from its hidden ocean in surprising ways as ice crystallizes and shatters."
     },
     {
-      "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
-      "description": "NASA’s Curiosity rover marked 5,000 Martian days by capturing morning and afternoon views that were blended into a striking Mars “postcard.” The panorama shows Curiosity, its tracks, and the enormous landscape surrounding Mount Sharp and Gale Crater.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
+      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+      "description": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three separate occasions.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 00:34:34 EDT",
+      "date": "Wed, 30 Sep 2026 07:34:31 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "NASA's Curiosity rover celebrates 5,000 Martian days of exploration with striking panoramic images from the Red Planet."
-    },
-    {
-      "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
-      "description": "NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75 after teams complete a final round of intensive launch-readiness checks.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 29 Sep 2026 00:38:52 EDT",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "NASA and SpaceX plan to achieve a record-breaking sub-9-hour journey from Earth to the International Space Station with four astronauts."
+      "summary": "NASA's Perseverance rover uncovers a complex water history in Jezero Crater, discovering evidence of groundwater, ancient lakes, and hydrothermal activity."
     },
     {
       "title": "Black hole jets may decide the fate of entire galaxies",
@@ -264,7 +181,7 @@
       "date": "Wed, 30 Sep 2026 06:51:59 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers discover that powerful jets from supermassive black holes fundamentally shape galaxy evolution by disrupting star formation across vast distances."
+      "summary": "Powerful jets from supermassive black holes shape galactic evolution by disrupting star-forming gas across entire galaxies and beyond."
     },
     {
       "title": "Is the universe infinite? The answer gets weird fast",
@@ -274,7 +191,7 @@
       "date": "Sun, 27 Sep 2026 23:18:42 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Cosmic microwave background measurements suggest the universe is remarkably flat, opening profound questions about its infinite nature and structure."
+      "summary": "Cosmic microwave background measurements suggest the universe is remarkably flat, raising profound questions about the universe's ultimate geometry and fate."
     },
     {
       "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
@@ -285,7 +202,7 @@
       "image": null,
       "category": "Astronomy",
       "quality": 4,
-      "summary": "China's FAST telescope, the world's largest radio telescope, advances into Phase II construction as it celebrates its 10th anniversary and continues groundbreaking astronomical discoveries."
+      "summary": "China's FAST radio telescope celebrates its 10th anniversary and advances to Phase II construction, enhancing its capabilities as one of the world's premier astronomical instruments."
     },
     {
       "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
@@ -296,7 +213,51 @@
       "image": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Square Kilometre Array (SKA) may soon detect magnetic fields on distant exoplanets, opening new avenues for understanding planetary characteristics and habitability."
+      "summary": "The SKA (Square Kilometre Array) may soon detect magnetic fields on distant exoplanets, opening new avenues for understanding planetary characteristics and habitability."
+    },
+    {
+      "title": "SpaceX sends 4 astronauts to the International Space Station on a record-fast 8-hour trip",
+      "description": "Four astronauts rocketed into orbit Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he’s away.\nSpaceX launched commander Jessica Watkins and her crew for NASA after a three-week delay …",
+      "url": "https://biztoc.com/x/9641ba00da0a1e8d",
+      "source": "Biztoc.com",
+      "date": "2026-10-01T21:48:45Z",
+      "image": "https://biztoc.com/cdn/9641ba00da0a1e8d_s.webp",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX launches four astronauts to the International Space Station in a record-fast 8-hour orbital ascent, demonstrating advances in rapid crew transport capabilities."
+    },
+    {
+      "title": "WATCH: NASA launches Crew-13 to International Space Station",
+      "description": "Four astronauts rocketed into orbit Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he's away.",
+      "url": "https://biztoc.com/x/8ae49906879f57cd",
+      "source": "Biztoc.com",
+      "date": "2026-10-01T21:03:32Z",
+      "image": "https://biztoc.com/cdn/8ae49906879f57cd_s.webp",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Crew-13 mission launches four astronauts to the International Space Station for a multi-month research mission advancing human spaceflight operations."
+    },
+    {
+      "title": "SpaceX launches 4 astronauts on a fast track to the International Space Station",
+      "description": "Four astronauts have arrived at the International Space Station following an express eight-hour flight.",
+      "url": "https://www.ksat.com/news/world/2026/10/01/spacex-launches-4-astronauts-on-a-fast-track-to-the-international-space-station/",
+      "source": "KSAT San Antonio",
+      "date": "2026-10-01T19:05:06Z",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/RKOTBGVI5JH7XCS6OMYRORLJDY.jpg?api_key=ksat_9a37fc89631abedf",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX successfully delivers four astronauts to the International Space Station via an expedited eight-hour flight, showcasing improved orbital logistics."
+    },
+    {
+      "title": "NASA’s SpaceX Crew-13 Launches",
+      "description": "A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and R…",
+      "url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/",
+      "source": "NASA",
+      "date": "2026-10-01T18:07:00Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "A SpaceX Falcon 9 rocket successfully launches NASA's Crew-13 mission with four astronauts bound for the International Space Station."
     },
     {
       "title": "Εκτοξεύτηκε ο πύραυλος της SpaceX που μεταφέρει τέσσερις αστροναύτες στον Διεθνή Διαστημικό Σταθμό, βίντεο",
@@ -307,7 +268,48 @@
       "image": "https://www.protothema.gr/images/640x360share/jpg/files/2026-10-01/32427030.jpg",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX successfully launches a Crew Dragon spacecraft carrying four international astronauts to the International Space Station on a six-month mission."
+      "summary": "A SpaceX Falcon 9 rocket launches four international astronauts aboard Dragon spacecraft to the International Space Station for a six-month mission."
+    },
+    {
+      "title": "SpaceX launches Crew-13: 4 Nasa astronauts sent to ISS for 6-month mission focused on human health",
+      "description": "SpaceX on Thursday launched four astronauts to the International Space Station (ISS) for a six-month mission focused on studying human health and",
+      "url": "https://timesofindia.indiatimes.com/science/spacex-launches-crew-13-4-nasa-astronauts-sent-to-iss-for-6-month-mission-focused-on-human-health/articleshow/134622892.cms",
+      "source": "The Times of India",
+      "date": "2026-10-01T15:45:53Z",
+      "image": "https://static.toiimg.com/thumb/msid-134623014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "SpaceX launches Crew-13 with four NASA astronauts to the ISS for a six-month mission focused on advancing human health research in microgravity."
+    },
+    {
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "description": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
+      "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:30:00 +0000",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "NASA's SpaceX Crew-12 mission concludes its productive science mission aboard the International Space Station with a scheduled return in early October. The crew's work demonstrates continued success in human spaceflight collaboration between NASA and SpaceX."
+    },
+    {
+      "title": "Successful Earth flyby improves Juice’s course to Jupiter",
+      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
+      "source": "ESA Space Science",
+      "date": "Mon, 28 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "The European Space Agency's Jupiter Icy Moons Explorer (Juice) successfully completed an Earth gravity assist maneuver, precisely adjusting its trajectory toward Jupiter. The successful flyby demonstrates flawless mission execution for this ambitious exploration mission."
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 3,
+      "summary": "The Hubble Space Telescope captures a spiral galaxy with unexpected internal dynamics, revealing the complex mechanisms driving galactic evolution. This observation demonstrates the remarkable diversity of galactic structures and behaviors across the universe."
     }
   ]
 }
