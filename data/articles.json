@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T07:54:33.345Z",
+  "generated": "2026-10-03T20:55:04.932Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The James Webb Space Telescope reveals galaxies in extraordinary detail through gravitational lensing, unveiling the cosmos's hidden structures."
+      "summary": "The James Webb Space Telescope captures galaxies in exquisite detail through gravitational lensing, revealing the universe's intricate structure."
     },
     {
       "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
@@ -20,7 +20,7 @@
       "date": "Thu, 01 Oct 2026 22:09:16 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA has selected PRIMA, a far-infrared telescope mission, to explore the history and evolution of the universe. This landmark selection represents a major advancement in NASA's capability to study cosmic origins."
+      "summary": "NASA selected PRIMA (PRobe far-Infrared Mission), a groundbreaking far-infrared telescope designed to explore the history and evolution of the universe."
     },
     {
       "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
@@ -30,7 +30,7 @@
       "date": "Thu, 01 Oct 2026 20:29:07 +0000",
       "category": "Astronomy",
       "quality": 5,
-      "summary": "The Hubble Space Telescope achieved its 200,000th orbit around Earth and celebrated with observations of a lensed supernova. This milestone demonstrates Hubble's enduring scientific productivity and revolutionary impact on astronomy."
+      "summary": "NASA's Hubble Space Telescope achieved its 200,000th orbit around Earth and captured observations of a lensed supernova, demonstrating its continued scientific prowess."
     },
     {
       "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
@@ -40,27 +40,17 @@
       "date": "Thu, 01 Oct 2026 03:05:35 +0000",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have captured the first direct image of a protoplanet surrounded by swirling gas, providing unprecedented insight into planet formation. This breakthrough observation advances our understanding of how planets are born."
+      "summary": "Astronomers captured the first direct image of a protoplanet surrounded by swirling gas, illuminating the planetary formation process."
     },
     {
-      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
-      "description": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+      "description": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision comparable to aiming a laser at a dime from about 150 miles away. Its coronagraph also captured stars in the Large Magellanic Cloud, confirming that the instrument can produce focused images.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Astronomers have discovered strong evidence that mysterious X-ray flashes lasting minutes are created during neutron star collisions that birth magnetars, advancing our understanding of extreme cosmic phenomena."
-    },
-    {
-      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
-      "description": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three separate occasions.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 07:34:31 EDT",
+      "date": "Fri, 02 Oct 2026 08:21:30 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Perseverance rover uncovers compelling evidence of groundwater, ancient lakes, and hydrothermal systems in Jezero Crater, revealing a complex and dynamic watery history on Mars."
+      "summary": "NASA's Roman Space Telescope has demonstrated exceptional pointing stability and delivered powerful planet-imaging capabilities in its coronagraph demonstration."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -71,27 +61,29 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have identified a new class of mysterious tiny red objects in the early universe, representing one of the most significant astronomical discoveries in decades."
+      "summary": "Astronomers may have finally solved the mystery of tiny red dots discovered throughout the early universe, representing one of the decade's most significant astronomical discoveries."
     },
     {
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "description": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-      "source": "NASA",
-      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "A stunning selfie captured at Vera Rubin Ridge showcases the beauty of planetary exploration and scientific discovery through personal perspective."
+      "title": "La semaine intense de SpaceX : toutes ses fusées utilisées, première orbite du Starship, record américain de vitesse vers l’ISS et mission top secrète",
+      "description": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeudi 1er octobre et la nuit suivante. Pour la première fois, …",
+      "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html",
+      "source": "Numerama",
+      "date": "2026-10-02T14:48:40Z",
+      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/triptyque-de-lancements-de-fusees-spectaculaires.jpg?resize=1600,900&key=4e3dc96f",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX launches all three rocket models within four days, including Starship's first orbital flight and record-breaking ISS crew delivery missions."
     },
     {
-      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-      "description": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
-      "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 19:30:00 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's SpaceX Crew-12 successfully concludes its station science mission with astronauts returning to Earth after advancing research in microgravity."
+      "title": "Quatre tirs en quatre jours : SpaceX fait décoller toutes ses fusées, avec des misions inédites",
+      "description": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeudi 1er octobre et la nuit suivante. Pour la première fois, …",
+      "url": "https://www.numerama.com/sciences/2345361-quatre-tirs-en-quatre-jours-spacex-fait-decoller-toutes-ses-fusees-avec-des-misions-inedites.html",
+      "source": "Numerama",
+      "date": "2026-10-02T08:18:01Z",
+      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/triptyque-de-lancements-de-fusees-spectaculaires.jpg?resize=1600,900&key=4e3dc96f",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX executes four launches in four days across all three rocket models, including Starship's inaugural orbital mission."
     },
     {
       "title": "NASA’s DAVINCI Probe Can Stand the Heat",
@@ -101,7 +93,7 @@
       "date": "Fri, 02 Oct 2026 19:00:36 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's DAVINCI probe demonstrates advanced engineering capabilities to withstand Venus's extreme conditions for groundbreaking atmospheric exploration."
+      "summary": "NASA's DAVINCI probe undergoes rigorous engineering tests demonstrating its capability to withstand the extreme conditions of Venus's atmosphere."
     },
     {
       "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
@@ -111,7 +103,7 @@
       "date": "Fri, 02 Oct 2026 04:05:00 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "A remarkable astronomical achievement captures the entire Sharpless Catalog of 313 H II nebulas in stunning detail, showcasing observational excellence."
+      "summary": "A remarkable astronomical achievement captures the complete Sharpless Catalog of 313 H II nebulas in stunning detail."
     },
     {
       "title": "Science begins for Smile",
@@ -121,7 +113,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission begins groundbreaking science to reveal how Earth's magnetosphere responds to solar wind interactions."
+      "summary": "The European-Chinese Smile mission begins science operations to study how Earth's magnetosphere responds to solar wind interactions."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -131,7 +123,7 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency's Juice mission completes a successful Earth flyby gravity assist, optimizing its trajectory toward Jupiter's icy moons."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully conducts an Earth gravity assist maneuver, refining its trajectory toward Jupiter."
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
@@ -141,7 +133,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo, the joint ESA/JAXA mission, has arrived at Mercury to begin its scientific exploration. The mission marks a significant milestone in international space collaboration to study the solar system's innermost planet."
+      "summary": "ESA/JAXA's BepiColombo spacecraft has begun its historic arrival at Mercury, marking a major milestone in exploring the solar system's innermost planet."
     },
     {
       "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
@@ -151,7 +143,7 @@
       "date": "Fri, 02 Oct 2026 10:00:00 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Asteroid Bennu's composition reveals clues about early solar system history through pristine samples, with Jupiter's gravitational influence playing a role in shaping the asteroid's characteristics. This discovery enhances our understanding of planetary formation."
+      "summary": "Analysis of asteroid Bennu samples reveals clues about early solar system formation and Jupiter's role in shaping asteroid compositions and trajectories."
     },
     {
       "title": "Coldest Lava Exoplanet Found to Hold an Atmosphere",
@@ -161,17 +153,17 @@
       "date": "Thu, 01 Oct 2026 02:50:13 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Scientists discovered an exoplanet with the coldest lava on record that surprisingly retains an atmosphere, challenging existing models of planetary evolution. This finding expands our understanding of habitable exoplanet characteristics."
+      "summary": "Discovery of the coldest lava exoplanet yet found to retain an atmosphere expands our understanding of planetary habitability and atmospheric retention."
     },
     {
-      "title": "Team selected for NASA program to explore potential lunar cave",
-      "description": "NASA has selected a Planetary Science Institute–led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the radiation and extreme temperature swings present at the lunar surface.",
-      "url": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html",
+      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
+      "description": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead stars and black holes.",
+      "url": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 02 Oct 2026 19:20:06 EDT",
-      "category": "Missions",
+      "date": "Sat, 03 Oct 2026 09:00:07 EDT",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA has selected a team to investigate potentially large underground caves on the Moon through a Planetary Science Institute-led proposal. Lunar caves could provide shelter and resources for future human exploration."
+      "summary": "Advanced simulations suggest the Milky Way began as thousands of smaller galaxies in the early universe that merged over billions of years."
     },
     {
       "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
@@ -181,7 +173,7 @@
       "date": "Fri, 02 Oct 2026 15:20:02 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "New research reveals that black holes can grow quietly alongside galaxies without violent mergers, using data from 2,435 galaxies with active black holes. This discovery changes our understanding of black hole and galaxy co-evolution."
+      "summary": "Analysis of 2,435 galaxies reveals that black holes can grow steadily alongside galaxies through quiet accretion rather than only violent mergers."
     },
     {
       "title": "Astronomers discover the lowest-mass double neutron star system to date",
@@ -191,37 +183,57 @@
       "date": "Fri, 02 Oct 2026 08:20:08 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered the lowest-mass double neutron star system ever detected, expanding our knowledge of stellar remnants. This finding provides new insights into the extreme physics of neutron stars."
+      "summary": "Astronomers have discovered the lowest-mass double neutron star system to date, advancing our understanding of these extreme stellar remnants."
     },
     {
-      "title": "Astronauts arrive at International Space Station on the quickest US express flight yet",
-      "description": "Four astronauts pulled up at the International Space Station on Thursday after launching on an eight-hour express that set a U.S. speed record.",
-      "url": "https://phys.org/news/2026-10-astronauts-international-space-station-quickest.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 02 Oct 2026 01:34:05 EDT",
-      "category": "NASA",
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "description": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 09:34:11 EDT",
+      "category": "Missions",
       "quality": 4,
-      "summary": "Four astronauts reached the International Space Station aboard SpaceX's Dragon spacecraft on an expedited eight-hour journey, setting a new record for the fastest crewed US flight to the ISS."
+      "summary": "ESA's Juice spacecraft executed a gravity assist maneuver past Earth on September 28, successfully reshaping its trajectory toward Jupiter."
     },
     {
-      "title": "Webb provides crash course on planet-shattering collisions",
-      "description": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the moon, where NASA's Artemis program is returning humans, preparing for Mars and shaping the future of space exploration.",
-      "url": "https://phys.org/news/2026-10-webb-planet-shattering-collisions.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 01 Oct 2026 18:00:13 EDT",
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "description": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossil of the Moon’s long-lost magnetic field.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 09:12:14 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists analyzing Chang'e-6 lunar samples have discovered a previously unknown magnetic mineral, providing new insights into the moon's geological history."
+    },
+    {
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "description": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest galaxies with chemical clues preserved in ancient stars today.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 08:50:57 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Advanced simulations reveal how the first stars illuminated the early universe and seeded space with essential heavy elements."
+    },
+    {
+      "title": "The early universe wasn’t nearly as pristine as scientists thought",
+      "description": "JWST has revealed that galaxies were spreading carbon, oxygen, and other heavy elements through space just 500 million years after the Big Bang. The surprising discovery suggests the young universe became chemically enriched much earlier than expected, potentially erasing traces of its very first stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Fri, 02 Oct 2026 07:24:07 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "JWST observations show that the early universe was more chemically active than expected, with galaxies spreading carbon, oxygen, and other elements just 500 million years after the Big Bang."
+    },
+    {
+      "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+      "description": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 30 Sep 2026 08:27:27 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope provides evidence supporting the giant impact hypothesis, where a Mars-sized object called Theia collided with the early Earth to form our Moon."
-    },
-    {
-      "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-      "description": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest U.S. spacecraft journey to the ISS in history.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 04:36:42 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Crew-13 SpaceX mission is scheduled to launch four astronauts to the ISS on an expedited trajectory, potentially breaking the record for fastest US crewed ascent."
+      "summary": "Astronomers have identified strong evidence that mysterious X-ray flashes lasting minutes are produced during the birth of magnetars from colliding neutron stars."
     },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -231,37 +243,7 @@
       "date": "Tue, 29 Sep 2026 05:58:00 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research reveals that Saturn's moon Enceladus has unexpected chemical separation mechanisms in its subsurface ocean, deepening our understanding of this icy world's potential habitability."
-    },
-    {
-      "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
-      "description": "NASA’s Curiosity rover marked 5,000 Martian days by capturing morning and afternoon views that were blended into a striking Mars “postcard.” The panorama shows Curiosity, its tracks, and the enormous landscape surrounding Mount Sharp and Gale Crater.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 00:34:34 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Curiosity rover celebrates 5,000 Martian days of exploration by transmitting spectacular panoramic images showcasing Mars' stunning landscape."
-    },
-    {
-      "title": "Black hole jets may decide the fate of entire galaxies",
-      "description": "Powerful jets from supermassive black holes can disturb star-forming gas far beyond a galaxy’s visible edge, leaving a glowing trail hundreds of thousands of light-years long. By keeping this gas hot and preventing it from falling inward, the jets may help determine whether a galaxy keeps forming stars or becomes quiet.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 30 Sep 2026 06:51:59 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Supermassive black hole jets extend far beyond galaxies' visible boundaries, fundamentally shaping galactic evolution by disrupting star-forming gas across cosmic scales."
-    },
-    {
-      "title": "Is the universe infinite? The answer gets weird fast",
-      "description": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite, because the observable cosmos could be only a small patch of a much larger curved universe. Space could even be flat while wrapping around on itself in exotic ways.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sun, 27 Sep 2026 23:18:42 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Cosmic microwave background measurements indicate the universe is remarkably flat, offering profound insights into the large-scale structure and geometry of existence."
+      "summary": "New research reveals that Saturn's moon Enceladus has sophisticated chemical separation processes as its subsurface ocean water freezes and shatters into ejected droplets."
     },
     {
       "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
@@ -272,7 +254,7 @@
       "image": null,
       "category": "Astronomy",
       "quality": 4,
-      "summary": "China's FAST telescope, the world's largest single-dish radio telescope, advances into Phase II construction as it celebrates its 10th anniversary. This milestone marks continued progress in deep-space observation and exoplanet research capabilities."
+      "summary": "China's FAST radio telescope, the world's largest single-dish observatory, advances into Phase II construction while celebrating its 10th anniversary of groundbreaking astronomical discoveries."
     },
     {
       "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
@@ -283,7 +265,18 @@
       "image": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Square Kilometre Array (SKA) may unlock the ability to detect magnetic fields on distant exoplanets, opening new avenues for characterizing potentially habitable worlds. This breakthrough capability would revolutionize our understanding of exoplanet atmospheres and magnetospheres."
+      "summary": "The Square Kilometre Array may soon detect magnetic fields on distant exoplanets, opening new avenues for characterizing potentially habitable worlds."
+    },
+    {
+      "title": "Reise zur Raumstation: Besatzung der Crew-13 erreicht ISS in Rekordzeit",
+      "description": "So schnell klappte es noch nie: In weniger als acht Stunden nach dem Start erreicht die Dragon-Kapsel von SpaceX mit der Crew-13 die Internationale Raumstation im Erdorbit.",
+      "url": "https://www.spektrum.de/news/raumfahrt-besatzung-der-crew-13-erreicht-iss-in-rekordzeit/2347879",
+      "source": "Spektrum.de",
+      "date": "2026-10-02T12:10:27Z",
+      "image": "https://static.spektrum.de/fm/912/f1920x1080/iss073e0505071_large.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Crew Dragon reaches the International Space Station in record time, completing the journey in under eight hours from launch."
     },
     {
       "title": "SpaceX Launches Four Astronauts On Fast-Track Mission To ISS",
@@ -294,7 +287,7 @@
       "image": "https://biztoc.com/cdn/5eaa13fdf260076d_s.webp",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX successfully launched four astronauts to the International Space Station aboard a Falcon 9 rocket from Cape Canaveral. This mission demonstrates SpaceX's continued capability in human spaceflight operations."
+      "summary": "SpaceX launches four astronauts on a Falcon 9 rocket toward the International Space Station for a six-month mission."
     },
     {
       "title": "SpaceX sends 4 astronauts to the International Space Station on a record-fast 8-hour trip",
@@ -305,7 +298,18 @@
       "image": "https://biztoc.com/cdn/9641ba00da0a1e8d_s.webp",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "Four astronauts completed a record-fast 8-hour journey to the International Space Station aboard a SpaceX Dragon spacecraft. This accelerated mission timeline showcases advances in orbital rendezvous capabilities."
+      "summary": "Four astronauts complete an eight-hour record-breaking journey to the International Space Station aboard a SpaceX Dragon capsule."
+    },
+    {
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "description": "Welcome to Edition 9.13 of the Rocket Report!\nThis week, SpaceX celebrated the first orbital launch of its new Starship rocket. I’m not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reache…",
+      "url": "https://biztoc.com/x/5f9a22fac96e1da9",
+      "source": "Biztoc.com",
+      "date": "2026-10-02T16:28:27Z",
+      "image": "https://biztoc.com/cdn/5f9a22fac96e1da9_s.webp",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX achieves a successful launch triple-header while Rocket Lab secures a major commercial contract in the thriving space industry."
     }
   ]
 }
