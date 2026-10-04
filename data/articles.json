@@ -1,7 +1,17 @@
 {
-  "generated": "2026-10-03T20:55:04.932Z",
+  "generated": "2026-10-04T00:27:09.820Z",
   "count": 30,
   "articles": [
+    {
+      "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+      "description": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 04:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 5,
+      "summary": "A remarkable image captures all 313 nebulas from the Sharpless Catalog, representing an extraordinary feat of astronomical observation. This comprehensive catalog showcases the breathtaking diversity of stellar nurseries."
+    },
     {
       "title": "Galaxies in a cosmic house of mirrors",
       "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
@@ -10,7 +20,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The James Webb Space Telescope captures galaxies in exquisite detail through gravitational lensing, revealing the universe's intricate structure."
+      "summary": "The James Webb Space Telescope captures galaxies in extraordinary detail through gravitational lensing, revealing intricate cosmic structures. This picture of the month exemplifies how modern astronomy unveils the universe's hidden wonders."
     },
     {
       "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
@@ -20,7 +30,7 @@
       "date": "Thu, 01 Oct 2026 22:09:16 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA selected PRIMA (PRobe far-Infrared Mission), a groundbreaking far-infrared telescope designed to explore the history and evolution of the universe."
+      "summary": "NASA has selected PRIMA, a far-infrared telescope mission, to explore the universe's history and evolution. This groundbreaking new class of mission will advance our understanding of cosmic origins and the formation of galaxies."
     },
     {
       "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
@@ -30,7 +40,7 @@
       "date": "Thu, 01 Oct 2026 20:29:07 +0000",
       "category": "Astronomy",
       "quality": 5,
-      "summary": "NASA's Hubble Space Telescope achieved its 200,000th orbit around Earth and captured observations of a lensed supernova, demonstrating its continued scientific prowess."
+      "summary": "The Hubble Space Telescope celebrated its 200,000th orbit around Earth by observing a lensed supernova, demonstrating the observatory's enduring scientific capability. This milestone reflects decades of groundbreaking astronomical discoveries."
     },
     {
       "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
@@ -40,7 +50,7 @@
       "date": "Thu, 01 Oct 2026 03:05:35 +0000",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers captured the first direct image of a protoplanet surrounded by swirling gas, illuminating the planetary formation process."
+      "summary": "Astronomers have captured the first direct image of a protoplanet forming within surrounding gas, revealing planet formation in action. This breakthrough observation illuminates how planets develop and where habitable worlds might exist."
     },
     {
       "title": "NASA’s Roman telescope just opened its planet-hunting eye",
@@ -50,7 +60,17 @@
       "date": "Fri, 02 Oct 2026 08:21:30 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has demonstrated exceptional pointing stability and delivered powerful planet-imaging capabilities in its coronagraph demonstration."
+      "summary": "NASA's Roman Space Telescope has successfully demonstrated its planet-hunting capabilities with remarkable pointing stability and powerful imaging performance."
+    },
+    {
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "description": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest galaxies with chemical clues preserved in ancient stars today.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 03 Oct 2026 08:50:57 EDT",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "Ultra-detailed simulations reveal how the first stars illuminated the dark universe and distributed essential elements throughout space."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -61,7 +81,7 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers may have finally solved the mystery of tiny red dots discovered throughout the early universe, representing one of the decade's most significant astronomical discoveries."
+      "summary": "Astronomers have made a major breakthrough understanding mysterious tiny red dots in the early universe, one of the most significant astronomical discoveries in decades."
     },
     {
       "title": "La semaine intense de SpaceX : toutes ses fusées utilisées, première orbite du Starship, record américain de vitesse vers l’ISS et mission top secrète",
@@ -72,7 +92,7 @@
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/triptyque-de-lancements-de-fusees-spectaculaires.jpg?resize=1600,900&key=4e3dc96f",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX launches all three rocket models within four days, including Starship's first orbital flight and record-breaking ISS crew delivery missions."
+      "summary": "SpaceX achieves a historic milestone by launching all three rocket models within four days, including Starship's first orbital flight. This unprecedented launch cadence demonstrates SpaceX's expanding operational capabilities and marks multiple records for the company."
     },
     {
       "title": "Quatre tirs en quatre jours : SpaceX fait décoller toutes ses fusées, avec des misions inédites",
@@ -83,7 +103,27 @@
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/triptyque-de-lancements-de-fusees-spectaculaires.jpg?resize=1600,900&key=4e3dc96f",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX executes four launches in four days across all three rocket models, including Starship's inaugural orbital mission."
+      "summary": "SpaceX executes an unprecedented four launches in four days across all three rocket models, including Starship's first orbital mission. This extraordinary operational achievement showcases the company's advancing launch capabilities and mission diversity."
+    },
+    {
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "description": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+      "source": "NASA",
+      "date": "Sat, 03 Oct 2026 04:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "A stunning selfie captured at Vera Rubin Ridge showcases robotic exploration on Mars. This image combines technical achievement with the wonder of planetary science."
+    },
+    {
+      "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "description": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions […]",
+      "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+      "source": "NASA",
+      "date": "Fri, 02 Oct 2026 19:30:00 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "NASA's SpaceX Crew-12 completes its International Space Station mission, advancing human spaceflight capabilities and scientific research in orbit. The crew's work demonstrates the success of public-private partnerships in space exploration."
     },
     {
       "title": "NASA’s DAVINCI Probe Can Stand the Heat",
@@ -91,19 +131,9 @@
       "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
       "source": "NASA",
       "date": "Fri, 02 Oct 2026 19:00:36 +0000",
-      "category": "NASA",
+      "category": "Missions",
       "quality": 4,
-      "summary": "NASA's DAVINCI probe undergoes rigorous engineering tests demonstrating its capability to withstand the extreme conditions of Venus's atmosphere."
-    },
-    {
-      "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-      "description": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-      "source": "NASA",
-      "date": "Fri, 02 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "A remarkable astronomical achievement captures the complete Sharpless Catalog of 313 H II nebulas in stunning detail."
+      "summary": "NASA's DAVINCI probe undergoes successful pressure and heat testing, preparing for its historic mission to explore Venus's atmosphere. This engineering breakthrough brings us closer to unveiling the mysteries of our neighboring planet."
     },
     {
       "title": "Science begins for Smile",
@@ -113,7 +143,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission begins science operations to study how Earth's magnetosphere responds to solar wind interactions."
+      "summary": "The European-Chinese Smile mission officially begins its science operations, studying how Earth's magnetosphere interacts with solar wind. This collaboration marks an exciting new chapter in space weather research."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -123,7 +153,17 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully conducts an Earth gravity assist maneuver, refining its trajectory toward Jupiter."
+      "summary": "ESA's Juice spacecraft successfully completes its Earth flyby gravity assist, adjusting its trajectory toward Jupiter. This pivotal maneuver brings us one step closer to exploring the icy moons of the outer solar system."
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope reveals a spiral galaxy with surprising internal dynamics, challenging our understanding of galactic rotation. This discovery unveils the complex physics governing the cosmos."
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
@@ -133,7 +173,7 @@
       "date": "Thu, 03 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA/JAXA's BepiColombo spacecraft has begun its historic arrival at Mercury, marking a major milestone in exploring the solar system's innermost planet."
+      "summary": "BepiColombo, the ESA/JAXA spacecraft, has successfully arrived at Mercury and begins its mission to study the planet's surface and magnetic field. This landmark arrival represents a major achievement in exploring our solar system's innermost planet."
     },
     {
       "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
@@ -143,7 +183,7 @@
       "date": "Fri, 02 Oct 2026 10:00:00 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Analysis of asteroid Bennu samples reveals clues about early solar system formation and Jupiter's role in shaping asteroid compositions and trajectories."
+      "summary": "Asteroid Bennu's composition reveals clues about early solar system formation, with sample return missions providing pristine evidence of planetary origins. Jupiter's gravitational influence on Bennu helps scientists understand solar system dynamics and history."
     },
     {
       "title": "Coldest Lava Exoplanet Found to Hold an Atmosphere",
@@ -153,7 +193,17 @@
       "date": "Thu, 01 Oct 2026 02:50:13 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Discovery of the coldest lava exoplanet yet found to retain an atmosphere expands our understanding of planetary habitability and atmospheric retention."
+      "summary": "Scientists discovered that the coldest known lava exoplanet retains an atmosphere, challenging conventional models of planetary formation and atmospheric retention. This finding expands possibilities for where life might exist beyond Earth."
+    },
+    {
+      "title": "Q&A: An Earth-like planet with two suns?",
+      "description": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
+      "url": "https://phys.org/news/2026-09-qa-earth-planet-suns.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 03 Oct 2026 13:00:01 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "A nearby binary star system could potentially host an Earth-like planet capable of supporting liquid water, expanding our understanding of habitable worlds. Such systems demonstrate the diversity of planetary environments in our cosmic neighborhood."
     },
     {
       "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
@@ -163,7 +213,17 @@
       "date": "Sat, 03 Oct 2026 09:00:07 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Advanced simulations suggest the Milky Way began as thousands of smaller galaxies in the early universe that merged over billions of years."
+      "summary": "New simulations suggest the Milky Way originated from thousands of smaller galaxies that merged over cosmic time. This revolutionary understanding of galactic evolution reshapes how we view our home galaxy's formation and development."
+    },
+    {
+      "title": "Team selected for NASA program to explore potential lunar cave",
+      "description": "NASA has selected a Planetary Science Institute–led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the radiation and extreme temperature swings present at the lunar surface.",
+      "url": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 02 Oct 2026 19:20:06 EDT",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA has selected a team to investigate a potentially large underground lunar cave, advancing exploration of the Moon's geology and potential resources. This mission opens new frontiers in understanding lunar subsurface environments and supporting future human exploration."
     },
     {
       "title": "Black holes may grow quietly alongside galaxies even without violent mergers",
@@ -173,7 +233,7 @@
       "date": "Fri, 02 Oct 2026 15:20:02 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Analysis of 2,435 galaxies reveals that black holes can grow steadily alongside galaxies through quiet accretion rather than only violent mergers."
+      "summary": "Astronomers discovered that black holes can grow quietly alongside galaxies without violent mergers, expanding our understanding of black hole formation and galaxy evolution. This finding reveals previously unknown pathways for supermassive black hole development."
     },
     {
       "title": "Astronomers discover the lowest-mass double neutron star system to date",
@@ -183,7 +243,7 @@
       "date": "Fri, 02 Oct 2026 08:20:08 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered the lowest-mass double neutron star system to date, advancing our understanding of these extreme stellar remnants."
+      "summary": "Astronomers have discovered the lowest-mass double neutron star system ever observed, advancing our understanding of these extreme cosmic objects."
     },
     {
       "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
@@ -193,7 +253,7 @@
       "date": "Sat, 03 Oct 2026 09:34:11 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Juice spacecraft executed a gravity assist maneuver past Earth on September 28, successfully reshaping its trajectory toward Jupiter."
+      "summary": "ESA's Juice spacecraft successfully used Earth's gravity as a slingshot on September 28 to redirect its trajectory toward Jupiter."
     },
     {
       "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
@@ -203,17 +263,7 @@
       "date": "Sat, 03 Oct 2026 09:12:14 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists analyzing Chang'e-6 lunar samples have discovered a previously unknown magnetic mineral, providing new insights into the moon's geological history."
-    },
-    {
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "description": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest galaxies with chemical clues preserved in ancient stars today.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 03 Oct 2026 08:50:57 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Advanced simulations reveal how the first stars illuminated the early universe and seeded space with essential heavy elements."
+      "summary": "Analysis of Chang'e-6 lunar soil has revealed a previously unknown magnetic mineral, offering new insights into the Moon's geological history."
     },
     {
       "title": "The early universe wasn’t nearly as pristine as scientists thought",
@@ -223,7 +273,7 @@
       "date": "Fri, 02 Oct 2026 07:24:07 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "JWST observations show that the early universe was more chemically active than expected, with galaxies spreading carbon, oxygen, and other elements just 500 million years after the Big Bang."
+      "summary": "JWST observations reveal that the early universe was more chemically enriched than previously thought, with galaxies spreading heavy elements just 500 million years after the Big Bang."
     },
     {
       "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
@@ -233,7 +283,7 @@
       "date": "Wed, 30 Sep 2026 08:27:27 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have identified strong evidence that mysterious X-ray flashes lasting minutes are produced during the birth of magnetars from colliding neutron stars."
+      "summary": "Astronomers have identified strong evidence that mysterious X-ray flashes are produced during magnetar birth events from merging neutron stars."
     },
     {
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -243,7 +293,7 @@
       "date": "Tue, 29 Sep 2026 05:58:00 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research reveals that Saturn's moon Enceladus has sophisticated chemical separation processes as its subsurface ocean water freezes and shatters into ejected droplets."
+      "summary": "New research reveals that Saturn's moon Enceladus concentrates chemicals from its subsurface ocean through a natural freezing and crystallization process, with profound implications for ocean world chemistry."
     },
     {
       "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
@@ -254,62 +304,7 @@
       "image": null,
       "category": "Astronomy",
       "quality": 4,
-      "summary": "China's FAST radio telescope, the world's largest single-dish observatory, advances into Phase II construction while celebrating its 10th anniversary of groundbreaking astronomical discoveries."
-    },
-    {
-      "title": "SKA May Detect Magnetic Fields on Distant Exoplanets",
-      "description": "Studying exoplanets has provided astronomers with a plethora of insights regarding what characteristics need to be searched to find life beyond Earth. For the longest time, astronomers merely thought an exoplanet in a star’s habitable zone was a sufficient cr…",
-      "url": "https://www.universetoday.com/articles/ska-may-detect-magnetic-fields-on-distant-exoplanets",
-      "source": "Universe Today",
-      "date": "2026-09-23T06:35:18Z",
-      "image": "https://www.universetoday.com/article_images/eso2606a.jpg_750_20260923_062658.jpg",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "The Square Kilometre Array may soon detect magnetic fields on distant exoplanets, opening new avenues for characterizing potentially habitable worlds."
-    },
-    {
-      "title": "Reise zur Raumstation: Besatzung der Crew-13 erreicht ISS in Rekordzeit",
-      "description": "So schnell klappte es noch nie: In weniger als acht Stunden nach dem Start erreicht die Dragon-Kapsel von SpaceX mit der Crew-13 die Internationale Raumstation im Erdorbit.",
-      "url": "https://www.spektrum.de/news/raumfahrt-besatzung-der-crew-13-erreicht-iss-in-rekordzeit/2347879",
-      "source": "Spektrum.de",
-      "date": "2026-10-02T12:10:27Z",
-      "image": "https://static.spektrum.de/fm/912/f1920x1080/iss073e0505071_large.jpg",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Crew Dragon reaches the International Space Station in record time, completing the journey in under eight hours from launch."
-    },
-    {
-      "title": "SpaceX Launches Four Astronauts On Fast-Track Mission To ISS",
-      "description": "SpaceX launched four astronauts toward the International Space Station on Thursday aboard a Falcon 9 rocket from Cape Canaveral Space Force Station. \nThe crew includes NASA astronauts Jessica Watkins and Luke Delaney, Canadian astronaut Joshua Kutryk and Russ…",
-      "url": "https://biztoc.com/x/5eaa13fdf260076d",
-      "source": "Biztoc.com",
-      "date": "2026-10-01T22:33:54Z",
-      "image": "https://biztoc.com/cdn/5eaa13fdf260076d_s.webp",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX launches four astronauts on a Falcon 9 rocket toward the International Space Station for a six-month mission."
-    },
-    {
-      "title": "SpaceX sends 4 astronauts to the International Space Station on a record-fast 8-hour trip",
-      "description": "Four astronauts rocketed into orbit Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he’s away.\nSpaceX launched commander Jessica Watkins and her crew for NASA after a three-week delay …",
-      "url": "https://biztoc.com/x/9641ba00da0a1e8d",
-      "source": "Biztoc.com",
-      "date": "2026-10-01T21:48:45Z",
-      "image": "https://biztoc.com/cdn/9641ba00da0a1e8d_s.webp",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "Four astronauts complete an eight-hour record-breaking journey to the International Space Station aboard a SpaceX Dragon capsule."
-    },
-    {
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "description": "Welcome to Edition 9.13 of the Rocket Report!\nThis week, SpaceX celebrated the first orbital launch of its new Starship rocket. I’m not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reache…",
-      "url": "https://biztoc.com/x/5f9a22fac96e1da9",
-      "source": "Biztoc.com",
-      "date": "2026-10-02T16:28:27Z",
-      "image": "https://biztoc.com/cdn/5f9a22fac96e1da9_s.webp",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX achieves a successful launch triple-header while Rocket Lab secures a major commercial contract in the thriving space industry."
+      "summary": "China's FAST telescope, the world's largest single-dish radio telescope, advances into Phase II construction as it celebrates its 10th anniversary. The 'Sky Eyes' project continues to expand its capabilities for astronomical discovery and exploration."
     }
   ]
 }
