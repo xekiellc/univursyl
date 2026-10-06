@@ -1,16 +1,36 @@
 {
-  "generated": "2026-10-05T19:11:19.882Z",
+  "generated": "2026-10-06T02:09:50.059Z",
   "count": 30,
   "articles": [
     {
-      "title": "NASA's Hubble Marks its 200,000th Orbit by Watching Lensed Supernova",
-      "description": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19th and marked this milestone with observations that could help refine astronomers' measurements of cosmic expansion (aka. the Hubble Constant).",
-      "url": "https://www.universetoday.com/articles/nasas-hubble-marks-its-200000th-orbit-by-watching-lensed-supernova",
-      "source": "Universe Today",
-      "date": "Thu, 01 Oct 2026 20:29:07 +0000",
-      "category": "Astronomy",
+      "title": "BepiColombo’s Mercury arrival begins - full replay",
+      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source": "ESA Space Science",
+      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "The Hubble Space Telescope completed its 200,000th orbit around Earth and marked this historic milestone by observing a gravitationally lensed supernova. This achievement celebrates three decades of groundbreaking discoveries."
+      "summary": "BepiColombo's historic arrival at Mercury is celebrated with a full replay of ESA/JAXA's livestream coverage of this landmark achievement in planetary exploration."
+    },
+    {
+      "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
+      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program.",
+      "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
+      "source": "Universe Today",
+      "date": "Thu, 01 Oct 2026 22:09:16 +0000",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA selects PRIMA, a far-infrared telescope mission designed to explore the history and evolution of the universe. This represents a major advancement in observational cosmology and deep-space exploration capabilities."
+    },
+    {
+      "title": "The phoenix planet: Astronomers find a world reborn from its star's ashes",
+      "description": "Astronomers have discovered the first example of a second-generation planet orbiting a white dwarf, a world that appears to have formed from the remains of the dead star it now orbits.",
+      "url": "https://phys.org/news/2026-10-phoenix-planet-astronomers-world-reborn.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 05 Oct 2026 11:00:15 EDT",
+      "category": "Exoplanets",
+      "quality": 5,
+      "summary": "Astronomers discover the first known second-generation planet orbiting a white dwarf, apparently formed from the stellar remnant's material. This remarkable find reveals unexpected planetary formation possibilities in stellar death scenarios."
     },
     {
       "title": "NASA’s Roman telescope just opened its planet-hunting eye",
@@ -20,7 +40,7 @@
       "date": "Fri, 02 Oct 2026 08:21:30 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has successfully demonstrated exceptional pointing stability and activated its powerful planet-imaging coronagraph, marking a major milestone in exoplanet detection."
+      "summary": "NASA's Roman Space Telescope demonstrates exceptional pointing stability and activates its powerful planet-hunting coronagraph. This achievement represents a major step forward in direct exoplanet imaging and characterization."
     },
     {
       "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
@@ -31,7 +51,7 @@
       "image": "https://www.universetoday.com/article_images/ezgif-2df6c5926098d061.jpg_750_20261001_025844.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have captured the first direct image of a protoplanet surrounded by swirling gas, revealing crucial insights into how planets form and where life might emerge beyond Earth."
+      "summary": "Astronomers have captured the first direct image of a protoplanet forming within its surrounding gas disk, advancing our understanding of planetary formation."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -42,7 +62,7 @@
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have identified a new type of object in the early universe represented by tiny red dots, solving a decades-long puzzle and marking one of astronomy's biggest recent discoveries. This finding provides crucial insights into the composition and history of the cosmos."
+      "summary": "Astronomers have identified and begun understanding a new class of mysterious tiny red objects in the early universe, representing a major discovery."
     },
     {
       "title": "NASA 宣布最新遠紅外線望遠鏡 PRIMA 計畫，探索星球形成與材料之謎",
@@ -51,29 +71,9 @@
       "source": "Technews.tw",
       "date": "2026-10-03T16:00:37Z",
       "image": "https://img.technews.tw/wp-content/uploads/2026/09/29171949/374c12cb-8e94-4a6c-95d6-a47ebbddd75d.jpg",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "NASA has selected the PRIMA far-infrared space telescope for advanced development, promising to unlock mysteries of star and planet formation by studying dust clouds and water origins. This mission represents a major breakthrough in understanding fundamental cosmic processes."
-    },
-    {
-      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-      "description": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-      "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-      "source": "NASA",
-      "date": "Mon, 05 Oct 2026 15:00:35 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "New analysis of NASA Hubble archival data reveals evidence of second-generation planets orbiting white dwarf stars, opening exciting possibilities for planetary systems around stellar remnants."
-    },
-    {
-      "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-      "description": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
-      "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-      "source": "NASA",
-      "date": "Sun, 04 Oct 2026 19:10:59 +0000",
       "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's return to the Moon program, featuring Artemis missions, represents humanity's next giant leap with dedicated engineers and scientists contributing to this historic endeavor."
+      "quality": 5,
+      "summary": "NASA announces the PRIMA far-infrared space telescope program selected for development, designed to explore star and planet formation by investigating how stars form in dusty environments and the origins of planetary water. This represents a major advancement in astrophysics research capabilities."
     },
     {
       "title": "Science begins for Smile",
@@ -83,7 +83,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission officially begins its groundbreaking science operations to study Earth's magnetosphere and its interaction with solar wind."
+      "summary": "The European-Chinese Smile mission has been declared ready to begin science operations, studying how Earth's magnetosphere responds to solar wind interactions."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -93,17 +93,17 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures galaxies in extraordinary detail through gravitational lensing effects, revealing distant cosmic structures with unprecedented clarity."
+      "summary": "The James Webb Space Telescope reveals galaxies in unprecedented detail through a cosmic gravitational lensing effect, showcasing the power of modern space-based observations."
     },
     {
-      "title": "BepiColombo’s Mercury arrival begins - full replay",
-      "description": "Video: \n\t\t\t02:31:10\n\t\t\t\t\nWatch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury.\nAfter travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA.\nBroadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. \nLivestream schedule (CEST): \n\n13:45 – Livestream begins \n16:00-16:45 – End of livestream",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
-      "source": "ESA Space Science",
-      "date": "Thu, 03 Sep 2026 17:00:00 +0200",
-      "category": "Missions",
+      "title": "New Simulations Connect the First Galaxies to the Universe We See Today",
+      "description": "In a recent study, researchers at the international MEGATRON project used some of the most detailed simulations of the early Universe to investigate how the first stars and galaxies formed.",
+      "url": "https://www.universetoday.com/articles/new-simulations-connect-the-first-stars-to-cosmic-fingerprints-still-visible-today",
+      "source": "Universe Today",
+      "date": "Mon, 05 Oct 2026 22:33:00 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "BepiColombo, a joint ESA/JAXA mission, has arrived at Mercury to begin its groundbreaking study of the solar system's innermost planet. The mission will provide unprecedented insights into Mercury's geology, magnetic field, and atmospheric composition."
+      "summary": "The MEGATRON project's detailed simulations connect the formation of the first galaxies to the structure of the modern universe, bridging cosmic history."
     },
     {
       "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
@@ -113,7 +113,7 @@
       "date": "Mon, 05 Oct 2026 15:52:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "The Chandra X-ray Observatory reveals new details about the active, energetic region at the Milky Way's center, dominated by the supermassive black hole Sagittarius A*. This high-resolution view shows the dynamic processes occurring in our galaxy's heart."
+      "summary": "The Chandra X-ray Observatory provides a new detailed view of the Milky Way's galactic center, revealing the dynamic environment surrounding Sagittarius A*."
     },
     {
       "title": "Neutrons, Rotating Black Holes, and a Galactic PeVatron at the Center of the Milky Way",
@@ -123,7 +123,7 @@
       "date": "Mon, 05 Oct 2026 15:40:25 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "New research explores how supermassive black holes generate tremendous energy through accretion disks and jets, with evidence suggesting the Milky Way's center may host a galactic PeVatron. This discovery advances understanding of the most energetic phenomena in our galaxy."
+      "summary": "Research reveals how supermassive black holes at the galactic center generate tremendous energy and may function as cosmic particle accelerators called PeVatrons."
     },
     {
       "title": "XRISM Makes First-Ever Detection of a Pulsar Feeding from a Companion's Stellar \"Wind\"",
@@ -133,47 +133,17 @@
       "date": "Sun, 04 Oct 2026 21:54:36 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The XRISM observatory has made the first direct observation of stellar wind from a giant star being captured by a pulsar companion. This discovery reveals new insights into stellar interactions in binary star systems."
+      "summary": "The XRISM observatory makes the first direct observation of a pulsar capturing stellar wind from a companion star, revealing new insights into extreme astrophysical systems."
     },
     {
-      "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
-      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program.",
-      "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
-      "source": "Universe Today",
-      "date": "Thu, 01 Oct 2026 22:09:16 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA has selected the PRIMA far-infrared telescope mission to explore the history and evolution of the universe. This innovative observatory will peer into the cosmos to understand how galaxies, stars, and planets formed and evolved."
-    },
-    {
-      "title": "The phoenix planet: Astronomers find a world reborn from its star's ashes",
-      "description": "Astronomers have discovered the first example of a second-generation planet orbiting a white dwarf, a world that appears to have formed from the remains of the dead star it now orbits.",
-      "url": "https://phys.org/news/2026-10-phoenix-planet-astronomers-world-reborn.html",
+      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+      "description": "Like Earth, most planetary bodies circle their star in stable, detached orbits. These companionable systems can suddenly change when a planet comes too close to its star. In such a close encounter, a star can pull the planet in and swallow it whole.",
+      "url": "https://phys.org/news/2026-10-astronomers-star-slowly-snacking-brown.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 05 Oct 2026 11:00:15 EDT",
-      "category": "Exoplanets",
+      "date": "Mon, 05 Oct 2026 16:40:16 EDT",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers have discovered the first known second-generation planet orbiting a white dwarf, a world that appears to have been reborn from its star's stellar material. This remarkable find challenges conventional understanding of planetary survival and formation."
-    },
-    {
-      "title": "Hidden X-ray phase revealed in likely neutron star merger",
-      "description": "An international team of astronomers, including researchers from the Department of Physics and the Hong Kong Institute for Astronomy and Astrophysics (HKIAA) at The University of Hong Kong (HKU), has discovered a previously hidden phase of high-energy activity following the merger of compact stars.",
-      "url": "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sun, 04 Oct 2026 13:00:02 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "An international team of astronomers has revealed previously hidden X-ray emission from what appears to be a neutron star merger. This discovery provides new insights into the aftermath of cosmic collisions and extreme matter states."
-    },
-    {
-      "title": "How Enceladus' ocean spray becomes chemically diverse ice grains",
-      "description": "Saturn's icy moon Enceladus hides a global ocean beneath its frozen surface. From fractures near its south pole, material from this ocean is ejected into space as a plume of water vapor and ice particles. These particles offer scientists a rare opportunity to investigate an extraterrestrial ocean without drilling through kilometers of ice.",
-      "url": "https://phys.org/news/2026-09-enceladus-ocean-spray-chemically-diverse.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sun, 04 Oct 2026 12:00:01 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Saturn's moon Enceladus reveals chemically diverse ice grains ejected from its subsurface ocean through south polar fractures, providing insights into the composition of this potentially habitable world."
+      "summary": "Astronomers observe a star gradually consuming a brown dwarf 300 light-years away, providing rare direct evidence of stellar cannibalism. This discovery illuminates the dynamic interactions possible within binary systems."
     },
     {
       "title": "This mysterious hole on the Moon may open into a giant cave",
@@ -183,7 +153,7 @@
       "date": "Mon, 05 Oct 2026 00:47:40 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's GIMLI project will investigate whether the Marius Hill Pit on the Moon opens into a vast underground cave or lava tube, potentially revealing subsurface lunar geology."
+      "summary": "NASA selects the GIMLI project to investigate the Marius Hill Pit and determine if it opens into a vast underground lunar cave. This mission promises groundbreaking discoveries about the Moon's subsurface geology."
     },
     {
       "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
@@ -193,7 +163,7 @@
       "date": "Sun, 04 Oct 2026 08:05:54 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Researchers propose that tiny magnetic fields created shortly after the Big Bang may help resolve the long-standing discrepancy in measurements of the universe's expansion rate."
+      "summary": "Scientists identify tiny magnetic fields created after the Big Bang as a potential explanation for discrepancies in universe expansion measurements. This breakthrough may resolve a major puzzle in cosmological physics."
     },
     {
       "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
@@ -203,7 +173,7 @@
       "date": "Sat, 03 Oct 2026 09:34:11 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Juice spacecraft successfully performed a gravity assist maneuver around Earth on September 28, using our planet's gravitational pull to reshape its trajectory toward Jupiter."
+      "summary": "ESA's Juice spacecraft successfully uses Earth's gravity as a slingshot to reshape its trajectory toward Jupiter. This successful maneuver marks a critical milestone in one of humanity's most ambitious planetary exploration missions."
     },
     {
       "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
@@ -211,9 +181,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Sat, 03 Oct 2026 09:12:14 EDT",
-      "category": "Missions",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Analysis of Chang'e-6 lunar soil samples has uncovered a previously unknown magnetic mineral, serving as a magnetic time capsule that reveals the Moon's ancient history."
+      "summary": "Analysis of Chang'e-6 lunar samples reveals a previously unknown magnetic mineral, serving as a magnetic time capsule of the Moon's history. This discovery deepens our understanding of lunar geological processes."
     },
     {
       "title": "Powerful simulations reveal how the first stars changed the universe",
@@ -223,7 +193,7 @@
       "date": "Sat, 03 Oct 2026 08:50:57 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Advanced simulations demonstrate how the first stars illuminated the early dark universe and dispersed heavy elements necessary for the formation of planets and life."
+      "summary": "Advanced simulations reveal how the first stars illuminated the dark universe and distributed essential elements throughout space. This research profoundly enhances our understanding of cosmic evolution and structure formation."
     },
     {
       "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
@@ -234,7 +204,18 @@
       "image": null,
       "category": "Astronomy",
       "quality": 4,
-      "summary": "China's FAST telescope, one of the world's largest radio telescopes, marks its 10th anniversary and advances into Phase II construction to enhance its scientific capabilities. This achievement demonstrates the power of international astronomical infrastructure in exploring the universe."
+      "summary": "China's FAST radio telescope, the world's largest spherical aperture, advances to Phase II construction while celebrating its 10th anniversary."
+    },
+    {
+      "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
+      "description": "SpaceX has plenty left to test on Starship, from refueling to docking in orbit, and NASA is counting on it to finish in time for a much bigger assignment.",
+      "url": "https://www.bgr.com/2272135/why-spacex-starship-needs-to-be-operational-2028/",
+      "source": "BGR",
+      "date": "2026-10-04T19:17:00Z",
+      "image": "https://www.bgr.com/img/gallery/spacexs-starship-needs-to-be-fully-operational-by-2028-heres-why/l-intro-1790699220.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship must reach full operational capability by 2028 to support NASA's lunar mission timeline, with critical testing phases remaining."
     },
     {
       "title": "New space race: Superpowers look to set up N-reactors on the Moon",
@@ -245,37 +226,51 @@
       "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/04/thumb/fitandfill/1200X628/1791134832-4796.jpg",
       "category": "Futurism",
       "quality": 4,
-      "summary": "The US, China, and Russia are competing to deploy nuclear reactors on the Moon to power future lunar bases, representing a major technological advancement in space exploration. This development opens exciting possibilities for sustained human presence beyond Earth."
+      "summary": "The US, China, and Russia are competing to deploy nuclear reactors on the Moon to power sustainable lunar bases."
     },
     {
-      "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-      "description": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M104: The […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
-      "source": "NASA",
-      "date": "Mon, 05 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "The iconic Sombrero Galaxy's tidal streams are revealed in stunning detail, showcasing the dynamic gravitational interactions shaping this magnificent spiral galaxy."
+      "title": "From a remote Texas base, SpaceX's launch shows Louisiana what to expect. 'See the future.'",
+      "description": "SpaceX's Starship — a 40-story, two-stage behemoth, the largest and most powerful rocket ever flown — climbed over the Gulf as hundreds watched. Here’s what the scene was like in Texas as Musk’s Vermilion Parish spaceport begins to come to life.",
+      "url": "https://www.theadvocate.com/baton_rouge/news/business/spacex-rocket-louisiana-texas-elon-musk-starbase/article_785144b1-289b-59ae-b7b4-ffc52be49463.html",
+      "source": "The Advocate",
+      "date": "2026-10-04T09:00:00Z",
+      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/85/785144b1-289b-59ae-b7b4-ffc52be49463/6ac119ab3d3fe.preview.jpg?crop=1843%2C968%2C0%2C78&resize=1200%2C630&order=crop%2Cresize",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship, the largest and most powerful rocket ever flown at 40 stories tall, successfully launched from a Texas base, demonstrating the future of heavy-lift launch capability. The achievement showcases humanity's progress toward ambitious space exploration goals."
     },
     {
-      "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-      "description": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-      "source": "NASA",
-      "date": "Sun, 04 Oct 2026 21:13:07 +0000",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "The Curiosity rover continues its groundbreaking exploration of Mars, uncovering fascinating geological features and advancing our understanding of the Red Planet's composition."
+      "title": "Is SpaceX's Starship The Most Powerful Rocket Ever Built?",
+      "description": "SpaceX fitted Starship's first-stage booster with 33 engines, enough to make you wonder how it compares with the most powerful rockets humans have ever built.",
+      "url": "https://www.bgr.com/2270727/spacex-starship-most-powerful-rocket-ever-built/",
+      "source": "BGR",
+      "date": "2026-10-03T12:47:00Z",
+      "image": "https://www.bgr.com/img/gallery/is-spacexs-starship-the-most-powerful-rocket-ever-built/l-intro-1790608389.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship features 33 engines on its first-stage booster, making it among the most powerful rockets ever constructed. This engineering achievement represents a major milestone in rocket development and deep-space exploration capability."
     },
     {
-      "title": "Happy New Year on Mars",
-      "description": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-      "source": "ESA Space Science",
-      "date": "Wed, 30 Sep 2026 08:00:00 +0200",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "Mars completes another orbital cycle as it enters a new Martian year, marking another milestone in humanity's ongoing exploration and study of the Red Planet."
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "description": "Welcome to Edition 9.13 of the Rocket Report!\nThis week, SpaceX celebrated the first orbital launch of its new Starship rocket. I’m not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reache…",
+      "url": "https://biztoc.com/x/5f9a22fac96e1da9",
+      "source": "Biztoc.com",
+      "date": "2026-10-02T16:28:27Z",
+      "image": "https://biztoc.com/cdn/5f9a22fac96e1da9_s.webp",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX completed a triple-header launch series and achieved the first orbital launch of a new Starship variant, while Rocket Lab secured a major contract. The report highlights accelerating progress in commercial spaceflight operations."
+    },
+    {
+      "title": "Strange Galaxy Pattern Has Scientists Wondering If Our Entire Cosmos Could Be Inside A Black Hole",
+      "description": "The universe may be 13.8 billion years old, but there’s still plenty we don’t understand about the cosmos. A researcher analyzing observations from the James Webb Space Telescope has spotted a puzzling pattern in how distant galaxies rotate. The finding has r…",
+      "url": "https://www.boredpanda.com/universe-black-hole-discovery/",
+      "source": "Boredpanda.com",
+      "date": "2026-10-02T13:14:02Z",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/universe-black-hole-discovery-fb.jpg",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Researchers have discovered unusual galaxy patterns that prompt exploration of whether our entire universe could exist within a black hole, offering a fascinating new perspective on cosmic structure. This theoretical investigation deepens our understanding of cosmological possibilities."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -285,27 +280,37 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 3,
-      "summary": "The European Space Agency's Jupiter Icy Moons Explorer (Juice) successfully completes an Earth gravity assist maneuver to refine its trajectory toward Jupiter."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully executed an Earth flyby gravity assist maneuver to refine its trajectory toward Jupiter."
     },
     {
-      "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury ",
-      "description": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! \nENTRY FORM  \nFull rules and how to enter below.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury",
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
       "source": "ESA Space Science",
-      "date": "Thu, 24 Sep 2026 15:00:00 +0200",
-      "category": "Missions",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
+      "category": "Astronomy",
       "quality": 3,
-      "summary": "The ESA invites the public to celebrate BepiColombo's historic arrival at Mercury with creative submissions, making space exploration accessible to global audiences."
+      "summary": "The Hubble Space Telescope captures a spiral galaxy that exhibits unusual rotational dynamics, revealing unexpected complexity in galactic structure."
     },
     {
-      "title": "Juice to fly past Earth for third gravity assist",
-      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
-      "source": "ESA Space Science",
-      "date": "Mon, 21 Sep 2026 16:00:00 +0200",
-      "category": "Missions",
+      "title": "X-Rays and AI Reveal How Spacecraft Heat Shields Burn in Real Time",
+      "description": "Heat shields are undeniably one of the most important parts of any spacecraft that intends to enter an atmosphere. And the material they are made out of is absolutely critical. Improving them has been a bit of a challenge though, as typically researchers only get “before” and “after” pictures of when the heat shield completes its job of helping a spacecraft land safely back on Earth. That changed recently, though, with a collaboration between NASA and the Advanced Light Source (ALS) located at Lawrence Berkeley National Laboratory, which allowed researchers to watch a heat shield fall apart in real time.",
+      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
+      "source": "Universe Today",
+      "date": "Mon, 05 Oct 2026 10:02:19 +0000",
+      "category": "Futurism",
       "quality": 3,
-      "summary": "The Jupiter Icy Moons Explorer (Juice) will perform its third Earth gravity assist maneuver to optimize its trajectory toward the Jupiter system."
+      "summary": "Researchers use X-rays and artificial intelligence to study how spacecraft heat shields perform in real-time during atmospheric entry, advancing spacecraft technology."
+    },
+    {
+      "title": "Asteroid Bennu Has an Identity Crisis, and Jupiter Might Be to Blame",
+      "description": "Asteroid sample return missions have brought well preserved samples of the early solar system (that hadn’t been roasted in a fireball) back to Earth for the first time. But those samples, like the OSIRIS-REx sample from asteroid (101955) Bennu, sometimes provide more questions than answers. A new paper, published in Science Advances from researchers at ETH Zurich and Lawrence Livermore National Laboratory, highlights one of those questions - why Bennu appears to have been born in both the inner and outer solar system - and a possible answer to it.",
+      "url": "https://www.universetoday.com/articles/asteroid-bennu-has-an-identity-crisis-and-jupiter-might-be-to-blame",
+      "source": "Universe Today",
+      "date": "Fri, 02 Oct 2026 10:00:00 +0000",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "Analysis of asteroid Bennu samples suggests Jupiter's gravitational influence may have altered the asteroid's composition and orbital history in the early solar system."
     }
   ]
 }
