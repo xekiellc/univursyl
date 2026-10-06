@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T13:10:31.350Z",
+  "generated": "2026-10-06T19:24:28.147Z",
   "count": 30,
   "articles": [
     {
@@ -10,17 +10,27 @@
       "date": "Mon, 05 Oct 2026 22:33:00 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The MEGATRON project's detailed simulations successfully connect the first galaxies to the present-day universe. This breakthrough advances our understanding of cosmic evolution over billions of years."
+      "summary": "The MEGATRON project's advanced simulations connect the formation of the first galaxies to the structure of the universe we observe today. This breakthrough provides crucial insights into cosmic evolution over billions of years."
     },
     {
-      "title": "The phoenix planet: Astronomers find a world reborn from its star's ashes",
-      "description": "Astronomers have discovered the first example of a second-generation planet orbiting a white dwarf, a world that appears to have formed from the remains of the dead star it now orbits.",
-      "url": "https://phys.org/news/2026-10-phoenix-planet-astronomers-world-reborn.html",
+      "title": "A gamma-ray burst's engine stayed active for nearly a month, breaking the previous record",
+      "description": "Astronomers have observed the longest-lasting central engine activity ever recorded from a gamma-ray burst. The burst occurred at a redshift of 0.8577, and the activity lasted about 27 days in the burst's own rest frame—around 20 days longer than the previous record. The paper, posted to the arXiv preprint server on Sept. 18, explores different mechanisms that could be powering this puzzling burst.",
+      "url": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 05 Oct 2026 11:00:15 EDT",
-      "category": "Exoplanets",
+      "date": "Tue, 06 Oct 2026 13:20:14 EDT",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "Astronomers discover the first second-generation planet orbiting a white dwarf, representing a world reborn from stellar remnants. This extraordinary finding revolutionizes our understanding of planetary formation and longevity."
+      "summary": "Astronomers have observed a record-breaking gamma-ray burst whose central engine remained active for nearly a month, shattering previous duration records and revealing new physics about these violent phenomena."
+    },
+    {
+      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
+      "description": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 06 Oct 2026 08:04:50 EDT",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "CERN physicists have captured the clearest evidence yet that quarks form waves in quark-gluon plasma, the primordial soup that existed immediately after the Big Bang."
     },
     {
       "title": "NASA’s Roman telescope just opened its planet-hunting eye",
@@ -30,7 +40,7 @@
       "date": "Fri, 02 Oct 2026 08:21:30 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Roman Space Telescope has demonstrated exceptional pointing stability and activated its powerful planet-imaging coronagraph. This landmark achievement brings the mission closer to discovering and characterizing exoplanets."
+      "summary": "NASA's Roman Space Telescope has demonstrated exceptional pointing stability and unveiled its powerful planet-imaging coronagraph capabilities, marking a major milestone for exoplanet discovery."
     },
     {
       "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
@@ -41,7 +51,7 @@
       "image": "https://www.universetoday.com/article_images/ezgif-2df6c5926098d061.jpg_750_20261001_025844.jpg",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have captured the first direct image of a protoplanet surrounded by swirling gas, offering unprecedented insights into planetary formation. This discovery illuminates how planets develop and where habitable worlds might form."
+      "summary": "Astronomers have captured the first direct image of a protoplanet surrounded by swirling gas, advancing understanding of planetary formation. This discovery enhances knowledge of where and how life might exist beyond Earth."
     },
     {
       "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
@@ -50,39 +60,42 @@
       "source": "Gizmodo.com",
       "date": "2026-09-25T11:15:37Z",
       "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
-      "category": "Astronomy",
+      "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have identified a new class of mysterious objects in the early universe, solving a decade-long puzzle that represents one of the field's most significant discoveries."
+      "summary": "Astronomers have identified a new class of mysterious red objects in the early universe, representing one of the biggest astronomical discoveries in decades. After years of puzzlement, researchers are gaining insights into these intriguing cosmic structures."
     },
     {
-      "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-      "description": "APOD Science APOD APOD: 2026 October 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ESA, CAS, […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
-      "source": "NASA",
-      "date": "Tue, 06 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "SMILE satellite captures a complete auroral oval, offering unprecedented views of Earth's magnetic interaction with the solar wind. This represents a significant advancement in understanding auroral phenomena and space weather."
+      "title": "SpaceX Just Proved Rocket Reuse Works Better Than Anyone Expected",
+      "description": "Putting things into outer space is expensive, that's why reusable rocket boosters have been the dream for decades, and SpaceX is making it work.",
+      "url": "https://www.bgr.com/2273946/spacex-falcon-9-rocket-booster-reuse-37th-time/",
+      "source": "BGR",
+      "date": "2026-10-05T17:17:00Z",
+      "image": "https://www.bgr.com/img/gallery/spacex-just-proved-rocket-reuse-works-better-than-anyone-expected/l-intro-1790703216.jpg",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX has proven that reusable rocket boosters work better than expected, revolutionizing space launch economics. This breakthrough validates decades of engineering pursuit for affordable, sustainable spaceflight."
     },
     {
-      "title": "A Journey to the Depths of Ancient Mars?",
-      "description": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
-      "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
-      "source": "NASA",
-      "date": "Tue, 06 Oct 2026 00:48:54 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Research explores the possibility of discovering subsurface water and ancient microbial life in Mars' deep past, expanding our understanding of the Red Planet's potential for past habitability."
+      "title": "From a remote Texas base, SpaceX's launch shows Louisiana what to expect. 'See the future.'",
+      "description": "SpaceX's Starship — a 40-story, two-stage behemoth, the largest and most powerful rocket ever flown — climbed over the Gulf as hundreds watched. Here’s what the scene was like in Texas as Musk’s Vermilion Parish spaceport begins to come to life.",
+      "url": "https://www.theadvocate.com/baton_rouge/news/business/spacex-rocket-louisiana-texas-elon-musk-starbase/article_785144b1-289b-59ae-b7b4-ffc52be49463.html",
+      "source": "The Advocate",
+      "date": "2026-10-04T09:00:00Z",
+      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/85/785144b1-289b-59ae-b7b4-ffc52be49463/6ac119ab3d3fe.preview.jpg?crop=1843%2C968%2C0%2C78&resize=1200%2C630&order=crop%2Cresize",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX's Starship, a 40-story two-stage mega-rocket, continues advancing as the most powerful rocket ever flown. The vehicle represents humanity's future capability for deep space exploration and beyond."
     },
     {
-      "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-      "description": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-      "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-      "source": "NASA",
-      "date": "Mon, 05 Oct 2026 15:00:35 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Hubble Space Telescope archival data reveals evidence of second-generation planets orbiting white dwarf stars, opening new possibilities for understanding planetary formation and survival around stellar remnants."
+      "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
+      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics …",
+      "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
+      "source": "Universe Today",
+      "date": "2026-10-01T22:09:16Z",
+      "image": "https://www.universetoday.com/article_images/NASA-Selects-PRIMAa_20261001_211502.jpg",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA selected PRIMA (PRobe far-Infrared Mission) to explore the history and evolution of the universe using far-infrared observations. This landmark mission will unveil previously hidden cosmic phenomena."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -90,9 +103,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
       "source": "ESA Space Science",
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures stunning images of stellar jets and dynamic activity within a nebula, revealing the violent and creative processes of star formation in unprecedented detail."
+      "summary": "The James Webb Space Telescope captures detailed imagery of stellar jets erupting from a nebula, revealing dynamic cosmic phenomena. This observation showcases Webb's ability to study star formation and the energetic processes within stellar nurseries."
     },
     {
       "title": "Science begins for Smile",
@@ -102,7 +115,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese SMILE mission begins its scientific observations, ready to investigate how Earth's magnetosphere responds to solar wind interactions. This collaborative effort marks a major milestone in space weather research."
+      "summary": "The Smile mission, a joint European-Chinese effort, has begun its science operations studying Earth's interaction with solar wind. This landmark mission will provide unprecedented insights into magnetospheric dynamics and space weather."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -112,7 +125,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals galaxies in extraordinary detail through gravitational lensing, demonstrating the power of cosmic magnification to study distant galaxies and early universe formation."
+      "summary": "The James Webb Space Telescope reveals intricate details of distant galaxies through gravitational lensing effects. This Picture of the Month demonstrates Webb's extraordinary capability to study galaxy structure and formation."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -122,7 +135,7 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European Space Agency's JUICE spacecraft successfully performs an Earth gravity assist maneuver, precisely adjusting its trajectory toward Jupiter and its fascinating icy moons. This demonstrates the success of complex interplanetary navigation."
+      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully completed a gravity assist maneuver around Earth, refining its trajectory toward Jupiter. This pivotal flyby brings the mission closer to exploring the Jovian system's icy moons."
     },
     {
       "title": "A Buried Volcano on the Moon Hints At An Ancient Lunar Dynamo",
@@ -132,7 +145,7 @@
       "date": "Tue, 06 Oct 2026 10:12:28 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover evidence of an ancient lunar magnetic field through analysis of a buried volcano on the Moon. This discovery provides new insights into the Moon's early history and geological evolution."
+      "summary": "Scientists discover evidence of a buried lunar volcano that hints at an ancient magnetic field protecting the Moon's surface. This finding revolutionizes our understanding of the Moon's early geological and magnetic history."
     },
     {
       "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
@@ -142,7 +155,7 @@
       "date": "Mon, 05 Oct 2026 15:52:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "The Chandra X-ray Observatory reveals a new perspective of the Milky Way's core and its supermassive black hole Sagittarius A*. This observation illuminates the dynamic processes at the heart of our galaxy."
+      "summary": "The Chandra X-ray Observatory reveals new details about Sagittarius A*, the supermassive black hole at the center of the Milky Way. These observations illuminate the dynamic and energetic processes occurring at the galactic core."
     },
     {
       "title": "Neutrons, Rotating Black Holes, and a Galactic PeVatron at the Center of the Milky Way",
@@ -152,7 +165,7 @@
       "date": "Mon, 05 Oct 2026 15:40:25 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Research explores how supermassive black holes generate energy through accretion and jets, with new findings about high-energy particles at the Galactic Center. This study deepens our understanding of extreme cosmic phenomena."
+      "summary": "Research reveals how supermassive black holes generate extreme energy and particle acceleration, creating galactic PeVatrons at the Milky Way's center. This study enhances our understanding of the universe's most powerful cosmic engines."
     },
     {
       "title": "XRISM Makes First-Ever Detection of a Pulsar Feeding from a Companion's Stellar \"Wind\"",
@@ -160,9 +173,39 @@
       "url": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
       "source": "Universe Today",
       "date": "Sun, 04 Oct 2026 21:54:36 +0000",
-      "category": "Missions",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The XRISM observatory makes a groundbreaking detection of a pulsar capturing stellar wind from a companion star. This first-ever observation opens new avenues for understanding pulsar behavior and stellar interactions."
+      "summary": "Japan's XRISM observatory has made the first direct observation of a pulsar feeding on stellar wind from a companion star, advancing our understanding of these exotic cosmic systems."
+    },
+    {
+      "title": "Webb captures commotion from nebula's stellar jets",
+      "description": "The NASA/ESA/CSA James Webb Space Telescope has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129—a cauldron of cosmic creation, 3,300 light-years from Earth. Webb captured infrared light, which pierces through the dense matter that scatters or absorbs other types of light. This region, rife with stellar objects in different stages of their lives, offers an opportunity to explore how stars shape their surroundings.",
+      "url": "https://phys.org/news/2026-10-webb-captures-commotion-nebula-stellar.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 06 Oct 2026 13:40:01 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope has revealed previously hidden stars within a stellar nursery by penetrating dust clouds and capturing the dynamic jets of stellar formation in unprecedented detail."
+    },
+    {
+      "title": "Striking new images of unique supernova remnant reveal pearl-like chains",
+      "description": "The only known supernova remnant of its kind in the Milky Way has an unexpectedly intricate structure: chains of gas knots resembling pearls on a string, each wide enough to fit the solar system multiple times. Using the Gemini North telescope, an international team co-led by Ilaria Caiazzo, assistant professor at the Institute of Science and Technology Austria (ISTA), captured the most detailed view yet of Pa 30, revealing striking new features of the remnant associated with a historical supernova witnessed nearly 850 years ago. The findings are published in The Astrophysical Journal.",
+      "url": "https://phys.org/news/2026-10-images-unique-supernova-remnant-reveal.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 06 Oct 2026 12:00:18 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Striking new observations reveal the Milky Way's only known supernova remnant of its unique type features an unexpectedly intricate structure of pearl-like gas chains."
+    },
+    {
+      "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields an answer",
+      "description": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. This is not universally true, as explosions, collisions and other dangers lurk in other places and times.",
+      "url": "https://phys.org/news/2026-10-life-cosmos-universe-supercomputer-yields.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 06 Oct 2026 10:40:29 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Supercomputer simulations of the universe identify the most favorable cosmic locations for life to flourish, expanding our perspective on habitability across the cosmos."
     },
     {
       "title": "This mysterious hole on the Moon may open into a giant cave",
@@ -172,7 +215,7 @@
       "date": "Mon, 05 Oct 2026 00:47:40 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "NASA's GIMLI project has been selected to investigate whether the Marius Hill Pit on the Moon opens into a vast underground cave or lava tube. This discovery could reveal hidden lunar geology and potential resources."
+      "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit on the Moon opens into a vast underground cave, potentially revealing lunar geology and habitability."
     },
     {
       "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
@@ -182,7 +225,7 @@
       "date": "Sun, 04 Oct 2026 08:05:54 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists propose that tiny magnetic fields created shortly after the Big Bang may explain the long-running disagreement over the universe's expansion rate. This breakthrough could resolve one of cosmology's greatest puzzles."
+      "summary": "New research suggests that tiny magnetic fields created shortly after the Big Bang may help resolve the long-standing disagreement about the universe's expansion rate."
     },
     {
       "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
@@ -192,7 +235,7 @@
       "date": "Sat, 03 Oct 2026 09:34:11 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Juice spacecraft successfully used Earth's gravity as a slingshot on September 28 to reshape its trajectory toward Jupiter. This maneuver marks a critical milestone in the mission's journey to explore Jupiter's moons."
+      "summary": "ESA's Juice spacecraft successfully performed a gravitational slingshot maneuver around Earth on September 28, reshaping its trajectory toward Jupiter for its groundbreaking mission."
     },
     {
       "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
@@ -202,28 +245,29 @@
       "date": "Sat, 03 Oct 2026 09:12:14 EDT",
       "category": "Missions",
       "quality": 4,
-      "summary": "Scientists analyzing Chang'e-6 lunar samples have discovered a previously unknown magnetic mineral in Moon soil, revealing surprising insights into the Moon's magnetic history. This find expands our understanding of lunar geology."
+      "summary": "Analysis of Chang'e-6 lunar samples has revealed a previously unknown magnetic mineral, providing a time capsule of the Moon's ancient magnetic history and geological evolution."
     },
     {
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "description": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest galaxies with chemical clues preserved in ancient stars today.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 03 Oct 2026 08:50:57 EDT",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Ultra-detailed simulations reveal how the first stars illuminated the early universe and seeded space with heavy elements necessary for life. This breakthrough helps explain the cosmic origins of matter itself."
-    },
-    {
-      "title": "China's FAST telescope to advance with Phase II construction as project marks 10th anniversary",
-      "description": "The Five-hundred-meter Aperture Spherical Radio Telescope (FAST), known as the China's \"Sky Eyes\", will mark the 10th anniversary of its inauguration on September 25. Since its launch, the facility has achieved a series of landmark scientific and technologica…",
-      "url": "https://www.globalsecurity.org/space/library/news/2026/space-260923-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "date": "2026-09-23T12:00:00Z",
-      "image": null,
+      "title": "STARMUS FESTIVAL COFOUNDERS SIR BRIAN MAY AND GARIK ISRAELIAN PRESENTED PROFESSOR BRIAN COX WITH THE 2026 STEPHEN HAWKING MEDAL FOR SCIENCE COMMUNICATION",
+      "description": "LONDON, Oct. 5, 2026 /PRNewswire/ -- On October 2nd, At the Royal Astronomical Society in London, Starmus Festival cofounders Sir Brian May and Garik Israelian awarded Professor Brian Cox the prestigious 2026 Stephen Hawking Medal for Science Communication, r…",
+      "url": "https://www.prnewswire.com/news-releases/starmus-festival-cofounders-sir-brian-may-and-garik-israelian-presented-professor-brian-cox-with-the-2026-stephen-hawking-medal-for-science-communication-302898768.html",
+      "source": "PRNewswire",
+      "date": "2026-10-05T18:36:00Z",
+      "image": "https://mmx.prnewswire.com/media/MS2002367/Starmus-announces.jpg?id=OA2988131&p=facebook",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "China's FAST radio telescope, the world's largest single-aperture facility, advances to Phase II construction as it celebrates its 10th anniversary of groundbreaking astronomical observations."
+      "summary": "Professor Brian Cox received the 2026 Stephen Hawking Medal for Science Communication at the Royal Astronomical Society, presented by Starmus Festival cofounders Sir Brian May and Garik Israelian. The award honors outstanding contributions to communicating space science to the public."
+    },
+    {
+      "title": "SpaceX a envoyé quatre astronautes à bord de l’ISS en moins de 8 heures : le trajet le plus rapide jamais réalisé par un équipage américain",
+      "description": "Sept heures et cinquante-cinq minutes. C'est le temps qu'il a fallu à quatre astronautes pour rallier l'ISS à bord d'un Crew Dragon, battant largement le précédent record américain, et enterrant au passage l'une des plus tenaces superstitions de la NASA.",
+      "url": "https://www.journaldugeek.com/2026/10/05/spacex-envoye-quatre-astronautes-liss-moins-8-heures-trajet-plus-rapide-realise-equipage-americain/",
+      "source": "Journal du geek",
+      "date": "2026-10-05T16:02:04Z",
+      "image": "https://www.journaldugeek.com/app/uploads/2026/10/Decollage-SpaceX-1600x900.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX transported four astronauts to the International Space Station in 7 hours and 55 minutes, achieving the fastest crewed journey to the ISS in American spaceflight history. This milestone demonstrates SpaceX's advancing capabilities for rapid human spaceflight operations."
     },
     {
       "title": "Η NASA ψάχνει για κρυφό γιγάντιο σπήλαιο κάτω από τη Σελήνη – Η «τρύπα» που μπορεί να κρύβει έναν τεράστιο υπόγειο κόσμο",
@@ -234,29 +278,18 @@
       "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/marius_hills_pit.jpg?itok=fO-mcE5u",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA is searching for massive lunar caves beneath the Moon's surface using radar, seismic sensors, and cameras to explore potential underground habitats for future exploration."
+      "summary": "NASA is searching for hidden giant caves beneath the lunar surface using radar, seismic sensors, and advanced imaging technology. Discovery of subsurface voids could reveal a vast underground environment and support future lunar exploration and habitation."
     },
     {
-      "title": "NASA spacecraft gains 3.5 km/s speed from Earth’s gravity assist without major engine burn",
-      "description": "On September 28, 2026, Juice, the Jupiter Icy Moons Explorer, accomplished a successful gravity assist flyby of Earth. This maneuver was pivotal in adjusting the spacecraft's trajectory and significantly boosting its speed without the need for extensive engin…",
-      "url": "https://timesofindia.indiatimes.com/science/space/esas-juice-spacecraft-flew-just-8640-km-above-earth-and-used-the-planets-gravity-to-gain-3-5-km/s-and-turn-20-degrees-the-fuel-saving-manoeuvre-keeps-it-on-course-to-reach-jupiter-in-2031/articleshow/134688278.cms",
-      "source": "The Times of India",
-      "date": "2026-10-05T07:00:12Z",
-      "image": "https://static.toiimg.com/thumb/msid-134688667,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's Juice spacecraft successfully completed a gravity assist maneuver around Earth on September 28, 2026, gaining 3.5 km/s velocity without requiring a major engine burn."
-    },
-    {
-      "title": "NASA готовит новый класс космических миссий — телескоп PRIMA изучит далекую Вселенную",
-      "description": "NASA перевела миссию PRIMA (PRobe far-Infrared Mission for Astrophysics) на новый этап разработки, в рамках которого продолжатся проектирование аппарата и создание необходимых технологий.",
-      "url": "https://www.ixbt.com/news/2026/10/05/440246-nasa-gotovit-novyi-klass-kosmiceskix-missii-teleskop-prima-izucit-dalekuiu-vselennuiu.html",
-      "source": "Ixbt.com",
-      "date": "2026-10-05T04:15:47Z",
-      "image": "https://media.ixbt.com/1600x900/smart/jpeg/ixbt-data/1380555/media-27f17b53af8e16da240a947b553b07007dae431ab2a665c4c90b316297482d7a.png",
+      "title": "Le jet supersonique silencieux X-59 n’avait jamais volé aussi vite ni aussi souvent",
+      "description": "Le X-59, l'avion supersonique « silencieux » de la NASA, a atteint Mach 1,53 lors d'un vol d'essai fin septembre 2026. Il n'avait jamais volé aussi vite, et il a aussi enchaîné six vols en une seule semaine, un autre record pour l'appareil.",
+      "url": "https://www.numerama.com/sciences/2346393-nasa-x-59-un-record-de-vitesse-a-mach-153-et-un-record-de-cadence-lors-dune-semaine-dessais-intense.html",
+      "source": "Numerama",
+      "date": "2026-10-05T09:25:00Z",
+      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/08/x-59.jpg?resize=1600,900&key=8dd7c52d",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's PRIMA far-infrared mission telescope advances to a new development phase, positioning itself to study the distant universe and unlock mysteries of early cosmic structures."
+      "summary": "NASA's X-59 experimental aircraft achieved Mach 1.53 in late September 2026, demonstrating advances in supersonic flight technology. This milestone represents progress toward quiet supersonic travel."
     },
     {
       "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
@@ -267,47 +300,18 @@
       "image": "https://www.bgr.com/img/gallery/spacexs-starship-needs-to-be-fully-operational-by-2028-heres-why/l-intro-1790699220.jpg",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX's Starship must achieve full operational status by 2028 to support NASA's lunar missions, with remaining tests including orbital refueling and docking maneuvers."
+      "summary": "SpaceX's Starship is progressing through critical testing phases and must achieve full operational status by 2028 for NASA's lunar missions. The vehicle continues advancing through orbital refueling and docking demonstrations."
     },
     {
-      "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
-      "description": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/",
-      "source": "NASA",
-      "date": "Tue, 06 Oct 2026 01:04:01 +0000",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "NASA's Curiosity rover continues its scientific investigations on Mars, conducting laboratory analyses that advance our understanding of Martian geology and habitability. The rover remains productive in its extended mission on the Red Planet."
-    },
-    {
-      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-      "description": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "source": "NASA",
-      "date": "Mon, 05 Oct 2026 21:44:40 +0000",
+      "title": "Is SpaceX's Starship The Most Powerful Rocket Ever Built?",
+      "description": "SpaceX fitted Starship's first-stage booster with 33 engines, enough to make you wonder how it compares with the most powerful rockets humans have ever built.",
+      "url": "https://www.bgr.com/2270727/spacex-starship-most-powerful-rocket-ever-built/",
+      "source": "BGR",
+      "date": "2026-10-03T12:47:00Z",
+      "image": "https://www.bgr.com/img/gallery/is-spacexs-starship-the-most-powerful-rocket-ever-built/l-intro-1790608389.jpg",
       "category": "SpaceX",
-      "quality": 3,
-      "summary": "NASA and SpaceX are preparing to stream the live return and splashdown of Crew-12, showcasing the success of commercial human spaceflight operations and advancing partnership between government and private space industries."
-    },
-    {
-      "title": "Happy New Year on Mars",
-      "description": "30 September 2026 marks the start of a new year on Mars. At exactly 10:16 CEST/08:16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-      "source": "ESA Space Science",
-      "date": "Wed, 30 Sep 2026 08:00:00 +0200",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "Mars celebrates a new year in its orbital cycle, marking another fascinating milestone in humanity's ongoing exploration and study of the Red Planet's climate and seasons."
-    },
-    {
-      "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury ",
-      "description": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! \nENTRY FORM  \nFull rules and how to enter below.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury",
-      "source": "ESA Space Science",
-      "date": "Thu, 24 Sep 2026 15:00:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "The public is invited to participate in welcoming BepiColombo to Mercury, celebrating the European-Japanese mission's historic arrival at the solar system's innermost planet and engaging global participation in space exploration."
+      "quality": 4,
+      "summary": "SpaceX's Starship features 33 first-stage engines, positioning it among the most powerful rockets ever constructed. This engineering achievement enables ambitious missions to the Moon, Mars, and beyond."
     }
   ]
 }
