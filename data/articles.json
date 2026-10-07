@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T19:24:28.147Z",
+  "generated": "2026-10-07T17:22:52.576Z",
   "count": 30,
   "articles": [
     {
@@ -10,92 +10,103 @@
       "date": "Mon, 05 Oct 2026 22:33:00 +0000",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The MEGATRON project's advanced simulations connect the formation of the first galaxies to the structure of the universe we observe today. This breakthrough provides crucial insights into cosmic evolution over billions of years."
+      "summary": "Advanced MEGATRON simulations connect the first galaxies formed after the Big Bang to the modern universe we observe today. This breakthrough reveals how early cosmic structures evolved into present-day galaxies."
     },
     {
-      "title": "A gamma-ray burst's engine stayed active for nearly a month, breaking the previous record",
-      "description": "Astronomers have observed the longest-lasting central engine activity ever recorded from a gamma-ray burst. The burst occurred at a redshift of 0.8577, and the activity lasted about 27 days in the burst's own rest frame—around 20 days longer than the previous record. The paper, posted to the arXiv preprint server on Sept. 18, explores different mechanisms that could be powering this puzzling burst.",
-      "url": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 06 Oct 2026 13:20:14 EDT",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Astronomers have observed a record-breaking gamma-ray burst whose central engine remained active for nearly a month, shattering previous duration records and revealing new physics about these violent phenomena."
-    },
-    {
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "description": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "description": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 06 Oct 2026 08:04:50 EDT",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "CERN physicists have captured the clearest evidence yet that quarks form waves in quark-gluon plasma, the primordial soup that existed immediately after the Big Bang."
-    },
-    {
-      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-      "description": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision comparable to aiming a laser at a dime from about 150 miles away. Its coronagraph also captured stars in the Large Magellanic Cloud, confirming that the instrument can produce focused images.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 02 Oct 2026 08:21:30 EDT",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA's Roman Space Telescope has demonstrated exceptional pointing stability and unveiled its powerful planet-imaging coronagraph capabilities, marking a major milestone for exoplanet discovery."
-    },
-    {
-      "title": "First Direct Image of Protoplanet Swirling Surrounding Gas",
-      "description": "The formation and evolution of planets is the driving force behind both where and how we might find life beyond Earth. This complex and lengthy process first begins with a massive ball of gas and dust that swirls until it flattens into a disk, followed by roc…",
-      "url": "https://www.universetoday.com/articles/first-direct-image-of-protoplanet-swirling-surrounding-gas",
-      "source": "Universe Today",
-      "date": "2026-10-01T03:05:35Z",
-      "image": "https://www.universetoday.com/article_images/ezgif-2df6c5926098d061.jpg_750_20261001_025844.jpg",
+      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers have captured the first direct image of a protoplanet surrounded by swirling gas, advancing understanding of planetary formation. This discovery enhances knowledge of where and how life might exist beyond Earth."
+      "summary": "The James Webb Space Telescope detected evidence of Mars-sized planetary collisions, revealing how violent cosmic impacts shaped planetary systems. This discovery deepens our understanding of planet formation processes across the universe."
     },
     {
-      "title": "The Universe Is Full of Tiny Red Dots—and They’re One of Astronomy’s Biggest Discoveries in Decades",
-      "description": "A new type of object found in the early universe has puzzled astronomers for years, but they may finally have some answers.",
-      "url": "https://gizmodo.com/the-universe-is-full-of-tiny-red-dots-and-theyre-one-of-astronomys-biggest-discoveries-in-decades-2000808071",
-      "source": "Gizmodo.com",
-      "date": "2026-09-25T11:15:37Z",
-      "image": "https://gizmodo.com/app/uploads/2026/09/little-red-dots-early-black-holes-1200x675.jpg",
-      "category": "Cosmology",
+      "title": "Nobel physics prize awarded for discovery of ‘ghostly messengers’ from the cosmos",
+      "description": "Belgium-born Francis Halzen has won for the detection of high energy neutrino particle from space.",
+      "url": "https://theconversation.com/nobel-physics-prize-awarded-for-discovery-of-ghostly-messengers-from-the-cosmos-293293",
+      "source": "The Conversation Africa",
+      "date": "2026-10-06T12:13:12Z",
+      "image": "https://images.theconversation.com/files/764191/original/file-20261006-50-gvuns4.jpg?ixlib=rb-4.1.1&rect=0%2C282%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "Astronomers have identified a new class of mysterious red objects in the early universe, representing one of the biggest astronomical discoveries in decades. After years of puzzlement, researchers are gaining insights into these intriguing cosmic structures."
+      "summary": "Belgium-born physicist Francis Halzen won the Nobel Prize in Physics for detecting high-energy neutrinos from space, revealing ghostly cosmic messengers. This recognition honors groundbreaking work that opened a new window on the universe."
     },
     {
-      "title": "SpaceX Just Proved Rocket Reuse Works Better Than Anyone Expected",
-      "description": "Putting things into outer space is expensive, that's why reusable rocket boosters have been the dream for decades, and SpaceX is making it work.",
-      "url": "https://www.bgr.com/2273946/spacex-falcon-9-rocket-booster-reuse-37th-time/",
-      "source": "BGR",
-      "date": "2026-10-05T17:17:00Z",
-      "image": "https://www.bgr.com/img/gallery/spacex-just-proved-rocket-reuse-works-better-than-anyone-expected/l-intro-1790703216.jpg",
-      "category": "SpaceX",
+      "title": "What are 'ghost particles' that pass through your body every second? Francis Halzen wins Physics Nobel for catching them in South Pole ice",
+      "description": "Francis Halzen has been awarded the 2026 Nobel Prize in Physics for his groundbreaking work on the IceCube Neutrino Observatory. This observatory detects high-energy neutrinos originating from extreme cosmic events beyond our Solar System. The project has pro…",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/what-are-ghost-particles-that-pass-through-your-body-every-second-francis-halzen-wins-physics-nobel-for-catching-them-in-south-pole-ice/articleshow/134739038.cms",
+      "source": "The Times of India",
+      "date": "2026-10-06T11:49:06Z",
+      "image": "https://img.etimg.com/thumb/msid-134739347,width-1200,height-900,imgsize-212438,overlay-economictimes/articleshow.jpg",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "SpaceX has proven that reusable rocket boosters work better than expected, revolutionizing space launch economics. This breakthrough validates decades of engineering pursuit for affordable, sustainable spaceflight."
+      "summary": "Francis Halzen received the 2026 Nobel Prize in Physics for capturing high-energy neutrinos in South Pole ice through the IceCube Neutrino Observatory. This achievement revolutionizes how scientists observe the cosmos through ghost particles."
     },
     {
-      "title": "From a remote Texas base, SpaceX's launch shows Louisiana what to expect. 'See the future.'",
-      "description": "SpaceX's Starship — a 40-story, two-stage behemoth, the largest and most powerful rocket ever flown — climbed over the Gulf as hundreds watched. Here’s what the scene was like in Texas as Musk’s Vermilion Parish spaceport begins to come to life.",
-      "url": "https://www.theadvocate.com/baton_rouge/news/business/spacex-rocket-louisiana-texas-elon-musk-starbase/article_785144b1-289b-59ae-b7b4-ffc52be49463.html",
-      "source": "The Advocate",
-      "date": "2026-10-04T09:00:00Z",
-      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/85/785144b1-289b-59ae-b7b4-ffc52be49463/6ac119ab3d3fe.preview.jpg?crop=1843%2C968%2C0%2C78&resize=1200%2C630&order=crop%2Cresize",
-      "category": "SpaceX",
+      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos of astrophysical origin",
+      "description": "Francis Halzen won the Nobel Prize in physics on Tuesday for his contributions to the IceCube Neutrino Observatory and his discovery of high-energy neutrinos of astrophysical origin.",
+      "url": "https://nypost.com/2026/10/06/world-news/francis-halzen-wins-nobel-prize-in-physics-for-work-on-high-energy-neutrinos-of-astrophysical-origin/",
+      "source": "New York Post",
+      "date": "2026-10-06T10:52:52Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-ehfuc9qt8-1791283901660.jpg?quality=75&strip=all&1791269508&w=1200",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "SpaceX's Starship, a 40-story two-stage mega-rocket, continues advancing as the most powerful rocket ever flown. The vehicle represents humanity's future capability for deep space exploration and beyond."
+      "summary": "Francis Halzen won the Nobel Prize in Physics for his contributions to the IceCube Neutrino Observatory and discoveries of astrophysical high-energy neutrinos. This landmark award celebrates transformative advances in particle astrophysics."
     },
     {
-      "title": "NASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope",
-      "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics …",
-      "url": "https://www.universetoday.com/articles/nasas-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
-      "source": "Universe Today",
-      "date": "2026-10-01T22:09:16Z",
-      "image": "https://www.universetoday.com/article_images/NASA-Selects-PRIMAa_20261001_211502.jpg",
+      "title": "2026 Nobel Prize in Physics awarded to Francis Halzen for discovery of high-energy neutrinos",
+      "description": "Francis Halzen is a leader in the study of neutrinos, ghostly particles from across the universe that hint at exciting new physics",
+      "url": "https://www.scientificamerican.com/article/2026-nobel-prize-in-physics-awarded-to-francis-halzen-for-discovery-of-high-energy-neutrinos/",
+      "source": "Scientific American",
+      "date": "2026-10-06T09:45:00Z",
+      "image": "https://static.scientificamerican.com/dam/asset/37c118a2-f8aa-4366-b997-85f03240086d/Nobel-physics.jpg?m=1791217224.828&w=1200",
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "Francis Halzen earned the 2026 Nobel Prize in Physics for discovering high-energy neutrinos from across the universe, revealing cosmic secrets. His work on these ghostly particles hints at exciting new physics beyond current understanding."
+    },
+    {
+      "title": "Daily briefing: Physics Nobel for founder of neutrino-hunting observatory",
+      "description": "Francis Halzen has won the Nobel Prize in Physics for his work in founding the IceCube Neutrino Observatory. Plus, a call to prevent a privacy crisis driven by smart glasses and has flu season come early?",
+      "url": "https://www.nature.com/articles/d41586-026-03190-0",
+      "source": "Nature.com",
+      "date": "2026-10-06T00:00:00Z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03190-0/d41586-026-03190-0_53815336.png",
+      "category": "Astronomy",
+      "quality": 5,
+      "summary": "Francis Halzen wins the 2026 Nobel Prize in Physics for founding the IceCube Neutrino Observatory. A major recognition of groundbreaking work in high-energy neutrino detection."
+    },
+    {
+      "title": "Nobel physics prize awarded for detection of ghostly neutrinos",
+      "description": "Francis Halzen wins the 2026 Nobel Prize in Physics for his work on a pioneering high-energy neutrino observatory at the South Pole.",
+      "url": "https://www.nature.com/articles/d41586-026-03092-1",
+      "source": "Nature.com",
+      "date": "2026-10-06T00:00:00Z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03092-1/d41586-026-03092-1_53780434.jpg",
+      "category": "Astronomy",
+      "quality": 5,
+      "summary": "The 2026 Nobel Prize in Physics awarded for the detection of ghostly neutrinos through a pioneering high-energy observatory. A landmark achievement in astrophysics."
+    },
+    {
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "description": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "source": "NASA",
+      "date": "Wed, 07 Oct 2026 15:44:59 +0000",
       "category": "NASA",
-      "quality": 5,
-      "summary": "NASA selected PRIMA (PRobe far-Infrared Mission) to explore the history and evolution of the universe using far-infrared observations. This landmark mission will unveil previously hidden cosmic phenomena."
+      "quality": 4,
+      "summary": "NASA's Artemis II mission captures stunning visualization of a lunar eclipse with annotated Moon and Sun imagery from April 2026."
+    },
+    {
+      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+      "description": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer […]",
+      "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/",
+      "source": "NASA",
+      "date": "Tue, 06 Oct 2026 16:09:13 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers solve a cosmic mystery using NASA Hubble data, discovering surprising chemical evidence about white dwarf star HS 0209+0832."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -103,9 +114,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
       "source": "ESA Space Science",
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures detailed imagery of stellar jets erupting from a nebula, revealing dynamic cosmic phenomena. This observation showcases Webb's ability to study star formation and the energetic processes within stellar nurseries."
+      "summary": "James Webb Space Telescope captures dramatic imagery of stellar jets creating turbulent activity within a stellar nebula."
     },
     {
       "title": "Science begins for Smile",
@@ -115,7 +126,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Smile mission, a joint European-Chinese effort, has begun its science operations studying Earth's interaction with solar wind. This landmark mission will provide unprecedented insights into magnetospheric dynamics and space weather."
+      "summary": "The European-Chinese Smile mission begins science operations, investigating Earth's dynamic response to solar wind interactions."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -125,7 +136,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals intricate details of distant galaxies through gravitational lensing effects. This Picture of the Month demonstrates Webb's extraordinary capability to study galaxy structure and formation."
+      "summary": "James Webb Space Telescope reveals intricate details of distant galaxies through gravitational lensing in a cosmic mirror effect."
     },
     {
       "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -135,7 +146,47 @@
       "date": "Mon, 28 Sep 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "ESA's Jupiter Icy Moons Explorer (Juice) successfully completed a gravity assist maneuver around Earth, refining its trajectory toward Jupiter. This pivotal flyby brings the mission closer to exploring the Jovian system's icy moons."
+      "summary": "ESA's Juice spacecraft successfully performs Earth gravity assist maneuver, optimizing its trajectory toward Jupiter's icy moons."
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope reveals a spiral galaxy with surprising dynamics that challenge our understanding of galactic rotation. This discovery provides insights into complex gravitational interactions within galaxy systems."
+    },
+    {
+      "title": "Thousands of Black Holes Could Be Lurking in Our Backyard—and You Can Help Find Them",
+      "description": "According to stellar evolution models, there should be hundreds of millions of black holes floating around in our galaxy. But so far we’ve only found 70. That’s in large part because they are so hard to find, but a citizen science project from the University of Southampton is actively seeking out these hidden monsters with the help of tens of thousands of amateur astronomers through a project on Zooniverse called [Black Hole Hunters](https://www.zooniverse.org/projects/cobalt-lensing/black-hole-hunters).",
+      "url": "https://www.universetoday.com/articles/thousands-of-black-holes-could-be-lurking-in-our-backyardand-you-can-help-find-them",
+      "source": "Universe Today",
+      "date": "Wed, 07 Oct 2026 11:10:32 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Hundreds of millions of wandering black holes may exist throughout our galaxy, and citizen scientists can help discover them. This research opens new avenues for understanding black hole populations and their role in galactic evolution."
+    },
+    {
+      "title": "Wandering Black Holes May Hold Clues to the Evolution of the Universe",
+      "description": "According to new research, \"wandering\" black holes may have left an imprint on the Universe as they traveled for billions of years.",
+      "url": "https://www.universetoday.com/articles/wandering-black-holes-may-hold-clues-to-the-evolution-of-the-universe",
+      "source": "Universe Today",
+      "date": "Wed, 07 Oct 2026 01:26:23 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Traveling black holes may have shaped the evolution of the universe as they journeyed through space over billions of years. This research reveals how black holes influence cosmic structure and development."
+    },
+    {
+      "title": "Galaxy Evolution Can be Affected by Black Hole Jets",
+      "description": "In recent decades, astronomers have found evidence that supermassive black holes can really mess with their galaxies' evolution. They gobble up material intended for star formation, quenching the birth of stars. Conversely, jets streaming away from those hungry monsters can also energize gas-rich regions and enhance the chances of a galaxy birthing batches of stars in those areas.",
+      "url": "https://www.universetoday.com/articles/galaxy-evolution-can-be-affected-by-black-hole-jets",
+      "source": "Universe Today",
+      "date": "Wed, 07 Oct 2026 01:25:41 +0000",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Jets from supermassive black holes significantly influence galaxy evolution and structure throughout the cosmos. This discovery demonstrates the profound impact black holes have on their galactic environments."
     },
     {
       "title": "A Buried Volcano on the Moon Hints At An Ancient Lunar Dynamo",
@@ -145,7 +196,7 @@
       "date": "Tue, 06 Oct 2026 10:12:28 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover evidence of a buried lunar volcano that hints at an ancient magnetic field protecting the Moon's surface. This finding revolutionizes our understanding of the Moon's early geological and magnetic history."
+      "summary": "A buried volcanic structure on the Moon provides evidence of an ancient magnetic field, suggesting the Moon once had a dynamic core. This discovery reshapes our understanding of lunar geology and history."
     },
     {
       "title": "Chandra X-ray Observatory Drops New View of our Galaxy’s Unruly Centre",
@@ -153,9 +204,9 @@
       "url": "https://www.universetoday.com/articles/chandra-x-ray-observatory-drops-new-view-of-our-galaxys-unruly-centre",
       "source": "Universe Today",
       "date": "Mon, 05 Oct 2026 15:52:00 +0000",
-      "category": "Black Holes",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Chandra X-ray Observatory reveals new details about Sagittarius A*, the supermassive black hole at the center of the Milky Way. These observations illuminate the dynamic and energetic processes occurring at the galactic core."
+      "summary": "The Chandra X-ray Observatory reveals dynamic activity at the Milky Way's center around the supermassive black hole Sagittarius A*. This imagery showcases the energetic phenomena surrounding our galaxy's core."
     },
     {
       "title": "Neutrons, Rotating Black Holes, and a Galactic PeVatron at the Center of the Milky Way",
@@ -165,17 +216,27 @@
       "date": "Mon, 05 Oct 2026 15:40:25 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Research reveals how supermassive black holes generate extreme energy and particle acceleration, creating galactic PeVatrons at the Milky Way's center. This study enhances our understanding of the universe's most powerful cosmic engines."
+      "summary": "Research explores how rotating black holes and neutron stars generate extraordinary energy through accretion and jets, with evidence of a galactic particle accelerator at the Milky Way's center. This study illuminates extreme physics in the most violent cosmic environments."
     },
     {
-      "title": "XRISM Makes First-Ever Detection of a Pulsar Feeding from a Companion's Stellar \"Wind\"",
-      "description": "Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s stellar wind captured by its compact companion (triggering X-ray flares) for the first time.",
-      "url": "https://www.universetoday.com/articles/xrism-makes-first-ever-detection-of-a-pulsar-feeding-from-a-companions-stellar-wind",
-      "source": "Universe Today",
-      "date": "Sun, 04 Oct 2026 21:54:36 +0000",
-      "category": "Astrophysics",
+      "title": "Alcohol in space: Exotic methanol discovered in planet-building zones",
+      "description": "An international team of astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA), of which the U.S. National Science Foundation National Radio Astronomy Observatory is a partner (NSF NRAO), has combined expertise from across the globe to open a new window on how the organic molecules that seed planets, and potentially life, form in space.",
+      "url": "https://phys.org/news/2026-10-alcohol-space-exotic-methanol-planet.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 07 Oct 2026 10:40:18 EDT",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "Japan's XRISM observatory has made the first direct observation of a pulsar feeding on stellar wind from a companion star, advancing our understanding of these exotic cosmic systems."
+      "summary": "The ALMA observatory has detected exotic methanol in planet-forming regions around stars, revealing unexpected chemistry in protoplanetary disks. This finding provides insights into how planetary systems form and evolve."
+    },
+    {
+      "title": "Simulated moon soil and recyclable thermoplastics could help build future space infrastructure",
+      "description": "Transporting material from Earth to the moon is an expensive proposition: By some estimates, moving a single kilogram (2.2 pounds) can cost more than $1 million. Any plan to build a permanent human habitat up there will depend on bringing that sky-high cost down.",
+      "url": "https://phys.org/news/2026-10-simulated-moon-soil-recyclable-thermoplastics.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 06 Oct 2026 18:40:01 EDT",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Researchers develop methods to build lunar infrastructure using simulated moon soil and recyclable thermoplastics, reducing costly Earth-to-Moon transportation. This innovation promises to enable sustainable expansion of human presence on the Moon."
     },
     {
       "title": "Webb captures commotion from nebula's stellar jets",
@@ -185,37 +246,37 @@
       "date": "Tue, 06 Oct 2026 13:40:01 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The James Webb Space Telescope has revealed previously hidden stars within a stellar nursery by penetrating dust clouds and capturing the dynamic jets of stellar formation in unprecedented detail."
+      "summary": "The James Webb Space Telescope reveals hidden stars in a stellar nebula using its powerful infrared capabilities to penetrate cosmic dust. This observation demonstrates how stellar jets shape star-forming regions and unveil previously invisible stellar populations."
     },
     {
-      "title": "Striking new images of unique supernova remnant reveal pearl-like chains",
-      "description": "The only known supernova remnant of its kind in the Milky Way has an unexpectedly intricate structure: chains of gas knots resembling pearls on a string, each wide enough to fit the solar system multiple times. Using the Gemini North telescope, an international team co-led by Ilaria Caiazzo, assistant professor at the Institute of Science and Technology Austria (ISTA), captured the most detailed view yet of Pa 30, revealing striking new features of the remnant associated with a historical supernova witnessed nearly 850 years ago. The findings are published in The Astrophysical Journal.",
-      "url": "https://phys.org/news/2026-10-images-unique-supernova-remnant-reveal.html",
+      "title": "A gamma-ray burst's engine stayed active for nearly a month, breaking the previous record",
+      "description": "Astronomers have observed the longest-lasting central engine activity ever recorded from a gamma-ray burst. The burst occurred at a redshift of 0.8577, and the activity lasted about 27 days in the burst's own rest frame—around 20 days longer than the previous record. The paper, posted to the arXiv preprint server on Sept. 18, explores different mechanisms that could be powering this puzzling burst.",
+      "url": "https://phys.org/news/2026-10-gamma-ray-stayed-month-previous.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 06 Oct 2026 12:00:18 EDT",
-      "category": "Astronomy",
+      "date": "Tue, 06 Oct 2026 13:20:14 EDT",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "Striking new observations reveal the Milky Way's only known supernova remnant of its unique type features an unexpectedly intricate structure of pearl-like gas chains."
+      "summary": "Astronomers observed the longest-lasting gamma-ray burst engine activity ever recorded, breaking previous records by remaining active for nearly a month. This discovery provides new insights into the extreme physics governing these cosmic explosions."
     },
     {
-      "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields an answer",
-      "description": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. This is not universally true, as explosions, collisions and other dangers lurk in other places and times.",
-      "url": "https://phys.org/news/2026-10-life-cosmos-universe-supercomputer-yields.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 06 Oct 2026 10:40:29 EDT",
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "description": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looked like.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 07 Oct 2026 07:58:25 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Supercomputer simulations of the universe identify the most favorable cosmic locations for life to flourish, expanding our perspective on habitability across the cosmos."
+      "summary": "The James Webb Space Telescope found compelling evidence of an atmosphere on the scorching lava world HD 3167 b, defying expectations. This surprising discovery challenges existing models of atmospheric retention on extreme exoplanets."
     },
     {
-      "title": "This mysterious hole on the Moon may open into a giant cave",
-      "description": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit opens into a vast underground cave or lava tube. Using radar, seismic sensors, gravity measurements, and cameras, researchers will search beneath the lunar surface and estimate the size of any hidden void. Such caves could preserve clues to the Moon’s volcanic history and potentially provide protected shelters for future astronauts.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261003234013.htm",
+      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
+      "description": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual quarks as they blasted through the plasma, researchers saw them leave behind ripples, splashes, and swirling wakes much like a duck moving through water. The finding suggests this primordial “soup” is so dense that it can slow speeding quarks and respond collectively as a fluid.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 05 Oct 2026 00:47:40 EDT",
-      "category": "Missions",
+      "date": "Tue, 06 Oct 2026 08:04:50 EDT",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA has selected the GIMLI project to investigate whether the Marius Hill Pit on the Moon opens into a vast underground cave, potentially revealing lunar geology and habitability."
+      "summary": "Physicists at CERN's Large Hadron Collider captured the clearest evidence yet of quark-gluon plasma waves, the primordial matter from the Big Bang. This breakthrough provides unprecedented insights into the universe's earliest moments."
     },
     {
       "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
@@ -225,27 +286,18 @@
       "date": "Sun, 04 Oct 2026 08:05:54 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "New research suggests that tiny magnetic fields created shortly after the Big Bang may help resolve the long-standing disagreement about the universe's expansion rate."
+      "summary": "Tiny magnetic fields created shortly after the Big Bang may help resolve the long-standing discrepancy in measurements of the universe's expansion rate. This theoretical advance offers a promising solution to one of cosmology's greatest puzzles."
     },
     {
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "description": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased its speed by 3.5 km/s, while also giving scientists a rare chance to test its instruments on Earth and the Moon.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 03 Oct 2026 09:34:11 EDT",
-      "category": "Missions",
+      "title": "Astronomy’s ‘adrenaline junkies’: Nobel prize captures the thrill of neutrino physics",
+      "description": "Nature reporter Davide Castelvecchi reflects on covering the fast-moving field of astronomy honoured by the Nobel physics award.",
+      "url": "https://www.nature.com/articles/d41586-026-03095-y",
+      "source": "Nature.com",
+      "date": "2026-10-06T00:00:00Z",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03095-y/d41586-026-03095-y_53815282.jpg",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "ESA's Juice spacecraft successfully performed a gravitational slingshot maneuver around Earth on September 28, reshaping its trajectory toward Jupiter for its groundbreaking mission."
-    },
-    {
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "description": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossil of the Moon’s long-lost magnetic field.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 03 Oct 2026 09:12:14 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Analysis of Chang'e-6 lunar samples has revealed a previously unknown magnetic mineral, providing a time capsule of the Moon's ancient magnetic history and geological evolution."
+      "summary": "Nobel Prize honors neutrino physics and the pioneering work in this fast-moving field of astronomy. A celebration of scientific discovery and the thrill of breakthrough research."
     },
     {
       "title": "STARMUS FESTIVAL COFOUNDERS SIR BRIAN MAY AND GARIK ISRAELIAN PRESENTED PROFESSOR BRIAN COX WITH THE 2026 STEPHEN HAWKING MEDAL FOR SCIENCE COMMUNICATION",
@@ -254,64 +306,9 @@
       "source": "PRNewswire",
       "date": "2026-10-05T18:36:00Z",
       "image": "https://mmx.prnewswire.com/media/MS2002367/Starmus-announces.jpg?id=OA2988131&p=facebook",
-      "category": "Astronomy",
+      "category": "Futurism",
       "quality": 4,
-      "summary": "Professor Brian Cox received the 2026 Stephen Hawking Medal for Science Communication at the Royal Astronomical Society, presented by Starmus Festival cofounders Sir Brian May and Garik Israelian. The award honors outstanding contributions to communicating space science to the public."
-    },
-    {
-      "title": "SpaceX a envoyé quatre astronautes à bord de l’ISS en moins de 8 heures : le trajet le plus rapide jamais réalisé par un équipage américain",
-      "description": "Sept heures et cinquante-cinq minutes. C'est le temps qu'il a fallu à quatre astronautes pour rallier l'ISS à bord d'un Crew Dragon, battant largement le précédent record américain, et enterrant au passage l'une des plus tenaces superstitions de la NASA.",
-      "url": "https://www.journaldugeek.com/2026/10/05/spacex-envoye-quatre-astronautes-liss-moins-8-heures-trajet-plus-rapide-realise-equipage-americain/",
-      "source": "Journal du geek",
-      "date": "2026-10-05T16:02:04Z",
-      "image": "https://www.journaldugeek.com/app/uploads/2026/10/Decollage-SpaceX-1600x900.jpg",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX transported four astronauts to the International Space Station in 7 hours and 55 minutes, achieving the fastest crewed journey to the ISS in American spaceflight history. This milestone demonstrates SpaceX's advancing capabilities for rapid human spaceflight operations."
-    },
-    {
-      "title": "Η NASA ψάχνει για κρυφό γιγάντιο σπήλαιο κάτω από τη Σελήνη – Η «τρύπα» που μπορεί να κρύβει έναν τεράστιο υπόγειο κόσμο",
-      "description": "Ραντάρ, σεισμικοί αισθητήρες, βαρυόμετρο και κάμερες θα αναζητήσουν κάτω από την επιφάνεια της Σελήνης στοιχεία για έναν πιθανό τεράστιο υπόγειο σχηματισμό",
-      "url": "https://www.skai.gr/news/technology/nasa-apostoli-sti-selini-gia-na-vrei-an-yparxei-terastio-spilaio-kato-apo-tin-epifaneia-ti",
-      "source": "Skai.gr",
-      "date": "2026-10-05T10:57:59Z",
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/marius_hills_pit.jpg?itok=fO-mcE5u",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is searching for hidden giant caves beneath the lunar surface using radar, seismic sensors, and advanced imaging technology. Discovery of subsurface voids could reveal a vast underground environment and support future lunar exploration and habitation."
-    },
-    {
-      "title": "Le jet supersonique silencieux X-59 n’avait jamais volé aussi vite ni aussi souvent",
-      "description": "Le X-59, l'avion supersonique « silencieux » de la NASA, a atteint Mach 1,53 lors d'un vol d'essai fin septembre 2026. Il n'avait jamais volé aussi vite, et il a aussi enchaîné six vols en une seule semaine, un autre record pour l'appareil.",
-      "url": "https://www.numerama.com/sciences/2346393-nasa-x-59-un-record-de-vitesse-a-mach-153-et-un-record-de-cadence-lors-dune-semaine-dessais-intense.html",
-      "source": "Numerama",
-      "date": "2026-10-05T09:25:00Z",
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/08/x-59.jpg?resize=1600,900&key=8dd7c52d",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's X-59 experimental aircraft achieved Mach 1.53 in late September 2026, demonstrating advances in supersonic flight technology. This milestone represents progress toward quiet supersonic travel."
-    },
-    {
-      "title": "SpaceX's Starship Needs To Be Fully Operational By 2028 — Here's Why",
-      "description": "SpaceX has plenty left to test on Starship, from refueling to docking in orbit, and NASA is counting on it to finish in time for a much bigger assignment.",
-      "url": "https://www.bgr.com/2272135/why-spacex-starship-needs-to-be-operational-2028/",
-      "source": "BGR",
-      "date": "2026-10-04T19:17:00Z",
-      "image": "https://www.bgr.com/img/gallery/spacexs-starship-needs-to-be-fully-operational-by-2028-heres-why/l-intro-1790699220.jpg",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Starship is progressing through critical testing phases and must achieve full operational status by 2028 for NASA's lunar missions. The vehicle continues advancing through orbital refueling and docking demonstrations."
-    },
-    {
-      "title": "Is SpaceX's Starship The Most Powerful Rocket Ever Built?",
-      "description": "SpaceX fitted Starship's first-stage booster with 33 engines, enough to make you wonder how it compares with the most powerful rockets humans have ever built.",
-      "url": "https://www.bgr.com/2270727/spacex-starship-most-powerful-rocket-ever-built/",
-      "source": "BGR",
-      "date": "2026-10-03T12:47:00Z",
-      "image": "https://www.bgr.com/img/gallery/is-spacexs-starship-the-most-powerful-rocket-ever-built/l-intro-1790608389.jpg",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's Starship features 33 first-stage engines, positioning it among the most powerful rockets ever constructed. This engineering achievement enables ambitious missions to the Moon, Mars, and beyond."
+      "summary": "Professor Brian Cox receives the 2026 Stephen Hawking Medal for Science Communication from Starmus Festival cofounders. Recognition of excellence in inspiring public engagement with science."
     }
   ]
 }
