@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T22:35:10.750Z",
+  "generated": "2026-10-10T15:53:11.432Z",
   "launches": [
     {
       "id": "a1bb0984-19d4-4b47-9bba-706d225573e2",
@@ -17,8 +17,8 @@
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-10-10T07:39:00Z",
-      "status": "Go",
+      "net": "2026-10-10T07:39:44Z",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
@@ -68,14 +68,14 @@
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-      "name": "H3-24 | Martian Moon eXplorer (MMX)",
+      "name": "H3-24 | Martian Moons eXploration (MMX)",
       "net": "2026-10-19T19:41:03Z",
       "status": "Go",
       "provider": "Mitsubishi Heavy Industries",
       "rocket": "H3-24",
       "pad": "Yoshinobu Launch Complex LP-2",
       "location": "Tanegashima Space Center, Japan",
-      "mission": "Martian Moon eXplorer (MMX)",
+      "mission": "Martian Moons eXploration (MMX)",
       "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg"
     },

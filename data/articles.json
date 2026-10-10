@@ -1,27 +1,7 @@
 {
-  "generated": "2026-10-09T22:31:09.083Z",
+  "generated": "2026-10-10T15:49:17.931Z",
   "count": 30,
   "articles": [
-    {
-      "title": "Cosmic House of Mirrors",
-      "description": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
-      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-      "source": "NASA",
-      "date": "Fri, 09 Oct 2026 13:57:24 +0000",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "The James Webb Space Telescope captures stunning gravitational lensing effects where galaxies appear warped and multiplied like a cosmic house of mirrors, revealing distant universe structures."
-    },
-    {
-      "title": "Galaxies in a cosmic house of mirrors",
-      "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-      "source": "ESA Space Science",
-      "date": "Tue, 29 Sep 2026 10:00:00 +0200",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "The James Webb Space Telescope's Picture of the Month reveals galaxies warped by gravitational lensing, providing unprecedented detail of the distant universe."
-    },
     {
       "title": "Astronomers pinpoint the most distant fast radio burst ever detected",
       "description": "Astronomers have detected and traced the most distant fast radio burst ever recorded, a powerful flash of radio waves that traveled for more than 10 billion years across the cosmos before reaching Earth.",
@@ -30,7 +10,7 @@
       "date": "Thu, 08 Oct 2026 14:00:36 EDT",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Astronomers detect and locate the most distant fast radio burst ever recorded, setting a new record and advancing our understanding of these powerful cosmic events."
+      "summary": "Astronomers detect and locate the most distant fast radio burst ever recorded, setting a new record for cosmic distance. This landmark discovery pushes the boundaries of our observable universe and deepens our understanding of these powerful cosmic events."
     },
     {
       "title": "Largest 2D map of the universe helps scientists discover new gravitational lenses",
@@ -43,14 +23,14 @@
       "summary": "Scientists created the largest 2D map of the universe using DESI Legacy Imaging Surveys and AI, discovering new gravitational lenses that reveal the universe's structure and composition."
     },
     {
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "description": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "title": "NASA is searching for hidden caves to build its first Moon base",
+      "description": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
-      "category": "Astrophysics",
+      "date": "Thu, 08 Oct 2026 08:19:20 EDT",
+      "category": "NASA",
       "quality": 5,
-      "summary": "NASA's James Webb Space Telescope discovered evidence of Mars-sized planetary collisions, revealing insights into violent cosmic events that shape planetary systems."
+      "summary": "NASA is advancing humanity's lunar exploration by investigating underground caves and shelters on the Moon as potential sites for humanity's first permanent Moon base."
     },
     {
       "title": "A 9-billion-year-old signal could help explain dark energy",
@@ -60,18 +40,7 @@
       "date": "Fri, 09 Oct 2026 04:53:28 EDT",
       "category": "Dark Matter",
       "quality": 5,
-      "summary": "A Canadian radio telescope detected a 9-billion-year-old hydrogen signal that could provide crucial insights into understanding dark energy and the universe's expansion."
-    },
-    {
-      "title": "Researchers May Have Directly Glimpsed an Exoplanet’s Magnetic Field for the First Time, Building Hope of Peering Deeper Into Faraway Worlds",
-      "description": "Radio signals emanating from Beta Pictoris b suggest that this young and massive exoplanet has a strong magnetic field and intense auroral show",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-may-have-directly-glimpsed-an-exoplanets-magnetic-field-for-the-first-time-building-hope-of-peering-deeper-into-faraway-worlds-180989633/",
-      "source": "Smithsonian.com",
-      "date": "2026-10-07T16:07:13Z",
-      "image": "https://th-thumbnailer.cdn-si-edu.com/KQLlCOsh-ykw7foTVjRXAjdhWsQ=/fit-in/1600x0/filters:focal(1920x1088:1921x1089)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/ea/1aead3d9-9466-45ac-a8bb-112bea0fccfe/full-res-for-display-3840x2160.jpg",
-      "category": "Exoplanets",
-      "quality": 5,
-      "summary": "Researchers may have directly detected the magnetic field of exoplanet Beta Pictoris b through radio signals, opening new possibilities for understanding distant worlds."
+      "summary": "A Canadian radio telescope detected a 9-billion-year-old hydrogen signal that could help scientists understand dark energy and the universe's expansion."
     },
     {
       "title": "Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt",
@@ -82,7 +51,7 @@
       "image": "https://a.fsdn.com/sd/topics/topicbeanies.gif",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicist Francis Halzen received the 2026 Nobel Prize in Physics for pioneering neutrino astronomy discoveries through the Antarctic IceCube experiment."
+      "summary": "Francis Halzen wins the 2026 Nobel Prize in Physics for his pioneering work on the IceCube Antarctic observatory detecting cosmic neutrinos. This landmark achievement opens new windows for observing the universe through ghost particles from distant cosmic events."
     },
     {
       "title": "Francis Halzen Wins the Physics Nobel for an Antarctic Ice Observatory That Caught Cosmic High-Energy Neutrino",
@@ -93,29 +62,7 @@
       "image": "https://d.ibtimes.com.au/en/full/1896580/francis-halzen-wins-physics-nobel-antarctic-ice.jpg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Francis Halzen wins the 2026 Nobel Prize in Physics for his groundbreaking work with IceCube, an Antarctic observatory that detected high-energy cosmic neutrinos. This landmark achievement opens new windows for observing the universe through ghostly particles from space."
-    },
-    {
-      "title": "UW Madison Scientist Wins 2026 Nobel Prize in Physics",
-      "description": "Francis Halzen, a Belgium-born physicist at the University of Wisconsin at Madison, has won the 2006 Nobel Prize in Physics for his work using glacial ice at the South Pole to capture particles called neutrinos.",
-      "url": "https://www.insidehighered.com/news/quick-takes/2026/10/06/uw-madison-scientist-wins-2026-nobel-prize-physics",
-      "source": "Inside Higher Ed",
-      "date": "2026-10-06T13:00:00Z",
-      "image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-10/GettyImages-2298253234.jpg?itok=JDMACHWC",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "University of Wisconsin-Madison physicist Francis Halzen receives the 2026 Nobel Prize in Physics for his pioneering contributions to neutrino detection from space. His work advances our understanding of cosmic phenomena through innovative Antarctic observatory technology."
-    },
-    {
-      "title": "Nobel physics prize awarded for discovery of ‘ghostly messengers’ from the cosmos",
-      "description": "Belgium-born Francis Halzen has won for the detection of high energy neutrino particle from space.",
-      "url": "https://theconversation.com/nobel-physics-prize-awarded-for-discovery-of-ghostly-messengers-from-the-cosmos-293293",
-      "source": "The Conversation Africa",
-      "date": "2026-10-06T12:13:12Z",
-      "image": "https://images.theconversation.com/files/764191/original/file-20261006-50-gvuns4.jpg?ixlib=rb-4.1.1&rect=0%2C282%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Francis Halzen's discovery of high-energy neutrino particles from space earns him the Nobel Prize in Physics. This achievement reveals new cosmic messengers that help scientists understand the universe's most energetic phenomena."
+      "summary": "Francis Halzen receives the 2026 Nobel Prize in Physics for his vital contributions to IceCube, the Antarctic ice observatory that captures high-energy cosmic neutrinos. This breakthrough enables astronomers to study the universe through an entirely new messenger from space."
     },
     {
       "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
@@ -123,9 +70,9 @@
       "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
       "source": "NASA",
       "date": "Fri, 09 Oct 2026 18:11:44 +0000",
-      "category": "SpaceX",
+      "category": "NASA",
       "quality": 4,
-      "summary": "NASA is partnering with commercial industry to develop next-generation space stations, advancing American leadership and enabling sustained human presence in orbit."
+      "summary": "NASA advances commercial space station development by partnering with US industry to create a sustainable, privately-operated orbital infrastructure for the future."
     },
     {
       "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
@@ -135,27 +82,17 @@
       "date": "Fri, 09 Oct 2026 16:59:24 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA successfully tests innovative heat shield technologies designed to protect astronauts during high-speed reentry from lunar and Martian missions."
+      "summary": "NASA tests innovative next-generation heat shield technology designed to protect astronauts safely returning from lunar and Martian missions."
     },
     {
-      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-      "description": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology […]",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "title": "Cosmic House of Mirrors",
+      "description": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
       "source": "NASA",
-      "date": "Thu, 08 Oct 2026 19:40:00 +0000",
-      "category": "NASA",
+      "date": "Fri, 09 Oct 2026 13:57:24 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA launches bold new science initiatives as part of America's Golden Age Summit, signaling expanded investment in space exploration and discovery."
-    },
-    {
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-      "description": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-      "source": "NASA",
-      "date": "Thu, 08 Oct 2026 18:56:25 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's SSPICY mission demonstrates advanced in-space inspection technologies by rendezvous with defunct satellites, enabling sustainable orbital operations."
+      "summary": "The James Webb Space Telescope reveals stunning gravitational lensing effects that multiply and distort galaxy images like a cosmic house of mirrors."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -165,17 +102,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter uncovers the origins of mysterious magnetic switchbacks in the solar wind, revealing new solar physics insights."
-    },
-    {
-      "title": "Webb captures commotion from nebula’s stellar jets",
-      "description": "Image:\n\t\t\tWebb captures commotion from nebula’s stellar jets",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-      "source": "ESA Space Science",
-      "date": "Tue, 06 Oct 2026 15:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The James Webb Space Telescope captures dramatic stellar jets emerging from a nebula, showcasing violent star formation processes in stunning detail."
+      "summary": "The European Space Agency's Solar Orbiter spacecraft has made groundbreaking observations of magnetic switchbacks, solving a key mystery about solar wind behavior."
     },
     {
       "title": "Science begins for Smile",
@@ -185,17 +112,17 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission begins its science operations, studying how Earth's magnetosphere responds to solar wind interactions."
+      "summary": "The European-Chinese Smile mission officially begins science operations, ready to study Earth's dynamic magnetospheric response to solar wind."
     },
     {
-      "title": "Successful Earth flyby improves Juice’s course to Jupiter",
-      "description": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
+      "title": "Galaxies in a cosmic house of mirrors",
+      "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
       "source": "ESA Space Science",
-      "date": "Mon, 28 Sep 2026 17:00:00 +0200",
-      "category": "Missions",
+      "date": "Tue, 29 Sep 2026 10:00:00 +0200",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "The ESA's Jupiter Icy Moons Explorer (Juice) completes a precise Earth flyby, successfully adjusting its trajectory toward Jupiter's intriguing icy moons."
+      "summary": "The James Webb Space Telescope Picture of the Month showcases galaxies magnified through gravitational lensing, revealing intricate cosmic structures in unprecedented detail."
     },
     {
       "title": "The Most Distant FRB Tells The Story Of Its Origin",
@@ -205,7 +132,7 @@
       "date": "Fri, 09 Oct 2026 17:06:51 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope studies the most distant fast radio burst ever detected, uncovering clues about the origins of these mysterious cosmic phenomena."
+      "summary": "The James Webb Space Telescope investigates the most distant fast radio burst yet discovered, revealing clues about the origin of these mysterious cosmic phenomena. This breakthrough study unlocks secrets about one of astronomy's most intriguing mysteries."
     },
     {
       "title": "A Student Finds Three Galaxies and Possibly Solves a Mystery",
@@ -215,7 +142,7 @@
       "date": "Fri, 09 Oct 2026 06:01:48 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "A high school student discovers three previously unknown galaxies and helps solve a cosmological mystery, earning galaxies named in his honor."
+      "summary": "A high school student-turned-undergraduate discovers three previously unknown galaxies, which are subsequently named in his honor. This remarkable achievement demonstrates how citizen scientists can contribute to major astronomical discoveries."
     },
     {
       "title": "Webb Observes \"Extreme Debris Disks,\" Providing a Window into the Early Solar System",
@@ -225,7 +152,7 @@
       "date": "Fri, 09 Oct 2026 02:25:49 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Webb observes extreme debris disks around distant stars, providing unprecedented insights into the violent planetary formation processes that shaped our own solar system."
+      "summary": "The Webb Space Telescope observes extreme debris disks around distant stars, providing a window into the chaotic early history of our own solar system. These observations help scientists understand planetary formation processes."
     },
     {
       "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site",
@@ -235,7 +162,7 @@
       "date": "Thu, 08 Oct 2026 00:30:16 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA selects the GIMLI mission to explore a lunar pit that may contain a subsurface cave, advancing humanity's search for potential future lunar base locations."
+      "summary": "NASA selects the GIMLI mission to explore a lunar pit that could serve as a potential site for a future underground lunar base. This exploration marks an exciting step toward sustained human presence on the Moon."
     },
     {
       "title": "Thousands of Black Holes Could Be Lurking in Our Backyard—and You Can Help Find Them",
@@ -245,17 +172,7 @@
       "date": "Wed, 07 Oct 2026 11:10:32 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Stellar models suggest hundreds of millions of black holes may be drifting through our galaxy, and citizen scientists can help in the search for these elusive objects."
-    },
-    {
-      "title": "Wandering Black Holes May Hold Clues to the Evolution of the Universe",
-      "description": "According to new research, \"wandering\" black holes may have left an imprint on the Universe as they traveled for billions of years.",
-      "url": "https://www.universetoday.com/articles/wandering-black-holes-may-hold-clues-to-the-evolution-of-the-universe",
-      "source": "Universe Today",
-      "date": "Wed, 07 Oct 2026 01:26:23 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Wandering black holes that traveled through the universe for billions of years may have left detectable imprints on cosmic evolution and structure formation."
+      "summary": "Stellar evolution models suggest hundreds of millions of black holes populate our galaxy, and citizen scientists can help discover them. This effort invites public participation in one of astronomy's most thrilling frontiers."
     },
     {
       "title": "NASA advances LISA mission contributions with new test telescope",
@@ -265,7 +182,7 @@
       "date": "Fri, 09 Oct 2026 16:40:01 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA advances the LISA mission by testing innovative all-glass telescope technology designed to detect gravitational waves and revolutionize our understanding of the universe."
+      "summary": "NASA advances the LISA mission by developing an innovative all-glass telescope for gravitational wave detection. This breakthrough technology promises unprecedented observations of cosmic collisions and spacetime itself."
     },
     {
       "title": "Discovery marks the first detection of variable water clouds outside of the solar system",
@@ -275,7 +192,7 @@
       "date": "Fri, 09 Oct 2026 14:20:12 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers detect variable water clouds on a Jupiter-sized exoplanet just 7.5 light-years away, revealing a world with surprising Earth-like atmospheric complexity."
+      "summary": "Astronomers detect variable water clouds on a Jupiter-sized exoplanet just 7.5 light-years away, marking the first observation of variable clouds beyond our solar system. This discovery reveals dynamic atmospheric processes on distant worlds."
     },
     {
       "title": "NASA astronauts splash down after 100 million miles in space",
@@ -288,14 +205,14 @@
       "summary": "NASA's SpaceX Crew-12 astronauts successfully returned to Earth after 237 days in orbit, completing a landmark mission traveling over 100 million miles."
     },
     {
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "description": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "description": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dust can reveal the scale and intensity of planetary collisions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 08:19:20 EDT",
-      "category": "NASA",
+      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA is conducting three investigations to identify underground caves and shelters on the Moon for humanity's first lunar base establishment."
+      "summary": "NASA's James Webb Space Telescope has captured evidence of Mars-sized planetary collisions, offering insights into how planetary systems form and evolve."
     },
     {
       "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
@@ -305,7 +222,93 @@
       "date": "Thu, 08 Oct 2026 06:06:06 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Einstein Probe revealed a previously hidden phase of soft X-ray activity following neutron star collisions, uncovering new details about these extreme cosmic events."
+      "summary": "Einstein Probe revealed a previously hidden phase of neutron star collisions, exposing nearly 10 minutes of soft X-ray activity that expands our understanding of these cosmic events."
+    },
+    {
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "description": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth may once have looked like.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 07 Oct 2026 07:58:25 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope discovered a surprising atmosphere around the scorching lava world HD 3167 b, challenging assumptions about atmospheric retention on extreme exoplanets."
+    },
+    {
+      "title": "World Space Week 2026: How the ‘Rocket Revolution’ is changing the cost, speed and future of space travel",
+      "description": "World Space Week 2026 promises an exciting celebration from October 4 to 10, themed 'Rocket Revolution.' This year's spotlight is on how advancements in rocket technology are opening up access to space. Reusable rockets are making space exploration more affor…",
+      "url": "https://economictimes.indiatimes.com/news/international/us/world-space-week-2026-how-the-rocket-revolution-is-changing-the-cost-speed-and-future-of-space-travel/articleshow/134791109.cms",
+      "source": "The Times of India",
+      "date": "2026-10-08T13:48:12Z",
+      "image": "https://img.etimg.com/thumb/msid-134791602,width-1200,height-900,imgsize-43266,overlay-economictimes/articleshow.jpg",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "World Space Week 2026 celebrates the 'Rocket Revolution,' highlighting how innovation is dramatically reducing costs and accelerating humanity's access to space."
+    },
+    {
+      "title": "NASA Selects Project to Investigate Marius Hills Pit on Moon",
+      "description": "The National Aeronautics and Space Administration (NASA) has selected the Geophysical Instruments for Marius Lunar Pit Investigation (GIMLI) project to examine the Marius Hills Pit, according to the agency. The project will determine whether the opening leads…",
+      "url": "https://www.naturalnews.com/2026-10-08-nasa-selects-project-investigate-marius-hills-pit.html",
+      "source": "Naturalnews.com",
+      "date": "2026-10-08T06:00:00Z",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/marius-hills-pit-lunar-lava-tubes-gimli-project-4819-f2a5e507-original.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA selected a project to investigate the Marius Hills Pit on the Moon, advancing understanding of lunar geology and preparing for human exploration."
+    },
+    {
+      "title": "Researchers May Have Directly Glimpsed an Exoplanet’s Magnetic Field for the First Time, Building Hope of Peering Deeper Into Faraway Worlds",
+      "description": "Radio signals emanating from Beta Pictoris b suggest that this young and massive exoplanet has a strong magnetic field and intense auroral show",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-may-have-directly-glimpsed-an-exoplanets-magnetic-field-for-the-first-time-building-hope-of-peering-deeper-into-faraway-worlds-180989633/",
+      "source": "Smithsonian.com",
+      "date": "2026-10-07T16:07:13Z",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/KQLlCOsh-ykw7foTVjRXAjdhWsQ=/fit-in/1600x0/filters:focal(1920x1088:1921x1089)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1a/ea/1aead3d9-9466-45ac-a8bb-112bea0fccfe/full-res-for-display-3840x2160.jpg",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Researchers may have directly detected an exoplanet's magnetic field for the first time through radio signals from Beta Pictoris b, opening new ways to study distant worlds."
+    },
+    {
+      "title": "En images : De son décollage à son amerrissage, retour sur la mission spatiale de Sophie Adenot",
+      "description": "Après 235 jours à bord de la Station spatiale internationale et 27 heures de voyage, l’astronaute française Sophie Adenot est de retour sur terre depuis jeudi. « 20 Minutes » vous propose de redécouvrir en images la mission Crew-12",
+      "url": "https://www.20minutes.fr/diaporama/diaporama-4252902-images-decollage-amerrissage-retour-mission-spatiale-sophie-adenot",
+      "source": "20 Minutes",
+      "date": "2026-10-09T15:30:51Z",
+      "image": "https://img.20mn.fr/Uyc7KSk8SJW44qvxpWh09Sk/1444x920_sophie-adenot-en-pleine-sortie-dans-l-espace-le-25-aout-un-moment-fort",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "French astronaut Sophie Adenot completes a successful 235-day mission aboard the International Space Station, returning to Earth after 27 hours of travel. Her mission demonstrates continued international collaboration in advancing human spaceflight and scientific research."
+    },
+    {
+      "title": "Nasa struggled to sample Bennu until Brian May revealed its hidden dangers",
+      "description": "A rock musician working at a computer might seem an unlikely figure in an asteroid-sampling mission, but Brian May brought a specialist skill to Nasa’s",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/nasa-struggled-to-find-a-safe-sampling-site-on-asteroid-bennu-queen-guitarist-brian-may-used-his-little-known-3d-imaging-skills-to-reveal-its-treacherous-terrain/articleshow/134815274.cms",
+      "source": "The Times of India",
+      "date": "2026-10-09T08:15:00Z",
+      "image": "https://static.toiimg.com/thumb/msid-134817534,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "Rock musician Brian May contributed crucial insights to NASA's Bennu asteroid sampling mission, revealing hidden dangers that improved the mission's success. This demonstrates how diverse expertise from unexpected sources can enhance scientific discovery."
+    },
+    {
+      "title": "Zum Tod von Margaret Hamilton: Ihre Software half Apollo 11 bei der Mondlandung",
+      "description": "Am MIT leitete Margaret Hamilton die Entwicklung der Apollo-Bordsoftware und prägte Softwareentwicklung als eigenständige Ingenieurdisziplin.",
+      "url": "https://www.heise.de/news/Zum-Tod-von-Margaret-Hamilton-Ihre-Software-half-Apollo-11-bei-der-Mondlandung-11481622.html",
+      "source": "heise online",
+      "date": "2026-10-08T21:07:00Z",
+      "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/4/9/4/Margaret_Hamilton_in_action-722977e7d459fdb2.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "Margaret Hamilton's pioneering work developing the Apollo 11 moon landing software is celebrated, highlighting her transformative contribution to spaceflight. Her legacy established software engineering as a critical discipline that enabled humanity's greatest space achievements."
+    },
+    {
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "description": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
+      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "source": "NASA",
+      "date": "Thu, 08 Oct 2026 20:22:12 +0000",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "NASA briefs media on the agency's contributions to the Martian Moons Mission, highlighting international collaboration to explore Mars's enigmatic moons."
     }
   ]
 }
