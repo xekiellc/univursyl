@@ -1,4 +1,9 @@
 {
-  "explanation": "I'd be happy to help you rewrite a NASA APOD (Astronomy Picture of the Day) explanation, but I don't see any text provided to work from. Could you please share the APOD explanation you'd like me to rewrite? Once you provide it, I'll transform it into two engaging, vivid sentences that explain the concept clearly for a general audience.",
+  "title": "NASA Science",
+  "date": "2026-10-10",
+  "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+  "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+  "media_type": "image",
+  "explanation": "# Rewritten for General Audience\n\nThe Moon is locked in place like a slowly spinning top, always showing Earth the same face, but spacecraft orbiting above have revealed its hidden farside—a surprisingly rough and cratered landscape that looks dramatically different from the smooth, dark plains we see from Earth. Scientists believe the farside's thicker crust acts like a tougher shell, preventing hot molten rock from welling up to the surface the way it does on the nearside, creating this starkly contrasting lunar landscape that NASA's orbiting camera has now mapped in stunning detail.",
   "copyright": "NASA"
 }
