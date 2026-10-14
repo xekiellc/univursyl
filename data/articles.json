@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T01:03:26.810Z",
+  "generated": "2026-10-14T14:58:44.443Z",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "date": "Tue, 13 Oct 2026 15:23:00 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "The European Space Agency's Hera mission will make history in November by targeting a binary asteroid pair at 12 kilometers per second. This landmark planetary defense mission represents humanity's first intentional asteroid deflection follow-up."
+      "summary": "The European Space Agency's Hera mission is poised to make history by targeting a binary asteroid pair at 12 kilometers per second. This groundbreaking planetary defense mission demonstrates humanity's capability to study and potentially deflect asteroid threats."
     },
     {
       "title": "Webb spots possible early-universe supernova just days after it happened",
@@ -18,9 +18,9 @@
       "url": "https://phys.org/news/2026-10-webb-early-universe-supernova-days.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "date": "Tue, 13 Oct 2026 10:50:01 EDT",
-      "category": "Cosmology",
+      "category": "NASA",
       "quality": 5,
-      "summary": "The James Webb Space Telescope has detected a possible supernova in the early universe just days after the explosion, achieving remarkable observational speed."
+      "summary": "The James Webb Space Telescope has detected a possible supernova in the early universe mere days after the explosion occurred, demonstrating unprecedented observational capabilities."
     },
     {
       "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
@@ -30,40 +30,17 @@
       "date": "Tue, 13 Oct 2026 07:27:24 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "James Webb Space Telescope reveals an unexpectedly massive and dense ancient galaxy cluster that challenges current models of early universe structure."
+      "summary": "JWST has revealed an ancient, unexpectedly dense galaxy cluster that challenges current models of early universe structure and galaxy formation."
     },
     {
-      "title": "Artemis-2-Mission: Nasa veröffentlicht 800 Gigabyte Daten für alle",
-      "description": "Die Nasa veröffentlicht in dieser Woche einen riesigen Datensatz der Artemis-2-Mission. Warum die mehr als 800 Gigabyte an Mond-Daten so besonders sind.\nweiterlesen auf t3n.de",
-      "url": "https://t3n.de/news/artemis-2-mission-nasa-veroeffentlicht-800-gigabyte-mond-daten-1767746/",
-      "source": "T3n",
-      "date": "2026-10-12T09:30:34Z",
-      "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/04/art002e009288orig.jpg?class=content",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "description": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
+      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
+      "source": "NASA",
+      "date": "Wed, 14 Oct 2026 13:32:25 +0000",
       "category": "NASA",
-      "quality": 5,
-      "summary": "NASA releases over 800 gigabytes of comprehensive data from the Artemis II mission, making unprecedented mission information publicly available for scientific analysis and discovery."
-    },
-    {
-      "title": "Artemis II : la NASA dévoile plus de 11 000 photos et vidéos inédites de la mission",
-      "description": "La NASA publie environ 800 Go de données relatives à la mission Artemis II. Au programme : des milliers de photos et vidéos, 8h30 de sons, des images annotées par...",
-      "url": "https://www.phonandroid.com/artemis-ii-la-nasa-devoile-plus-de-11-000-photos-et-videos-inedites-de-la-mission.html",
-      "source": "Phonandroid",
-      "date": "2026-10-12T09:19:03Z",
-      "image": "https://wp-pa.phonandroid.com/uploads/2026/02/astronautes-artemis-ii.jpg",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA unveils approximately 800 GB of Artemis II mission data including over 11,000 new photos and videos, providing an unprecedented window into humanity's return to lunar exploration."
-    },
-    {
-      "title": "NASA dumped over 800GB of Artemis II data online",
-      "description": "If you thought you’d seen all there is to see from the Artemis II mission, you’re wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and…",
-      "url": "https://biztoc.com/x/750b314d11dbf677",
-      "source": "Biztoc.com",
-      "date": "2026-10-11T15:39:23Z",
-      "image": "https://biztoc.com/cdn/750b314d11dbf677_s.webp",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA publicly releases over 800 gigabytes of Artemis II mission data online, offering the global community unprecedented access to comprehensive imagery and information from the landmark lunar mission."
+      "quality": 4,
+      "summary": "NASA provides an update on its Artemis program plans to return American astronauts to the Moon by 2028. This represents a major milestone in lunar exploration and human spaceflight."
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
@@ -73,7 +50,7 @@
       "date": "Tue, 13 Oct 2026 14:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "Japan's Martian Moons eXploration (MMX) mission is set to launch on October 19, targeting the moons of Mars aboard an H3 rocket. This landmark mission will explore one of the solar system's least understood celestial bodies."
+      "summary": "The Martian Moons eXploration (MMX) mission is set to launch on October 19, marking a historic exploration of Mars's enigmatic moons. This international mission will unlock new secrets about the Red Planet's satellites."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -81,9 +58,9 @@
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
       "source": "ESA Space Science",
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The ESA's Solar Orbiter has directly observed mysterious magnetic switchbacks in the Sun's atmosphere, advancing our understanding of solar physics. These S-shaped kinks provide crucial insights into solar wind dynamics."
+      "summary": "The European Space Agency's Solar Orbiter has directly observed mysterious magnetic switchbacks in the solar wind. This discovery advances our understanding of solar physics and the Sun's influence on space."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -93,17 +70,7 @@
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures spectacular stellar jets erupting from a nebula with extraordinary detail. This observation reveals the dynamic processes of star formation and energetic outflows."
-    },
-    {
-      "title": "Science begins for Smile",
-      "description": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-      "source": "ESA Space Science",
-      "date": "Wed, 30 Sep 2026 09:05:00 +0200",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "The European-Chinese Smile mission was declared ready to begin operations on September 23, studying Earth's magnetosphere interactions. This collaborative effort promises breakthrough discoveries in space weather science."
+      "summary": "The James Webb Space Telescope captures dynamic stellar jets erupting from a nebula in spectacular detail. This image reveals the powerful processes of star formation and cosmic creation."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -113,7 +80,27 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals galaxies in unprecedented detail through gravitational lensing effects. This cosmic magnification allows astronomers to observe distant galaxies with remarkable clarity."
+      "summary": "The James Webb Space Telescope captures galaxies in extraordinary detail through a natural gravitational lens acting as a cosmic magnifying glass. This stunning image reveals the universe's intricate structure and formation."
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "NASA/ESA Hubble Space Telescope captures a stunning spiral galaxy revealing complex cosmic dynamics. The image showcases the intricate beauty of galactic structures and their unexpected behaviors."
+    },
+    {
+      "title": "Curiosity Greets a Spectacular Dawn Sky on Mars",
+      "description": "Mars is a planetary geologist’s paradise. NASA’s Curiosity rover drove that home recently, with a captivating panorama seen from the slopes of Mount Sharp. The image shows a stunning vista, and was not white-balance adjusted during processing, to show just what a viewer might really see at sunrise standing of Mars.",
+      "url": "https://www.universetoday.com/articles/curiosity-greets-a-spectacular-dawn-sky-on-mars",
+      "source": "Universe Today",
+      "date": "Wed, 14 Oct 2026 13:51:00 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Curiosity rover captures a spectacular Martian dawn sky panorama, demonstrating the planetary explorer's continued ability to reveal Mars' geological wonders. The imagery highlights Mars as a scientist's paradise for planetary geology research."
     },
     {
       "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
@@ -123,17 +110,37 @@
       "date": "Tue, 13 Oct 2026 23:13:34 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Juno spacecraft reveals that Jupiter's magnetodisk has a rippling, wavy structure previously unknown to scientists. This discovery fundamentally changes our understanding of gas giant magnetospheres."
+      "summary": "NASA's Juno spacecraft reveals that Jupiter's magnetodisk has a dynamic, rippling wavy structure previously unknown to scientists. This discovery expands our understanding of gas giant magnetospheres and planetary magnetic phenomena."
     },
     {
-      "title": "Primordial Helium Further Confirms Our Understanding Of The Big Bang",
-      "description": "Most helium in the Universe is primordial helium, formed during the Big Bang. But a fraction of helium was formed by long-dead stars. Distinguishing between the two allows astronomers to further confirm our observations of the Big Bang.",
-      "url": "https://www.universetoday.com/articles/primordial-helium-further-confirms-our-understanding-of-the-big-bang",
+      "title": "Hubble Spots a Suspected Second-Generation Planet",
+      "description": "Diligent sleuthing by astronomers has broken open a cold case in the data archive of NASA’s Hubble Space Telescope. In a study published Monday in Nature Astronomy, researchers report uncovering a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.",
+      "url": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
       "source": "Universe Today",
-      "date": "Mon, 12 Oct 2026 15:18:18 +0000",
-      "category": "Cosmology",
+      "date": "Mon, 12 Oct 2026 18:11:45 +0000",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "Primordial helium observations further validate our understanding of Big Bang nucleosynthesis and the universe's earliest moments. This confirmation strengthens the foundation of modern cosmological theory."
+      "summary": "NASA's Hubble Space Telescope uncovers a suspected second-generation planet in archival data, revealing the ongoing discovery of worlds beyond our solar system. The finding adds to our understanding of planetary formation and evolution."
+    },
+    {
+      "title": "New evidence points to two feeding black holes just 175 parsecs apart lurking in the early universe",
+      "description": "Astronomers have found two actively feeding supermassive black holes separated by just 175 parsecs (570 light-years) in a galaxy seen when the universe was only about 2 billion years old. The system, MG B2016+112, lies at a redshift of 3.273 and is the most compact dual AGN known at this redshift. The study was posted to the arXiv preprint server on Sept. 25.",
+      "url": "https://phys.org/news/2026-10-evidence-black-holes-parsecs-lurking.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 14 Oct 2026 09:40:17 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Astronomers discover two actively feeding supermassive black holes separated by only 175 parsecs in the early universe. This rare close binary system provides unprecedented insights into black hole interactions and evolution in young galaxies."
+    },
+    {
+      "title": "Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres",
+      "description": "Until now, the alien white-hot worlds of exoplanets have been depicted as circular, but new research has revealed the true shape of their atmospheres to be a deformed sphere rather than a perfect circle.",
+      "url": "https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 14 Oct 2026 05:00:18 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Groundbreaking research reveals the true three-dimensional shapes of scorching-hot exoplanet atmospheres, moving beyond traditional circular depictions. This trailblazing technique deepens our understanding of extreme atmospheric conditions on alien worlds."
     },
     {
       "title": "NASA JPL testing readies Voyager technologies lander for moon mission",
@@ -143,27 +150,17 @@
       "date": "Tue, 13 Oct 2026 15:00:19 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA JPL is testing advanced Voyager-derived technologies for a commercial lander that will support humanity's first permanent lunar base."
+      "summary": "NASA JPL's testing of Voyager-derived technologies readies an advanced commercial lander for lunar missions supporting humanity's moon base. This innovation bridges proven deep-space exploration legacy with the future of lunar exploration."
     },
     {
-      "title": "Planetary systems reveal two distinct families tied to their host stars",
-      "description": "Analyzing a sample of 300 of the best-characterized planetary systems among the more than 1,000 known in the Milky Way, an international research team led by the Italian National Institute for Astrophysics (INAF) has discovered that the multiplanet systems identified so far belong to two distinct \"families.\"",
-      "url": "https://phys.org/news/2026-10-planetary-reveal-distinct-families-host.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 13 Oct 2026 10:20:46 EDT",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Analysis of 300 characterized planetary systems reveals two distinct families of planets organized by their relationship to host stars."
-    },
-    {
-      "title": "Vera Rubin Observatory spots the largest ultra-fast spinning asteroid yet",
-      "description": "The speed of an asteroid's spin can tell astronomers a surprising amount about what it is made of. However, existing approaches to measuring spin based on telescope observations can often produce misleading estimates.",
-      "url": "https://phys.org/news/2026-10-vera-rubin-observatory-largest-ultra.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 13 Oct 2026 07:40:07 EDT",
+      "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
+      "description": "Scientists may have solved a long-standing mystery about why the Moon’s two sides are so different, using samples collected from its farside for the first time. Their findings suggest that uneven heating from Earth's gravitational pull drove enormous flows of ancient magma, creating the dramatically different lunar landscapes we see today.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 14 Oct 2026 06:38:46 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has identified the largest ultra-fast spinning asteroid ever detected, providing insights into asteroid composition and formation."
+      "summary": "Using lunar samples, scientists have solved the long-standing mystery of why the Moon's near and far sides have dramatically different geological characteristics."
     },
     {
       "title": "Scientists make stunning discovery that could help explain why life exists",
@@ -173,59 +170,38 @@
       "date": "Sun, 11 Oct 2026 12:35:58 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists discover evidence that the universe's fundamental constants are finely balanced in a way that makes the emergence of life possible."
+      "summary": "Scientists have made a breakthrough discovery suggesting the universe's fundamental physical constants may be precisely balanced to enable the emergence of life."
     },
     {
-      "title": "NASA astronauts splash down after 100 million miles in space",
-      "description": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "title": " The 1st SpaceX Starship to survive a launch to space just came home to its launch site ",
+      "description": "After surviving its splashdown and a grueling journey at sea, SpaceX's Ship 40 has returned to Starbase, where engineers will study the first recovered Starship upper stage for clues to future reusability.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
+      "source": " Latest from Space.com ",
+      "date": "Wed, 14 Oct 2026 13:00:00 +0000",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA astronauts aboard SpaceX Crew-12 have successfully returned after 237 days in space, completing a mission spanning over 100 million miles."
+      "summary": "SpaceX's Ship 40 has successfully returned to Starbase after surviving a challenging splashdown and ocean recovery, marking a major milestone in Starship development."
     },
     {
-      "title": "NASA is searching for hidden caves to build its first Moon base",
-      "description": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for future journeys to Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 08 Oct 2026 08:19:20 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is investigating underground lunar caves to serve as shelters for humanity's first Moon base, leveraging natural protection from radiation and temperature extremes. This groundbreaking approach could enable sustainable long-term human presence on the lunar surface."
-    },
-    {
-      "title": " 2 spacecraft in orbit and 8 more coming soon: Varda has big plans for in-space manufacturing ",
-      "description": "Reentry provider Varda Space Industries is currently flying two spacecraft in Earth orbit and has eight more missions planned in the next year.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/2-spacecraft-in-orbit-and-8-more-coming-soon-varda-has-big-plans-for-in-space-manufacturing",
+      "title": " Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage ",
+      "description": "NASA's DART mission made a cosmic mess four years ago — and now a new spacecraft is ready to scout out exactly what the first-of-its-kind collision accomplished.",
+      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
       "source": " Latest from Space.com ",
-      "date": "Tue, 13 Oct 2026 16:00:00 +0000",
-      "category": "Futurism",
+      "date": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "category": "Missions",
       "quality": 4,
-      "summary": "Varda Space Industries is advancing in-space manufacturing with two operational spacecraft and eight additional missions planned, pioneering a new frontier in commercial space activities. This expansion demonstrates the growing viability of manufacturing beyond Earth's gravity."
+      "summary": "Europe's Hera probe has arrived to inspect the aftermath of NASA's historic DART asteroid impact mission, advancing humanity's planetary defense capabilities."
     },
     {
-      "title": "Physics Nobel highlights Antarctica’s role in exploring the cosmos",
-      "description": "For more than a century, scientists have treated Antarctica’s environments as windows into worlds beyond Earth.",
-      "url": "https://theconversation.com/physics-nobel-highlights-antarcticas-role-in-exploring-the-cosmos-293906",
-      "source": "The Conversation Africa",
-      "date": "2026-10-12T12:20:36Z",
-      "image": "https://images.theconversation.com/files/765326/original/file-20261009-50-iwervg.jpg?ixlib=rb-4.1.1&rect=0%2C93%2C1110%2C555&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Antarctica's unique environment has become a vital window for exploring the cosmos, as highlighted by recent Nobel Prize recognition of its role in cosmological discoveries. This remote continent enables groundbreaking astronomical research impossible elsewhere on Earth."
-    },
-    {
-      "title": "Mingarelli elected a new fellow of the American Physical Society",
-      "description": "Yale physicist Chiara Mingarelli was cited for contributions in pulsar timing array theory and gravitational-wave&nbsp;astrophysics.",
-      "url": "https://news.yale.edu/2026/10/09/mingarelli-elected-new-fellow-american-physical-society",
+      "title": "CHIME time, AI transparency in research, ‘Evolution’ on PBS, and faculty honors",
+      "description": "Yale researchers help prove the utility of an innovative radio telescope in understanding the expanding universe and offer thoughts on how to best use AI in science. Meanwhile, faculty members in physics and astronomy are honored for breakthroughs across an a…",
+      "url": "https://news.yale.edu/2026/10/12/chime-time-ai-transparency-research-evolution-pbs-and-faculty-honors",
       "source": "Yale.edu",
-      "date": "2026-10-09T19:06:00Z",
-      "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2025-07/2025_06_20_R5A_9797-YN.jpg?h=384dd778&itok=ooH7YrGv",
-      "category": "Astrophysics",
+      "date": "2026-10-12T17:27:47Z",
+      "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-10/YN-A%20view%20of%20CHIME%20at%20night%2C%20with%20the%20Milky%20Way%20in%20the%20background%20Credit_%20CHIME%20collaboration.jpg?h=03155992&itok=_d3Bgv_M",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Yale physicist Chiara Mingarelli was elected a fellow of the American Physical Society for her contributions to pulsar timing array theory and gravitational-wave research, recognizing groundbreaking work in detecting cosmic gravitational waves."
+      "summary": "Yale researchers demonstrate the utility of the CHIME radio telescope in understanding the expanding universe and cosmological phenomena. This work advances our knowledge of universal expansion and deep-space observation."
     },
     {
       "title": "To Win A Nobel Prize, Go To The Ends Of The Earth",
@@ -236,29 +212,48 @@
       "image": "https://www.universetoday.com/article_images/neutrino_20261008_163042.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Physicist Francis Halzen's visionary IceCube experiment in Antarctica revolutionized neutrino detection from deep space, leading to Nobel Prize-winning breakthroughs in understanding the universe's most elusive particles."
+      "summary": "Francis Halzen's brilliant innovation enabled detection of elusive neutrinos from deep space by establishing the IceCube observatory at Earth's end. This breakthrough transformed neutrino astronomy and earned recognition for advancing our cosmic understanding."
     },
     {
-      "title": "World Space Week 2026: How the ‘Rocket Revolution’ is changing the cost, speed and future of space travel",
-      "description": "World Space Week 2026 promises an exciting celebration from October 4 to 10, themed 'Rocket Revolution.' This year's spotlight is on how advancements in rocket technology are opening up access to space. Reusable rockets are making space exploration more affor…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/world-space-week-2026-how-the-rocket-revolution-is-changing-the-cost-speed-and-future-of-space-travel/articleshow/134791109.cms",
-      "source": "The Times of India",
-      "date": "2026-10-08T13:48:12Z",
-      "image": "https://img.etimg.com/thumb/msid-134791602,width-1200,height-900,imgsize-43266,overlay-economictimes/articleshow.jpg",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "World Space Week 2026 celebrates the 'Rocket Revolution,' highlighting how rapid advances in launch technology are dramatically reducing costs and accelerating humanity's journey to space."
-    },
-    {
-      "title": "NASA Investigating Large Hole on Moon That May Open Into Enormous Cave",
-      "description": "NASA/GSFC/Arizona State University Beneath its pock-marked, craggy exterior, the Moon is thought to harbor a network of caves and tunnels from its volcanic past. Now, NASA has selected a mission to go investigate a promising window into our space rock’s subte…",
-      "url": "https://freerepublic.com/focus/f-chat/4398916/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-10-12T17:23:25Z",
-      "image": null,
+      "title": "NASA’s Perseverance rover sets Mars driving record, covers 45.2 km",
+      "description": "NASA’s Perseverance rover has driven 45.2 km on Mars, surpassing Opportunity’s record while exploring ancient terrain and searching for signs of past life.",
+      "url": "https://www.thehindubusinessline.com/news/science/nasas-perseverance-rover-sets-mars-driving-record-covers-452-km/article71579355.ece",
+      "source": "BusinessLine",
+      "date": "2026-10-13T12:27:35Z",
+      "image": "https://bl-i.thgim.com/public/incoming/oagaeu/article71579362.ece/alternates/LANDSCAPE_1200/2026-10-13T032340Z_554190654_RC232OA9WU6C_RTRMADP_3_SPACE-MARS.JPG",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA discovers and investigates a large lunar pit that may be an entrance to an extensive network of cave systems beneath the Moon's surface, offering exciting insights into lunar geology and potential resources."
+      "summary": "NASA's Perseverance rover has driven 45.2 kilometers on Mars, setting a new driving record and surpassing Opportunity's achievement while exploring ancient terrain. This milestone demonstrates the rover's enduring capability and scientific productivity on the Red Planet."
+    },
+    {
+      "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+      "description": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+      "source": "NASA",
+      "date": "Wed, 14 Oct 2026 04:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "A stunning celestial alignment occurs as Mars joins the Beehive star cluster beneath an auroral display. This remarkable cosmic coincidence offers a beautiful moment for stargazers."
+    },
+    {
+      "title": "NASA’s Record-Setting Perseverance Rover Team",
+      "description": "Description Members of NASA’s Perseverance Mars mission team gather in the Mars Yard at the agency’s Jet Propulsion Laboratory in Southern California with a certificate from Guinness World Records marking the rover distance record on the Red Planet. Positioned in front of the team is OPTIMISM (Operational Perseverance Twin for Integration of Mechanisms and Instruments […]",
+      "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/",
+      "source": "NASA",
+      "date": "Tue, 13 Oct 2026 17:48:46 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "NASA's Perseverance Mars mission team celebrates their record-setting achievements in robotic exploration. The team's dedication has advanced our understanding of the Red Planet."
+    },
+    {
+      "title": "Perseverance Navcam Image Marks Record Drive",
+      "description": "Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol, of the mission. During that sol’s drive, spanning 299.6 feet (91.31 meters), the mission passed a major milestone: pushing Perseverance’s total […]",
+      "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/",
+      "source": "NASA",
+      "date": "Tue, 13 Oct 2026 17:42:51 +0000",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "Perseverance rover sets a new driving distance record on Mars, captured in this navigation camera image. This achievement demonstrates the rover's continued scientific success."
     },
     {
       "title": "Mars’s oddest cloud may be even odder than we thought",
@@ -268,17 +263,17 @@
       "date": "Wed, 07 Oct 2026 17:00:00 +0200",
       "category": "Solar System",
       "quality": 3,
-      "summary": "ESA's Mars Express combined with advanced meteorological modeling reveals Mars's unique atmospheric cloud formations in unprecedented detail. Scientists continue uncovering the Red Planet's atmospheric mysteries."
+      "summary": "New observations from ESA's Mars Express reveal surprising details about Mars's unusual atmospheric phenomenon. Advanced modeling shows this Martian cloud is even more fascinating than previously understood."
     },
     {
-      "title": "A galaxy spinning out of sync",
-      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "title": "Science begins for Smile",
+      "description": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
       "source": "ESA Space Science",
-      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "date": "Wed, 30 Sep 2026 09:05:00 +0200",
+      "category": "Missions",
       "quality": 3,
-      "summary": "Hubble Space Telescope captures a spiral galaxy with unusual internal dynamics despite its serene appearance. The observation reveals hidden complexity in galactic structure and rotation."
+      "summary": "The European-Chinese Smile mission officially begins its science operations on September 23. This groundbreaking mission will explore how Earth's magnetosphere responds to solar wind interactions."
     },
     {
       "title": "A Red Dwarf is Taking its Time Eating a Brown Dwarf",
@@ -288,7 +283,7 @@
       "date": "Tue, 13 Oct 2026 17:07:30 +0000",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "Astronomers detect an unusual triangular light curve from a red dwarf system 300 light-years away, revealing a rare accretion event. This discovery provides insights into binary stellar dynamics."
+      "summary": "Astronomers detect an unusual triangular light curve from a red dwarf consuming a brown dwarf 300 light-years away. This rare accretion event provides insights into stellar binary system dynamics and mass transfer processes."
     },
     {
       "title": "Tiny Gold Nanogaps Could Crack the Chirality Puzzle",
@@ -298,17 +293,17 @@
       "date": "Tue, 13 Oct 2026 12:00:26 +0000",
       "category": "Futurism",
       "quality": 3,
-      "summary": "Researchers propose using gold nanogaps to detect chirality signatures in the search for biosignatures across the solar system. This innovative technology could revolutionize our ability to identify life-supporting chemistry."
+      "summary": "Tiny gold nanogaps may hold the key to detecting biosignatures across the solar system by identifying molecular asymmetry in amino acids. This innovative technology advances our ability to search for life's building blocks beyond Earth."
     },
     {
-      "title": "Hubble Spots a Suspected Second-Generation Planet",
-      "description": "Diligent sleuthing by astronomers has broken open a cold case in the data archive of NASA’s Hubble Space Telescope. In a study published Monday in Nature Astronomy, researchers report uncovering a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet.",
-      "url": "https://www.universetoday.com/articles/hubble-spots-a-suspected-second-generation-planet",
-      "source": "Universe Today",
-      "date": "Mon, 12 Oct 2026 18:11:45 +0000",
-      "category": "Exoplanets",
+      "title": "Astronomical nanosatellite VERTECS completes initial operations and begins scientific observations",
+      "description": "A research team from the Kyushu Institute of Technology, Kwansei Gakuin University, Tokyo City University, Kanazawa University, the University of Tokyo and other institutions has successfully completed the test operations conducted since the satellite was released into orbit. Having confirmed that the satellite meets its specified performance requirements, the team has begun routine operations for scientific astronomical observations.",
+      "url": "https://phys.org/news/2026-10-astronomical-nanosatellite-vertecs-scientific.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 14 Oct 2026 08:08:58 EDT",
+      "category": "Astronomy",
       "quality": 3,
-      "summary": "Hubble Space Telescope data reveals a suspected second-generation planet, solving a decades-old astronomical mystery. This discovery expands our understanding of planetary formation mechanisms."
+      "summary": "The VERTECS astronomical nanosatellite completes initial operations and begins scientific observations, demonstrating the viability of compact satellite technology. This achievement opens new possibilities for distributed space-based research."
     }
   ]
 }

@@ -1,31 +1,18 @@
 {
-  "generated": "2026-10-14T01:07:26.948Z",
+  "generated": "2026-10-14T15:04:26.723Z",
   "launches": [
     {
-      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
-      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-      "net": "2026-10-13T10:33:44Z",
-      "status": "Success",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "mission": "Dragon CRS-2 SpX-35",
-      "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg"
-    },
-    {
       "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "name": "Zhuque-2E | Unknown Payload",
+      "name": "Zhuque-2E Block 2 | 10 satellites",
       "net": "2026-10-14T11:40:00Z",
-      "status": "Go",
+      "status": "Success",
       "provider": "LandSpace",
-      "rocket": "Zhuque-2E",
+      "rocket": "Zhuque-2E Block 2",
       "pad": "Launch Area 96A",
       "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhunque_2e_on_t_image_20241216101643.jpg"
+      "mission": "10 satellites",
+      "description": "Ride-share of 10 satellites to sun-synchronous orbit, including LandSpace's own Guangchuan-03 & 04 for testing and demonstrating LEO communication satellite constellation technologies. Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_20260609122825.jpeg"
     },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
@@ -130,6 +117,19 @@
       "mission": "Flight 2",
       "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
+    },
+    {
+      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
+      "name": "SSLV | AayulSAT-1A & others",
+      "net": "2026-10-31T00:00:00Z",
+      "status": "TBD",
+      "provider": "Indian Space Research Organization",
+      "rocket": "SSLV",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "location": "Satish Dhawan Space Centre, India",
+      "mission": "AayulSAT-1A & others",
+      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
     }
   ]
 }
