@@ -1,7 +1,17 @@
 {
-  "generated": "2026-10-15T00:23:49.652Z",
+  "generated": "2026-10-15T07:15:39.249Z",
   "count": 30,
   "articles": [
+    {
+      "title": "Galaxies in a cosmic house of mirrors",
+      "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+      "source": "ESA Space Science",
+      "date": "Tue, 29 Sep 2026 10:00:00 +0200",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "The James Webb Space Telescope's Picture of the Month reveals galaxies in extraordinary detail through gravitational lensing effects. This cosmic magnification showcases the power of modern observatories to peer into the distant universe."
+    },
     {
       "title": "New evidence points to two feeding black holes just 175 parsecs apart lurking in the early universe",
       "description": "Astronomers have found two actively feeding supermassive black holes separated by just 175 parsecs (570 light-years) in a galaxy seen when the universe was only about 2 billion years old. The system, MG B2016+112, lies at a redshift of 3.273 and is the most compact dual AGN known at this redshift. The study was posted to the arXiv preprint server on Sept. 25.",
@@ -10,7 +20,7 @@
       "date": "Wed, 14 Oct 2026 09:40:17 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Astronomers discover two actively feeding supermassive black holes separated by only 570 light-years in the early universe, a remarkable find. This discovery challenges current models of black hole formation and interaction."
+      "summary": "Astronomers have discovered two actively feeding supermassive black holes just 175 parsecs apart in the early universe. This remarkable finding provides unprecedented insights into black hole formation and behavior in the cosmos's infancy."
     },
     {
       "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
@@ -20,7 +30,7 @@
       "date": "Tue, 13 Oct 2026 07:27:24 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "James Webb Space Telescope has discovered an ancient galaxy cluster with unexpectedly dense dark matter concentration, challenging existing cosmological models. This landmark finding reshapes our understanding of universe structure and evolution."
+      "summary": "The James Webb Space Telescope has discovered an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging existing cosmological models. This finding deepens our understanding of the universe's structure and evolution."
     },
     {
       "title": "Scientists make stunning discovery that could help explain why life exists",
@@ -30,37 +40,29 @@
       "date": "Sun, 11 Oct 2026 12:35:58 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Scientists have discovered evidence that the universe's fundamental physical constants are finely tuned to enable life's existence. This profound finding illuminates the remarkable balance underlying our cosmos."
+      "summary": "Scientists have discovered evidence that the universe's fundamental physical constants are finely balanced to permit life existence. This remarkable finding suggests the cosmos may be uniquely suited for the emergence of life."
     },
     {
-      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-      "description": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 20:13:29 +0000",
+      "title": "Actualité : “L'ère nucléaire de la Nasa” : le vaisseau SR-1, propulsé par fission, part pour Mars dès 2028",
+      "description": "Le patron de la Nasa, Jared Isaacman, annonce le virage nucléaire de son agence après un accord signé le 8 octobre. Le premier vaisseau interplanétaire propulsé par fission doit décoller pour Mars en 2028, et deux ans plus tard, un réacteur nucléaire devrait …",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/l-ere-nucleaire-de-la-nasa-le-vaisseau-sr-1-propulse-par-fission-part-pour-mars-des-2028-n263309.html",
+      "source": "Les Numériques",
+      "date": "2026-10-14T06:00:00Z",
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263309/50e91cd5-l-ere-nucleaire-de-la-nasa-le-vaisseau-sr-1-propulse-par-fission-part-pour-mars-des-2028_png__1200_678__305-249-1585-921.jpg",
       "category": "NASA",
-      "quality": 4,
-      "summary": "NASA previews two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station. This represents continued progress in maintaining and enhancing orbital infrastructure."
+      "quality": 5,
+      "summary": "NASA announces a major shift to nuclear-powered spacecraft, with the SR-1 fission-propelled vessel launching to Mars in 2028. This breakthrough in propulsion technology marks an exciting new era in deep space exploration."
     },
     {
-      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-      "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 16:46:58 +0000",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "NASA's Chandra X-ray Observatory reveals the cause of a remarkable radio wave formation from a colliding galaxy cluster called 'Treble Clef'. A fascinating discovery about how cosmic structures interact and radiate energy."
-    },
-    {
-      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-      "description": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 13:32:25 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA discusses Artemis Acceleration plans and provides status updates on upcoming Moon missions targeting American astronaut return by 2028. Progress toward historic lunar exploration goals."
+      "title": "ESA's Hera Mission Targets Binary Asteroid Pair in November",
+      "description": "In just one more month, the European Space Agency’s Hera mission will make history. Moving at 12 kilometers per second versus Earth, the mission is about to rendezvous with the binary Dimorphos-Didymos asteroid pair. NASA’s Double Asteroid Redirection Test (D…",
+      "url": "https://www.universetoday.com/articles/esas-hera-mission-targets-binary-asteroid-pair-in-november",
+      "source": "Universe Today",
+      "date": "2026-10-13T15:23:00Z",
+      "image": "https://www.universetoday.com/article_images/Hera_her_CubeSats_and_their_rocky_target_20261013_144516.png",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "The European Space Agency's Hera mission will make history this November as it intercepts a binary asteroid pair at 12 kilometers per second. This groundbreaking planetary defense mission will gather crucial data for protecting Earth."
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
@@ -70,7 +72,7 @@
       "date": "Tue, 13 Oct 2026 14:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission launches on October 19 via H3 rocket to explore Mars's mysterious moons. A pioneering international mission to unlock secrets of the Martian system."
+      "summary": "The Martian Moons eXploration (MMX) mission is launching on October 19 aboard Japan's H3 rocket to explore Mars's mysterious moons. This landmark mission will provide unprecedented scientific insights into the Martian system."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -78,9 +80,9 @@
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
       "source": "ESA Space Science",
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter spacecraft tracks the origin of mysterious magnetic switchbacks in solar wind. Advancing understanding of solar physics and space weather phenomena."
+      "summary": "The ESA's Solar Orbiter has discovered and tracked mysterious S-shaped magnetic structures called 'switchbacks' in the solar wind. This breakthrough observation helps scientists understand the dynamic behavior of our Sun."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -90,17 +92,17 @@
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures stunning imagery of powerful stellar jets erupting from a nebula. Revealing the dynamic processes of star formation in unprecedented detail."
+      "summary": "The James Webb Space Telescope has captured stunning images of stellar jets erupting from a nebula in magnificent detail. This observation reveals the dramatic processes of star formation in unprecedented clarity."
     },
     {
-      "title": "Galaxies in a cosmic house of mirrors",
-      "description": "Image:\n\t\t\t\nThis NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.\nMACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand.\nThe way these galaxies look is the result of gravitational lensing, in which the enormous mass of a foreground object such as a galaxy cluster bends and magnifies the light from a more distant object in the background. Gravitational lensing allows astronomers to observe galaxies, star clusters and even individual stars that are too far away for our telescopes to see under normal conditions. While the large, orange galaxies appear obviously distorted, look carefully at some of the small reddish background galaxies throughout this picture: even at the very edges of the frame, there are galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.\nThe gravitationally lensed areas show multiple images of galaxies from when the Universe was young: a group of galaxies 2 billion years after the Big Bang, and a single galaxy just 800 million years old after the Big Bang. The galaxy group appears to be going through a merger, resulting in an enormous burst of star formation.\nAstronomers have also identified individual bright ‘knots’ within the gravitationally lensed areas, corresponding to regions as small as 5 light-years across. These tiny clumps appear magnified by a factor of more than 300, in some cases.\nA NASA/ESA Hubble Space Telescope image of this same cluster was released in 2014. Take a moment to compare the two images; the difference between them is dramatic. The new Webb image reveals hundreds of galaxies missing from the earlier image. These galaxies were there all along, but Webb is much more sensitive to their much redder light.\nThe data behind this image come from two observing programmes (#5058, PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters to bring distant objects into view.\n[Image Description: A massive galaxy cluster, made of many golden elliptical galaxies with the largest, brightest one in the centre. Heavily distorted orange galaxies appear all around the cluster, the largest concentrated in a large arc around the cluster's centre; these are images of very distant galaxies, created by gravitational lensing. A few galaxies are large and bluish-white in colour; bright, nearby stars are the same colour.]\nRelease on esawebb.org",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+      "title": "Science begins for Smile",
+      "description": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
       "source": "ESA Space Science",
-      "date": "Tue, 29 Sep 2026 10:00:00 +0200",
-      "category": "Cosmology",
+      "date": "Wed, 30 Sep 2026 09:05:00 +0200",
+      "category": "Missions",
       "quality": 4,
-      "summary": "The James Webb Space Telescope Picture of the Month features galaxies revealed through gravitational lensing, acting as a cosmic magnifying glass. Demonstrating how nature's physics enables unprecedented cosmic observation."
+      "summary": "The European-Chinese Smile mission reached operational status on September 23 and is now beginning its groundbreaking study of Earth's magnetospheric response to solar wind. This collaborative mission opens new windows into planetary magnetism."
     },
     {
       "title": "The Perseverance Rover Reaches Another Milestone",
@@ -110,7 +112,7 @@
       "date": "Wed, 14 Oct 2026 19:14:26 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance Rover sets a new distance record for Mars exploration, demonstrating the rover's durability and capability. This milestone brings humanity closer to understanding the Red Planet."
+      "summary": "NASA's Perseverance Rover has achieved a new record by traveling farther on Mars than any rover before it. This milestone demonstrates the remarkable durability and success of our robotic Mars exploration program."
     },
     {
       "title": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant",
@@ -120,7 +122,7 @@
       "date": "Wed, 14 Oct 2026 15:44:31 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "An international team uncovers fascinating details in a supernova remnant first observed in 1181, bridging historical records with modern astronomy. These findings advance our understanding of stellar explosions and cosmic evolution."
+      "summary": "Astronomers have uncovered new details in an ancient supernova remnant originally observed by Chinese and Japanese astronomers in 1181. This interdisciplinary study connects historical records with modern astrophysics."
     },
     {
       "title": "Chandrasekhar Placed A Limit On White Dwarfs, But A New Study Finds This Limit Is Not Absolute",
@@ -130,7 +132,7 @@
       "date": "Wed, 14 Oct 2026 14:57:08 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "New research challenges the classical Chandrasekhar limit for white dwarfs, revealing that these stellar remnants can exceed previously thought constraints. This discovery reshapes our understanding of stellar death and matter physics."
+      "summary": "A groundbreaking new study demonstrates that the Chandrasekhar limit for white dwarfs is not absolute, challenging a century-old principle. This discovery opens new possibilities for understanding extreme stellar objects."
     },
     {
       "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
@@ -140,7 +142,17 @@
       "date": "Tue, 13 Oct 2026 23:13:34 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "NASA's Juno spacecraft reveals that Jupiter's magnetodisk has unexpected rippling, wavy structures. This discovery provides new insights into the gas giant's complex magnetic environment."
+      "summary": "NASA's Juno spacecraft has revealed that Jupiter's magnetodisk has unexpected rippling and wave-like structures. This discovery provides new insights into the dynamic magnetic environment of the gas giant."
+    },
+    {
+      "title": "Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars",
+      "description": "University of Warwick astronomers have shown that white dwarf stars can glow in a range of colors, including the first star ever found that would appear green to the human eye.",
+      "url": "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 14 Oct 2026 20:10:01 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "University of Warwick astronomers have discovered that white dwarf stars emit surprising colors beyond white, including green and pink hues. This revelation expands our understanding of stellar composition and appearance in the late stages of stellar evolution."
     },
     {
       "title": "NASA develops batteries to power humanity's return to moon",
@@ -150,7 +162,7 @@
       "date": "Wed, 14 Oct 2026 19:40:02 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA develops advanced battery technology to power lunar missions in extreme cold environments. This innovation represents a crucial step toward humanity's sustainable return to the Moon."
+      "summary": "NASA has developed advanced battery technology designed to power equipment during humanity's return to the Moon. This technological breakthrough is essential for establishing sustained lunar operations and exploration."
     },
     {
       "title": "Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres",
@@ -160,7 +172,7 @@
       "date": "Wed, 14 Oct 2026 05:00:18 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "New research reveals the actual non-circular shapes of scorching-hot exoplanet atmospheres, challenging previous circular depictions. This technique breakthrough enables better understanding of alien worlds' atmospheric structures."
+      "summary": "Astronomers have developed a breakthrough technique revealing the true asymmetrical shape of scorching-hot exoplanet atmospheres, moving beyond previous circular depictions. This advancement enhances our ability to characterize distant worlds and their atmospheric properties."
     },
     {
       "title": "NASA JPL testing readies Voyager technologies lander for moon mission",
@@ -170,7 +182,7 @@
       "date": "Tue, 13 Oct 2026 15:00:19 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA JPL is testing a commercial lander using Voyager technologies to support humanity's first permanent lunar outpost. This mission represents a major step toward establishing a sustainable moon base."
+      "summary": "NASA JPL is testing a commercial lander equipped with Voyager-heritage technologies for an upcoming Moon mission. This effort represents progress toward establishing humanity's first sustained lunar base."
     },
     {
       "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
@@ -180,7 +192,17 @@
       "date": "Wed, 14 Oct 2026 06:38:46 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists have solved the long-standing mystery of why the Moon's two sides differ dramatically, using lunar samples from recent missions. This discovery reveals the Moon's geological and evolutionary history."
+      "summary": "Scientists have solved the long-standing mystery of why the Moon's two sides have dramatically different geological characteristics using lunar sample analysis. This breakthrough illuminates the Moon's complex formation and geological history."
+    },
+    {
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "description": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon and Mars. The mission also made history with record-setting spacewalk achievements and experiments that could transform medicine both in space and on Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 08 Oct 2026 23:56:28 EDT",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "NASA astronauts aboard SpaceX's Crew-12 mission have successfully returned to Earth after 237 days in space and traveling over 100 million miles. This successful mission demonstrates the reliability of commercial crewed spaceflight operations."
     },
     {
       "title": " Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find ",
@@ -188,9 +210,9 @@
       "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
       "source": " Latest from Space.com ",
       "date": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "category": "Astrophysics",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "Scientists have performed cosmic genealogy on Milky Way planetary systems, discovering two distinct planetary families with different formation histories. This breakthrough reveals the diverse evolutionary pathways of planetary systems."
+      "summary": "Scientists have discovered that planetary systems in the Milky Way belong to two distinct families, advancing our understanding of planetary formation and evolution."
     },
     {
       "title": " SpaceX's Starship just turned 10 years old. When will it go to Mars? ",
@@ -200,17 +222,18 @@
       "date": "Wed, 14 Oct 2026 18:00:00 +0000",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX's Starship has reached orbital capability a decade after Elon Musk's initial vision, marking tremendous progress toward Mars colonization. This fully reusable megarocket represents humanity's next giant leap in space exploration."
+      "summary": "SpaceX's Starship reaches orbital capability after a decade of development, marking a major milestone toward realizing Mars exploration missions."
     },
     {
-      "title": " The 1st SpaceX Starship to survive a launch to space just came home to its launch site ",
-      "description": "After surviving its splashdown and a grueling journey at sea, SpaceX's Ship 40 has returned to Starbase, where engineers will study the first recovered Starship upper stage for clues to future reusability.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "category": "SpaceX",
+      "title": "FULL LIST: Meet the 2026 Nobel Prize winners",
+      "description": "See the full list of the 2026 Nobel Prize winners in Medicine, Physics, Chemistry, and more, celebrating groundbreaking discoveries and contributions.\n\nRead More: https://punchng.com/full-list-meet-the-2026-nobel-prize-winners/",
+      "url": "https://punchng.com/full-list-meet-the-2026-nobel-prize-winners/",
+      "source": "The Punch",
+      "date": "2026-10-12T11:56:35Z",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2026/09/18143517/side-Physics-medals-Chemistry-Nobel-Prize-Literature_1789738517-1200x630.webp",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "SpaceX's Ship 40 successfully survived a launch to space and returned safely to Starbase after a challenging recovery and sea journey. This milestone demonstrates major progress in reusable spacecraft technology and rapid turnaround capabilities."
+      "summary": "The 2026 Nobel Prize winners across Physics, Chemistry, and Medicine are celebrated for groundbreaking discoveries. This recognition honors transformative contributions to science and our understanding of the universe."
     },
     {
       "title": "To Win A Nobel Prize, Go To The Ends Of The Earth",
@@ -221,7 +244,18 @@
       "image": "https://www.universetoday.com/article_images/neutrino_20261008_163042.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Francis Halzen's pioneering work in neutrino detection from deep space has earned recognition, demonstrating how innovative research at Earth's extremes can unlock cosmic mysteries. His achievement showcases the determination required for transformative discovery."
+      "summary": "Physicist Francis Halzen revolutionized neutrino detection from deep space, overcoming significant technical challenges. His breakthrough work earned recognition for enabling humanity to observe some of the universe's most elusive particles."
+    },
+    {
+      "title": "Actualité : Ce trou béant sur la Lune intrigue les scientifiques depuis 2009 : la Nasa va enfin sonder ce qu’il cache",
+      "description": "Sur la face visible de la Lune, un puits béant intrigue les planétologues depuis 2009. La NASA vient de retenir une mission robotisée chargée de sonder ses entrailles au radar, au sismographe et au gravimètre, à la recherche d'un tunnel de lave capable d'abri…",
+      "url": "https://www.lesnumeriques.com/vers-la-lune/ce-trou-beant-sur-la-lune-intrigue-les-scientifiques-depuis-2009-la-nasa-va-enfin-sonder-ce-qu-il-cache-n263301.html",
+      "source": "Les Numériques",
+      "date": "2026-10-14T05:30:00Z",
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263301/4d946954-quasiment-plus-pratique-depuis-apollo-la-nasa-va-faire-vibrer-le-sol-lunaire-pour-savoir-si-ce-trou-de-40-metres-cache-un-tunnel-geant__1200_678__6-276-1199-902.jpg",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "NASA will investigate a mysterious pit on the Moon's visible side that has intrigued scientists since 2009. This targeted mission promises to uncover secrets about lunar geology and subsurface features."
     },
     {
       "title": "Mars : la France embarque dans quelques jours dans une aventure spatiale extraordinaire pour explorer un monde encore inconnu",
@@ -232,27 +266,7 @@
       "image": "https://cdn8.futura-sciences.com/a1920/images/MMX_Jaxa_Cnes.jpg",
       "category": "Missions",
       "quality": 4,
-      "summary": "France joins an extraordinary space exploration adventure as Japan's MMX mission prepares to launch toward Phobos, one of Mars's moons, marking the first attempt to land on this unexplored world. This international collaboration represents a landmark moment in planetary exploration."
-    },
-    {
-      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-      "description": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 15:18:38 +0000",
-      "category": "SpaceX",
-      "quality": 3,
-      "summary": "SpaceX's Falcon 9 rocket carrying Dragon spacecraft launches on October 13, with its illuminated exhaust plumes creating a striking visual phenomenon. Routine progress in commercial space transportation."
-    },
-    {
-      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-      "description": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "source": "NASA",
-      "date": "Wed, 14 Oct 2026 14:41:21 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA develops advanced batteries designed to power equipment during humanity's return to the Moon in extreme lunar conditions. Innovation enabling future lunar exploration missions."
+      "summary": "France joins Japan's groundbreaking MMX mission to explore Phobos, one of Mars' moons, with the spacecraft launching within days. This historic endeavor will be the first spacecraft to land on this unexplored Martian satellite."
     },
     {
       "title": "Mars’s oddest cloud may be even odder than we thought",
@@ -262,17 +276,7 @@
       "date": "Wed, 07 Oct 2026 17:00:00 +0200",
       "category": "Solar System",
       "quality": 3,
-      "summary": "Scientists using ESA's Mars Express and advanced meteorological models discover Mars's unusual cloud formations may be even more intriguing than previously thought. Deepening our understanding of Martian atmospheric dynamics."
-    },
-    {
-      "title": "Science begins for Smile",
-      "description": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-      "source": "ESA Space Science",
-      "date": "Wed, 30 Sep 2026 09:05:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "The European-Chinese Smile mission begins science operations on September 23, investigating how Earth responds to solar wind interactions. A collaborative mission expanding understanding of Earth's magnetosphere."
+      "summary": "ESA's Mars Express combined with advanced meteorological modeling has revealed that Mars's most distinctive cloud formation is even more unusual than previously thought. This discovery deepens our understanding of Martian atmospheric phenomena."
     },
     {
       "title": "A galaxy spinning out of sync",
@@ -282,7 +286,7 @@
       "date": "Fri, 18 Sep 2026 10:00:00 +0200",
       "category": "Astrophysics",
       "quality": 3,
-      "summary": "The Hubble Space Telescope captures a stunning image of a spiral galaxy with intriguing internal dynamics. This observation reveals new details about how galaxies evolve and interact."
+      "summary": "The Hubble Space Telescope has captured a spiral galaxy with intriguing internal dynamics and asymmetries. This detailed observation reveals the hidden complexity within seemingly serene cosmic structures."
     },
     {
       "title": "Astronomers Observe The Limb Darkening Effect On Nearby Stars",
@@ -292,7 +296,7 @@
       "date": "Wed, 14 Oct 2026 16:04:42 +0000",
       "category": "Astronomy",
       "quality": 3,
-      "summary": "Astronomers observe limb darkening effects on nearby stars, revealing fundamental insights into stellar atmospheres. This phenomenon helps scientists understand stellar structure and composition."
+      "summary": "Astronomers have successfully observed the limb darkening effect on nearby stars, confirming stellar physics predictions. This achievement expands our techniques for studying stellar atmospheres and composition."
     },
     {
       "title": "Curiosity Greets a Spectacular Dawn Sky on Mars",
@@ -302,7 +306,7 @@
       "date": "Wed, 14 Oct 2026 13:51:00 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA's Curiosity rover captures a breathtaking panorama of a Martian dawn sky, showcasing the beauty of Mars' atmosphere. The rover continues to reveal the dynamic and spectacular nature of the Red Planet."
+      "summary": "NASA's Curiosity Rover captured a spectacular panoramic image of a Martian dawn sky, showcasing the beauty of Mars. This imagery exemplifies the ongoing wonder of robotic planetary exploration."
     }
   ]
 }
