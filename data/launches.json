@@ -1,24 +1,11 @@
 {
-  "generated": "2026-10-15T07:20:03.354Z",
+  "generated": "2026-10-16T07:02:16.363Z",
   "launches": [
-    {
-      "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "name": "Zhuque-2E Block 2 | 10 satellites",
-      "net": "2026-10-14T11:40:00Z",
-      "status": "Success",
-      "provider": "LandSpace",
-      "rocket": "Zhuque-2E Block 2",
-      "pad": "Launch Area 96A",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "10 satellites",
-      "description": "Ride-share of 10 satellites to sun-synchronous orbit, including LandSpace's own Guangchuan-03 & 04 for testing and demonstrating LEO communication satellite constellation technologies. Details TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhuque-2e_y6_la_image_20260609122825.jpeg"
-    },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
       "name": "Falcon 9 Block 5 | USSF-481",
-      "net": "2026-10-15T23:44:00Z",
-      "status": "Go",
+      "net": "2026-10-16T00:01:05Z",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
@@ -67,10 +54,23 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
+      "id": "c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
+      "name": "Ceres-1S | Unknown Payload",
+      "net": "2026-10-21T03:35:00Z",
+      "status": "Go",
+      "provider": "Galactic Energy",
+      "rocket": "Ceres-1S",
+      "pad": "Rizhao offshore launch location",
+      "location": "Haiyang Oriental Spaceport",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1s_image_20230905114324.jpeg"
+    },
+    {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
       "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-      "net": "2026-10-21T00:00:00Z",
-      "status": "TBD",
+      "net": "2026-10-21T05:00:00Z",
+      "status": "TBC",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "pad": "Unknown Pad",
@@ -78,6 +78,32 @@
       "mission": "We're Not Hawking Around (3x HawkEye 360)",
       "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+    },
+    {
+      "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
+      "name": "Long March 8A | Unknown Payload",
+      "net": "2026-10-22T02:00:00Z",
+      "status": "TBC",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 8A",
+      "pad": "Commercial LC-1",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+    },
+    {
+      "id": "3621085f-deae-4f89-bd54-c0f96ee44421",
+      "name": "Long March 4B | Unknown Payload",
+      "net": "2026-10-23T18:00:00Z",
+      "status": "TBC",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 4B",
+      "pad": "Launch Area 94 (SLS-2 / 603)",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
     },
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
@@ -104,32 +130,6 @@
       "mission": "Amazon Leo (LV-01)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-    },
-    {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "name": "Long March 12A | Flight 2",
-      "net": "2026-10-31T00:00:00Z",
-      "status": "TBD",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 12A",
-      "pad": "Long March 12 series Pad",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Flight 2",
-      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
-    },
-    {
-      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
-      "name": "SSLV | AayulSAT-1A & others",
-      "net": "2026-10-31T00:00:00Z",
-      "status": "TBD",
-      "provider": "Indian Space Research Organization",
-      "rocket": "SSLV",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "mission": "AayulSAT-1A & others",
-      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
     }
   ]
 }
