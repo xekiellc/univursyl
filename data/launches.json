@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T13:40:13.782Z",
+  "generated": "2026-10-17T17:01:23.378Z",
   "launches": [
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -11,7 +11,7 @@
       "pad": "Space Launch Complex 40",
       "location": "Cape Canaveral SFS, FL, USA",
       "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+      "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg"
     },
     {
@@ -80,10 +80,23 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
     },
     {
+      "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
+      "name": "Long March 6A | Unknown Payload",
+      "net": "2026-10-23T10:15:00Z",
+      "status": "Go",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 6A",
+      "pad": "Launch Complex 9A",
+      "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
+    },
+    {
       "id": "3621085f-deae-4f89-bd54-c0f96ee44421",
       "name": "Long March 4B | Unknown Payload",
-      "net": "2026-10-23T18:00:00Z",
-      "status": "TBC",
+      "net": "2026-10-23T19:25:00Z",
+      "status": "Go",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 4B",
       "pad": "Launch Area 94 (SLS-2 / 603)",
@@ -117,19 +130,6 @@
       "mission": "Amazon Leo (LV-01)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-    },
-    {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "name": "Long March 12A | Flight 2",
-      "net": "2026-10-31T00:00:00Z",
-      "status": "TBD",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 12A",
-      "pad": "Long March 12 series Pad",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Flight 2",
-      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
     }
   ]
 }
