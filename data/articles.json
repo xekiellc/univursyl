@@ -1,16 +1,16 @@
 {
-  "generated": "2026-10-18T07:09:07.257Z",
+  "generated": "2026-10-18T17:12:56.643Z",
   "count": 30,
   "articles": [
     {
-      "title": "A Distant Supercluster of Galaxies Points To Self-Interacting Dark Matter",
-      "description": "The El Gordo supercluster is unusually large given its distance. How could such a large galaxy cluster form so quickly? The answer could be that dark matter is self-interacting in an interesting two-state way.",
-      "url": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
-      "source": "Universe Today",
-      "date": "Fri, 16 Oct 2026 14:21:42 +0000",
-      "category": "Dark Matter",
+      "title": "Japan's MMX mission aims to swipe soil samples from Mars's moon Phobos",
+      "description": "A Japanese space mission is about to launch towards Mars. But it will not land on the planet itself. Instead, the Martian Moons Exploration (MMX) mission will focus on Phobos, the bigger of Mars's two small moons.",
+      "url": "https://phys.org/news/2026-10-japan-mmx-mission-aims-swipe.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sun, 18 Oct 2026 10:00:01 EDT",
+      "category": "Missions",
       "quality": 5,
-      "summary": "The El Gordo supercluster's unusual size and early formation provide compelling evidence for self-interacting dark matter, potentially revolutionizing our understanding of dark matter physics."
+      "summary": "Japan's MMX mission is launching toward Mars to collect the first-ever soil samples from Phobos, a groundbreaking achievement in planetary exploration."
     },
     {
       "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
@@ -20,7 +20,17 @@
       "date": "Fri, 16 Oct 2026 19:20:01 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "A University of Missouri astronomer leads an international team of 130 researchers from 62 institutions on a landmark NASA mission to create an unprecedented view of the early universe."
+      "summary": "A University of Missouri astronomer is leading an international team of 130 researchers on a NASA mission to capture an unprecedented view of the early universe."
+    },
+    {
+      "title": "Two monster black holes could collide in just 100 years",
+      "description": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 121 days. Depending on their masses, these cosmic giants could merge in as little as 100 years.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sun, 18 Oct 2026 08:03:18 EDT",
+      "category": "Black Holes",
+      "quality": 5,
+      "summary": "Astronomers have discovered compelling evidence of two supermassive black holes spiraling toward each other in a merger event that may occur within the next century."
     },
     {
       "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
@@ -30,17 +40,7 @@
       "date": "Sat, 17 Oct 2026 09:28:13 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope has exceeded performance expectations by nearly 30% following precision engineering adjustments, promising enhanced capabilities for future observations."
-    },
-    {
-      "title": "Astronomers discover a strange universal rule behind black hole eruptions",
-      "description": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts will happen.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 16 Oct 2026 06:45:33 EDT",
-      "category": "Black Holes",
-      "quality": 5,
-      "summary": "Scientists have discovered a universal principle governing how black holes of vastly different sizes launch powerful jets, advancing our understanding of these cosmic phenomena."
+      "summary": "NASA's Nancy Grace Roman Space Telescope has exceeded performance expectations by nearly 30% following precision engineering adjustments to its systems."
     },
     {
       "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
@@ -48,9 +48,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Tue, 13 Oct 2026 07:27:24 EDT",
-      "category": "Cosmology",
+      "category": "NASA",
       "quality": 5,
-      "summary": "The James Webb Space Telescope has revealed an ancient galaxy cluster with surprisingly dense dark matter concentration, challenging current cosmological models and expanding our understanding of the universe."
+      "summary": "The James Webb Space Telescope has revealed an unexpectedly dense ancient galaxy cluster that challenges current models of cosmic structure formation and galaxy evolution."
     },
     {
       "title": "IceCube, high-energy neutrinos, and Francis Halzen win 2026’s Physics Nobel",
@@ -61,27 +61,18 @@
       "image": "https://miro.medium.com/v2/resize:fit:1080/1*b1HztnOyptcJ4VjwphJJHA.jpeg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicist Francis Halzen wins the 2026 Physics Nobel Prize for his groundbreaking IceCube observatory that detects high-energy neutrinos from space."
+      "summary": "Francis Halzen wins the 2026 Physics Nobel Prize for his visionary IceCube observatory, which revolutionized high-energy neutrino astronomy and our understanding of the universe."
     },
     {
-      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "description": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-      "source": "NASA",
-      "date": "Sun, 18 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "NASA's Astronomy Picture of the Day features a sonified visualization of the Eagle Nebula's iconic Pillars of Creation, transforming visual data into audio for a unique sensory experience of this stellar nursery."
-    },
-    {
-      "title": "Artemis II Heat Shield After Splashdown",
-      "description": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 16:28:01 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's Artemis II mission successfully splashed down on April 10, 2026, with Navy divers documenting the heat shield in pristine condition, marking another triumph for the lunar program."
+      "title": "Actualité : La Nasa bascule dans l'ère nucléaire : son premier vaisseau interplanétaire à fission partira pour Mars dès 2028",
+      "description": "Le patron de la Nasa, Jared Isaacman, a annoncé le virage nucléaire de son agence après un accord signé le 8 octobre 2026. Un premier vaisseau interplanétaire propulsé par fission pourrait ainsi décoller pour Mars en 2028. Deux ans plus tard, un réacteur nucl…",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/la-nasa-bascule-dans-l-ere-nucleaire-son-premier-vaisseau-interplanetaire-a-fission-partira-pour-mars-des-2028-175-n263309.html",
+      "source": "Les Numériques",
+      "date": "2026-10-17T11:17:00Z",
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/263309/50e91cd5-l-ere-nucleaire-de-la-nasa-le-vaisseau-sr-1-propulse-par-fission-part-pour-mars-des-2028_png__1200_678__2-202-1596-1039.jpg",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA is entering a new nuclear-powered era with plans to launch its first nuclear fission-powered interplanetary spacecraft to Mars in 2028. This landmark technological advancement represents a revolutionary leap in space exploration capabilities."
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
@@ -91,7 +82,7 @@
       "date": "Tue, 13 Oct 2026 14:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "Japan's Martian Moons eXploration (MMX) mission is set to launch on October 19, targeting the mysteries of Mars's unique moons in a groundbreaking international exploration effort."
+      "summary": "The Martian Moons eXploration (MMX) mission is set to launch on October 19 aboard Japan's H3 rocket, beginning an ambitious journey to explore Mars's moons. This landmark mission will investigate the origin and composition of Phobos and Deimos."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -101,7 +92,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter has made a breakthrough discovery by directly observing mysterious magnetic switchbacks in the solar wind, advancing our understanding of solar dynamics."
+      "summary": "The ESA's Solar Orbiter spacecraft has flown through mysterious S-shaped magnetic switchbacks in the solar wind. This discovery deepens our understanding of the Sun's dynamic magnetic environment and solar physics."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -111,7 +102,7 @@
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures spectacular imagery of violent stellar jets erupting from a nebula, revealing the dramatic processes of massive star formation."
+      "summary": "The James Webb Space Telescope captures stunning images of powerful stellar jets erupting from a nebula. This visualization reveals the dynamic processes of star formation in unprecedented detail."
     },
     {
       "title": "Science begins for Smile",
@@ -121,7 +112,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission was declared operationally ready on September 23, beginning its historic investigation into how Earth's magnetosphere responds to solar wind interactions."
+      "summary": "The European-Chinese Smile mission was declared operational on September 23, beginning its investigation of Earth's magnetospheric response to solar wind. This collaborative mission promises groundbreaking insights into space weather phenomena."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -131,27 +122,7 @@
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope reveals galaxies in spectacular detail through gravitational lensing, acting as a cosmic magnifying glass to observe the distant universe."
-    },
-    {
-      "title": "A galaxy spinning out of sync",
-      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
-      "source": "ESA Space Science",
-      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Hubble Space Telescope captures a stunning image of a spiral galaxy with unexpected rotational dynamics, revealing hidden complexities in galactic structure and behavior."
-    },
-    {
-      "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
-      "description": "A new study in Science Advances addresses the pressing questions about how long-duration exposure to microgravity affects the human genome.",
-      "url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
-      "source": "Universe Today",
-      "date": "Sat, 17 Oct 2026 23:11:28 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "A groundbreaking study in Science Advances examines how microgravity during long-duration spaceflight affects human genome expression, advancing our understanding of space exploration's biological impact."
+      "summary": "The James Webb Space Telescope reveals intricate details of distant galaxies through gravitational lensing effects. This cosmic magnification allows scientists to study galaxy formation and evolution with unprecedented clarity."
     },
     {
       "title": "In the Search for Exoplanets, Some Failures Are A Success",
@@ -161,7 +132,7 @@
       "date": "Fri, 16 Oct 2026 19:30:07 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers successfully identified exoplanet candidates using decades of archived data and new radial velocity measurements, demonstrating how persistence in research leads to discovery."
+      "summary": "Astronomers successfully identified exoplanet candidates using decades of archival data and radial velocity measurements. This work demonstrates how innovative analysis of existing observations can yield new discoveries."
     },
     {
       "title": "The Flavor of Neutrinos Could Determine How a Large Star Dies",
@@ -171,17 +142,17 @@
       "date": "Fri, 16 Oct 2026 16:00:15 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "New research reveals that neutrino flavor plays a critical role in determining how massive stars die, deepening our understanding of stellar evolution and neutrino physics."
+      "summary": "A new study reveals that neutrino flavor may play a crucial role in determining how massive stars end their lives. This discovery provides fresh insights into stellar evolution and core-collapse supernovae."
     },
     {
-      "title": "Scientists Detect Rare Type of Wood Alcohol in Space",
-      "description": "As part of the ALMA COMPASS Large program, an international research team has detected a rare form of methanol in space for the first time.",
-      "url": "https://www.universetoday.com/articles/scientists-detect-rare-type-of-wood-alcohol-in-space",
+      "title": "A Distant Supercluster of Galaxies Points To Self-Interacting Dark Matter",
+      "description": "The El Gordo supercluster is unusually large given its distance. How could such a large galaxy cluster form so quickly? The answer could be that dark matter is self-interacting in an interesting two-state way.",
+      "url": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
       "source": "Universe Today",
-      "date": "Thu, 15 Oct 2026 22:44:35 +0000",
-      "category": "Astronomy",
+      "date": "Fri, 16 Oct 2026 14:21:42 +0000",
+      "category": "Dark Matter",
       "quality": 4,
-      "summary": "Using the ALMA observatory, researchers detect a rare form of methanol in space, expanding our knowledge of complex organic molecules in the interstellar medium."
+      "summary": "The El Gordo supercluster's unexpected size suggests evidence for self-interacting dark matter, offering new perspectives on dark matter behavior. This discovery could reshape our understanding of dark matter physics."
     },
     {
       "title": "Host Stars Shape Their Planetary Systems Into Two Families",
@@ -191,7 +162,7 @@
       "date": "Thu, 15 Oct 2026 17:07:40 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "New research establishes a direct link between host star mass and planetary system architecture, revealing that higher-mass stars shape their planets into distinct families."
+      "summary": "Research reveals that host star mass directly influences the characteristics and organization of planetary systems, creating distinct families of planetary architectures."
     },
     {
       "title": "Simulations explore nuclear mitigation of asteroid threats",
@@ -201,7 +172,7 @@
       "date": "Sat, 17 Oct 2026 15:00:05 EDT",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Lawrence Livermore National Laboratory develops advanced 3D simulations to explore nuclear deflection techniques for asteroid mitigation, advancing planetary defense capabilities."
+      "summary": "Lawrence Livermore National Laboratory researchers are developing advanced 3D simulations to model nuclear deflection strategies for protecting Earth from asteroid threats."
     },
     {
       "title": "Salt crystals could hold clues to life beneath Enceladus's ice",
@@ -211,7 +182,7 @@
       "date": "Sat, 17 Oct 2026 11:40:01 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Analysis of salt crystals ejected from Saturn's moon Enceladus provides fascinating clues about the hidden ocean beneath its ice and the potential for subsurface habitability."
+      "summary": "Salt crystals ejected from Saturn's moon Enceladus may contain clues about the life-supporting ocean beneath its icy shell, offering a window into habitability."
     },
     {
       "title": "Lone, starless cloud may be a 'dark' galaxy",
@@ -221,17 +192,7 @@
       "date": "Sat, 17 Oct 2026 09:40:04 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "China's FAST radio telescope discovers a rare starless hydrogen cloud that may represent a previously undetected population of 'dark' galaxies in the universe."
-    },
-    {
-      "title": "Plants shift gene activity within minutes of entering spaceflight, experiment reveals",
-      "description": "Plants begin responding to spaceflight almost immediately after leaving Earth, according to a new University of Florida study that captured the earliest stages of biological adaptation during a commercial suborbital mission. Published in the journal npj Microgravity, the study reports the results of an experiment conducted by a UF astronaut during Blue Origin's New Shepard NS-26 flight on Aug. 29, 2024.",
-      "url": "https://phys.org/news/2026-10-shift-gene-minutes-spaceflight-reveals.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 16 Oct 2026 19:00:01 EDT",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "A University of Florida experiment reveals that plants rapidly shift gene activity within minutes of experiencing spaceflight, opening new insights into biological adaptation to space."
+      "summary": "China's FAST radio telescope has discovered a rare starless hydrogen cloud that may represent a previously undetected category of dark galaxies in the universe."
     },
     {
       "title": "New 3D model reveals how shadows reshape chemistry in stellar nurseries",
@@ -241,17 +202,7 @@
       "date": "Fri, 16 Oct 2026 18:40:04 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "A high-resolution 3D model reveals how shadows cast by young stars reshape the chemistry of stellar nurseries, advancing our understanding of star and planet formation."
-    },
-    {
-      "title": "First comprehensive Mars soil classification offers framework for exploration and future farming",
-      "description": "A Ph.D. student at the University of Sydney has produced the first comprehensive classification system and map of Martian soils, creating a new framework that could help scientists compare landscapes across the Red Planet and identify promising locations for future exploration, habitation and food production.",
-      "url": "https://phys.org/news/2026-10-comprehensive-mars-soil-classification-framework.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 16 Oct 2026 16:40:06 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "A comprehensive soil classification system for Mars has been developed, providing essential framework for future exploration and potential farming operations on the Red Planet."
+      "summary": "An international team has created a high-resolution 3D model demonstrating how stellar shadows reshape the chemistry and structure of stellar nurseries where young stars form."
     },
     {
       "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
@@ -261,7 +212,7 @@
       "date": "Sat, 17 Oct 2026 08:26:49 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The James Webb Space Telescope has revealed surprising atmospheric patterns on a distant world 20 light-years away, showing orderly weather systems in an otherwise turbulent environment."
+      "summary": "NASA's James Webb Space Telescope has revealed surprising atmospheric dynamics on a distant world 20 light-years away, showing unexpected weather patterns and organization."
     },
     {
       "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
@@ -271,38 +222,90 @@
       "date": "Fri, 16 Oct 2026 19:27:29 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Using the James Webb Space Telescope, astronomers have discovered an unusual bulge in the atmosphere of a distant exoplanet, revealing new insights into alien atmospheric dynamics."
+      "summary": "The James Webb Space Telescope has discovered an unusual atmospheric bulge on an alien planet, revealing previously unknown features of distant planetary atmospheres."
     },
     {
-      "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
-      "description": "Scientists may have solved a long-standing mystery about why the Moon’s two sides are so different, using samples collected from its farside for the first time. Their findings suggest that uneven heating from Earth's gravitational pull drove enormous flows of ancient magma, creating the dramatically different lunar landscapes we see today.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm",
+      "title": "Astronomers discover a strange universal rule behind black hole eruptions",
+      "description": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts will happen.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 14 Oct 2026 06:38:46 EDT",
+      "date": "Fri, 16 Oct 2026 06:45:33 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Astronomers have discovered a universal scaling rule governing how black holes of different sizes launch powerful jets, revealing fundamental physics principles that apply across cosmic scales."
+    },
+    {
+      "title": "Physics Nobel highlights Antarctica’s role in exploring the cosmos",
+      "description": "For more than a century, scientists have treated Antarctica’s environments as windows into worlds beyond Earth.",
+      "url": "https://theconversation.com/physics-nobel-highlights-antarcticas-role-in-exploring-the-cosmos-293906",
+      "source": "The Conversation Africa",
+      "date": "2026-10-12T12:20:36Z",
+      "image": "https://images.theconversation.com/files/765326/original/file-20261009-50-iwervg.jpg?ixlib=rb-4.1.1&rect=0%2C93%2C1110%2C555&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Antarctica's unique environment has served as a crucial observatory for exploring the cosmos for over a century, with recent Nobel Prize recognition highlighting its scientific importance. The continent's extreme conditions make it an ideal location for detecting cosmic phenomena invisible elsewhere."
+    },
+    {
+      "title": "À 2 200 °C en rentrée terrestre, le bouclier d’Orion séparait les astronautes d’Artémis II de la désintégration. Il n’a eu que 9 zones abîmées, contre 103 lors d’Artémis I",
+      "description": "La NASA a publié son analyse détaillée du bouclier thermique d'Orion après la mission Artémis II. Elle y relève neuf zones de perte de matière, contre 103 après le vol inhabité d'Artémis I en 2022.",
+      "url": "https://www.numerama.com/sciences/2354109-a-2-200-c-en-rentree-terrestre-le-bouclier-dorion-separait-les-astronautes-dartemis-ii-de-la-desintegration-il-na-eu-que-9-zones-abimees-contre-103-lors-dartemis-i.html",
+      "source": "Numerama",
+      "date": "2026-10-15T16:08:00Z",
+      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/10/bouclier-orion-artemis.jpg?resize=1600,900&key=bd75ca72",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's detailed analysis of the Orion heat shield from Artemis II reveals remarkable durability, with only 9 damage zones compared to 103 during Artemis I, showcasing significant engineering improvements. The shield successfully protected astronauts during re-entry at temperatures exceeding 2,200°C."
+    },
+    {
+      "title": "La NASA dévoile les données scientifiques d’Artemis II : un pactole impressionnant de 996 images et de plus de 800 Go de données",
+      "description": "Avec les images impressionnantes qu'ils ont capturées depuis la capsule Orion, les quatre astronautes de l'équipage d'Artemis II n'ont pas fait le voyage pour rien. Mais ce n'est qu'une petite partie du pactole, que la NASA a mis en accès libre.",
+      "url": "https://www.journaldugeek.com/2026/10/15/nasa-devoile-donnees-scientifiques-dartemis-ii-pactole-impressionnant-996-images-plus-800-go-donnees/",
+      "source": "Journal du geek",
+      "date": "2026-10-15T16:02:56Z",
+      "image": "https://www.journaldugeek.com/app/uploads/2026/10/Artemis-1600x900.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA releases impressive scientific data from Artemis II including 996 stunning images and over 800 GB of data captured by the crew from the Orion capsule. This wealth of information provides invaluable insights for future lunar exploration missions."
+    },
+    {
+      "title": "Mars’s oddest cloud may be even odder than we thought",
+      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+      "source": "ESA Space Science",
+      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
       "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists may have finally explained why the Moon's two sides are dramatically different using lunar samples, solving a long-standing astronomical mystery."
+      "quality": 3,
+      "summary": "ESA's Mars Express combined with advanced meteorological modeling reveals new insights into Mars's unusual cloud formations. Scientists continue uncovering the Red Planet's complex atmospheric phenomena."
     },
     {
-      "title": "A planet 320 light-years away confirms what scientists long suspected",
-      "description": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation. The breakthrough could help scientists predict what distant rocky planets are made of and identify worlds with conditions favorable for life.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 13 Oct 2026 20:24:40 EDT",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Astronomers have discovered a scorching exoplanet 320 light-years away with chemical composition confirming long-held scientific theories about planetary atmospheres."
-    },
-    {
-      "title": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant",
-      "description": "When a supernova exploded in 1181, Chinese and Japanese sky-watchers recorded it. They couldn't have known what the object was, and why it appeared for six months then disappeared. But in our modern times, we know it was a supernova, and we've even, most like…",
-      "url": "https://www.universetoday.com/articles/astronomers-uncover-more-intriguing-detail-in-an-ancient-supernova-remnant",
-      "source": "Universe Today",
-      "date": "2026-10-14T15:44:31Z",
-      "image": "https://www.universetoday.com/article_images/Image1_noirlab2624a_JPG_V1_20261014_133110.jpg",
+      "title": "A galaxy spinning out of sync",
+      "description": "Image:\n\t\t\t\nThough the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.\nAs a spiral galaxy similar to our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disc of stars, gas and dust. Its centre is dominated by a galactic bulge.\nThe diffuse off-white glow of the galaxy’s bulge comes from stars smaller, older, and cooler than the massive blue stars that dot the galaxy’s outer disc. These tightly packed stars orbit a supermassive black hole containing millions of times the Sun’s mass. Scientists have found signs that this black hole is actively growing, drawing gas inward with its gravitational pull.\nWith a flat, starry disc and diffusely glowing centre, NGC 4698 looks a lot like a typical spiral galaxy — but this galaxy is far from normal. NGC 4698 is one of only a few known spiral galaxies with a bulge that extends out from the disc at a right angle. The elongation is faintly visible in this Hubble image, which shows the ghostly glow of the starry bulge peeking above and below the dusty disc. What’s more, the stars and gas nearest the galaxy’s centre rotate perpendicular to the rest of the disc.\nWhat could cause a galaxy to be so out of sync? Astronomers have found that the culprit likely lies outside the galaxy. If NGC 4698 funneled in gas from an outside source, the newly collected gas could have formed a disc of gas and stars in the galaxy’s centre, at an angle relative to the rest of the disc. Some observations suggest that this galaxy once experienced a minor galactic merger, as evidenced by a short ‘tail’ of hydrogen streaming from one side of the galaxy.\nThe data used to create this image come from an observing programme (#18103; PI: Thilker) focusing on galaxies in the Virgo Cluster.\n[Image Description: A spiral galaxy viewed at an angle, with a bright central bulge and winding spiral arms. The arms form a ring around the galaxy, without appearing to reach its centre. Prominent red-brown dust lanes weave through the arms, which are also dotted with bright blue and reddish regions of star formation. The galaxy is set against a dark background scattered with stars and faint distant galaxies.]\nRelease on esawebb.org",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA Space Science",
+      "date": "Fri, 18 Sep 2026 10:00:00 +0200",
       "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers discover new details about a supernova remnant from an explosion witnessed by ancient Chinese and Japanese astronomers in 1181."
+      "quality": 3,
+      "summary": "The Hubble Space Telescope captures a spiral galaxy with surprising internal dynamics and hidden complexity. This image contributes to our evolving understanding of galactic structure and behavior."
+    },
+    {
+      "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
+      "description": "A new study in Science Advances addresses the pressing questions about how long-duration exposure to microgravity affects the human genome.",
+      "url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
+      "source": "Universe Today",
+      "date": "Sat, 17 Oct 2026 23:11:28 +0000",
+      "category": "Futurism",
+      "quality": 3,
+      "summary": "New research published in Science Advances reveals how long-duration spaceflight affects the human genome. These findings are critical for planning future deep-space missions and understanding human adaptation to space."
+    },
+    {
+      "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+      "description": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
+      "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+      "source": "Universe Today",
+      "date": "Sat, 17 Oct 2026 07:47:00 +0000",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "Scientists advocate for a dedicated Mercury lander mission to complement the Bepi Colombo spacecraft observations. Such a mission would unlock the secrets of our solar system's mysterious innermost planet."
     }
   ]
 }
