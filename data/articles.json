@@ -1,26 +1,26 @@
 {
-  "generated": "2026-10-19T16:53:56.122Z",
+  "generated": "2026-10-19T22:14:04.186Z",
   "count": 30,
   "articles": [
     {
-      "title": "Euclid discovers new comet ",
-      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 14:00:00 +0200",
+      "title": "Japan to launch world-first mission to moon of Mars",
+      "description": "Japanese scientists will launch a spacecraft on Tuesday that aims to be the first to retrieve samples from one of Mars' moons, potentially helping unlock the origins of the solar system and life on Earth.",
+      "url": "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 19 Oct 2026 15:30:01 EDT",
       "category": "Missions",
       "quality": 5,
-      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the mission's remarkable discovery potential."
+      "summary": "Japan will launch the world's first mission to retrieve samples from one of Mars' moons in a historic space achievement. This groundbreaking mission represents a major leap in Mars exploration and sample return science."
     },
     {
-      "title": "Two monster black holes could collide in just 100 years",
-      "description": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 121 days. Depending on their masses, these cosmic giants could merge in as little as 100 years.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sun, 18 Oct 2026 08:03:18 EDT",
-      "category": "Black Holes",
+      "title": "Japan to launch historic round-trip mission to Mars moon",
+      "description": "Japanese scientists are readying a mission to Mars' moons to retrieve samples that could help unlock the origins of the solar system and life on Earth, in what aims to be the first round trip to the Martian region.",
+      "url": "https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sun, 18 Oct 2026 16:20:01 EDT",
+      "category": "Missions",
       "quality": 5,
-      "summary": "Astronomers have found compelling evidence of two supermassive black holes on a collision course, potentially merging within 100 years. This discovery offers unprecedented opportunity to study such a rare cosmic event."
+      "summary": "Japan is launching a historic round-trip mission to Mars' moons to retrieve samples that could reveal the origins of the solar system. This ambitious sample-return mission represents a major milestone in interplanetary exploration."
     },
     {
       "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
@@ -30,7 +30,17 @@
       "date": "Sat, 17 Oct 2026 09:28:13 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Nancy Grace Roman Space Telescope has exceeded performance expectations by nearly 30% through precision engineering adjustments. This breakthrough enhances the telescope's remarkable scientific capabilities for future discoveries."
+      "summary": "NASA's Nancy Grace Roman Space Telescope has exceeded performance expectations by nearly 30% following precision engineering adjustments. This achievement promises even more groundbreaking discoveries in exoplanet and cosmology research."
+    },
+    {
+      "title": " Japan launches historic MMX sample-return mission to Mars' moon Phobos (video) ",
+      "description": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 19 Oct 2026 19:53:21 +0000",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "Japan has successfully launched the MMX sample-return mission to Mars' moon Phobos, potentially making history as the first mission to return Martian moon samples to Earth. This groundbreaking mission marks a major achievement in planetary exploration."
     },
     {
       "title": "IceCube, high-energy neutrinos, and Francis Halzen win 2026’s Physics Nobel",
@@ -41,48 +51,27 @@
       "image": "https://miro.medium.com/v2/resize:fit:1080/1*b1HztnOyptcJ4VjwphJJHA.jpeg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "The 2026 Physics Nobel Prize honors Francis Halzen and the IceCube observatory for detecting high-energy neutrinos from space. This groundbreaking achievement transforms our ability to study the universe through a new cosmic messenger."
+      "summary": "Francis Halzen wins the 2026 Nobel Prize in Physics for his vision creating the IceCube observatory, a groundbreaking instrument for detecting high-energy neutrinos from the cosmos."
     },
     {
-      "title": "Japan to launch first-ever mission to get samples from a Martian moon",
-      "description": "Scientists hope the mission, which is expected to take five years, will provide clues to how Phobos and its smaller sibling Deimos formed, and hopefully even shed light on the origins of life in the solar system.",
-      "url": "https://nypost.com/2026/10/18/science/japan-to-launch-first-ever-mission-to-get-samples-from-a-martian-moon/",
-      "source": "New York Post",
-      "date": "2026-10-18T16:02:22Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41390347.jpg?quality=75&strip=all&w=1200",
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat ",
+      "description": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "source": "NASA",
+      "date": "Mon, 19 Oct 2026 18:01:51 +0000",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "NASA's simulated Mars crew completes one year of isolated habitat living, providing crucial insights for future human Mars missions."
+    },
+    {
+      "title": "Euclid discovers new comet ",
+      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "source": "ESA Space Science",
+      "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Missions",
-      "quality": 5,
-      "summary": "Japan will launch its first mission to collect samples from Phobos, a Martian moon, in a groundbreaking five-year exploration. This mission promises to reveal crucial clues about the moon's origins and the formation of our solar system."
-    },
-    {
-      "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "description": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-      "source": "NASA",
-      "date": "Mon, 19 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
       "quality": 4,
-      "summary": "APOD features an unusual X-ray hot radio source exhibiting a rare treble clef-like structure, offering new insights into exotic astronomical phenomena."
-    },
-    {
-      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "description": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-      "source": "NASA",
-      "date": "Sun, 18 Oct 2026 04:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The iconic Eagle Nebula Pillars are sonified in this creative visualization, transforming one of space's most beautiful stellar structures into sound."
-    },
-    {
-      "title": "Artemis II Heat Shield After Splashdown",
-      "description": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
-      "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-      "source": "NASA",
-      "date": "Fri, 16 Oct 2026 16:28:01 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Artemis II heat shield is recovered and documented after splashdown, providing critical data for future crewed lunar missions."
+      "summary": "The European Space Agency's Euclid space telescope makes its first discovery of a previously unknown comet, demonstrating its powerful detection capabilities."
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
@@ -92,7 +81,7 @@
       "date": "Tue, 13 Oct 2026 14:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission prepares for launch, set to conduct groundbreaking research on Mars's enigmatic moons."
+      "summary": "The Martian Moons eXploration mission launches toward Mars's moons to unlock mysteries of the Martian system."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -102,7 +91,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter spacecraft traces the origin of mysterious magnetic switchbacks in the solar wind, unveiling new solar physics."
+      "summary": "ESA's Solar Orbiter unravels the mystery of magnetic switchbacks, revealing how Earth's magnetic environment responds to solar wind interactions."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -112,7 +101,7 @@
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures dynamic stellar jets erupting from a nebula, showcasing the violent birth processes of young stars."
+      "summary": "The James Webb Space Telescope captures spectacular imagery of energetic stellar jets from a nebula, revealing the violent birth processes of stars."
     },
     {
       "title": "Science begins for Smile",
@@ -122,7 +111,7 @@
       "date": "Wed, 30 Sep 2026 09:05:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The European-Chinese Smile mission begins science operations, poised to revolutionize our understanding of Earth's magnetospheric response to solar wind."
+      "summary": "The European-Chinese Smile mission begins its groundbreaking science operations to study how Earth's magnetosphere responds to solar wind."
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
@@ -130,39 +119,59 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
       "source": "ESA Space Science",
       "date": "Tue, 29 Sep 2026 10:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures stunning detailed images of galaxies, showcasing the power of gravitational lensing to reveal distant cosmic structures."
+      "summary": "The James Webb Space Telescope captures galaxies in unprecedented detail, revealing the intricate structures of a cosmic gravitational lens system. This Picture of the Month showcases JWST's remarkable ability to observe distant galactic structures."
     },
     {
-      "title": "A Distant Supercluster of Galaxies Points To Self-Interacting Dark Matter",
-      "description": "The El Gordo supercluster is unusually large given its distance. How could such a large galaxy cluster form so quickly? The answer could be that dark matter is self-interacting in an interesting two-state way.",
-      "url": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
+      "title": "Webb Captures This Golden Galaxy Cluster in All it's Glory",
+      "description": "The NASA/ESA/CSA James Webb Space Telescope Picture of the Month features the brilliant golden galaxies belonging to the MACS J0454.1-0300 galaxy cluster.",
+      "url": "https://www.universetoday.com/articles/webb-captures-the-golden-galaxy-cluster-in-all-its-glory",
       "source": "Universe Today",
-      "date": "Fri, 16 Oct 2026 14:21:42 +0000",
-      "category": "Dark Matter",
+      "date": "Mon, 19 Oct 2026 22:02:00 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "The massive El Gordo supercluster suggests self-interacting dark matter may explain how large galaxy clusters formed earlier in the universe than previously thought possible."
+      "summary": "JWST reveals a stunning golden galaxy cluster in exceptional detail as its Picture of the Month. The observation highlights the telescope's extraordinary capability to capture the brilliance of distant galactic structures."
     },
     {
-      "title": "Japan to launch historic round-trip mission to Mars moon",
-      "description": "Japanese scientists are readying a mission to Mars' moons to retrieve samples that could help unlock the origins of the solar system and life on Earth, in what aims to be the first round trip to the Martian region.",
-      "url": "https://phys.org/news/2026-10-japan-historic-mission-mars-moon.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sun, 18 Oct 2026 16:20:01 EDT",
-      "category": "Missions",
+      "title": "New Observations Show How Black Holes Stir Up Material Surrounding A Galaxy",
+      "description": "Supermassive black holes power tremendous jets that extend far beyond their galaxy. A new study finds how they can also warm material at the outer edge of a galaxy and reduce the rate of star production over time.",
+      "url": "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy",
+      "source": "Universe Today",
+      "date": "Mon, 19 Oct 2026 17:10:49 +0000",
+      "category": "Black Holes",
       "quality": 4,
-      "summary": "Japan is preparing a historic round-trip mission to collect samples from Mars's moon Phobos, potentially revealing clues about the origins of the Martian system."
+      "summary": "New research reveals how supermassive black holes stir and energize material throughout their host galaxies via powerful jets. The study advances our understanding of black hole physics and galactic evolution."
     },
     {
-      "title": "Lone, starless cloud may be a 'dark' galaxy",
-      "description": "Astronomers using China's FAST radio telescope have discovered a compact cloud of hydrogen with no visible stars or galaxy around it. This could be one of the strongest candidates yet for an isolated \"dark galaxy,\" containing nearly 500,000 times the sun's mass in neutral hydrogen. The discovery paper was posted to the arXiv preprint server on Sept. 24.",
-      "url": "https://phys.org/news/2026-10-lone-starless-cloud-dark-galaxy.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 17 Oct 2026 09:40:04 EDT",
-      "category": "Dark Matter",
+      "title": "Achievement Unlocked: Microblazar Confirmed",
+      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the source for the most energetic particles in the galaxy.",
+      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
+      "source": "Universe Today",
+      "date": "Mon, 19 Oct 2026 17:09:50 +0000",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "China's FAST radio telescope has discovered a compact hydrogen cloud with no visible stars, potentially representing a rare 'dark' galaxy. This discovery expands our understanding of galaxy formation and the universe's composition."
+      "summary": "Researchers have confirmed the first-ever detection of a microblazar, a compact cosmic object distinct from larger blazars. This landmark discovery expands our understanding of high-energy phenomena in the universe."
+    },
+    {
+      "title": "Cosmic 'hamburger' offers rare edge-on view of where giant planets may take shape",
+      "description": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gomez's Hamburger\" system, referred to as GoHam.",
+      "url": "https://phys.org/news/2026-10-cosmic-hamburger-rare-edge-view.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 19 Oct 2026 16:20:01 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "ALMA observations reveal an edge-on 'hamburger' structured disk showing the early stages of giant planet formation. This rare perspective provides new insights into planetary system genesis."
+    },
+    {
+      "title": "Webb reveals metal-rich gas around Milky Way's central black hole",
+      "description": "The gas orbiting Sagittarius A (Sgr A*), the supermassive black hole at the center of the Milky Way galaxy, is rich in metals, researchers at McGill University's Trottier Space Institute have found. The metal enrichment probably resulted from stars that exploded and released material into the black hole's surroundings over time, they said.",
+      "url": "https://phys.org/news/2026-10-webb-reveals-metal-rich-gas.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 19 Oct 2026 16:00:15 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope reveals that gas orbiting Sagittarius A*, the supermassive black hole at the Milky Way's center, is remarkably metal-rich. This discovery provides new understanding of black hole environments."
     },
     {
       "title": "Astronomers discover a ghostly green star unlike any known before",
@@ -172,7 +181,17 @@
       "date": "Mon, 19 Oct 2026 06:26:03 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers have discovered an unprecedented green-colored dead star unlike any previously known object. This surprising discovery reveals new diversity in stellar remnants and death states."
+      "summary": "Astronomers have discovered a rare green-hued dead star unlike any previously known, expanding our understanding of stellar diversity. This discovery reveals a surprising rainbow of stellar remnants in our galaxy."
+    },
+    {
+      "title": "Two monster black holes could collide in just 100 years",
+      "description": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 121 days. Depending on their masses, these cosmic giants could merge in as little as 100 years.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sun, 18 Oct 2026 08:03:18 EDT",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Astronomers have found compelling evidence of two supermassive black holes spiraling toward a spectacular collision within approximately 100 years. This rare cosmic event offers unprecedented insights into black hole dynamics."
     },
     {
       "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
@@ -182,7 +201,7 @@
       "date": "Sat, 17 Oct 2026 08:26:49 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "NASA's James Webb Space Telescope has revealed complex atmospheric dynamics on a mysterious world 20 light-years away. The discovery deepens our understanding of exoplanet weather systems and characteristics."
+      "summary": "NASA's James Webb Space Telescope has revealed surprising atmospheric dynamics on a mysterious world 20 light-years away. The discovery provides new insights into exoplanet weather patterns and atmospheric behavior."
     },
     {
       "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
@@ -192,7 +211,7 @@
       "date": "Fri, 16 Oct 2026 19:27:29 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The James Webb Space Telescope has detected an unusual atmospheric bulge on a distant alien planet. This surprising discovery reveals unexpected complexity in exoplanet atmospheres."
+      "summary": "Using the James Webb Space Telescope, astronomers have discovered an unexpected bulge in a distant exoplanet's atmosphere. This unusual atmospheric feature opens new avenues for understanding alien planetary systems."
     },
     {
       "title": "Astronomers discover a strange universal rule behind black hole eruptions",
@@ -202,47 +221,17 @@
       "date": "Fri, 16 Oct 2026 06:45:33 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Scientists have discovered a universal scaling law governing how black holes of vastly different sizes launch powerful jets. This breakthrough unifies our understanding of black hole physics across all scales."
+      "summary": "Scientists have discovered a universal principle governing how black holes of vastly different sizes launch powerful jets. This breakthrough reveals fundamental physics applicable across the entire spectrum of black hole masses."
     },
     {
-      "title": " Watch Japan launch a bold sample-return mission to Mars moon Phobos today ",
-      "description": "Japan will launch its audacious MMX sample-return mission to Mars today (Oct. 19), and you can watch the historic action live.",
-      "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+      "title": " Did a giant object collide with Earth to form the moon? ",
+      "description": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
+      "url": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
       "source": " Latest from Space.com ",
-      "date": "Mon, 19 Oct 2026 10:00:00 +0000",
-      "category": "Missions",
+      "date": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Japan is launching its ambitious MMX sample-return mission to Mars moon Phobos. This historic mission aims to return the first samples from a Martian moon and answer fundamental questions about planetary moon origins."
-    },
-    {
-      "title": " Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars ",
-      "description": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
-      "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 19:20:03 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Japan's MMX mission to Mars' moons could resolve decades of scientific debate about the origins of Phobos and Deimos. This bold sample-return mission represents a major advance in Mars system exploration."
-    },
-    {
-      "title": " On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^< ",
-      "description": "On Oct. 18, 1963, a cat went to space! Félicette was a French \"catstronaut\" who became the first and only feline to fly to space. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 13:52:32 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "On October 18, 1963, Félicette became the first and only cat to fly to space as part of France's space program. This historic achievement marked a pioneering moment in early spaceflight and animal research."
-    },
-    {
-      "title": " Astronomers want your help finding 'missing' black holes in the Milky Way ",
-      "description": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 18 Oct 2026 12:00:00 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Astronomers have launched a citizen science project inviting volunteers to search NASA telescope data for undiscovered black holes in the Milky Way. This collaborative effort aims to uncover previously hidden cosmic objects in our galaxy."
+      "summary": "Scientists explore the giant-impact hypothesis, the leading theory explaining how a collision between Earth and a Mars-sized object formed our Moon."
     },
     {
       "title": "Astronomers Uncover More Intriguing Detail in an Ancient Supernova Remnant",
@@ -253,7 +242,7 @@
       "image": "https://www.universetoday.com/article_images/Image1_noirlab2624a_JPG_V1_20261014_133110.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered new intriguing details in an ancient supernova remnant from an explosion recorded in 1181 by Chinese and Japanese observers. Modern analysis continues to reveal secrets from this centuries-old cosmic event."
+      "summary": "Astronomers reveal new details about a supernova remnant from a 1181 explosion recorded by ancient Chinese and Japanese observers, deepening our understanding of stellar explosions."
     },
     {
       "title": "CHIME time, AI transparency in research, ‘Evolution’ on PBS, and faculty honors",
@@ -262,9 +251,9 @@
       "source": "Yale.edu",
       "date": "2026-10-12T17:27:47Z",
       "image": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/2026-10/YN-A%20view%20of%20CHIME%20at%20night%2C%20with%20the%20Milky%20Way%20in%20the%20background%20Credit_%20CHIME%20collaboration.jpg?h=03155992&itok=_d3Bgv_M",
-      "category": "Cosmology",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Yale researchers demonstrate the utility of the CHIME radio telescope in understanding cosmic expansion. This innovative instrument continues to reveal new insights about the universe's evolution."
+      "summary": "Yale researchers demonstrate the innovative CHIME radio telescope's utility in understanding cosmic expansion and the universe's evolution."
     },
     {
       "title": "Physics Nobel highlights Antarctica’s role in exploring the cosmos",
@@ -273,9 +262,31 @@
       "source": "The Conversation Africa",
       "date": "2026-10-12T12:20:36Z",
       "image": "https://images.theconversation.com/files/765326/original/file-20261009-50-iwervg.jpg?ixlib=rb-4.1.1&rect=0%2C93%2C1110%2C555&q=45&auto=format&w=1356&h=668&fit=crop",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Antarctica's unique environment serves as a window for exploring the cosmos, playing a critical role in scientific discoveries highlighted by the Physics Nobel Prize. This remote continent enables groundbreaking astronomical research."
+      "summary": "Antarctica's unique environment serves as an ideal observatory for cosmic exploration, highlighted by the 2026 Nobel Prize recognition of Antarctic-based research."
+    },
+    {
+      "title": "Bilder, Videos, Audio: NASA veröffentlicht gigantischen Datensatz zum Mond",
+      "description": "Die Nasa veröffentlicht in dieser Woche einen riesigen Datensatz der Artemis-2-Mission. Warum die mehr als 800 Gigabyte an Mond-Daten so besonders sind.\nweiterlesen auf t3n.de",
+      "url": "https://t3n.de/news/nasa-artemis-2-mond-daten-archiv-1767746/",
+      "source": "T3n",
+      "date": "2026-10-18T18:00:00Z",
+      "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/04/art002e009288orig.jpg?class=content",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA releases an extensive 800+ gigabyte dataset from the Artemis 2 mission, providing unprecedented lunar imagery and data for scientific research."
+    },
+    {
+      "title": "Japan to launch first-ever mission to get samples from a Martian moon",
+      "description": "Scientists hope the mission, which is expected to take five years, will provide clues to how Phobos and its smaller sibling Deimos formed, and hopefully even shed light on the origins of life in the solar system.",
+      "url": "https://nypost.com/2026/10/18/science/japan-to-launch-first-ever-mission-to-get-samples-from-a-martian-moon/",
+      "source": "New York Post",
+      "date": "2026-10-18T16:02:22Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41390347.jpg?quality=75&strip=all&w=1200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "Japan prepares to launch its first mission to collect samples from Phobos, a Martian moon, expected to reveal clues about the origin and evolution of Mars's moons."
     },
     {
       "title": "\"Das wird ein knappes Rennen\": Fabrik auf dem Mond soll nächste menschliche Zivilisationsstufe zünden",
@@ -286,27 +297,17 @@
       "image": "https://www.n-tv.de/img/31428223/1792192149/Img_16_9/1200/harvester_interlune.jpg",
       "category": "Futurism",
       "quality": 4,
-      "summary": "A lunar factory concept proposes using atomic reactors and mining helium-3 on the Moon to advance human civilization to the next level. This visionary project explores how lunar resources could power humanity's future expansion."
+      "summary": "Visionary lunar factory concepts involving nuclear reactors and Helium-3 mining aim to propel humanity toward the next level of civilization through space-based resource utilization."
     },
     {
-      "title": "Martian Dawn",
-      "description": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
-      "url": "https://www.nasa.gov/image-article/martian-dawn/",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "description": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
       "source": "NASA",
-      "date": "Mon, 19 Oct 2026 16:03:51 +0000",
+      "date": "Mon, 19 Oct 2026 19:28:32 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA's Curiosity rover captures stunning dawn imagery on Mars, revealing intricate yardang formations sculpted by wind erosion across the Martian landscape."
-    },
-    {
-      "title": "APOD: 2026 October 17 – 3D 67P",
-      "description": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
-      "source": "NASA",
-      "date": "Sat, 17 Oct 2026 04:05:00 +0000",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "New 3D imaging data of comet 67P reveals stunning topographical details, enhancing our understanding of this ancient celestial visitor."
+      "summary": "NASA advances shock and vibration analysis technology to protect delicate scientific instruments during rocket launches and space travel."
     }
   ]
 }

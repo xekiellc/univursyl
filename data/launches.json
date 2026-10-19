@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-19T16:58:26.449Z",
+  "generated": "2026-10-19T22:18:02.797Z",
   "launches": [
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
       "name": "H3-24 | Martian Moons eXploration (MMX)",
       "net": "2026-10-19T19:41:03Z",
-      "status": "Go",
+      "status": "In Flight",
       "provider": "Mitsubishi Heavy Industries",
       "rocket": "H3-24",
       "pad": "Yoshinobu Launch Complex LP-2",
