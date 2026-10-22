@@ -1,36 +1,10 @@
 {
-  "generated": "2026-10-22T00:38:51.005Z",
+  "generated": "2026-10-22T07:28:34.609Z",
   "launches": [
-    {
-      "id": "c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
-      "name": "Ceres-1S | Xiguang-4 01",
-      "net": "2026-10-21T03:39:00Z",
-      "status": "Success",
-      "provider": "Galactic Energy",
-      "rocket": "Ceres-1S",
-      "pad": "Rizhao offshore launch location",
-      "location": "Haiyang Oriental Spaceport",
-      "mission": "Xiguang-4 01",
-      "description": "0.5 meter resolution Earth observation satellite for the city of Guangzhou government and Guangzhou University with multi-spectral imaging capability. Prototype of a proposed 25 satellites constellation.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1s_image_20230905114324.jpeg"
-    },
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-      "net": "2026-10-22T07:00:00Z",
-      "status": "TBC",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "mission": "We're Not Hawking Around (3x HawkEye 360)",
-      "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-    },
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-22T21:45:00Z",
+      "net": "2026-10-22T22:40:24Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -39,6 +13,19 @@
       "mission": "Starlink Group 15-15",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+    },
+    {
+      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
+      "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
+      "net": "2026-10-23T07:00:00Z",
+      "status": "TBC",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Rocket Lab Launch Complex 1A",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "mission": "We're Not Hawking Around (3x HawkEye 360)",
+      "description": "HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.\r\n\r\nThe constellation of small satellites (named Hawk ) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
     },
     {
       "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
@@ -82,26 +69,13 @@
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-      "net": "2026-10-25T05:14:00Z",
+      "net": "2026-10-26T05:00:00Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
       "location": "Vandenberg SFB, CA, USA",
       "mission": "Starlink Group 15-16",
-      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-    },
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-28T04:31:00Z",
-      "status": "Go",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "Starlink Group 15-18",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
@@ -119,6 +93,19 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
     },
     {
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "net": "2026-10-29T04:17:00Z",
+      "status": "Go",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "Starlink Group 15-18",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+    },
+    {
       "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
       "name": "SSLV | AayulSAT-1A & others",
       "net": "2026-10-31T00:00:00Z",
@@ -130,6 +117,19 @@
       "mission": "AayulSAT-1A & others",
       "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "name": "Long March 12A | Flight 2",
+      "net": "2026-10-31T00:00:00Z",
+      "status": "TBD",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 12A",
+      "pad": "Long March 12 series Pad",
+      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "mission": "Flight 2",
+      "description": "Second test launch of CASC/SAST’s Long March 12A rocket. Payload identities are TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
     }
   ]
 }

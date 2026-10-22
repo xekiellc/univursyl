@@ -1,7 +1,17 @@
 {
-  "generated": "2026-10-22T00:33:46.117Z",
+  "generated": "2026-10-22T07:24:34.958Z",
   "count": 30,
   "articles": [
+    {
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "source": "NASA",
+      "date": "Wed, 21 Oct 2026 18:35:56 +0000",
+      "category": "Futurism",
+      "quality": 5,
+      "summary": "NASA JPL celebrates 90 years of innovation while unveiling ambitious visions including interstellar probes, lunar drones, and Mars helicopters. These breakthrough concepts represent the next frontier of robotic exploration and discovery."
+    },
     {
       "title": "MMX lifts off to Mars’s moon Phobos ",
       "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
@@ -10,17 +20,27 @@
       "date": "Tue, 20 Oct 2026 09:00:00 +0200",
       "category": "Missions",
       "quality": 5,
-      "summary": "The Martian Moons eXploration (MMX) mission successfully launches to explore Mars's moon Phobos, marking a major milestone in planetary science."
+      "summary": "The Martian Moons eXploration (MMX) mission successfully launches toward Mars's intriguing moon Phobos. This pioneering mission will unlock secrets about the Martian system and planetary moon formation."
     },
     {
-      "title": "Webb Captures Stars in the Early Stages of Life in a Nearby Stellar Nursery",
-      "description": "This Webb infrared image, released on October 6th, 2026, shows the star-forming region NGC 7129, about 3,300 light-years from Earth. The central star, LkHα 234, is a young star of 5–8 solar masses whose outflows have cleared a cavity about 3.5 light-years across. On the right side of the region, younger protostars shoot jets of very hot material that create shocks in the surrounding gas.",
-      "url": "https://www.universetoday.com/articles/webb-captures-stars-in-the-early-stages-of-life-in-a-nearby-stellar-nursery",
-      "source": "Universe Today",
-      "date": "Wed, 21 Oct 2026 20:36:44 +0000",
-      "category": "Astronomy",
+      "title": "Celebrating BepiColombo, three words at a time",
+      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "source": "ESA Space Science",
+      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "Webb reveals infant stars in early stages of formation within NGC 7129, a stellar nursery 3,300 light-years away. This infrared observation provides unprecedented insight into star birth processes."
+      "summary": "BepiColombo celebrates eight years of successful operation studying Mercury, marking a milestone anniversary for this groundbreaking ESA-JAXA mission. The spacecraft continues to reveal unprecedented insights into our innermost planet."
+    },
+    {
+      "title": "Neutrinos May Be The Key To Why We Are Surrounded By Matter",
+      "description": "In the early Universe, neutrinos interacted strongly with other matter before some of them \"decoupled.\" The heaviest of these decoupled neutrinos may be the solution to the matter-antimatter cosmic mystery.",
+      "url": "https://www.universetoday.com/articles/neutrinos-may-be-the-key-to-why-we-are-surrounded-by-matter",
+      "source": "Universe Today",
+      "date": "Wed, 21 Oct 2026 16:45:41 +0000",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "Groundbreaking research suggests neutrinos may hold the key to explaining why the universe is composed primarily of matter rather than antimatter."
     },
     {
       "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
@@ -30,7 +50,7 @@
       "date": "Wed, 21 Oct 2026 05:22:36 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Perseverance rover has set a new off-world driving distance record, surpassing all previous Mars exploration achievements. The milestone demonstrates the rover's exceptional durability and the success of Mars exploration missions."
+      "summary": "NASA's Perseverance rover has set a new record for off-world driving distance, surpassing all previous planetary exploration achievements. This milestone celebrates human engineering and the continued success of Mars exploration."
     },
     {
       "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
@@ -40,17 +60,17 @@
       "date": "Tue, 20 Oct 2026 08:34:15 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Scientists have made a major breakthrough in understanding the universe's first five minutes through precise measurements of primordial elements. This discovery illuminates the universe's birth and earliest moments of cosmic evolution."
+      "summary": "Astronomers have achieved a major breakthrough in understanding the Universe's first five minutes through new measurements of primordial abundances. This discovery illuminates the earliest moments of cosmic history."
     },
     {
-      "title": "Two monster black holes could collide in just 100 years",
-      "description": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 121 days. Depending on their masses, these cosmic giants could merge in as little as 100 years.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+      "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+      "description": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clues about the Milky Way's own past and future.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Sun, 18 Oct 2026 08:03:18 EDT",
+      "date": "Tue, 20 Oct 2026 02:17:55 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Astronomers have found compelling evidence that two supermassive black holes are spiraling toward a collision in approximately 100 years. This extraordinary discovery offers a rare opportunity to witness one of the universe's most dramatic events."
+      "summary": "NASA's new gallery reveals 16 stunning galaxies featuring spectacular black hole jets, explosive star formation, and cosmic phenomena. These remarkable images showcase the dynamic and beautiful universe revealed by modern telescopes."
     },
     {
       "title": " SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says ",
@@ -60,7 +80,7 @@
       "date": "Tue, 20 Oct 2026 22:29:46 +0000",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX will attempt to catch both Starship booster and Super Heavy stages during the next test flight, representing a profound technology milestone for reusable rocket recovery."
+      "summary": "SpaceX plans to attempt a historic double catch of both Starship rocket stages during the next test flight, representing a profound technological milestone for reusable launch systems."
     },
     {
       "title": "IceCube, high-energy neutrinos, and Francis Halzen win 2026’s Physics Nobel",
@@ -71,7 +91,27 @@
       "image": "https://miro.medium.com/v2/resize:fit:1080/1*b1HztnOyptcJ4VjwphJJHA.jpeg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Francis Halzen and the IceCube observatory win the 2026 Physics Nobel Prize for detecting high-energy neutrinos from space. This groundbreaking achievement opens a new window on the universe."
+      "summary": "Francis Halzen and the IceCube neutrino observatory win the 2026 Physics Nobel Prize for breakthrough discoveries in high-energy neutrino astronomy."
+    },
+    {
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "description": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 04:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Astronomers discover WD J1330+6435, the first green star ever observed, revealing unprecedented stellar phenomena. This landmark discovery expands our understanding of stellar diversity and exotic stellar objects."
+    },
+    {
+      "title": "Faster to Science: A Letter to the Science Community",
+      "description": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 00:00:16 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA Science announces streamlined mission competition and selection processes to accelerate scientific discoveries and get results to the research community faster. This structural reform promises to enhance innovation in space exploration."
     },
     {
       "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -81,27 +121,27 @@
       "date": "Wed, 21 Oct 2026 20:51:50 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA successfully tested the RS-25 engine at Stennis Space Center, advancing propulsion technology for future Artemis lunar missions."
+      "summary": "NASA successfully tests RS-25 engine No. 10001 at Stennis Space Center, advancing propulsion technology for future Artemis lunar missions. This critical test validates engine performance for humanity's return to the Moon."
     },
     {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "title": "Tracks Along the Longest Drive on Another World",
+      "description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
       "source": "NASA",
-      "date": "Wed, 21 Oct 2026 18:35:56 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "NASA JPL explores ambitious innovations including interstellar probes, lunar drones, and Mars helicopters for the next 90 years of space exploration."
-    },
-    {
-      "title": "Celebrating BepiColombo, three words at a time",
-      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
+      "date": "Wed, 21 Oct 2026 15:50:44 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo celebrates eight years of groundbreaking scientific achievements since its October 2018 launch to explore Mercury."
+      "summary": "NASA celebrates a historic milestone with the longest drive ever completed on another world by a robotic rover. This achievement showcases the durability and success of Mars exploration technology."
+    },
+    {
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "description": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D […]",
+      "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+      "source": "NASA",
+      "date": "Wed, 21 Oct 2026 15:05:08 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA astronaut Jessica Watkins conducts groundbreaking life science experiments aboard the International Space Station in the Kibo laboratory module. Her work advances human knowledge of biology in microgravity environments."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -111,7 +151,7 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, showcasing the mission's remarkable detection capabilities."
+      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the mission's exceptional capability for detecting faint solar system objects. This discovery highlights the telescope's scientific potential."
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
@@ -121,7 +161,7 @@
       "date": "Tue, 13 Oct 2026 14:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission launches on Japan's H3 rocket to explore Mars's mysterious moons."
+      "summary": "The Martian Moons eXploration (MMX) mission is set to launch on an H3 rocket toward Mars's moon Phobos, representing an exciting new chapter in Mars system exploration. This mission promises extraordinary scientific discoveries."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -131,7 +171,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Solar Orbiter traces the origin of mysterious magnetic switchbacks in the solar wind, unlocking secrets of the Sun's magnetic behavior."
+      "summary": "The ESA Solar Orbiter spacecraft flies through a magnetic switchback in the solar wind, revealing new insights into mysterious magnetic structures near the Sun. This discovery advances our understanding of solar magnetic phenomena."
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
@@ -139,9 +179,9 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
       "source": "ESA Space Science",
       "date": "Tue, 06 Oct 2026 15:00:00 +0200",
-      "category": "Astronomy",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures stunning imagery of dynamic stellar jets erupting from a nebula. This observation reveals the violent and energetic processes occurring during star formation."
+      "summary": "The James Webb Space Telescope captures dynamic stellar jets and outflows from a nebula, revealing the energetic processes of star formation in unprecedented detail."
     },
     {
       "title": "How Flare Ribbons Reveal Hidden Solar Explosions on the Sun",
@@ -149,9 +189,19 @@
       "url": "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun",
       "source": "Universe Today",
       "date": "Wed, 21 Oct 2026 23:18:19 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "New research explains how solar flares and their characteristic ribbon structures form through magnetic field reconnection, advancing our understanding of solar dynamics."
+    },
+    {
+      "title": "Webb Captures Stars in the Early Stages of Life in a Nearby Stellar Nursery",
+      "description": "This Webb infrared image, released on October 6th, 2026, shows the star-forming region NGC 7129, about 3,300 light-years from Earth. The central star, LkHα 234, is a young star of 5–8 solar masses whose outflows have cleared a cavity about 3.5 light-years across. On the right side of the region, younger protostars shoot jets of very hot material that create shocks in the surrounding gas.",
+      "url": "https://www.universetoday.com/articles/webb-captures-stars-in-the-early-stages-of-life-in-a-nearby-stellar-nursery",
+      "source": "Universe Today",
+      "date": "Wed, 21 Oct 2026 20:36:44 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "New research illuminates the complex mechanisms behind solar flares, showing how magnetic field reconnection triggers these spectacular explosions. Scientists use flare ribbons as tracers to understand hidden solar dynamics."
+      "summary": "Webb's infrared observations of NGC 7129 reveal newborn stars in their earliest stages of development, providing insights into stellar birth processes 3,300 light-years away."
     },
     {
       "title": "There Should Be Black Holes in our Neighbourhood. Can We Find Them?",
@@ -161,7 +211,7 @@
       "date": "Wed, 21 Oct 2026 17:46:00 +0000",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers explore whether stellar-mass black holes exist within 50 light-years of Earth, potentially hiding in our cosmic neighborhood. This investigation could revolutionize our understanding of black hole distribution."
+      "summary": "Research investigates the possibility of discovering stellar-mass black holes in our cosmic neighborhood within 50 light-years, expanding our understanding of nearby compact objects."
     },
     {
       "title": "A Stubborn Question Answered: New Research Reveals How the Milky Way's Disk Formed",
@@ -171,17 +221,7 @@
       "date": "Wed, 21 Oct 2026 17:23:09 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "New research solves a long-standing astronomical mystery by explaining how the Milky Way's thin and thick disks formed. This discovery reshapes our understanding of galactic structure and evolution."
-    },
-    {
-      "title": "Neutrinos May Be The Key To Why We Are Surrounded By Matter",
-      "description": "In the early Universe, neutrinos interacted strongly with other matter before some of them \"decoupled.\" The heaviest of these decoupled neutrinos may be the solution to the matter-antimatter cosmic mystery.",
-      "url": "https://www.universetoday.com/articles/neutrinos-may-be-the-key-to-why-we-are-surrounded-by-matter",
-      "source": "Universe Today",
-      "date": "Wed, 21 Oct 2026 16:45:41 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Groundbreaking research suggests neutrinos may hold the key to explaining matter's dominance in the early Universe. This finding could resolve one of physics' most fundamental questions."
+      "summary": "New research solves a longstanding astronomy puzzle by revealing how the Milky Way's thin and thick galactic disks formed through distinct evolutionary processes."
     },
     {
       "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
@@ -191,7 +231,7 @@
       "date": "Wed, 21 Oct 2026 16:12:33 +0000",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA and Inversion collaborate to develop aerocapture technology, using planetary atmospheres to efficiently place satellites into orbit. This innovation promises to revolutionize interplanetary mission design."
+      "summary": "Inversion and NASA collaborate to develop aerocapture technology, enabling spacecraft to use planetary atmospheres for orbital insertion and reducing fuel requirements for interplanetary missions."
     },
     {
       "title": "Solar Orbiter Traces Giant Magnetic Switchbacks Directly Back to the Sun",
@@ -201,7 +241,7 @@
       "date": "Wed, 21 Oct 2026 15:43:19 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Solar Orbiter traces massive magnetic switchbacks directly to their source on the Sun's surface, advancing solar physics understanding. This breakthrough explains previously mysterious solar wind phenomena."
+      "summary": "Solar Orbiter traces giant magnetic switchbacks directly to their source on the Sun, advancing understanding of solar magnetic phenomena and solar wind dynamics."
     },
     {
       "title": "Under Extreme Pressure on Ice Giants, Water Ice Gets Weird",
@@ -211,7 +251,7 @@
       "date": "Wed, 21 Oct 2026 15:13:00 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover that water ice behaves dramatically differently under extreme pressure found on ice giants like Neptune and Uranus. This exotic form of ice reveals surprising properties of matter in extreme environments."
+      "summary": "Research reveals that water ice undergoes remarkable transformations under extreme pressure on ice giants, adopting unusual asymmetric crystalline structures."
     },
     {
       "title": "Hubble observations challenge supernova winds' role in cosmic reionization",
@@ -221,7 +261,17 @@
       "date": "Wed, 21 Oct 2026 13:20:15 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Hubble observations reveal surprising new insights into supernova winds' role in cosmic reionization during the early Universe. This finding challenges existing models of how the Universe became transparent."
+      "summary": "Hubble observations provide surprising new insights into supernova winds and their role in cosmic reionization, challenging existing models of early universe evolution."
+    },
+    {
+      "title": "Reexamined Viking 2 signal reveals possible marsquake from region active decades later",
+      "description": "Earthquakes and the seismic waves they generate provide some of the best clues to Earth's interior. To extend that success to other worlds, scientists placed seismometers on the Apollo missions to the moon and on the Viking Mars landers, which reached Mars in 1976. Though the Apollo detectors proved a resounding success, Viking's results on Mars were less clear: Viking 1's seismometer failed to deploy properly, and Viking 2 recorded only two ambiguous events.",
+      "url": "https://phys.org/news/2026-10-reexamined-viking-reveals-marsquake-region.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 21 Oct 2026 12:40:06 EDT",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "Reanalysis of Viking 2 data reveals possible marsquake signatures, demonstrating how seismic studies unlock mysteries of Mars' interior structure."
     },
     {
       "title": "Astronomers uncover the engine behind the most powerful stellar flares in the Kepler field",
@@ -231,7 +281,7 @@
       "date": "Wed, 21 Oct 2026 09:20:06 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers identify the mechanisms powering the most intense stellar flares observed in the Kepler field. This research deepens understanding of extreme magnetic activity on distant stars."
+      "summary": "Astronomers identify the engine mechanism behind the most powerful stellar flares observed in the Kepler field, advancing flare prediction and stellar activity understanding."
     },
     {
       "title": "A magnetar can be born when two neutron stars touch",
@@ -241,7 +291,7 @@
       "date": "Tue, 20 Oct 2026 22:40:08 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "New research reveals that magnetars can be born through the merger of two neutron stars, creating the most magnetic objects in the Universe. This discovery expands our understanding of extreme stellar remnants."
+      "summary": "Research reveals that magnetars can form through neutron star mergers, unlocking new understanding of how the universe's most extreme magnetic objects are created."
     },
     {
       "title": "Rare solar radiation storm gives scientists clearest picture yet of flight risks",
@@ -251,57 +301,7 @@
       "date": "Tue, 20 Oct 2026 21:00:01 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "Scientists have compiled the most comprehensive data on solar radiation events from Earth's atmosphere, providing crucial insights into flight safety risks. This breakthrough understanding helps protect both astronauts and aircraft from harmful space weather."
-    },
-    {
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "description": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 21 Oct 2026 07:59:14 EDT",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "A groundbreaking study of 13 astronauts reveals the human heart is surprisingly resilient for long-duration spaceflight to Mars. This encouraging finding advances our understanding of human physiology for deep space exploration."
-    },
-    {
-      "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
-      "description": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 19 Oct 2026 22:23:00 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA scientists have solved the mystery of why asteroid Bennu loses heat rapidly despite its boulder-covered surface. This discovery enhances our understanding of asteroid thermal properties and space rock composition."
-    },
-    {
-      "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
-      "description": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clues about the Milky Way's own past and future.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 20 Oct 2026 02:17:55 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "NASA's new gallery showcases 16 stunning galaxies featuring dramatic black hole jets, explosive star formation, and spectacular cosmic phenomena. These images reveal the dynamic and awe-inspiring nature of the universe's most energetic objects."
-    },
-    {
-      "title": "Astronomers discover a ghostly green star unlike any known before",
-      "description": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cyan because of unusual chemical interactions in their extremely dense atmospheres.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 19 Oct 2026 06:26:03 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers have discovered a rare ghostly green star, the first known star of its kind with this unusual appearance. This surprising discovery expands our knowledge of stellar diversity and dead star phenomena."
-    },
-    {
-      "title": " When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update) ",
-      "description": "NASA has updated the timeline for its Artemis III mission and mapped out the expected progress for SpaceX and Blue Origin's respective moon landers.",
-      "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "NASA has released updated timelines for Artemis III and mapped progress for commercial lunar landers from SpaceX and Blue Origin. These milestones represent an exciting new era of human lunar exploration and public-private space partnership."
+      "summary": "Scientists have gathered the most comprehensive data ever collected during a solar radiation event, providing crucial insights into flight safety risks. This breakthrough dataset advances our understanding of space weather's impact on human spaceflight."
     }
   ]
 }
