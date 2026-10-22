@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T15:06:37.876Z",
+  "generated": "2026-10-22T21:29:57.393Z",
   "launches": [
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -106,17 +106,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
-      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
-      "name": "SSLV | AayulSAT-1A & others",
-      "net": "2026-10-31T00:00:00Z",
+      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
+      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
+      "net": "2026-10-30T00:00:00Z",
       "status": "TBD",
       "provider": "Indian Space Research Organization",
-      "rocket": "SSLV",
-      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "rocket": "GSLV Mk II",
+      "pad": "Satish Dhawan Space Centre Second Launch Pad",
       "location": "Satish Dhawan Space Centre, India",
-      "mission": "AayulSAT-1A & others",
-      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
+      "mission": "IRNSS-1L (NVS-03)",
+      "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
