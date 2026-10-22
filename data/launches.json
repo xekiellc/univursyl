@@ -1,37 +1,24 @@
 {
-  "generated": "2026-10-21T00:33:38.303Z",
+  "generated": "2026-10-22T00:38:51.005Z",
   "launches": [
     {
-      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
-      "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "net": "2026-10-20T11:04:00Z",
-      "status": "Success",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 40",
-      "location": "Cape Canaveral SFS, FL, USA",
-      "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX’s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg"
-    },
-    {
       "id": "c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
-      "name": "Ceres-1S | Unknown Payload",
-      "net": "2026-10-21T03:35:00Z",
-      "status": "Go",
+      "name": "Ceres-1S | Xiguang-4 01",
+      "net": "2026-10-21T03:39:00Z",
+      "status": "Success",
       "provider": "Galactic Energy",
       "rocket": "Ceres-1S",
       "pad": "Rizhao offshore launch location",
       "location": "Haiyang Oriental Spaceport",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
+      "mission": "Xiguang-4 01",
+      "description": "0.5 meter resolution Earth observation satellite for the city of Guangzhou government and Guangzhou University with multi-spectral imaging capability. Prototype of a proposed 25 satellites constellation.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1s_image_20230905114324.jpeg"
     },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
       "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-      "net": "2026-10-21T07:00:00Z",
-      "status": "Go",
+      "net": "2026-10-22T07:00:00Z",
+      "status": "TBC",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "pad": "Rocket Lab Launch Complex 1A",
@@ -43,7 +30,7 @@
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-21T21:59:00Z",
+      "net": "2026-10-22T21:45:00Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -80,19 +67,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
     },
     {
-      "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-      "net": "2026-10-24T05:29:00Z",
-      "status": "Go",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "Starlink Group 15-16",
-      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-    },
-    {
       "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
       "name": "Long March 8A | Unknown Payload",
       "net": "2026-10-25T01:50:00Z",
@@ -104,6 +78,19 @@
       "mission": "Unknown Payload",
       "description": "Details TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+    },
+    {
+      "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-16",
+      "net": "2026-10-25T05:14:00Z",
+      "status": "Go",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "Starlink Group 15-16",
+      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
@@ -130,6 +117,19 @@
       "mission": "Amazon Leo (LV-01)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+    },
+    {
+      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
+      "name": "SSLV | AayulSAT-1A & others",
+      "net": "2026-10-31T00:00:00Z",
+      "status": "TBD",
+      "provider": "Indian Space Research Organization",
+      "rocket": "SSLV",
+      "pad": "Satish Dhawan Space Centre First Launch Pad",
+      "location": "Satish Dhawan Space Centre, India",
+      "mission": "AayulSAT-1A & others",
+      "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
     }
   ]
 }
