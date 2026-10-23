@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-23T00:34:57.211Z",
+  "generated": "2026-10-23T07:23:03.838Z",
   "launches": [
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
       "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-      "net": "2026-10-23T07:00:00Z",
-      "status": "Go",
+      "net": "2026-10-23T07:11:00Z",
+      "status": "In Flight",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "pad": "Rocket Lab Launch Complex 1A",
