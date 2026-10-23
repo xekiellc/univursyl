@@ -1,26 +1,56 @@
 {
-  "generated": "2026-10-22T21:25:23.548Z",
+  "generated": "2026-10-23T00:30:52.000Z",
   "count": 30,
   "articles": [
     {
-      "title": "Webb Captures Stars in the Early Stages of Life in a Nearby Stellar Nursery",
-      "description": "This Webb infrared image, released on October 6th, 2026, shows the star-forming region NGC 7129, about 3,300 light-years from Earth. The central star, LkHα 234, is a young star of 5–8 solar masses whose outflows have cleared a cavity about 3.5 light-years across. On the right side of the region, younger protostars shoot jets of very hot material that create shocks in the surrounding gas.",
-      "url": "https://www.universetoday.com/articles/webb-captures-stars-in-the-early-stages-of-life-in-a-nearby-stellar-nursery",
-      "source": "Universe Today",
-      "date": "Wed, 21 Oct 2026 20:36:44 +0000",
-      "category": "NASA",
+      "title": "MMX lifts off to Mars’s moon Phobos ",
+      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "source": "ESA Space Science",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "The James Webb Space Telescope captured stunning infrared images of NGC 7129, a nearby stellar nursery 3,300 light-years away, revealing stars in their earliest stages of formation."
+      "summary": "The Martian Moons eXploration (MMX) mission successfully lifts off on its journey to explore Phobos, Mars's mysterious moon."
     },
     {
-      "title": "Webb image reveals young stars brewing in a nebulous cauldron",
-      "description": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas. This is a star-forming region named LHA 120-N 159, or simply N159, located 161,000 light-years away in the Large Magellanic Cloud (LMC), one of the satellite galaxies orbiting the Milky Way galaxy. This image spans about 230 light-years across.",
-      "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 22 Oct 2026 13:40:01 EDT",
-      "category": "Astrophysics",
+      "title": "Euclid discovers new comet ",
+      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "source": "ESA Space Science",
+      "date": "Mon, 19 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "A stunning James Webb Space Telescope image showcases a turbulent star-forming region where young stars are actively brewing within a nebulous cauldron of gas and dust."
+      "summary": "The ESA's Euclid space telescope makes its first discovery of a previously unknown comet, demonstrating its exceptional observational capabilities."
+    },
+    {
+      "title": "Mars moon lander set to launch on 19 October",
+      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "source": "ESA Space Science",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "The Martian Moons eXploration (MMX) mission is set to launch on an H3 rocket, beginning humanity's detailed study of Mars's moons."
+    },
+    {
+      "title": "Two Disks in One: How Accretion Disks Drive Black Hole Jets",
+      "description": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin, cold accretion disks. New research has solved this paradox, showing that disks can be truncated into an outer cold disk and an inner hot disk.",
+      "url": "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
+      "source": "Universe Today",
+      "date": "Thu, 22 Oct 2026 19:25:24 +0000",
+      "category": "Black Holes",
+      "quality": 5,
+      "summary": "Researchers reveal how thick, hot accretion disks with powerful magnetic fields drive supermassive black hole jets, resolving a major astrophysical paradox."
+    },
+    {
+      "title": "New Evidence for an Old Prediction: Recoiling Supermassive Black Holes",
+      "description": "Theory says that during some SMBH mergers, the merger remnant receives a recoil kick from gravitational waves. Instead of sitting placidly in the galactic center, these recoiled SMBH are sent on a pendulum-like motion, back and forth through the galactic center. New research has found statistical evidence supporting their existence.",
+      "url": "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes",
+      "source": "Universe Today",
+      "date": "Thu, 22 Oct 2026 17:52:01 +0000",
+      "category": "Black Holes",
+      "quality": 5,
+      "summary": "New observational evidence confirms decades-old theoretical predictions about recoiling supermassive black holes receiving gravitational wave kicks during mergers."
     },
     {
       "title": "Supermassive black holes ejected from galactic centers? Quasar survey supports decade-old prediction",
@@ -30,7 +60,7 @@
       "date": "Thu, 22 Oct 2026 12:20:25 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Analysis of approximately 100,000 quasars provides strong evidence supporting a decade-old prediction that supermassive black holes can be ejected from galactic centers."
+      "summary": "Analysis of 100,000 quasars confirms a decade-old prediction that supermassive black holes can be ejected from galactic centers through gravitational wave recoil."
     },
     {
       "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
@@ -40,7 +70,7 @@
       "date": "Wed, 21 Oct 2026 05:22:36 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA's Perseverance rover has broken the all-time off-world driving record, traveling farther across Mars than any previous rover. This milestone demonstrates the mission's continued success and scientific productivity."
+      "summary": "NASA's Perseverance rover has shattered the all-time off-world driving record, demonstrating exceptional durability and engineering on Mars. This milestone celebrates humanity's growing capability to explore distant worlds."
     },
     {
       "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
@@ -50,17 +80,18 @@
       "date": "Tue, 20 Oct 2026 08:34:15 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Astronomers have achieved a major breakthrough by measuring conditions during the Universe's first five minutes after the Big Bang. This discovery deepens our understanding of the cosmos' earliest and most fundamental moments."
+      "summary": "Scientists have achieved a major breakthrough in understanding the Universe's first five minutes by measuring the amount of primordial elements. This discovery deepens our knowledge of cosmic origins and the Big Bang."
     },
     {
-      "title": " NASA giving update about Artemis moon plans on Oct. 23: Watch it live ",
-      "description": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
-      "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "category": "NASA",
+      "title": "Achievement Unlocked: Microblazar Confirmed",
+      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the s…",
+      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
+      "source": "Universe Today",
+      "date": "2026-10-19T17:09:50Z",
+      "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "NASA will provide an update on its Artemis III mission plans to land astronauts on the moon during a press conference on October 23rd. This landmark announcement represents a major milestone in humanity's return to lunar exploration."
+      "summary": "Astronomers have confirmed the first-ever microblazar, a smaller cousin of the powerful extragalactic blazars powered by supermassive black holes. This discovery expands our understanding of high-energy cosmic phenomena."
     },
     {
       "title": "IceCube, high-energy neutrinos, and Francis Halzen win 2026’s Physics Nobel",
@@ -71,7 +102,17 @@
       "image": "https://miro.medium.com/v2/resize:fit:1080/1*b1HztnOyptcJ4VjwphJJHA.jpeg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Francis Halzen wins the 2026 Physics Nobel Prize for his vision that grew into the IceCube observatory, which detects high-energy neutrinos from the cosmos. This achievement represents a major breakthrough in observational astronomy and fundamental physics."
+      "summary": "Francis Halzen and the IceCube neutrino observatory win the 2026 Physics Nobel Prize for detecting high-energy neutrinos from space. This breakthrough opens a new window into understanding the universe's most energetic phenomena."
+    },
+    {
+      "title": "Spiral’s Edge",
+      "description": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "source": "NASA",
+      "date": "Thu, 22 Oct 2026 21:35:38 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope captures a stunning edge-on view of spiral galaxy NGC 1, revealing intricate galactic structure and stellar distributions."
     },
     {
       "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses ",
@@ -81,7 +122,7 @@
       "date": "Thu, 22 Oct 2026 16:20:37 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope is charting gravitational lensing observations to prepare for science operations with the Nancy Grace Roman Space Telescope, advancing our ability to study distant galaxies and cosmology."
+      "summary": "Hubble's gravitational lensing observations are paving the way for groundbreaking science with NASA's upcoming Nancy Grace Roman Space Telescope."
     },
     {
       "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
@@ -91,7 +132,7 @@
       "date": "Thu, 22 Oct 2026 04:05:00 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers have discovered WD J1330+6435, the first known green star, a rare white dwarf with unique atmospheric properties that challenge our understanding of stellar composition."
+      "summary": "Astronomers have identified WD J1330+6435, the first green star ever discovered, a remarkable addition to our understanding of stellar diversity."
     },
     {
       "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -101,7 +142,7 @@
       "date": "Wed, 21 Oct 2026 20:51:50 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA successfully tested the RS-25 engine at Stennis Space Center in preparation for future Artemis lunar missions that will return humans to the Moon."
+      "summary": "NASA successfully tests the RS-25 engine in preparation for future Artemis lunar missions, advancing human exploration capabilities."
     },
     {
       "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
@@ -111,17 +152,17 @@
       "date": "Wed, 21 Oct 2026 18:35:56 +0000",
       "category": "Futurism",
       "quality": 4,
-      "summary": "NASA's Jet Propulsion Laboratory looks toward the next 90 years of innovation, envisioning interstellar probes, lunar drones, and Martian helicopters as part of humanity's exploration future."
+      "summary": "NASA JPL celebrates 90 years of innovation while outlining ambitious future missions including interstellar probes, lunar drones, and Martian helicopters."
     },
     {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "title": "Stars brewing in a nebulous cauldron",
+      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
       "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
-      "category": "Missions",
+      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission successfully lifts off to explore Phobos, Mars's mysterious moon, opening new frontiers in planetary science."
+      "summary": "A stunning astronomical image captures the dynamic process of star formation within a nebulous stellar nursery."
     },
     {
       "title": "Celebrating BepiColombo, three words at a time",
@@ -131,27 +172,17 @@
       "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The BepiColombo mission celebrates a significant anniversary as it continues its groundbreaking journey to explore Mercury and unlock the secrets of the innermost planet."
+      "summary": "BepiColombo celebrates eight years of successful operation as it continues its groundbreaking mission studying the planet Mercury."
     },
     {
-      "title": "Euclid discovers new comet ",
-      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "title": "Where winds blow and lava flows",
+      "description": "Image:\n\t\t\tWhere winds blow and lava flows",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
       "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 14:00:00 +0200",
-      "category": "Astronomy",
+      "date": "Wed, 14 Oct 2026 11:00:00 +0200",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope has discovered its first previously unknown comet, demonstrating the mission's capability to uncover new solar system objects."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission is set to launch aboard Japan's H3 rocket to study Mars's enigmatic moons and advance our understanding of the Mars system."
+      "summary": "A striking image captures the dynamic planetary processes of wind and volcanic activity on one of our solar system's worlds."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -161,7 +192,27 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter has tracked the origin of mysterious magnetic switchbacks in the solar wind, solving a key puzzle in solar physics."
+      "summary": "The ESA's Solar Orbiter spacecraft investigates mysterious magnetic switchbacks in solar wind, advancing our understanding of solar physics."
+    },
+    {
+      "title": "Mars’s oddest cloud may be even odder than we thought",
+      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+      "source": "ESA Space Science",
+      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "European Space Agency's Mars Express reveals surprising new details about Mars's unusual atmospheric cloud formations using advanced meteorological modeling."
+    },
+    {
+      "title": "Advancing Astronomy at MIT with X-ray Reverberation Mapping",
+      "description": "Professor Erin Kara of MIT's Kavli Institute for Astrophysics and Space Research is helping advance our understanding of the most extreme objects in the Universe by analyzing X-ray reverberations and other astrophysical data.",
+      "url": "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
+      "source": "Universe Today",
+      "date": "Thu, 22 Oct 2026 22:39:19 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "MIT researcher Erin Kara advances our understanding of black holes and accretion physics through innovative X-ray reverberation mapping techniques."
     },
     {
       "title": "Even the Rubin's Test Camera Produces Stunning Images",
@@ -171,27 +222,17 @@
       "date": "Thu, 22 Oct 2026 21:04:01 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory's Commissioning Camera produced remarkable images during its 7-week 2024 operation, demonstrating the observatory's exceptional imaging capabilities before the main instrument deployment."
+      "summary": "The Vera Rubin Observatory's test camera produces remarkable astronomical images during its 2024 commissioning phase, demonstrating the observatory's exceptional capabilities."
     },
     {
-      "title": "Two Disks in One: How Accretion Disks Drive Black Hole Jets",
-      "description": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin, cold accretion disks. New research has solved this paradox, showing that disks can be truncated into an outer cold disk and an inner hot disk.",
-      "url": "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
+      "title": "Autonomous Triangular Modules Could Build Tomorrow’s Mega-Observatories",
+      "description": "Private companies are getting better and better at launching more and more mass into space with larger and larger rockets. But, there is still a major constraint on the size of objects we can get into orbit - fairing size. This places physical constraints on the overall shape of what we can launch, and severely limits the sizes of, say, a communications array or a power satellite. But a new paper from researchers at Nanjing University of Aeronautics and Astronautics and the Beijing Institute of Technology offers a solution - a self-shaping, deployable module that can fine-tune both its positioning and its own dimensions.",
+      "url": "https://www.universetoday.com/articles/autonomous-triangular-modules-could-build-tomorrows-mega-observatories",
       "source": "Universe Today",
-      "date": "Thu, 22 Oct 2026 19:25:24 +0000",
-      "category": "Black Holes",
+      "date": "Thu, 22 Oct 2026 15:18:23 +0000",
+      "category": "Futurism",
       "quality": 4,
-      "summary": "New research reveals how thick, hot accretion disks with powerful magnetic fields drive jets from supermassive black holes, resolving a key paradox in black hole physics."
-    },
-    {
-      "title": "New Evidence for an Old Prediction: Recoiling Supermassive Black Holes",
-      "description": "Theory says that during some SMBH mergers, the merger remnant receives a recoil kick from gravitational waves. Instead of sitting placidly in the galactic center, these recoiled SMBH are sent on a pendulum-like motion, back and forth through the galactic center. New research has found statistical evidence supporting their existence.",
-      "url": "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes",
-      "source": "Universe Today",
-      "date": "Thu, 22 Oct 2026 17:52:01 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Observational evidence supports the decades-old theoretical prediction that supermassive black hole mergers produce recoil kicks from gravitational waves, causing the merger remnant to move through space."
+      "summary": "Autonomous triangular modules and advancing rocket technology enable construction of massive next-generation observatories in space."
     },
     {
       "title": "Supernova Explosions First Aided, Then Later Impeded, the Epoch of Reionization",
@@ -201,7 +242,27 @@
       "date": "Thu, 22 Oct 2026 14:53:56 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Research reveals the complex role supernova explosions played in the Epoch of Reionization, first promoting then impeding the reionization of the universe's neutral hydrogen."
+      "summary": "Research reveals how supernova explosions both facilitated and later hindered the Epoch of Reionization, reshaping our understanding of the early universe."
+    },
+    {
+      "title": "Webb captures stars in the early stages of life in a nearby stellar nursery",
+      "description": "The NASA/ESA/CSA James Webb Space Telescope continues to reveal hidden parts of the cosmos with its advanced suite of infrared instruments. In a newly released image, Webb revealed many stars previously hidden by the dust clouds of NGC 7129, a stellar nursery about 3,300 light-years from Earth in the constellation Cepheus. The image is already improving our understanding of how new stars are born and evolve with time.",
+      "url": "https://phys.org/news/2026-10-webb-captures-stars-early-stages.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 22 Oct 2026 13:40:18 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope captures stunning images of young stars in their earliest formation stages within a nearby stellar nursery."
+    },
+    {
+      "title": "Webb image reveals young stars brewing in a nebulous cauldron",
+      "description": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas. This is a star-forming region named LHA 120-N 159, or simply N159, located 161,000 light-years away in the Large Magellanic Cloud (LMC), one of the satellite galaxies orbiting the Milky Way galaxy. This image spans about 230 light-years across.",
+      "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 22 Oct 2026 13:40:01 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "James Webb reveals the turbulent cosmic cauldron where young stars are actively forming within a nebula, showcasing stellar birth in real-time."
     },
     {
       "title": "Black hole observations uncover evidence of solar storm–like magnetic eruptions",
@@ -211,17 +272,27 @@
       "date": "Thu, 22 Oct 2026 11:03:31 EDT",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Technion researchers have identified evidence of solar-storm-like magnetic eruptions occurring in the vicinity of supermassive black holes, expanding our understanding of black hole behavior."
+      "summary": "Technion researchers present evidence for solar-storm-like magnetic eruptions occurring near supermassive black holes, revealing unexpected dynamic phenomena."
     },
     {
-      "title": "Are 'mega-Earths' real? Stellar activity may explain these oversized rocky worlds",
-      "description": "A new study suggests that some of the heaviest rocky planets ever reported may not be as heavy as they look. These so-called 'mega-Earths,' rocky planets weighing more than about 10 Earths, could be an illusion created by activity on their host stars. The paper was posted to the arXiv preprint server on Oct. 8.",
-      "url": "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html",
+      "title": "There should be black holes in our neighborhood. Can we find them?",
+      "description": "Scientific estimates show that there should be between about 100 million and 1 billion stellar-mass black holes in the Milky Way. But they aren't easy to locate. They're not like supermassive black holes (SMBH) at the centers of galaxies. Those are usually easy to spot for different reasons.",
+      "url": "https://phys.org/news/2026-10-black-holes-neighborhood.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 22 Oct 2026 09:50:01 EDT",
-      "category": "Exoplanets",
+      "date": "Thu, 22 Oct 2026 10:40:07 EDT",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "New research suggests some of the heaviest rocky planets may have been overestimated in mass due to stellar activity effects. This discovery refines our understanding of mega-Earth exoplanets and their true characteristics."
+      "summary": "Scientists explore the search for stellar-mass black holes that should exist in our galactic neighborhood based on theoretical estimates of 100 million to 1 billion objects."
+    },
+    {
+      "title": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
+      "description": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called spicules, which are 6–8 Mm long, take the form of warped, denser plasma sheets like pleated drapery.",
+      "url": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 22 Oct 2026 10:20:06 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "International scientists have used simulations to explain the mysterious spinning appearance of solar jets through curtain-like plasma structures. This breakthrough advances our understanding of dynamic solar phenomena."
     },
     {
       "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
@@ -231,79 +302,7 @@
       "date": "Thu, 22 Oct 2026 07:03:49 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Curiosity rover captured spectacular imagery of wind-carved cliffs on Mars that may contain evidence of ancient geological processes. The discovery offers new insights into Mars' geological history and habitability."
-    },
-    {
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "description": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 21 Oct 2026 07:59:14 EDT",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "A groundbreaking study of 13 astronauts reveals that the human heart may be well-adapted for long-duration space travel to Mars. This encouraging finding advances our understanding of human physiology for deep space exploration."
-    },
-    {
-      "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
-      "description": "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders. Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 19 Oct 2026 22:23:00 EDT",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA scientists have uncovered the mystery of why asteroid Bennu rapidly loses heat despite its boulder-covered surface. This discovery enhances our knowledge of asteroid thermal properties and composition."
-    },
-    {
-      "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
-      "description": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes. These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clues about the Milky Way's own past and future.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 20 Oct 2026 02:17:55 EDT",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "NASA presents a stunning gallery of 16 galaxies featuring colossal black hole jets, explosive star formation, and dramatic cosmic phenomena. The images reveal the universe's most violent and energetic processes."
-    },
-    {
-      "title": "Astronomers discover a ghostly green star unlike any known before",
-      "description": "Astronomers have uncovered a surprising rainbow of dead stars, including the first known star that would appear genuinely green to human eyes. Researchers found that white dwarfs can glow in unexpected shades of pink, purple, yellow, and cyan because of unusual chemical interactions in their extremely dense atmospheres.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230018.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 19 Oct 2026 06:26:03 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Astronomers have discovered a rare ghostly green star unlike any previously known stellar object. This unprecedented find expands our knowledge of stellar diversity and exotic stellar phenomena."
-    },
-    {
-      "title": " 'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission ",
-      "description": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
-      "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 22 Oct 2026 16:14:56 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Artemis II astronaut Victor Glover recalls how a suspected cabin leak warning emerged just before a critical engine burn but was successfully resolved. This account highlights NASA's rigorous safety protocols and problem-solving during the historic moon mission."
-    },
-    {
-      "title": "A Quantum Cyclotron for Antimatter",
-      "description": "Author(s): Paolo CrivelliA device that stores a single positron and controls its quantum states could measure its magnetic moment with unprecedented precision, testing a symmetry principle central to quantum field theory.[Physics 19, 132] Published Wed Oct 21…",
-      "url": "https://physics.aps.org/articles/v19/132",
-      "source": "Aps.org",
-      "date": "2026-10-21T10:00:00Z",
-      "image": "https://physics.aps.org/assets/9a08c626-9de4-4717-89cc-a944ae0309bd/e132_2_thumb.png",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "A quantum cyclotron device can store and control a single positron to measure its magnetic properties with unprecedented precision. This breakthrough in antimatter research opens new possibilities for fundamental physics understanding."
-    },
-    {
-      "title": "Achievement Unlocked: Microblazar Confirmed",
-      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the s…",
-      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
-      "source": "Universe Today",
-      "date": "2026-10-19T17:09:50Z",
-      "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Researchers have confirmed the existence of the first microblazar, expanding our understanding of these powerful cosmic objects. This discovery provides new insights into extreme astrophysical phenomena beyond traditional blazars."
+      "summary": "NASA's Curiosity rover has captured stunning new images of mysterious wind-carved cliffs on Mars that may contain evidence of past geological activity. The discovery opens new avenues for understanding the Red Planet's history."
     }
   ]
 }
