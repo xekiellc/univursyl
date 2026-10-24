@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T14:55:53.080Z",
+  "generated": "2026-10-24T07:11:29.836Z",
   "launches": [
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
@@ -29,22 +29,22 @@
     },
     {
       "id": "3621085f-deae-4f89-bd54-c0f96ee44421",
-      "name": "Long March 4B | Unknown Payload",
+      "name": "Long March 4B | Yaogan 53-07 to 09/56-19 to 21",
       "net": "2026-10-23T19:25:00Z",
-      "status": "Go",
+      "status": "Success",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 4B",
       "pad": "Launch Area 94 (SLS-2 / 603)",
       "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
+      "mission": "Yaogan 53-07 to 09/56-19 to 21",
+      "description": "6 Chinese military “remote sensing” satellite of unknown purposes.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
     },
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-23T22:28:53Z",
-      "status": "Go",
+      "net": "2026-10-23T22:48:44Z",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
