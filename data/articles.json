@@ -1,26 +1,16 @@
 {
-  "generated": "2026-10-24T13:55:46.966Z",
+  "generated": "2026-10-24T20:33:38.983Z",
   "count": 30,
   "articles": [
     {
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "description": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "source": "NASA",
-      "date": "Fri, 23 Oct 2026 22:39:39 +0000",
-      "category": "NASA",
+      "title": "MMX lifts off to Mars’s moon Phobos ",
+      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "source": "ESA Space Science",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "NASA and partners accelerate development of lunar landers for 2028 moon missions, advancing humanity's return to the lunar surface. This represents a major milestone in establishing long-term human presence on the Moon."
-    },
-    {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "description": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "source": "NASA",
-      "date": "Fri, 23 Oct 2026 22:37:53 +0000",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA's Artemis III mission will conduct ambitious ground tests of future moon lander operations before astronauts return to the lunar surface. This complex testing phase is critical for ensuring mission success."
+      "summary": "Japan's Martian Moons eXploration (MMX) mission launches toward Phobos, marking an ambitious exploration of Mars's intriguing moon. This groundbreaking mission opens new frontiers in planetary science."
     },
     {
       "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
@@ -30,7 +20,7 @@
       "date": "Fri, 23 Oct 2026 10:54:33 +0000",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "JWST reveals an asymmetrical exoplanet with extreme evening winds and temperature disparities, challenging conventional models of planetary atmospheres and climate."
+      "summary": "JWST reveals an exotic exoplanet with an asymmetrical structure and intense evening winds, defying conventional planetary models. This remarkable discovery expands our understanding of the diversity of worlds orbiting distant stars."
     },
     {
       "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
@@ -40,27 +30,7 @@
       "date": "Sat, 24 Oct 2026 05:28:00 EDT",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA accelerates its lunar ambitions, pursuing an expedited timeline to establish a moon base and return astronauts to the lunar surface within two years."
-    },
-    {
-      "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
-      "description": "Two black holes can collide and merge into one. But could the opposite happen: could a single black hole split into two smaller ones? That question is explored in a new theoretical study: \"When Black Holes Admit Pair-of-pants Topologies,\" published in the journal Physical Review D.",
-      "url": "https://phys.org/news/2026-10-black-holes-maximum.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 23 Oct 2026 14:20:12 EDT",
-      "category": "Black Holes",
-      "quality": 5,
-      "summary": "Theoretical calculations suggest rapidly spinning black holes near maximum rotation could potentially split into two black holes, opening new frontiers in black hole physics."
-    },
-    {
-      "title": "ALMA spots 'dragon egg' that may represent the earliest stages of massive star formation",
-      "description": "Astronomers identified an exceptionally tiny core that may represent an early stage in the formation of a massive star. Located in an infrared-dark area called Dragon Cloud, the core is nicknamed the \"dragon egg.\" The paper, accepted for publication in Astronomy & Astrophysics, was posted to the arXiv preprint server on Oct. 5.",
-      "url": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 23 Oct 2026 12:50:01 EDT",
-      "category": "Astronomy",
-      "quality": 5,
-      "summary": "ALMA discovers a 'dragon egg' core representing the earliest known stages of massive star formation, providing unprecedented insights into stellar birth processes."
+      "summary": "NASA is accelerating its Artemis program to establish a lunar base and return astronauts to the moon within two years, marking a major milestone in human space exploration."
     },
     {
       "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
@@ -70,7 +40,7 @@
       "date": "Sat, 24 Oct 2026 08:50:06 EDT",
       "category": "Solar System",
       "quality": 5,
-      "summary": "Samples from asteroid Bennu reveal pristine 4.5-billion-year-old material that is rewriting our understanding of Solar System formation. These ancient grains provide unprecedented insights into the building blocks of our cosmic neighborhood."
+      "summary": "Samples from asteroid Bennu reveal 4.5-billion-year-old secrets about the early solar system's formation, fundamentally reshaping scientists' understanding of planetary origins."
     },
     {
       "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
@@ -80,7 +50,7 @@
       "date": "Thu, 22 Oct 2026 22:54:41 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Analysis of 2,884 exploding stars (supernovae) provides new evidence about dark energy and the Universe's accelerating expansion. This massive dataset deepens our understanding of the cosmos's most mysterious force."
+      "summary": "Analysis of 2,884 exploding stars provides new evidence about dark energy and the universe's accelerating expansion, advancing our understanding of cosmic evolution."
     },
     {
       "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
@@ -90,60 +60,27 @@
       "date": "Tue, 20 Oct 2026 08:34:15 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Scientists have achieved a major breakthrough in measuring the composition and dynamics of the Universe's first five minutes after the Big Bang. This discovery deepens our understanding of cosmic origins and fundamental physics."
+      "summary": "Scientists have achieved a major breakthrough in understanding the Universe's earliest moments by measuring key properties from the first five minutes after the Big Bang."
     },
     {
-      "title": "Space Mysteries: Did a planet-sized object collide with Earth to form the moon? [8:42]",
-      "description": "A leading theory proposes that ancient Earth collided with a planet-sized object, creating the moon within a period that may have been as short as just a few hours. Space Mysteries: Did a planet-sized object collide with Earth to form the moon? | 8:42 VideoFr…",
-      "url": "https://freerepublic.com/focus/f-chat/4400244/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-10-23T01:15:51Z",
-      "image": null,
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "Scientists explore the giant impact hypothesis, where a Mars-sized body collided with ancient Earth to form our moon, one of the solar system's most transformative events."
-    },
-    {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the…",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-      "source": "NASA",
-      "date": "2026-10-21T18:35:56Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+      "title": " NASA lays out plan for Artemis 3 moon-lander test flight —but when will it launch? ",
+      "description": "NASA just gave us our best look yet at its Artemis III moon-lander test flight, which is scheduled to launch to Earth orbit next year. But a firm liftoff date has not yet been announced.",
+      "url": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 22:55:43 +0000",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA JPL celebrates 90 years of innovation while revealing ambitious future missions including interstellar probes, lunar drones, and Mars helicopters."
+      "summary": "NASA has unveiled detailed plans for the Artemis III moon-lander test flight, marking a major milestone in humanity's return to the lunar surface."
     },
     {
-      "title": "Achievement Unlocked: Microblazar Confirmed",
-      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the s…",
-      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
-      "source": "Universe Today",
-      "date": "2026-10-19T17:09:50Z",
-      "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Researchers confirm the discovery of the first microblazar, a compact astronomical object that expands our understanding of high-energy phenomena in the universe."
-    },
-    {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "description": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "source": "NASA",
-      "date": "Fri, 23 Oct 2026 21:51:19 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Swift Observatory concludes its science mission after years of groundbreaking astronomical observations, leaving behind a significant scientific legacy. The mission produced substantial contributions to astrophysics and time-domain astronomy."
-    },
-    {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "title": "Stars brewing in a nebulous cauldron",
+      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
       "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
-      "category": "Missions",
+      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission lifts off toward Mars's moon Phobos, marking an exciting new chapter in Mars system exploration. This mission will unlock mysteries about Martian moons and inform future Mars missions."
+      "summary": "Astronomers observe the dynamic process of star formation occurring within a stellar nursery nebula. This glimpse into stellar birth showcases the cosmos's creative power."
     },
     {
       "title": "Celebrating BepiColombo, three words at a time",
@@ -153,7 +90,7 @@
       "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo celebrates eight years of successful operation exploring Mercury and the inner solar system. The mission continues to deliver remarkable scientific discoveries about the Sun's closest planetary neighbor."
+      "summary": "BepiColombo's eight-year journey to Mercury reaches a milestone anniversary, celebrating this landmark European-Japanese mission. The spacecraft continues its remarkable exploration of the solar system's innermost planet."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -163,17 +100,7 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the telescope's remarkable detection capabilities. This discovery showcases the telescope's power for astronomical surprises and discoveries."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission is set to launch on October 19, beginning an unprecedented journey to explore Mars's moons. This groundbreaking mission will advance our understanding of the Mars system."
+      "summary": "The Euclid space telescope discovers its first previously unknown comet, demonstrating the instrument's exceptional imaging capabilities. This discovery highlights the potential for groundbreaking observations from advanced space observatories."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -183,17 +110,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter spacecraft tracks the origin of mysterious magnetic switchbacks in the solar wind through direct observation. This discovery advances our understanding of solar physics and space weather phenomena."
-    },
-    {
-      "title": "Mars’s oddest cloud may be even odder than we thought",
-      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-      "source": "ESA Space Science",
-      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists using ESA's Mars Express and advanced modeling have uncovered new mysteries about Mars's unusual cloud formations, revealing unexpected atmospheric phenomena."
+      "summary": "Solar Orbiter investigates mysterious S-shaped magnetic kinks called switchbacks in the solar wind near the Sun. This discovery advances our understanding of solar dynamics and space weather phenomena."
     },
     {
       "title": "White Dwarfs Are Actually…Yellow, Green, Pink, and Purple?",
@@ -203,7 +120,7 @@
       "date": "Sat, 24 Oct 2026 01:32:55 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Research reveals that white dwarfs display a stunning rainbow of colors—yellow, green, pink, and purple—expanding our understanding of stellar diversity and composition."
+      "summary": "Astronomers discover that white dwarf stars display a stunning rainbow of colors including yellow, green, pink, and purple. This finding reveals the remarkable diversity hidden within stellar remnants across the universe."
     },
     {
       "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
@@ -213,7 +130,7 @@
       "date": "Fri, 23 Oct 2026 22:33:37 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Lazuli Space Telescope, a pioneering private space observatory launching soon, will target 27 promising exoplanet candidates, democratizing space-based astronomy."
+      "summary": "The Lazuli Space Telescope, the world's first private space observatory, will target 27 exoplanets in its groundbreaking mission. This private venture promises to democratize space exploration and expand exoplanet discovery."
     },
     {
       "title": "The Largest Canyon in the Solar System is Still Tectonically Active",
@@ -223,7 +140,17 @@
       "date": "Fri, 23 Oct 2026 21:09:09 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover that Valles Marineris, the solar system's largest canyon, remains geologically active with ongoing tectonic processes reshaping the Martian landscape."
+      "summary": "Valles Marineris, the solar system's largest canyon system, remains geologically active with ongoing tectonic processes. This discovery reveals Mars as a dynamically evolving world with fascinating geological complexity."
+    },
+    {
+      "title": "Advancing Astronomy at MIT with X-ray Reverberation Mapping",
+      "description": "Professor Erin Kara of MIT's Kavli Institute for Astrophysics and Space Research is helping advance our understanding of the most extreme objects in the Universe by analyzing X-ray reverberations and other astrophysical data.",
+      "url": "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
+      "source": "Universe Today",
+      "date": "Thu, 22 Oct 2026 22:39:19 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "MIT researchers advance black hole science through X-ray reverberation mapping techniques that unlock new insights into supermassive black hole behavior. This methodological breakthrough enhances our understanding of the universe's most extreme objects."
     },
     {
       "title": "Even the Rubin's Test Camera Produces Stunning Images",
@@ -233,7 +160,7 @@
       "date": "Thu, 22 Oct 2026 21:04:01 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory's commissioning camera produced spectacular images during its 7-week test period, demonstrating exceptional capabilities for deep-sky surveys."
+      "summary": "The Vera Rubin Observatory's commissioning camera produced exceptional images during its 7-week operational period in 2024, demonstrating the observatory's impressive imaging capabilities."
     },
     {
       "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
@@ -243,7 +170,7 @@
       "date": "Fri, 23 Oct 2026 15:20:01 EDT",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Common Mylar material shows promising potential as thermal insulation for lunar habitats, offering innovative solutions for sustaining long-term human presence on the moon."
+      "summary": "Scientists have successfully repurposed everyday Mylar material as an effective insulator for lunar habitats, solving a critical engineering challenge for long-term moon settlement."
     },
     {
       "title": "Stellar collision may explain why Orion Nebula's planet-forming disks appear younger than its stars",
@@ -253,17 +180,27 @@
       "date": "Fri, 23 Oct 2026 15:00:01 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "A stellar collision in the Orion Nebula may explain why planet-forming disks appear younger than their host stars, revealing dynamic processes in star and planet formation."
+      "summary": "A stellar collision in the Orion Nebula may explain why some of its planet-forming disks appear younger than their host stars, offering new insights into star and planet formation."
     },
     {
-      "title": "Artemis I: Crystals of experimental detectors record radiation doses near the moon",
-      "description": "Do cosmic radiation doses near the moon differ significantly from those received by astronauts in low Earth orbit? Experimental lithium fluoride detectors, installed aboard the Orion spacecraft during the Artemis I mission, have now made it possible to obtain preliminary estimates.",
-      "url": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
+      "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
+      "description": "Two black holes can collide and merge into one. But could the opposite happen: could a single black hole split into two smaller ones? That question is explored in a new theoretical study: \"When Black Holes Admit Pair-of-pants Topologies,\" published in the journal Physical Review D.",
+      "url": "https://phys.org/news/2026-10-black-holes-maximum.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 23 Oct 2026 11:40:01 EDT",
-      "category": "NASA",
+      "date": "Fri, 23 Oct 2026 14:20:12 EDT",
+      "category": "Black Holes",
       "quality": 4,
-      "summary": "Artemis I's experimental radiation detectors reveal cosmic radiation exposure near the moon, providing critical data for planning safe human lunar missions."
+      "summary": "New calculations suggest that rapidly spinning black holes near their maximum rotation rate could theoretically split into two black holes, challenging conventional understanding of black hole physics."
+    },
+    {
+      "title": "ALMA spots 'dragon egg' that may represent the earliest stages of massive star formation",
+      "description": "Astronomers identified an exceptionally tiny core that may represent an early stage in the formation of a massive star. Located in an infrared-dark area called Dragon Cloud, the core is nicknamed the \"dragon egg.\" The paper, accepted for publication in Astronomy & Astrophysics, was posted to the arXiv preprint server on Oct. 5.",
+      "url": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 23 Oct 2026 12:50:01 EDT",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "The ALMA telescope has identified a tiny core nicknamed a 'dragon egg' that may represent the earliest stages of massive star formation, providing rare glimpses into stellar birth."
     },
     {
       "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
@@ -271,19 +208,9 @@
       "url": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
       "date": "Fri, 23 Oct 2026 11:10:01 EDT",
-      "category": "Missions",
+      "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA's Psyche spacecraft successfully completes a Mars gravity assist and accelerates toward the asteroid belt to explore a unique metallic asteroid. This mission promises groundbreaking insights into planetary formation and the composition of celestial bodies."
-    },
-    {
-      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
-      "description": "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
-      "url": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 23 Oct 2026 10:50:01 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "NASA's Hubble Space Telescope uses gravitational lensing from a barred spiral galaxy to chart observation strategies for the upcoming Roman Space Telescope. This collaboration between observatories demonstrates the power of gravitational lensing for deep-space discovery."
+      "summary": "NASA's Psyche spacecraft successfully completed a Mars gravity assist and is now accelerating toward the asteroid belt to study a unique metal-rich asteroid."
     },
     {
       "title": "Astronomers uncover a mysterious magnetic web above the Sun",
@@ -293,7 +220,17 @@
       "date": "Sat, 24 Oct 2026 08:23:38 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "A balloon-borne telescope has uncovered a surprisingly complex magnetic web hidden above the Sun's seemingly peaceful regions. This discovery reveals new dimensions of solar magnetic dynamics and solar physics."
+      "summary": "A balloon-borne telescope has uncovered a complex magnetic web above the sun's quiet regions, revealing surprising complexity in solar atmospheric structure."
+    },
+    {
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "description": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 21 Oct 2026 07:59:14 EDT",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "A new study of 13 astronauts suggests the human heart is surprisingly well adapted for the physiological challenges of a Mars mission, offering encouraging news for future deep space exploration."
     },
     {
       "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
@@ -303,7 +240,71 @@
       "date": "Wed, 21 Oct 2026 05:22:36 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance rover has shattered the all-time off-world driving record, traveling farther across Mars than any previous rover. This achievement demonstrates the rover's exceptional durability and mission success on the Red Planet."
+      "summary": "NASA's Perseverance rover has set a new record for the farthest distance traveled by any vehicle on another world, advancing Mars exploration capabilities."
+    },
+    {
+      "title": " On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space ",
+      "description": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 24 Oct 2026 15:33:08 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "On October 24, 1946, a V-2 rocket captured the first-ever photograph of Earth from space, marking a historic milestone in space exploration."
+    },
+    {
+      "title": " Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower ",
+      "description": "This incredible composite image of Orionid meteors was captured as Earth passed through the debris trail shed by Halley's Comet.",
+      "url": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "A spectacular composite astrophoto captures Orionid meteors from debris shed by Halley's Comet as Earth passes through its orbit."
+    },
+    {
+      "title": "Space Mysteries: Did a planet-sized object collide with Earth to form the moon? [8:42]",
+      "description": "A leading theory proposes that ancient Earth collided with a planet-sized object, creating the moon within a period that may have been as short as just a few hours. Space Mysteries: Did a planet-sized object collide with Earth to form the moon? | 8:42 VideoFr…",
+      "url": "https://freerepublic.com/focus/f-chat/4400244/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-10-23T01:15:51Z",
+      "image": null,
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A leading scientific theory proposes that a planet-sized object collided with ancient Earth, creating our Moon in a dramatic cosmic event."
+    },
+    {
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the…",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "source": "NASA",
+      "date": "2026-10-21T18:35:56Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "NASA JPL looks toward the next 90 years of innovation, exploring ambitious concepts like interstellar probes, lunar drones, and Mars helicopters."
+    },
+    {
+      "title": "Achievement Unlocked: Microblazar Confirmed",
+      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the s…",
+      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
+      "source": "Universe Today",
+      "date": "2026-10-19T17:09:50Z",
+      "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Researchers have confirmed the existence of the first microblazar, expanding our understanding of these powerful cosmic objects and their mechanisms."
+    },
+    {
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s…",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "source": "NASA",
+      "date": "2026-10-23T18:57:04Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Stennis Space Center successfully tested the RS-25 engine, advancing development of critical propulsion systems for future deep space exploration."
     }
   ]
 }
