@@ -1,19 +1,6 @@
 {
-  "generated": "2026-10-24T20:37:43.061Z",
+  "generated": "2026-10-25T00:13:55.646Z",
   "launches": [
-    {
-      "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-23T22:48:44Z",
-      "status": "Success",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "Starlink Group 15-15",
-      "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-    },
     {
       "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
       "name": "Long March 8A | Unknown Payload",
@@ -130,6 +117,19 @@
       "mission": "The Mountain God Rises (iQPS Launch 10)",
       "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-11-23T00:00:00Z",
+      "status": "TBD",
+      "provider": "Arianespace",
+      "rocket": "Ariane 64",
+      "pad": "Ariane Launch Area 4",
+      "location": "Guiana Space Centre, French Guiana",
+      "mission": "Amazon Leo (LE-04)",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
     }
   ]
 }
