@@ -1,26 +1,26 @@
 {
-  "generated": "2026-10-26T22:32:55.152Z",
+  "generated": "2026-10-27T07:37:43.653Z",
   "count": 30,
   "articles": [
     {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
-      "category": "Missions",
+      "title": "A Huge and Powerful New Simulation Helps Explain the Universe's Reionization",
+      "description": "Cosmologists have another powerful simulation to work with. Lumina is the one of the largest and most detailed cosmological simulations yet and runs on the Frontier supercomputer. It's larger and more detailed than Illustris TNG.",
+      "url": "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization",
+      "source": "Universe Today",
+      "date": "Mon, 26 Oct 2026 18:39:39 +0000",
+      "category": "Cosmology",
       "quality": 5,
-      "summary": "The Martian Moons eXploration (MMX) mission launches toward Phobos, marking an ambitious exploration of Mars's mysterious moon."
+      "summary": "Lumina, one of the largest and most detailed cosmological simulations ever created, provides powerful new insights into the universe's reionization period."
     },
     {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
+      "title": "JWST and ALMA reveal a dusty, rapidly growing black hole in the early universe",
+      "description": "A new study reveals a dust-reddened quasar from a time when the universe was less than a billion years old. Located at a redshift of 6.5488, the object J1440+0019 contains a rapidly accreting supermassive black hole with a mass of about 1.1 billion suns. The paper was posted to the arXiv preprint server on Oct. 9.",
+      "url": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 26 Oct 2026 09:20:36 EDT",
+      "category": "Black Holes",
       "quality": 5,
-      "summary": "The Martian Moons eXploration mission prepares for launch on an H3 rocket, embarking on a historic journey to explore the enigmatic moons of Mars."
+      "summary": "JWST and ALMA observations reveal a dust-obscured quasar with a rapidly growing black hole from when the universe was less than a billion years old."
     },
     {
       "title": "Lumina simulation brings the early universe to life on a record-breaking scale",
@@ -30,7 +30,7 @@
       "date": "Sun, 25 Oct 2026 20:10:01 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The Lumina simulation creates a record-breaking visualization of the early universe, complementing revelations from JWST and the Nancy Roman Space Telescope."
+      "summary": "The Lumina simulation recreates the early universe at record-breaking scale, with JWST and Nancy Roman Space Telescope revealing the universe's earliest epochs in unprecedented detail."
     },
     {
       "title": "Three giant black holes discovered in a galaxy from the dawn of time",
@@ -40,7 +40,7 @@
       "date": "Sun, 25 Oct 2026 08:07:01 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Astronomers have made a landmark discovery of three actively feeding supermassive black holes within a single galaxy from the early Universe, over 12.5 billion light-years away."
+      "summary": "Astronomers discovered three actively feeding supermassive black holes within a single galaxy from over 12.5 billion light-years away, challenging theories of early universe black hole formation."
     },
     {
       "title": "Astronomers may have discovered the first moon beyond our Solar System",
@@ -50,7 +50,27 @@
       "date": "Sat, 24 Oct 2026 23:13:05 EDT",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Researchers have uncovered compelling evidence of what may be the first moon ever detected orbiting an exoplanet, a historic breakthrough in planetary science."
+      "summary": "Astronomers have uncovered evidence of what may be the first moon ever detected outside our Solar System, opening a new frontier in exoplanet discovery."
+    },
+    {
+      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+      "description": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 24 Oct 2026 08:50:06 EDT",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "Samples from NASA's asteroid Bennu mission are revealing 4.5-billion-year-old secrets about Solar System formation and the origins of organic materials."
+    },
+    {
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "description": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 22 Oct 2026 22:54:41 EDT",
+      "category": "Cosmology",
+      "quality": 5,
+      "summary": "Analysis of 2,884 exploding stars provides new evidence about dark energy and the universe's accelerating expansion, refining our understanding of cosmic evolution."
     },
     {
       "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
@@ -60,17 +80,17 @@
       "date": "Mon, 26 Oct 2026 21:07:28 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance rover has gathered critical data on Martian dust particles over its mission, providing essential insights for protecting future human crews on Mars."
+      "summary": "After over 1,645 Martian days, NASA's Perseverance rover has gathered critical data on fine and ultrafine dust particles to protect future human crews on Mars. These findings advance our understanding of Martian environmental hazards for crewed missions."
     },
     {
-      "title": "Stars brewing in a nebulous cauldron",
-      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "title": "MMX lifts off to Mars’s moon Phobos ",
+      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
       "source": "ESA Space Science",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
-      "category": "Astronomy",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "category": "Missions",
       "quality": 4,
-      "summary": "A stunning image captures the stellar nursery where stars are actively forming within a nebula, showcasing the cosmic process of stellar birth."
+      "summary": "Japan's Martian Moons eXploration (MMX) mission launches successfully toward Phobos, Mars's largest moon. This groundbreaking mission will study the origins of the Martian moons and collect samples."
     },
     {
       "title": "Celebrating BepiColombo, three words at a time",
@@ -80,7 +100,7 @@
       "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo celebrates eight years in flight on its landmark mission to Mercury, advancing our understanding of the solar system's innermost planet."
+      "summary": "The ESA-JAXA BepiColombo mission celebrates eight years in space as it continues its groundbreaking journey to Mercury. This landmark collaboration represents humanity's most ambitious mission to the innermost planet."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -90,7 +110,17 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the mission's powerful capability to detect new celestial objects."
+      "summary": "The European Space Agency's Euclid space telescope makes an exciting discovery of its first previously unknown comet. This remarkable find demonstrates the telescope's capability to uncover new cosmic objects."
+    },
+    {
+      "title": "Mars moon lander set to launch on 19 October",
+      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "source": "ESA Space Science",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "Japan's Martian Moons eXploration (MMX) mission is set to launch on October 19 aboard an H3 rocket from Tanegashima Space Center. This ambitious mission will explore the mysteries of Mars's moons."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -100,27 +130,57 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The ESA's Solar Orbiter spacecraft flies through a magnetic switchback in the solar wind, solving mysteries about mysterious structures in the Sun's corona."
+      "summary": "The ESA-led Solar Orbiter spacecraft provides breakthrough insights into mysterious magnetic switchbacks—S-shaped kinks in the solar wind. These findings advance our understanding of solar magnetic phenomena and space weather."
     },
     {
-      "title": "A Huge and Powerful New Simulation Helps Explain the Universe's Reionization",
-      "description": "Cosmologists have another powerful simulation to work with. Lumina is the one of the largest and most detailed cosmological simulations yet and runs on the Frontier supercomputer. It's larger and more detailed than Illustris TNG.",
-      "url": "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization",
+      "title": "Scientists Can Now Spot Hidden Sunspots on the Solar Far Side",
+      "description": "Unlike the Moon, the Sun is constantly rotating from our perspective - but we still only see half of it at any given time. Since it takes 27 days to complete a full rotation, that leaves plenty of time for changes to happen to the side we can’t see that could directly impact Earth’s own space weather a few weeks later. Now a team of physicists led by Bibhuti Kumar Jha of the Southwest Research Institute has published a paper in The Astrophysical Journal Supplement Series that uses probability to map out what might be happening on the far side of the Sun, even if we can’t see it directly.",
+      "url": "https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side",
       "source": "Universe Today",
-      "date": "Mon, 26 Oct 2026 18:39:39 +0000",
-      "category": "Cosmology",
+      "date": "Mon, 26 Oct 2026 18:39:31 +0000",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The Lumina simulation represents one of the largest and most detailed cosmological models ever created, advancing our understanding of the universe's reionization period."
+      "summary": "Scientists have developed new techniques to detect hidden sunspots on the far side of the Sun, expanding our ability to monitor solar activity."
     },
     {
-      "title": "JWST and ALMA reveal a dusty, rapidly growing black hole in the early universe",
-      "description": "A new study reveals a dust-reddened quasar from a time when the universe was less than a billion years old. Located at a redshift of 6.5488, the object J1440+0019 contains a rapidly accreting supermassive black hole with a mass of about 1.1 billion suns. The paper was posted to the arXiv preprint server on Oct. 9.",
-      "url": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Mon, 26 Oct 2026 09:20:36 EDT",
-      "category": "Black Holes",
+      "title": "Parker Solar Probe Spots Twisted Magnetic Braids Growing in the Solar Wind",
+      "description": "The magnetic environment around the Sun is a jumbled mess of chaotic fields and streams of charged particles. Recently we’ve been getting at least slightly better at mapping out its complexity, thanks in large part to data collected by missions like the Parker Solar Probe and Solar Orbiter. But there’s still a large grey area surrounding the interface between the large scale hydrodynamic properties of plasmas and the microscopic properties of individual ions, and scientists believe understanding large scale features of the Sun, such as why its corona is so much hotter than its surface, may rely on our knowledge of that interface. A new paper that directly tackles some of the outstanding questions about that interface was recently published in The Astrophysical Journal Letters by Masatomi Iizawa of the Technical University of Braunschweig and his co-authors.",
+      "url": "https://www.universetoday.com/articles/parker-solar-probe-spots-twisted-magnetic-braids-growing-in-the-solar-wind",
+      "source": "Universe Today",
+      "date": "Mon, 26 Oct 2026 16:26:34 +0000",
+      "category": "NASA",
       "quality": 4,
-      "summary": "JWST and ALMA observations have revealed a rapidly growing dust-reddened black hole and quasar from when the universe was less than a billion years old."
+      "summary": "The Parker Solar Probe has discovered twisted magnetic braids forming in the solar wind, revealing new complexity in the Sun's magnetic environment."
+    },
+    {
+      "title": "27 exoplanet targets for the world's first private space telescope",
+      "description": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger than Hubble's 2.4-meter mirror (7.9 feet), and will be launched by 2029.",
+      "url": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 26 Oct 2026 20:00:06 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The Lazuli Space Telescope, the world's first private space telescope, will observe 27 exoplanet targets in its groundbreaking mission."
+    },
+    {
+      "title": "Clouds on a lava planet challenge what astronomers expected",
+      "description": "A rocky lava planet once thought to be too extreme to have an atmosphere appears to be wrapped in one with a reflective layer of vaporized silicate mineral clouds, the same family of compounds that make up quartz and sand.",
+      "url": "https://phys.org/news/2026-10-clouds-lava-planet-astronomers.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 26 Oct 2026 13:20:01 EDT",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "A rocky lava planet previously thought too extreme for an atmosphere has surprised astronomers with the discovery of reflective clouds."
+    },
+    {
+      "title": "FAST and Arecibo point to possible dark galaxy with vast hydrogen reservoir",
+      "description": "Astronomers have found a vast reservoir of hydrogen with something conspicuously missing: detectable starlight. The object, called AGC 322753, contains roughly 2 billion times the sun's mass in neutral hydrogen, a potential supply of material for making stars. Its radio signal suggests the gas may be rotating in a disk, yet deep astronomical images reveal no matching glow.",
+      "url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Mon, 26 Oct 2026 06:55:00 EDT",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "FAST and Arecibo telescopes have identified a vast hydrogen reservoir with no detectable starlight, pointing to a possible dark galaxy."
     },
     {
       "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
@@ -130,17 +190,17 @@
       "date": "Sun, 25 Oct 2026 14:30:02 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "New research reveals the Milky Way's disk grew in an unexpected 'upside down' pattern, with younger stars forming in progressively thinner layers—challenging our understanding of galactic evolution."
+      "summary": "New research reveals the Milky Way's disk grew in an unusual pattern, with younger stars forming in progressively thinner layers rather than following traditional formation models."
     },
     {
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "description": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "description": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 709 BCE and obtain more accurate measurements of how fast Earth was spinning at the time.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "category": "NASA",
+      "date": "Mon, 26 Oct 2026 07:06:08 EDT",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Samples from NASA's asteroid Bennu mission are revealing 4.5-billion-year-old secrets that fundamentally reshape our understanding of Solar System formation."
+      "summary": "Ancient solar eclipse records from 2,700 years ago provide surprising new insights into Earth's rotation and the Sun's behavior over millennia."
     },
     {
       "title": "Astronomers uncover a mysterious magnetic web above the Sun",
@@ -150,17 +210,27 @@
       "date": "Sat, 24 Oct 2026 08:23:38 EDT",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Using advanced balloon-borne telescope technology, astronomers have discovered a surprisingly complex magnetic web hidden above the Sun's seemingly peaceful regions."
+      "summary": "Using a balloon-borne telescope, astronomers have discovered a complex magnetic web above the Sun's quiet regions, revealing hidden structures in solar physics."
     },
     {
-      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-      "description": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+      "description": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 22 Oct 2026 22:54:41 EDT",
-      "category": "Cosmology",
+      "date": "Thu, 22 Oct 2026 07:03:49 EDT",
+      "category": "NASA",
       "quality": 4,
-      "summary": "An analysis of nearly 3,000 exploding stars reveals new evidence about dark energy and its role in the Universe's accelerating expansion."
+      "summary": "NASA's Curiosity rover captures spectacular views of wind-carved cliffs on Mars that may hold evidence of the planet's geological history."
+    },
+    {
+      "title": "A train was delayed by a solar storm. But something didn't add up.",
+      "description": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Wed, 21 Oct 2026 08:35:57 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists have solved a 178-year-old mystery about a historical train delay caused by a solar storm, revealing new insights into space weather events."
     },
     {
       "title": " On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan ",
@@ -180,7 +250,7 @@
       "date": "Mon, 26 Oct 2026 17:00:00 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have discovered a remarkably long-lasting gamma-ray burst that persisted for 27 days, representing an exceptional cosmic explosion event. This record-breaking observation expands our understanding of high-energy astrophysical phenomena."
+      "summary": "Astronomers have discovered a record-breaking gamma-ray burst that lasted 27 days, significantly longer than typical cosmic explosions. This remarkable discovery provides new insights into the most powerful phenomena in the universe."
     },
     {
       "title": " SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video) ",
@@ -190,7 +260,7 @@
       "date": "Mon, 26 Oct 2026 16:00:00 +0000",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX successfully conducted a static-fire test of its Super Heavy booster B22, marking progress toward the next Starship launch. This test campaign demonstrates advancing capabilities for the company's ambitious launch vehicle development."
+      "summary": "SpaceX successfully conducted a static-fire test of its Super Heavy booster B22, marking progress toward the next Starship launch. This test campaign represents a critical milestone in developing the world's most powerful rocket."
     },
     {
       "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
@@ -201,7 +271,7 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Jet Propulsion Laboratory looks toward the next 90 years of innovation with ambitious projects including interstellar probes, lunar drones, and Mars helicopters. This forward-looking vision showcases humanity's expanding capabilities for space exploration."
+      "summary": "NASA's JPL celebrates 90 years of innovation while envisioning ambitious future missions including interstellar probes, lunar drones, and Martian helicopters. These visionary projects promise to revolutionize space exploration in coming decades."
     },
     {
       "title": "Achievement Unlocked: Microblazar Confirmed",
@@ -212,97 +282,28 @@
       "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Researchers have confirmed the existence of the first microblazar, a newly recognized class of cosmic objects distinct from larger extragalactic blazars. This discovery expands our catalog of high-energy astrophysical phenomena."
+      "summary": "Researchers have confirmed the existence of the first microblazar, a newly discovered class of celestial objects distinct from traditional blazars. This breakthrough expands our understanding of high-energy phenomena in the universe."
     },
     {
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
-      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "title": "Giant robotic claws will grab dead satellites in space",
+      "description": "ClearSpace UK's robotic spacecraft with giant claws will chase down dead satellites at 17,000 mph, with a 2029 launch from Scotland planned.",
+      "url": "https://www.foxnews.com/tech/giant-robotic-claws-grab-dead-satellites-space",
+      "source": "Fox News",
+      "date": "2026-10-25T12:54:07Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/robotic-space-claws.jpg",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "ClearSpace UK is developing a robotic spacecraft equipped with giant claws to capture defunct satellites at 17,000 mph, with a planned 2029 launch. This innovative mission addresses the growing challenge of space debris removal."
+    },
+    {
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent ",
+      "description": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
       "source": "NASA",
-      "date": "Mon, 26 Oct 2026 20:53:13 +0000",
+      "date": "Tue, 27 Oct 2026 07:07:51 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA's NEO Surveyor mission undergoes component inspection, with technicians verifying the large sunshade assembly that will help detect near-Earth objects."
-    },
-    {
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
-      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-      "source": "NASA",
-      "date": "Mon, 26 Oct 2026 20:52:24 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "Solar cells on NASA's NEO Surveyor mission are inspected to ensure optimal performance for the near-Earth object detection mission."
-    },
-    {
-      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-      "description": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
-      "source": "NASA",
-      "date": "Mon, 26 Oct 2026 19:28:08 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA's SEES Internship Program engages STEM students in solving real-world challenges for lunar exploration missions."
-    },
-    {
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "description": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-      "source": "NASA",
-      "date": "Mon, 26 Oct 2026 17:13:44 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA opens a new lunar landing simulator at Ames Research Center, allowing media and public to experience the challenges of Moon landing operations."
-    },
-    {
-      "title": "Where winds blow and lava flows",
-      "description": "Image:\n\t\t\tWhere winds blow and lava flows",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
-      "source": "ESA Space Science",
-      "date": "Wed, 14 Oct 2026 11:00:00 +0200",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "A captivating image showcases the dynamic processes of wind and lava on a planetary or lunar surface, revealing the powerful forces shaping worlds."
-    },
-    {
-      "title": "Mars’s oddest cloud may be even odder than we thought",
-      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-      "source": "ESA Space Science",
-      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "European Space Agency's Mars Express has revealed surprising new characteristics about Mars's unusual atmospheric cloud formations using advanced meteorological modeling."
-    },
-    {
-      "title": "A Brief-ish History of METI. Part I: Early Ideas and Experiments",
-      "description": "For as long as scientists have conducted SETI (Search for Extraterrestrial Intelligence) experiments, parallel efforts in Messaging Extraterrestrial Intelligence (METI) have also been mounted. In this series, we'll take a look at the major milestones in this field of study.",
-      "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments",
-      "source": "Universe Today",
-      "date": "Mon, 26 Oct 2026 22:02:54 +0000",
-      "category": "Futurism",
-      "quality": 3,
-      "summary": "Scientists have developed parallel messaging initiatives alongside traditional SETI experiments, exploring humanity's efforts to communicate with potential extraterrestrial civilizations."
-    },
-    {
-      "title": "Scientists Can Now Spot Hidden Sunspots on the Solar Far Side",
-      "description": "Unlike the Moon, the Sun is constantly rotating from our perspective - but we still only see half of it at any given time. Since it takes 27 days to complete a full rotation, that leaves plenty of time for changes to happen to the side we can’t see that could directly impact Earth’s own space weather a few weeks later. Now a team of physicists led by Bibhuti Kumar Jha of the Southwest Research Institute has published a paper in The Astrophysical Journal Supplement Series that uses probability to map out what might be happening on the far side of the Sun, even if we can’t see it directly.",
-      "url": "https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side",
-      "source": "Universe Today",
-      "date": "Mon, 26 Oct 2026 18:39:31 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "Scientists have developed new techniques to detect and observe hidden sunspots on the far side of the Sun that are invisible from Earth."
-    },
-    {
-      "title": "Parker Solar Probe Spots Twisted Magnetic Braids Growing in the Solar Wind",
-      "description": "The magnetic environment around the Sun is a jumbled mess of chaotic fields and streams of charged particles. Recently we’ve been getting at least slightly better at mapping out its complexity, thanks in large part to data collected by missions like the Parker Solar Probe and Solar Orbiter. But there’s still a large grey area surrounding the interface between the large scale hydrodynamic properties of plasmas and the microscopic properties of individual ions, and scientists believe understanding large scale features of the Sun, such as why its corona is so much hotter than its surface, may rely on our knowledge of that interface. A new paper that directly tackles some of the outstanding questions about that interface was recently published in The Astrophysical Journal Letters by Masatomi Iizawa of the Technical University of Braunschweig and his co-authors.",
-      "url": "https://www.universetoday.com/articles/parker-solar-probe-spots-twisted-magnetic-braids-growing-in-the-solar-wind",
-      "source": "Universe Today",
-      "date": "Mon, 26 Oct 2026 16:26:34 +0000",
-      "category": "Astrophysics",
-      "quality": 3,
-      "summary": "NASA's Parker Solar Probe has discovered twisted magnetic field structures forming in the solar wind around the Sun."
+      "summary": "Rice University student Malvika Bhardwaj develops her skills in Guidance, Navigation & Control engineering under mentor Daniel Cohen at NASA Johnson Space Center. This mentorship exemplifies NASA's commitment to cultivating the next generation of space exploration talent."
     }
   ]
 }

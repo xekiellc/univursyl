@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-26T22:37:05.033Z",
+  "generated": "2026-10-27T07:42:28.563Z",
   "launches": [
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-      "net": "2026-10-27T05:46:37Z",
-      "status": "Go",
+      "net": "2026-10-27T07:25:51Z",
+      "status": "In Flight",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
@@ -80,6 +80,19 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
     },
     {
+      "id": "a2423132-f965-423f-8b03-6891b775dc54",
+      "name": "Long March 12 | SatNet LEO Group TBD?",
+      "net": "2026-11-05T20:00:00Z",
+      "status": "TBC",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 12",
+      "pad": "Commercial LC-2",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "mission": "SatNet LEO Group TBD?",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+    },
+    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
       "net": "2026-11-10T00:00:00Z",
@@ -117,19 +130,6 @@
       "mission": "Progress MS-36 (97P)",
       "description": "Progress resupply mission to the International Space Station.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-    },
-    {
-      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
-      "name": "Long March 2F/G | Shenzhou 24",
-      "net": "2026-11-25T00:00:00Z",
-      "status": "TBD",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 2F/G",
-      "pad": "Launch Area 91 (SLS-1 / 921)",
-      "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Shenzhou 24",
-      "description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
     }
   ]
 }
