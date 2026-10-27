@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-27T07:42:28.563Z",
+  "generated": "2026-10-27T15:54:12.525Z",
   "launches": [
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
       "net": "2026-10-27T07:25:51Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
