@@ -1,36 +1,16 @@
 {
-  "generated": "2026-10-28T16:32:35.111Z",
+  "generated": "2026-10-28T22:27:24.003Z",
   "count": 30,
   "articles": [
     {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
-      "category": "Missions",
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "description": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually replenishing its atmosphere through gases released from a global ocean of molten rock.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 27 Oct 2026 06:20:52 EDT",
+      "category": "Exoplanets",
       "quality": 5,
-      "summary": "The Martian Moons eXploration (MMX) mission successfully launches toward Mars's moon Phobos in a landmark Japanese space exploration achievement. This mission will study the Martian moon system and collect samples for return to Earth."
-    },
-    {
-      "title": "Celebrating BepiColombo, three words at a time",
-      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "BepiColombo, the joint ESA-JAXA Mercury exploration mission, celebrates a major milestone in its eight-year journey to study the innermost planet. The spacecraft continues its pioneering mission to unlock Mercury's secrets."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "The Martian Moons eXploration (MMX) mission is set to launch aboard a Japanese H3 rocket toward Mars's moon system. This ambitious endeavor promises groundbreaking discoveries about the Martian moons and their origins."
+      "summary": "The James Webb Space Telescope has discovered a remarkable scorching lava planet 280 light-years away that mysteriously maintains a thick atmosphere despite extreme temperatures."
     },
     {
       "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
@@ -40,7 +20,7 @@
       "date": "Tue, 27 Oct 2026 05:48:35 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Smithsonian scientists create one of the largest and most detailed simulations of the early universe's first 2 billion years, providing unprecedented insights into cosmic origins."
+      "summary": "Smithsonian scientists have created one of the most detailed simulations of the early universe's first 2 billion years, revealing new insights into cosmic structure formation and evolution."
     },
     {
       "title": "Three giant black holes discovered in a galaxy from the dawn of time",
@@ -50,7 +30,7 @@
       "date": "Sun, 25 Oct 2026 08:07:01 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Astronomers detect three actively feeding supermassive black holes within a single galaxy from the universe's dawn, challenging formation models and revealing unexpected cosmic complexity."
+      "summary": "Astronomers have made a landmark discovery of three actively feeding supermassive black holes within a single galaxy from over 12.5 billion light-years away, challenging our understanding of early black hole formation."
     },
     {
       "title": "Astronomers may have discovered the first moon beyond our Solar System",
@@ -60,29 +40,17 @@
       "date": "Sat, 24 Oct 2026 23:13:05 EDT",
       "category": "Exoplanets",
       "quality": 5,
-      "summary": "Astronomers present compelling evidence for the first moon ever discovered beyond our Solar System, a potentially historic finding that expands our understanding of exoplanetary systems."
+      "summary": "Astronomers have uncovered compelling evidence of what may be the first moon ever detected outside our solar system, representing a historic breakthrough in exoplanet science."
     },
     {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the…",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
       "source": "NASA",
-      "date": "2026-10-21T18:35:56Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+      "date": "Wed, 28 Oct 2026 18:59:44 +0000",
       "category": "NASA",
-      "quality": 5,
-      "summary": "NASA JPL celebrates 90 years of innovation with ambitious future plans including interstellar probes, lunar drones, and Mars helicopters that will revolutionize space exploration."
-    },
-    {
-      "title": "Drei Raketen, drei Raumschiffe: So irre plant die NASA Artemis 3",
-      "description": "Voraussichtlich im Sommer 2027 soll mit Artemis 3 eine komplexe Testmission starten. In der Erdumlaufbahn soll das Zusammenspiel von drei verschiedenen Raumfahrzeugen erprobt werden, um den Betrieb künftiger Mondlandefähren vorzubereiten.(Weiter lesen)",
-      "url": "https://winfuture.de/news,162239.html",
-      "source": "WinFuture",
-      "date": "2026-10-27T15:00:00Z",
-      "image": "https://img.winfuture.de/teaser/1920/45130.jpg",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA's Artemis 3 mission is planned for summer 2027, featuring a complex assembly of three rockets and spacecraft in Earth orbit to advance lunar exploration."
+      "quality": 4,
+      "summary": "NASA's Artemis III Space Launch System core stage is integrated with twin solid rocket boosters at Kennedy Space Center, marking a major milestone toward returning humans to the Moon."
     },
     {
       "title": "Webb Sees Turbulent Star Nursery",
@@ -92,27 +60,17 @@
       "date": "Wed, 28 Oct 2026 15:33:10 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The James Webb Space Telescope captures a stunning image of a turbulent star-forming region filled with dense clumps of gas and dust. This observation reveals the dynamic processes of stellar birth in unprecedented detail."
+      "summary": "The James Webb Space Telescope captures a stunning image of a turbulent star nursery filled with dense clumps of material actively forming new stars."
     },
     {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "source": "NASA",
-      "date": "Tue, 27 Oct 2026 19:27:22 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "NASA celebrates the completion of a yearlong Mars habitat simulation with four volunteer crew members, advancing human preparation for future Mars missions. This milestone demonstrates progress toward crewed interplanetary exploration."
-    },
-    {
-      "title": "Stars brewing in a nebulous cauldron",
-      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "title": "MMX lifts off to Mars’s moon Phobos ",
+      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
       "source": "ESA Space Science",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
-      "category": "Astrophysics",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "category": "Missions",
       "quality": 4,
-      "summary": "An awe-inspiring image shows stars actively forming within a nebulous cauldron of gas and cosmic material. This stellar nursery demonstrates the ongoing creation of new stars throughout our galaxy."
+      "summary": "The Martian Moons eXploration mission launches toward Phobos, Japan's first mission to explore the enigmatic moon of Mars."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -122,7 +80,7 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope makes a remarkable discovery by identifying its first previously unknown comet. This achievement highlights the telescope's powerful capabilities for advancing astronomical knowledge."
+      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the instrument's exceptional detection capabilities."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -132,7 +90,17 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter spacecraft tracks and studies mysterious magnetic switchbacks in the solar wind near the Sun. These S-shaped kinks in the magnetic field reveal new insights into solar physics and space weather."
+      "summary": "The European Space Agency's Solar Orbiter traces the origin of mysterious magnetic switchbacks in solar wind, revealing new insights into solar physics."
+    },
+    {
+      "title": "NASA's New UV Space Telescope Will Launch in 2031",
+      "description": "NASA has committed to launching a new, more powerful UV space telescope. Named UVEX, the UltraViolet EXplorer, it will launch in 2031. It's about 100 times more powerful than its predecessor, GALEX, whose mission ended in 2013. UVEX will perform a survey in UV that will complement infrared surveys by other telescopes.",
+      "url": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
+      "source": "Universe Today",
+      "date": "Wed, 28 Oct 2026 22:06:39 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's upcoming UVEX (UltraViolet EXplorer) space telescope will launch in 2031, providing unprecedented ultraviolet observations to advance our understanding of the universe."
     },
     {
       "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
@@ -142,17 +110,7 @@
       "date": "Wed, 28 Oct 2026 15:34:33 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has identified its first dwarf planet candidate in the distant Solar System before officially beginning its decade-long Legacy Survey of Space and Time."
-    },
-    {
-      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
-      "description": "There weren’t any humans strapped into the bucket seats of the Orion spacecraft for the Artemis I mission. But there were two anthropomorphic mannequins made to mimic human bone and soft tissue, but also equipped with hundreds of radiation sensors spread throughout their body as part of the Matroshka AstroRad Radiation Experiment. A recent paper led by Paweł Bilski of the Institute for Nuclear Physics of the Polish Academy of Sciences, and published in the journal Radiation Measurements, reports on the results of that experiment, including the operation of a new type of long-term passive radiation monitor made of lithium.",
-      "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 13:20:49 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Glowing salt crystals aboard the uncrewed Artemis I mission tracked radiation exposure, providing valuable data for human lunar exploration."
+      "summary": "The Vera Rubin Observatory has discovered its first dwarf planet candidate, demonstrating the observatory's capability to detect distant Solar System objects ahead of its major Legacy Survey."
     },
     {
       "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
@@ -162,27 +120,37 @@
       "date": "Wed, 28 Oct 2026 03:11:32 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "NASA's systems engineering team has detailed the architecture for the Habitable Worlds Observatory mission, a groundbreaking effort to discover Earth-like exoplanets."
+      "summary": "NASA's systems engineering team has detailed the architecture for the Habitable Worlds Observatory mission, advancing the quest to discover Earth-like exoplanets."
     },
     {
-      "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
-      "description": "Dense stellar environments were common in the early Universe. These environments fostered more numerous stellar collisions, and some of those would've been mergers that formed very massive stars. Those stars would've exploded as supernovae, becoming massive black holes, the potential seeds for today's supermassive black holes.",
-      "url": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
-      "source": "Universe Today",
-      "date": "Tue, 27 Oct 2026 18:49:29 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Dense stellar environments in the early Universe may have fostered massive stellar collisions that explain the existence of supermassive black holes observed in ancient galaxies."
-    },
-    {
-      "title": "First light: Hera resolves two asteroids instead of one",
-      "description": "The European Space Agency's Hera spacecraft for planetary defense has resolved its two target asteroids separately for the first time, revealing the binary nature of the Didymos system, currently some 197 million km (122 million miles) away from Earth.",
-      "url": "https://phys.org/news/2026-10-hera-asteroids.html",
+      "title": "Sun's outer magnetic field mapped in 3D for the first time",
+      "description": "A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are the root cause of extreme space weather that can impact critical infrastructure technologies on Earth.",
+      "url": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 27 Oct 2026 14:10:09 EDT",
-      "category": "Missions",
+      "date": "Wed, 28 Oct 2026 16:10:02 EDT",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "ESA's Hera spacecraft achieves first light by successfully resolving its two target asteroids as separate objects, marking a major milestone in planetary defense technology."
+      "summary": "Researchers have produced the first comprehensive 3D map of the Sun's outer magnetic field, revealing new details about solar structure and activity."
+    },
+    {
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
+      "description": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this month by a scientist combing through data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rubin Observatory.",
+      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 27 Oct 2026 18:30:05 EDT",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Rubin Observatory has identified a potential new dwarf planet candidate in our solar system, expanding our understanding of distant icy bodies in the outer reaches of our cosmic neighborhood."
+    },
+    {
+      "title": "Double debris disk orbiting a dead star hints at our solar system's future",
+      "description": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—the leftovers of planets that once orbited the star—is organized in a double disk, the two parts separated by a clear gap. The disk appears to be shaped by two planetary bodies, one possibly as big as Pluto, that have survived the violent death of the star.",
+      "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 27 Oct 2026 18:00:12 EDT",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Very Large Telescope has discovered a rare double debris disk around a dead star, offering insights into how planetary systems evolve and hints at the distant future of our own solar system."
     },
     {
       "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
@@ -192,17 +160,7 @@
       "date": "Wed, 28 Oct 2026 06:29:36 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Artemis I mission provides crucial new data on cosmic radiation environments near the Moon, informing safety protocols for future human lunar exploration."
-    },
-    {
-      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-      "description": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually replenishing its atmosphere through gases released from a global ocean of molten rock.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 27 Oct 2026 06:20:52 EDT",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "James Webb Space Telescope discovers a distant lava planet that mysteriously retains a thick atmosphere despite extreme temperatures, challenging current atmospheric retention models."
+      "summary": "NASA's Artemis I mission has provided crucial data on radiation levels near the Moon, advancing our understanding of the lunar environment for future human exploration."
     },
     {
       "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
@@ -212,17 +170,7 @@
       "date": "Sat, 24 Oct 2026 08:50:06 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Samples from NASA's asteroid Bennu mission reveal 4.5-billion-year-old secrets that are rewriting our understanding of Solar System formation and early planetary development."
-    },
-    {
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "description": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. They also mapped magnetic fields inside towering jets of solar material, revealing how those fields change with height.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 08:23:38 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Using advanced balloon-borne telescope technology, astronomers uncover a complex magnetic web above the Sun's quiet regions, revealing surprising hidden complexity in solar magnetism."
+      "summary": "Samples from NASA's asteroid Bennu are revealing 4.5-billion-year-old secrets that are rewriting our understanding of how the solar system formed."
     },
     {
       "title": " Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet ",
@@ -230,29 +178,20 @@
       "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
       "source": " Latest from Space.com ",
       "date": "Wed, 28 Oct 2026 12:58:18 +0000",
-      "category": "Solar System",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory discovers a suspected dwarf planet beyond Neptune's orbit, potentially adding a new member to our Solar System's distant outer reaches."
+      "summary": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit, potentially adding a new member to our solar system's outer reaches."
     },
     {
-      "title": " Black holes can split in two — but only if they spin at extreme speeds ",
-      "description": "Scientists have long known that when two black holes collide, they merge to create a more massive black hole. New research suggests that the opposite may happen too: single black holes may split in two.",
-      "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Researchers discover that black holes can split into two separate black holes under extreme spinning conditions, expanding our understanding of black hole dynamics beyond simple mergers."
-    },
-    {
-      "title": " Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart ",
-      "description": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "title": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
+      "description": "A small red star is pulling gas from a brown dwarf as the pair circles every 87 minutes, packed into an orbit that could fit inside the Sun. Material strikes the star’s surface and lights up a hot spot, marking a meal that could continue for billions of years…",
+      "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/",
+      "source": "Space Daily",
+      "date": "2026-10-27T16:59:00Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers unveil new insights into a rare 'string of pearls' supernova remnant and its companion zombie star, revealing secrets about stellar death and cosmic recycling."
+      "summary": "A remarkable binary system features a red star slowly consuming a brown dwarf over billions of years while orbiting every 87 minutes in an incredibly compact space."
     },
     {
       "title": "Space Mysteries: Did a planet-sized object collide with Earth to form the moon? [8:42]",
@@ -263,49 +202,108 @@
       "image": null,
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists explore the Giant Impact Hypothesis, which proposes that a massive collision between early Earth and a planet-sized object led to the Moon's formation."
+      "summary": "Scientists explore the giant-impact hypothesis, where a planet-sized object collided with Earth to form our Moon during the early solar system's formation."
     },
     {
-      "title": "Achievement Unlocked: Microblazar Confirmed",
-      "description": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass black holes. The microblazar may be the s…",
-      "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
-      "source": "Universe Today",
-      "date": "2026-10-19T17:09:50Z",
-      "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Researchers confirm the first detection of a microblazar, a smaller cousin of high-energy blazars, expanding our understanding of compact cosmic objects."
-    },
-    {
-      "title": "Überholmanöver im All: Japan will beim Mars-Wettlauf gewinnen",
-      "description": "Seit Jahren arbeiten verschiedene Raumfahrtnationen daran, erstmals Gesteinsproben vom Mars zur Erde zu transportieren. Während deren Vorhaben ins Stocken geraten sind, wählt ein weiterer Akteur nun eine indirekte Route mit eigenen Risiken.\nweiterlesen auf t3…",
-      "url": "https://t3n.de/news/mars-mission-japan-mmx-wettlauf-1768868/",
-      "source": "T3n",
-      "date": "2026-10-27T14:55:00Z",
-      "image": "https://cdn.t3n.de/news/wp-content/uploads/2023/10/shutterstock_2310460377.jpg?class=content",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Japan accelerates its Mars sample return mission efforts, joining the international race to bring Martian rocks back to Earth in this exciting era of Mars exploration."
-    },
-    {
-      "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-      "description": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the…",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
       "source": "NASA",
-      "date": "Wed, 28 Oct 2026 05:39:46 +0000",
+      "date": "2026-10-21T18:35:56Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Jet Propulsion Laboratory looks toward its next 90 years of innovation, envisioning interstellar probes, lunar drones, and helicopters exploring Mars."
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory ",
+      "description": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "source": "NASA",
+      "date": "Wed, 28 Oct 2026 21:50:01 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "Vietnam becomes the 78th nation to sign the Artemis Accords, expanding the international coalition for sustainable lunar exploration and peaceful space cooperation."
+    },
+    {
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "description": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "source": "NASA",
+      "date": "Wed, 28 Oct 2026 16:25:29 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "NASA selects 19 new citizen science proposals for 2026, demonstrating the agency's commitment to engaging volunteers in groundbreaking scientific research."
+    },
+    {
+      "title": "Stars brewing in a nebulous cauldron",
+      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+      "source": "ESA Space Science",
+      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
+      "category": "Astrophysics",
+      "quality": 3,
+      "summary": "A spectacular image showcases stars actively forming within a nebulous cauldron of cosmic gas and dust."
+    },
+    {
+      "title": "Celebrating BepiColombo, three words at a time",
+      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "source": "ESA Space Science",
+      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 3,
-      "summary": "NASA's Curiosity rover continues its groundbreaking exploration of Mars, preparing to drill at a new site called 'Nazca.' The mission demonstrates ongoing scientific discovery on the Red Planet."
+      "summary": "BepiColombo mission celebrates eight years of its groundbreaking journey to explore the planet Mercury with innovative scientific instruments."
     },
     {
-      "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-      "description": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 04:05:00 +0000",
+      "title": "Mars moon lander set to launch on 19 October",
+      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "source": "ESA Space Science",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "Japan's Martian Moons eXploration mission launches on an H3 rocket to explore the mysteries of Mars's moon Phobos."
+    },
+    {
+      "title": "Mars’s oddest cloud may be even odder than we thought",
+      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+      "source": "ESA Space Science",
+      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
       "category": "Solar System",
       "quality": 3,
-      "summary": "Astronomers observe a rare mutual occultation of Jupiter's moons Ganymede and Io, providing a spectacular celestial event. This phenomenon offers unique opportunities for studying these fascinating Jovian satellites."
+      "summary": "European Space Agency's Mars Express has revealed new insights into Martian atmospheric phenomena, discovering that Mars's unusual clouds may be even more complex than previously understood."
+    },
+    {
+      "title": "Betelgeuse Is Disturbed By Its Companion Star",
+      "description": "Betelgeuse has a close-orbiting companion that disturbs the red supergiant into an egg-like shape. New observations show how the two stars interact and how this could help explain the varying brightness of Betelgeuse.",
+      "url": "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star",
+      "source": "Universe Today",
+      "date": "Wed, 28 Oct 2026 18:34:09 +0000",
+      "category": "Astrophysics",
+      "quality": 3,
+      "summary": "New observations reveal that Betelgeuse's companion star gravitationally distorts the red supergiant into an egg-like shape, offering fresh insights into binary star systems."
+    },
+    {
+      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
+      "description": "There weren’t any humans strapped into the bucket seats of the Orion spacecraft for the Artemis I mission. But there were two anthropomorphic mannequins made to mimic human bone and soft tissue, but also equipped with hundreds of radiation sensors spread throughout their body as part of the Matroshka AstroRad Radiation Experiment. A recent paper led by Paweł Bilski of the Institute for Nuclear Physics of the Polish Academy of Sciences, and published in the journal Radiation Measurements, reports on the results of that experiment, including the operation of a new type of long-term passive radiation monitor made of lithium.",
+      "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
+      "source": "Universe Today",
+      "date": "Wed, 28 Oct 2026 13:20:49 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "Glowing salt crystals aboard NASA's Artemis I mission tracked radiation exposure in the Orion spacecraft, providing crucial data for future human lunar exploration."
+    },
+    {
+      "title": "Unveiling Starbirth Mysteries",
+      "description": "In 1985, the physicist Heinz R. Pagels wrote, \"Stars are like animals in the wild. We may see the youung, but never the actual birth, which is a veiled and secret event.\" In the decades since then, astronomers have drawn closer and closer to figuring out what actually goes in the veiled stellar nurseries throughout the Universe. The tale of starbirth we know today invokes collapse of clouds of gas and dust into prestellar cores, but it still has many unknowns, such as the role of magnetic fields in the clouds where stars are born.",
+      "url": "https://www.universetoday.com/articles/unveiling-starbirth-mysteries",
+      "source": "Universe Today",
+      "date": "Wed, 28 Oct 2026 01:22:30 +0000",
+      "category": "Astrophysics",
+      "quality": 3,
+      "summary": "New research unveils mysteries of stellar birth and star formation, helping astronomers better understand how stars are born in the cosmos."
     }
   ]
 }
