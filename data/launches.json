@@ -1,23 +1,23 @@
 {
-  "generated": "2026-10-30T08:30:07.545Z",
+  "generated": "2026-10-30T22:14:15.287Z",
   "launches": [
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
       "net": "2026-10-30T18:21:00Z",
-      "status": "Go",
+      "status": "In Flight",
       "provider": "Indian Space Research Organization",
       "rocket": "GSLV Mk II",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
       "location": "Satish Dhawan Space Centre, India",
       "mission": "IRNSS-1L (NVS-03)",
       "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk252_image_20240101090337.jpg"
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv-f182fnvs-_image_20261030172350.jpeg"
     },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-31T03:48:00Z",
+      "net": "2026-10-31T04:02:22Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -93,10 +93,23 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
     },
     {
+      "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
+      "name": "Long March 2C | Unknown Payload",
+      "net": "2026-11-05T16:00:00Z",
+      "status": "Go",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 2C",
+      "pad": "Launch Complex 3 (LC-3/LA-1)",
+      "location": "Xichang Satellite Launch Center, People's Republic of China",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
+    },
+    {
       "id": "a2423132-f965-423f-8b03-6891b775dc54",
       "name": "Long March 12 | SatNet LEO Group TBD?",
-      "net": "2026-11-05T20:00:00Z",
-      "status": "TBC",
+      "net": "2026-11-05T21:15:00Z",
+      "status": "Go",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 12",
       "pad": "Commercial LC-2",
@@ -117,19 +130,6 @@
       "mission": "Starlink Group 15-21",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
-    },
-    {
-      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
-      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "net": "2026-11-10T00:00:00Z",
-      "status": "TBD",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Unknown Pad",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "mission": "The Mountain God Rises (iQPS Launch 10)",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
     }
   ]
 }
