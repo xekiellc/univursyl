@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T22:31:10.616Z",
+  "generated": "2026-10-30T08:30:07.545Z",
   "launches": [
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
@@ -30,7 +30,7 @@
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-      "net": "2026-11-02T08:45:00Z",
+      "net": "2026-11-02T16:00:00Z",
       "status": "TBC",
       "provider": "Rocket Lab",
       "rocket": "Electron",

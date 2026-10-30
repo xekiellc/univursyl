@@ -1,16 +1,26 @@
 {
-  "generated": "2026-10-28T22:27:24.003Z",
+  "generated": "2026-10-30T08:26:21.562Z",
   "count": 30,
   "articles": [
     {
-      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-      "description": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually replenishing its atmosphere through gases released from a global ocean of molten rock.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 27 Oct 2026 06:20:52 EDT",
-      "category": "Exoplanets",
+      "title": "MMX lifts off to Mars’s moon Phobos ",
+      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "source": "ESA Space Science",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "category": "Missions",
       "quality": 5,
-      "summary": "The James Webb Space Telescope has discovered a remarkable scorching lava planet 280 light-years away that mysteriously maintains a thick atmosphere despite extreme temperatures."
+      "summary": "The Martian Moons eXploration (MMX) mission launches toward Phobos, marking a landmark journey to explore Mars' mysterious moon."
+    },
+    {
+      "title": "Rubin observatory reveals two hidden companions of the Milky Way",
+      "description": "Preview data from the recently completed NSF-DOE Vera C. Rubin Observatory in Chile point to a wave of discoveries that may complete the census of the Milky Way's neighboring galaxies—including its faintest companions.",
+      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 29 Oct 2026 12:40:01 EDT",
+      "category": "Astronomy",
+      "quality": 5,
+      "summary": "The Vera C. Rubin Observatory has discovered two previously hidden companion galaxies orbiting the Milky Way, opening the door to major new discoveries about our galactic neighborhood. This breakthrough from preview data promises groundbreaking insights into galactic structure and dynamics."
     },
     {
       "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
@@ -20,7 +30,7 @@
       "date": "Tue, 27 Oct 2026 05:48:35 EDT",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "Smithsonian scientists have created one of the most detailed simulations of the early universe's first 2 billion years, revealing new insights into cosmic structure formation and evolution."
+      "summary": "Smithsonian scientists have created one of the largest and most detailed simulations of the early universe, modeling the first 2 billion years of cosmic history. This achievement provides unprecedented insights into the universe's origin and evolution."
     },
     {
       "title": "Three giant black holes discovered in a galaxy from the dawn of time",
@@ -30,47 +40,79 @@
       "date": "Sun, 25 Oct 2026 08:07:01 EDT",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Astronomers have made a landmark discovery of three actively feeding supermassive black holes within a single galaxy from over 12.5 billion light-years away, challenging our understanding of early black hole formation."
+      "summary": "Astronomers have discovered three actively feeding supermassive black holes within a single galaxy dating back more than 12.5 billion years to the dawn of time. This remarkable finding challenges theories about early galaxy formation and black hole evolution."
     },
     {
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "description": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement challenges traditional definitions of planets and moons, leaving scientists unsure what to call it.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 23:13:05 EDT",
-      "category": "Exoplanets",
+      "title": "Rubin Observatory Spots Possible Dwarf Planet Beyond Pluto—the Biggest in 20 Years",
+      "description": "The distant, icy celestial body could be our solar system's sixth dwarf planet.",
+      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
+      "source": "Gizmodo.com",
+      "date": "2026-10-28T20:00:13Z",
+      "image": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
+      "category": "Solar System",
       "quality": 5,
-      "summary": "Astronomers have uncovered compelling evidence of what may be the first moon ever detected outside our solar system, representing a historic breakthrough in exoplanet science."
+      "summary": "Rubin Observatory has identified a possible dwarf planet beyond Pluto, marking the largest such discovery in 20 years and potentially adding a sixth dwarf planet to our solar system."
     },
     {
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
-      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "title": "Giant new dwarf planet discovered in our own solar system — hiding in plain sight",
+      "description": "A large object in the Kuiper Belt — a distant region of icy and rocky bodies past Neptune — appears to be a new candidate dwarf planet.",
+      "url": "https://nypost.com/2026/10/28/science/giant-new-dwarf-planet-discovered-by-rubin-observatory/",
+      "source": "New York Post",
+      "date": "2026-10-28T17:23:23Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146744837.jpg?quality=75&strip=all&w=1200",
+      "category": "Solar System",
+      "quality": 5,
+      "summary": "A large icy object discovered in the Kuiper Belt appears to be a new dwarf planet candidate, hidden in plain sight in our own solar system."
+    },
+    {
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "description": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
       "source": "NASA",
-      "date": "Wed, 28 Oct 2026 18:59:44 +0000",
+      "date": "Fri, 30 Oct 2026 00:07:39 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A global map of Mars identifies 13 locations matching the mineralogy and chemistry of the ancient Martian meteorite Teghaza 001, aiding scientific understanding of Mars' geology."
+    },
+    {
+      "title": "Slice of Martian Meteorite Teghaza 001",
+      "description": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
+      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
+      "source": "NASA",
+      "date": "Thu, 29 Oct 2026 23:32:35 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Analysis of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, reveals crucial insights into Mars' early geological history."
+    },
+    {
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "description": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "source": "NASA",
+      "date": "Thu, 29 Oct 2026 18:18:09 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Artemis III Space Launch System core stage is integrated with twin solid rocket boosters at Kennedy Space Center, marking a major milestone toward returning humans to the Moon."
+      "summary": "A NASA-funded study reveals the age and origin of Teghaza 001, a rose-colored meteorite found in the Sahara Desert that ranks among Mars' oldest known samples."
     },
     {
-      "title": "Webb Sees Turbulent Star Nursery",
-      "description": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
-      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 15:33:10 +0000",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The James Webb Space Telescope captures a stunning image of a turbulent star nursery filled with dense clumps of material actively forming new stars."
-    },
-    {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "description": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
       "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
+      "date": "Thu, 29 Oct 2026 15:00:00 +0100",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Hubble and James Webb Space Telescopes jointly observe the Cat's Head Nebula, revealing a spectacular star-forming region with unprecedented detail."
+    },
+    {
+      "title": "Celebrating BepiColombo, three words at a time",
+      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "source": "ESA Space Science",
+      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration mission launches toward Phobos, Japan's first mission to explore the enigmatic moon of Mars."
+      "summary": "BepiColombo celebrates eight years of pioneering exploration to Mercury, advancing our understanding of the innermost planet."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -80,7 +122,17 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the instrument's exceptional detection capabilities."
+      "summary": "The European Space Agency's Euclid space telescope discovers a previously unknown comet, expanding humanity's catalog of solar system objects."
+    },
+    {
+      "title": "Mars moon lander set to launch on 19 October",
+      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "source": "ESA Space Science",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The Martian Moons eXploration (MMX) mission prepares for launch on an H3 rocket, embarking on an ambitious expedition to explore Mars' intriguing moons."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -88,69 +140,79 @@
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
       "source": "ESA Space Science",
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
-      "category": "Astrophysics",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The European Space Agency's Solar Orbiter traces the origin of mysterious magnetic switchbacks in solar wind, revealing new insights into solar physics."
+      "summary": "Solar Orbiter has discovered and tracked S-shaped magnetic switchbacks in the Sun's corona, advancing our understanding of solar magnetic phenomena and particle acceleration."
     },
     {
-      "title": "NASA's New UV Space Telescope Will Launch in 2031",
-      "description": "NASA has committed to launching a new, more powerful UV space telescope. Named UVEX, the UltraViolet EXplorer, it will launch in 2031. It's about 100 times more powerful than its predecessor, GALEX, whose mission ended in 2013. UVEX will perform a survey in UV that will complement infrared surveys by other telescopes.",
-      "url": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
+      "title": "No Comets Required? How the Growing Earth May Have Created Its Own Water",
+      "description": "Earth may not have needed comets and asteroids to deliver its water after it formed and cooled. Instead, water creation could have been part of the planet's formation process. New research explains how, and even shows that water creation could be a part of every rocky planet's formation.",
+      "url": "https://www.universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water",
       "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 22:06:39 +0000",
+      "date": "Thu, 29 Oct 2026 18:25:52 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "New research suggests Earth may have generated its own water through chemical processes rather than requiring delivery by comets and asteroids."
+    },
+    {
+      "title": "Colliding Dwarf Planets Created a 'Cat's Tail' 1,000 Astronomical Units Long",
+      "description": "The Beta Pictoris system is only about 63 light years away. At only about 23 million years old, it's a sort of analogue for our Solar System when it was much younger. Observations show an elongated dust feature named the 'Cat's Tail' that has puzzled researchers. New research says it's the result of two colliding dwarf planets, something that was sure to have happened in our Solar System when it was young.",
+      "url": "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long",
+      "source": "Universe Today",
+      "date": "Thu, 29 Oct 2026 15:46:02 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A collision between dwarf planets in the Beta Pictoris system created a dramatic debris structure extending 1,000 astronomical units, revealing planetary collision dynamics."
+    },
+    {
+      "title": "NASA's new UV space telescope will launch in 2031",
+      "description": "Most of us could spend our entire lives looking at the night sky and see very few changes. The moon becomes more or less illuminated, the planets drift placidly through the sky, satellites and the ISS intrude for a few moments at a time, and the bright, momentary streak of a meteor punctuates the occasional evening of stargazing.",
+      "url": "https://phys.org/news/2026-10-nasa-uv-space-telescope.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 29 Oct 2026 20:40:01 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's upcoming UVEX (UltraViolet EXplorer) space telescope will launch in 2031, providing unprecedented ultraviolet observations to advance our understanding of the universe."
+      "summary": "NASA's next-generation ultraviolet space telescope will launch in 2031, opening new windows for observing the cosmos."
     },
     {
-      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
-      "description": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyond Neptune. It may be up to 1500 km in diameter.",
-      "url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 15:34:33 +0000",
+      "title": "Rare 4.1-billion-year-old Martian meteorite reveals clues to planet's ancient past",
+      "description": "Scientists at the University of New Mexico have played a key role in identifying a rare, 4.1-billion-year-old Martian meteorite that provides new evidence that the red planet may have once had a wetter, Earth-like environment.",
+      "url": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 29 Oct 2026 19:30:05 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has discovered its first dwarf planet candidate, demonstrating the observatory's capability to detect distant Solar System objects ahead of its major Legacy Survey."
+      "summary": "A rare 4.1-billion-year-old Martian meteorite provides unprecedented clues to Mars' ancient geological history and habitability."
     },
     {
-      "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
-      "description": "Finding an Earth-like world beyond the solar system is the Holy Grail of exoplanet research, and the field has experienced incredible technological advancements in searching for and identifying exoplanets since the first exoplanet was discovered in 1995. This includes both ground- and space-based telescopes, specifically the powerful James Webb Space Telescope. However, directly imaging exoplanets remains elusive, primarily due to the enormous technological challenge of imaging a point of light so far away.",
-      "url": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 03:11:32 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "NASA's systems engineering team has detailed the architecture for the Habitable Worlds Observatory mission, advancing the quest to discover Earth-like exoplanets."
-    },
-    {
-      "title": "Sun's outer magnetic field mapped in 3D for the first time",
-      "description": "A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are the root cause of extreme space weather that can impact critical infrastructure technologies on Earth.",
-      "url": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
+      "title": "Built to take the blast: Students test prototype landing pad to make moon landings safer",
+      "description": "As NASA works toward a sustained human presence on the moon, researchers at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, are helping solve one of the most pressing challenges facing future lunar missions: how to land spacecraft safely without damaging the landing vehicle or nearby infrastructure.",
+      "url": "https://phys.org/news/2026-10-built-blast-students-prototype-pad.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Wed, 28 Oct 2026 16:10:02 EDT",
-      "category": "Astronomy",
+      "date": "Thu, 29 Oct 2026 14:40:05 EDT",
+      "category": "NASA",
       "quality": 4,
-      "summary": "Researchers have produced the first comprehensive 3D map of the Sun's outer magnetic field, revealing new details about solar structure and activity."
+      "summary": "University of Alabama researchers are developing prototype landing pads to improve safety for NASA's upcoming sustained lunar missions. This innovation supports the agency's ambitious goals for human presence on the Moon."
     },
     {
-      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
-      "description": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this month by a scientist combing through data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rubin Observatory.",
-      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 27 Oct 2026 18:30:05 EDT",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "description": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity. The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assumed.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 29 Oct 2026 08:07:58 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "Mathematicians have identified a potential fundamental flaw in the standard cosmological model, suggesting Einstein's equations may explain the universe without requiring dark energy. This theoretical breakthrough could reshape our understanding of cosmic structure and evolution."
+    },
+    {
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "description": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 29 Oct 2026 08:26:25 EDT",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Rubin Observatory has identified a potential new dwarf planet candidate in our solar system, expanding our understanding of distant icy bodies in the outer reaches of our cosmic neighborhood."
-    },
-    {
-      "title": "Double debris disk orbiting a dead star hints at our solar system's future",
-      "description": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—the leftovers of planets that once orbited the star—is organized in a double disk, the two parts separated by a clear gap. The disk appears to be shaped by two planetary bodies, one possibly as big as Pluto, that have survived the violent death of the star.",
-      "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 27 Oct 2026 18:00:12 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Very Large Telescope has discovered a rare double debris disk around a dead star, offering insights into how planetary systems evolve and hints at the distant future of our own solar system."
+      "summary": "NASA's Juno spacecraft reveals that Jupiter's magnetosphere is far more complex than Earth's, utilizing powerful plasma waves and multiple protective mechanisms. This discovery deepens our understanding of planetary protection and magnetic field dynamics."
     },
     {
       "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
@@ -160,27 +222,60 @@
       "date": "Wed, 28 Oct 2026 06:29:36 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Artemis I mission has provided crucial data on radiation levels near the Moon, advancing our understanding of the lunar environment for future human exploration."
+      "summary": "NASA's Artemis I mission has provided crucial data on cosmic radiation levels near the Moon, revealing higher exposure than in Earth orbit but manageable for future missions. This finding is essential for planning safe human lunar exploration."
     },
     {
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "description": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "description": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, possibly because of mineral clouds that act like a giant sunscreen. The planet may also be continually replenishing its atmosphere through gases released from a global ocean of molten rock.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Samples from NASA's asteroid Bennu are revealing 4.5-billion-year-old secrets that are rewriting our understanding of how the solar system formed."
-    },
-    {
-      "title": " Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet ",
-      "description": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
-      "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-      "source": " Latest from Space.com ",
-      "date": "Wed, 28 Oct 2026 12:58:18 +0000",
+      "date": "Tue, 27 Oct 2026 06:20:52 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit, potentially adding a new member to our solar system's outer reaches."
+      "summary": "The James Webb Space Telescope has discovered a distant lava planet 280 light-years away that surprisingly maintains a thick atmosphere despite extreme heat. This unexpected finding challenges our understanding of planetary atmospheres in extreme environments."
+    },
+    {
+      "title": " See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos) ",
+      "description": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
+      "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 29 Oct 2026 18:55:22 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Artemis III astronauts met with President Trump at the White House as they prepare for a critical 2027 moon lander test flight, advancing humanity's return to lunar exploration."
+    },
+    {
+      "title": "World's largest digital camera snaps new world beyond Pluto",
+      "description": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
+      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
+      "source": "New Atlas",
+      "date": "2026-10-29T03:47:00Z",
+      "image": "https://assets.newatlas.com/dims4/default/1d1ef9a/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F37%2Ffa%2Fbb98de5f4665aabc134d1b02de15%2Fed138-hero.jpg&na.image_optimisation=0",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "The world's largest digital camera has discovered a new world beyond Pluto, expanding our understanding of distant solar system objects."
+    },
+    {
+      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "description": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyo…",
+      "url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+      "source": "Universe Today",
+      "date": "2026-10-28T15:34:33Z",
+      "image": "https://www.universetoday.com/article_images/noirlab2626a_20261028_121609.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "The Vera Rubin Observatory discovered its first dwarf planet candidate during early observations before its decade-long Legacy Survey of Space and Time begins."
+    },
+    {
+      "title": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto",
+      "description": "What else could be out there?ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
+      "source": "ScienceAlert",
+      "date": "2026-10-28T10:00:00Z",
+      "image": "https://www.sciencealert.com/images/2026/10/planet-1200x675.png",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Astronomers have identified a giant new dwarf planet candidate beyond Pluto, raising exciting questions about what other discoveries await in the distant solar system."
     },
     {
       "title": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
@@ -191,119 +286,28 @@
       "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "A remarkable binary system features a red star slowly consuming a brown dwarf over billions of years while orbiting every 87 minutes in an incredibly compact space."
+      "summary": "A red star and brown dwarf locked in an extraordinarily rapid 87-minute orbit demonstrate exotic stellar dynamics that could persist for billions of years."
     },
     {
-      "title": "Space Mysteries: Did a planet-sized object collide with Earth to form the moon? [8:42]",
-      "description": "A leading theory proposes that ancient Earth collided with a planet-sized object, creating the moon within a period that may have been as short as just a few hours. Space Mysteries: Did a planet-sized object collide with Earth to form the moon? | 8:42 VideoFr…",
-      "url": "https://freerepublic.com/focus/f-chat/4400244/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-10-23T01:15:51Z",
-      "image": null,
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists explore the giant-impact hypothesis, where a planet-sized object collided with Earth to form our Moon during the early solar system's formation."
-    },
-    {
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the…",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-      "source": "NASA",
-      "date": "2026-10-21T18:35:56Z",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
+      "title": "Artemis II : le voyage vers la Lune aurait pu capoter et s’est joué à quelques minutes, révèle l’un des astronautes",
+      "description": "Seulement cinq petites minutes : c'est la minuscule marge qui séparait l'équipage d'Artemis II d'un retour en catastrophe sur le plancher des vaches. Il ne s'en est fallu que de très peu pour que l'humanité rate son rendez-vous historique avec la Lune.",
+      "url": "https://www.presse-citron.net/artemis-ii-voyage-lune-capoter-sest-joue-quelques-minutes-revele-astronautes/",
+      "source": "Presse-citron",
+      "date": "2026-10-29T07:02:15Z",
+      "image": "https://www.presse-citron.net/app/uploads/2026/10/Decollage-Artemis-II-1600x900.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Jet Propulsion Laboratory looks toward its next 90 years of innovation, envisioning interstellar probes, lunar drones, and helicopters exploring Mars."
+      "summary": "Artemis II astronauts revealed that their historic lunar mission came within five minutes of requiring an emergency return, highlighting the mission's critical precision."
     },
     {
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory ",
-      "description": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
-      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "description": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
       "source": "NASA",
-      "date": "Wed, 28 Oct 2026 21:50:01 +0000",
-      "category": "NASA",
+      "date": "Fri, 30 Oct 2026 04:05:00 +0000",
+      "category": "Astronomy",
       "quality": 3,
-      "summary": "Vietnam becomes the 78th nation to sign the Artemis Accords, expanding the international coalition for sustainable lunar exploration and peaceful space cooperation."
-    },
-    {
-      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-      "description": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-      "source": "NASA",
-      "date": "Wed, 28 Oct 2026 16:25:29 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA selects 19 new citizen science proposals for 2026, demonstrating the agency's commitment to engaging volunteers in groundbreaking scientific research."
-    },
-    {
-      "title": "Stars brewing in a nebulous cauldron",
-      "description": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "source": "ESA Space Science",
-      "date": "Thu, 22 Oct 2026 10:00:00 +0200",
-      "category": "Astrophysics",
-      "quality": 3,
-      "summary": "A spectacular image showcases stars actively forming within a nebulous cauldron of cosmic gas and dust."
-    },
-    {
-      "title": "Celebrating BepiColombo, three words at a time",
-      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "BepiColombo mission celebrates eight years of its groundbreaking journey to explore the planet Mercury with innovative scientific instruments."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
-      "quality": 3,
-      "summary": "Japan's Martian Moons eXploration mission launches on an H3 rocket to explore the mysteries of Mars's moon Phobos."
-    },
-    {
-      "title": "Mars’s oddest cloud may be even odder than we thought",
-      "description": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-      "source": "ESA Space Science",
-      "date": "Wed, 07 Oct 2026 17:00:00 +0200",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "European Space Agency's Mars Express has revealed new insights into Martian atmospheric phenomena, discovering that Mars's unusual clouds may be even more complex than previously understood."
-    },
-    {
-      "title": "Betelgeuse Is Disturbed By Its Companion Star",
-      "description": "Betelgeuse has a close-orbiting companion that disturbs the red supergiant into an egg-like shape. New observations show how the two stars interact and how this could help explain the varying brightness of Betelgeuse.",
-      "url": "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 18:34:09 +0000",
-      "category": "Astrophysics",
-      "quality": 3,
-      "summary": "New observations reveal that Betelgeuse's companion star gravitationally distorts the red supergiant into an egg-like shape, offering fresh insights into binary star systems."
-    },
-    {
-      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
-      "description": "There weren’t any humans strapped into the bucket seats of the Orion spacecraft for the Artemis I mission. But there were two anthropomorphic mannequins made to mimic human bone and soft tissue, but also equipped with hundreds of radiation sensors spread throughout their body as part of the Matroshka AstroRad Radiation Experiment. A recent paper led by Paweł Bilski of the Institute for Nuclear Physics of the Polish Academy of Sciences, and published in the journal Radiation Measurements, reports on the results of that experiment, including the operation of a new type of long-term passive radiation monitor made of lithium.",
-      "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 13:20:49 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "Glowing salt crystals aboard NASA's Artemis I mission tracked radiation exposure in the Orion spacecraft, providing crucial data for future human lunar exploration."
-    },
-    {
-      "title": "Unveiling Starbirth Mysteries",
-      "description": "In 1985, the physicist Heinz R. Pagels wrote, \"Stars are like animals in the wild. We may see the youung, but never the actual birth, which is a veiled and secret event.\" In the decades since then, astronomers have drawn closer and closer to figuring out what actually goes in the veiled stellar nurseries throughout the Universe. The tale of starbirth we know today invokes collapse of clouds of gas and dust into prestellar cores, but it still has many unknowns, such as the role of magnetic fields in the clouds where stars are born.",
-      "url": "https://www.universetoday.com/articles/unveiling-starbirth-mysteries",
-      "source": "Universe Today",
-      "date": "Wed, 28 Oct 2026 01:22:30 +0000",
-      "category": "Astrophysics",
-      "quality": 3,
-      "summary": "New research unveils mysteries of stellar birth and star formation, helping astronomers better understand how stars are born in the cosmos."
+      "summary": "APOD features the Cepheus Flare, a stunning astronomical observation showcasing stellar formation and cosmic wonder in a distant region of space."
     }
   ]
 }
