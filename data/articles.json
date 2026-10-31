@@ -1,38 +1,17 @@
 {
-  "generated": "2026-10-31T08:16:27.169Z",
+  "generated": "2026-10-31T15:41:37.614Z",
   "count": 30,
   "articles": [
     {
-      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-      "description": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 30 Oct 2026 06:50:22 EDT",
-      "category": "Cosmology",
+      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
+      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
+      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+      "source": "ScienceAlert",
+      "date": "2026-10-30T13:00:00Z",
+      "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
+      "category": "Astrophysics",
       "quality": 5,
-      "summary": "The Hubble Space Telescope has made a surprising discovery that challenges current understanding of how the universe emerged from darkness, potentially reshaping our cosmological models."
-    },
-    {
-      "title": "Rubin Observatory Spots Possible Dwarf Planet Beyond Pluto—the Biggest in 20 Years",
-      "description": "The distant, icy celestial body could be our solar system's sixth dwarf planet.",
-      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
-      "source": "Gizmodo.com",
-      "date": "2026-10-28T20:00:13Z",
-      "image": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
-      "category": "Solar System",
-      "quality": 5,
-      "summary": "The Rubin Observatory has discovered the largest dwarf planet candidate in 20 years—a distant icy celestial body that could be our solar system's sixth dwarf planet."
-    },
-    {
-      "title": "Giant new dwarf planet discovered in our own solar system — hiding in plain sight",
-      "description": "A large object in the Kuiper Belt — a distant region of icy and rocky bodies past Neptune — appears to be a new candidate dwarf planet.",
-      "url": "https://nypost.com/2026/10/28/science/giant-new-dwarf-planet-discovered-by-rubin-observatory/",
-      "source": "New York Post",
-      "date": "2026-10-28T17:23:23Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146744837.jpg?quality=75&strip=all&w=1200",
-      "category": "Solar System",
-      "quality": 5,
-      "summary": "A giant new dwarf planet has been discovered in the Kuiper Belt beyond Neptune, revealing hidden worlds in our own solar system that were previously overlooked."
+      "summary": "Astronomers observed two different types of gamma-ray bursts erupting just 4 minutes apart—an unprecedented discovery about some of the universe's most energetic events. This rare occurrence promises new insights into cosmic explosions dating back to the Big Bang."
     },
     {
       "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
@@ -42,7 +21,7 @@
       "date": "Fri, 30 Oct 2026 15:56:26 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's James Webb Space Telescope reveals intricate structures within the Cat's Head Nebula in stunning mid-infrared detail."
+      "summary": "NASA's James Webb Space Telescope reveals stunning mid-infrared details of intricate structures within the Cat's Head Nebula, showcasing stellar nursery complexity."
     },
     {
       "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
@@ -52,7 +31,7 @@
       "date": "Thu, 29 Oct 2026 15:00:00 +0100",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Hubble and James Webb Space Telescopes collaborate to observe the Cat's Head Nebula, revealing an eerie star-forming region."
+      "summary": "The Hubble and James Webb Space Telescopes collaborate to reveal the haunting beauty of the Cat's Head Nebula, a dynamic star-forming region."
     },
     {
       "title": "MMX lifts off to Mars’s moon Phobos ",
@@ -62,7 +41,7 @@
       "date": "Tue, 20 Oct 2026 09:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission successfully launches toward Phobos, a groundbreaking exploration of Mars's mysterious moon."
+      "summary": "Japan's Martian Moons eXploration (MMX) mission successfully launches toward Phobos, marking an exciting chapter in Mars system exploration."
     },
     {
       "title": "Celebrating BepiColombo, three words at a time",
@@ -72,7 +51,7 @@
       "date": "Mon, 19 Oct 2026 17:00:00 +0200",
       "category": "Missions",
       "quality": 4,
-      "summary": "BepiColombo celebrates its milestone anniversary after eight years of its historic journey to study Mercury."
+      "summary": "BepiColombo, the joint ESA-JAXA Mercury mission launched in 2018, celebrates its anniversary with continued success on its groundbreaking journey."
     },
     {
       "title": "Euclid discovers new comet ",
@@ -82,17 +61,7 @@
       "date": "Mon, 19 Oct 2026 14:00:00 +0200",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope achieves a significant milestone by discovering its first previously unknown comet."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission launches on an H3 rocket toward Mars's moon system for groundbreaking scientific research."
+      "summary": "The European Space Agency's Euclid space telescope discovers its first previously unknown comet, demonstrating the mission's exceptional observational capabilities."
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
@@ -102,7 +71,7 @@
       "date": "Thu, 08 Oct 2026 11:00:00 +0200",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "ESA's Solar Orbiter has directly observed mysterious S-shaped magnetic switchbacks in the solar wind, advancing our understanding of solar magnetic phenomena. This breakthrough helps explain the complex dynamics of the solar atmosphere."
+      "summary": "ESA's Solar Orbiter has directly observed magnetic switchbacks in the solar wind, mysterious S-shaped kinks that help us understand solar physics and space weather phenomena."
     },
     {
       "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
@@ -112,17 +81,7 @@
       "date": "Sat, 31 Oct 2026 01:52:53 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Hera probe has achieved the first separate observations of both asteroids in a binary system, marking a major advance in planetary defense technology. This mission demonstrates our growing capability to study and potentially deflect hazardous space objects."
-    },
-    {
-      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
-      "description": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
-      "url": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
-      "source": "Universe Today",
-      "date": "Fri, 30 Oct 2026 20:59:00 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Queen's University Belfast astronomers have led an international team in discovering Neptune's elusive Trojan asteroids, revealing previously unknown bodies in our solar system. This discovery expands our knowledge of planetary orbital dynamics and asteroid populations."
+      "summary": "NASA's Hera probe has achieved the first separate imaging of a binary asteroid pair, advancing planetary defense capabilities and asteroid characterization science."
     },
     {
       "title": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
@@ -132,7 +91,7 @@
       "date": "Fri, 30 Oct 2026 19:14:01 +0000",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Ancient Martian meteorites provide compelling evidence that Mars once had a warm, wet climate capable of supporting life. These cosmic time-capsules offer invaluable insights into Mars' habitability and planetary evolution."
+      "summary": "Ancient Martian meteorites provide compelling evidence of Mars' warm, wet ancient past, offering insights into planetary habitability and evolution."
     },
     {
       "title": "It's a Ghost! No, It's a Stellar Crèche!",
@@ -142,17 +101,7 @@
       "date": "Thu, 29 Oct 2026 23:25:37 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Chandra X-ray Observatory and James Webb Space Telescope have identified a wispy stellar nursery, revealing new insights into star formation. This discovery showcases the power of multi-wavelength astronomy in understanding cosmic processes."
-    },
-    {
-      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
-      "description": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
-      "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 30 Oct 2026 20:20:01 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Radio telescopes offer a promising new approach to pinpointing the origin of elusive cosmic neutrinos, the universe's ghost particles. This advancement could revolutionize our ability to study high-energy astrophysical events."
+      "summary": "Chandra X-ray Observatory and JWST jointly resolved a wispy cosmic structure, revealing it to be a stellar nursery with extraordinary detail and clarity."
     },
     {
       "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
@@ -162,27 +111,7 @@
       "date": "Fri, 30 Oct 2026 16:20:06 EDT",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "A groundbreaking photonic chip developed at Heriot-Watt University enables telescopes to be linked together for unprecedented detail in observing the universe. This technology represents a major leap forward in astronomical instrumentation and capabilities."
-    },
-    {
-      "title": "A gamma-ray powerhouse's smoking gun? Gas trail points to microquasar jets",
-      "description": "In 2016, a binary star system emitting unusually strong gamma rays was discovered in our galactic neighborhood. Now, astronomers have found the smoking gun, or rather, a smoking trail of cool molecular gas that suggests jets emanating from a microquasar—one of the few known outside the Milky Way—are responsible.",
-      "url": "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 30 Oct 2026 13:20:18 EDT",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Observations of a nearby microquasar's gas trail provide new evidence explaining its unusually powerful gamma-ray emissions. This discovery illuminates the physics of compact binary star systems and their energetic jets."
-    },
-    {
-      "title": "NASA's Voyager 1 conserves power, resolves brief communications pause",
-      "description": "NASA's Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft's diminishing power supply. Then, on Oct. 20, an unexpected loss of communication with the spacecraft resolved itself after 48 hours, before the team sent commands to the spacecraft to troubleshoot the issue.",
-      "url": "https://phys.org/news/2026-10-nasa-voyager-power-communications.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 30 Oct 2026 10:20:10 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Voyager 1 has successfully resolved a communications issue and implemented power conservation measures, continuing its historic mission beyond the heliopause. This achievement demonstrates the resilience of humanity's most distant spacecraft."
+      "summary": "A revolutionary photonic chip developed at Heriot-Watt University has successfully linked telescopes to achieve unprecedented imaging resolution of the cosmos."
     },
     {
       "title": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
@@ -192,7 +121,7 @@
       "date": "Fri, 30 Oct 2026 09:40:14 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "JWST has discovered a distant blue galaxy allowing most of its ionizing radiation to escape, offering new insights into galaxy formation and reionization. This finding advances our understanding of the early universe's evolution."
+      "summary": "JWST has discovered a distant blue galaxy that efficiently leaks ionizing radiation, providing new understanding of how early galaxies shaped the universe's ionization history."
     },
     {
       "title": "NASA's TRACERS first results offer peek into violent magnetic process",
@@ -202,37 +131,27 @@
       "date": "Fri, 30 Oct 2026 09:40:05 EDT",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's TRACERS mission has delivered its first results on magnetic reconnection, a violent process fundamental to understanding solar physics and space weather. This breakthrough enhances our ability to predict and understand cosmic magnetic phenomena."
+      "summary": "NASA's TRACERS mission has begun revealing data about violent magnetic reconnection processes in Earth's magnetosphere. This groundbreaking research helps scientists understand fundamental plasma physics phenomena."
     },
     {
-      "title": "Extraterrestrial detection inspired by firefly communications could distinguish alien signals from pulsars",
-      "description": "When we think of extraterrestrial intelligence that might be out there among the stars, we tend to think of creatures not too unlike us, though maybe with gray skin, probably bald and with big black eyes. We focus on the familiar, humanoids. But there are many intelligent species on Earth that are nonhumanoid: dolphins, crows, pigs and—with swarm if not individual intelligence—ants and bees. The film \"Arrival\" conceived of hexapod beings more capable than humans and with a more sophisticated communication system.",
-      "url": "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 30 Oct 2026 08:50:02 EDT",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "Researchers are developing new detection methods inspired by firefly communication that could help distinguish genuine extraterrestrial signals from natural pulsar emissions, advancing our search for intelligent life."
-    },
-    {
-      "title": "Space station experiment to probe plant disease risks for future moon and Mars missions",
-      "description": "As NASA and its partners prepare for longer human missions beyond Earth, University of Florida researchers are investigating a challenge that could affect astronauts' ability to grow fresh food in space: plant disease.",
-      "url": "https://phys.org/news/2026-10-space-station-probe-disease-future.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 29 Oct 2026 23:00:01 EDT",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "University of Florida scientists are conducting experiments on the International Space Station to understand plant disease risks for future human missions to the Moon and Mars, ensuring crew safety for deep space exploration."
-    },
-    {
-      "title": "Astronauts just gave the International Space Station a powerful upgrade",
-      "description": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "description": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 30 Oct 2026 02:12:55 EDT",
-      "category": "NASA",
+      "date": "Fri, 30 Oct 2026 22:09:38 EDT",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Two astronauts successfully completed a seven-hour spacewalk to install a powerful new solar array on the International Space Station, enhancing its capabilities for future missions."
+      "summary": "Scientists have successfully recreated primordial matter from the Big Bang by colliding oxygen nuclei at near-light speeds. This experimental achievement provides direct insights into the universe's earliest moments."
+    },
+    {
+      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "description": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Fri, 30 Oct 2026 06:50:22 EDT",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The Hubble Space Telescope has revealed surprising new insights into how the universe emerged from its dark ages, challenging existing theoretical models. This discovery opens new avenues for understanding cosmic evolution."
     },
     {
       "title": "Physicists created a tiny universe and watched time emerge without a clock",
@@ -242,7 +161,7 @@
       "date": "Fri, 30 Oct 2026 07:42:36 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists have created a miniature universe in the laboratory that demonstrates how time can emerge without a traditional clock, offering new insights into one of physics' greatest mysteries."
+      "summary": "Physicists have created a miniature universe in the laboratory that demonstrates how time can emerge without conventional clocks. This groundbreaking experiment may help solve fundamental mysteries about the nature of time itself."
     },
     {
       "title": "Einstein's equations may explain the universe without dark energy",
@@ -252,17 +171,7 @@
       "date": "Thu, 29 Oct 2026 08:07:58 EDT",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Mathematicians have identified a potential fundamental flaw in the standard cosmological model, suggesting Einstein's equations alone may explain the universe without requiring dark energy."
-    },
-    {
-      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "description": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 29 Oct 2026 08:26:25 EDT",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "NASA's Juno spacecraft has revealed that Jupiter's magnetosphere is far more complex than Earth's, employing sophisticated plasma wave systems to create an invisible protective shield."
+      "summary": "Mathematicians have identified potential flaws in the standard model and propose that Einstein's equations alone may explain the universe without dark energy. This theoretical breakthrough could revolutionize cosmological understanding."
     },
     {
       "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
@@ -272,17 +181,18 @@
       "date": "Thu, 29 Oct 2026 23:17:17 EDT",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Astronomers have solved a 170-year-old mystery in a nearby binary star system just 16 light-years away, discovering that it may harbor habitable planets."
+      "summary": "Astronomers have solved a 170-year-old mystery in a nearby star system just 16 light-years away, discovering potentially habitable planets. This exciting finding brings the search for life closer to home."
     },
     {
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "description": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 28 Oct 2026 06:29:36 EDT",
-      "category": "NASA",
+      "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
+      "description": "A researcher just won a Nobel Prize for detecting tiny particles from space. Scientists now want to get better at figuring out where in the cosmos they come from.",
+      "url": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
+      "source": "The Conversation Africa",
+      "date": "2026-10-30T12:14:30Z",
+      "image": "https://images.theconversation.com/files/767352/original/file-20261020-50-c5cgi.jpg?ixlib=rb-4.1.1&rect=0%2C614%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Artemis I mission has revealed new data about cosmic radiation levels near the Moon, providing crucial information for planning future crewed lunar missions."
+      "summary": "Scientists are using radio telescopes to better understand the origins of cosmic neutrinos, building on a Nobel Prize-winning detection breakthrough. Advanced technology may unlock mysteries of these elusive 'ghost particles' from space."
     },
     {
       "title": "Possible dwarf planet discovered beyond Pluto",
@@ -293,18 +203,113 @@
       "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ae32c5f203027529c7a6213.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Astronomers have discovered 2026 ED138, a large icy object beyond Pluto that could be our solar system's sixth dwarf planet, expanding our understanding of the distant reaches of our cosmic neighborhood."
+      "summary": "Astronomers discovered a large icy object beyond Pluto designated 2026 ED138, which could become the solar system's sixth dwarf planet. This discovery expands our understanding of the outer solar system's distant regions."
     },
     {
-      "title": "World's largest digital camera snaps new world beyond Pluto",
-      "description": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
-      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
-      "source": "New Atlas",
-      "date": "2026-10-29T03:47:00Z",
-      "image": "https://assets.newatlas.com/dims4/default/1d1ef9a/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F37%2Ffa%2Fbb98de5f4665aabc134d1b02de15%2Fed138-hero.jpg&na.image_optimisation=0",
+      "title": "Rubin Observatory Spots Possible Dwarf Planet Beyond Pluto—the Biggest in 20 Years",
+      "description": "The distant, icy celestial body could be our solar system's sixth dwarf planet.",
+      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
+      "source": "Gizmodo.com",
+      "date": "2026-10-28T20:00:13Z",
+      "image": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "The world's largest digital camera has captured images revealing new worlds beyond Pluto, advancing our exploration of the outer solar system."
+      "summary": "The Rubin Observatory discovered a possible dwarf planet beyond Pluto—the largest such find in 20 years—marking a major breakthrough early in its survey mission. This distant, icy body could reshape our understanding of the solar system's outer reaches."
+    },
+    {
+      "title": "Giant new dwarf planet discovered in our own solar system — hiding in plain sight",
+      "description": "A large object in the Kuiper Belt — a distant region of icy and rocky bodies past Neptune — appears to be a new candidate dwarf planet.",
+      "url": "https://nypost.com/2026/10/28/science/giant-new-dwarf-planet-discovered-by-rubin-observatory/",
+      "source": "New York Post",
+      "date": "2026-10-28T17:23:23Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146744837.jpg?quality=75&strip=all&w=1200",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A large object in the Kuiper Belt has been identified as a new dwarf planet candidate, hiding in plain sight within our own solar system. This discovery highlights how much remains to be learned about our cosmic neighborhood."
+    },
+    {
+      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "description": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyo…",
+      "url": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+      "source": "Universe Today",
+      "date": "2026-10-28T15:34:33Z",
+      "image": "https://www.universetoday.com/article_images/noirlab2626a_20261028_121609.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "The Vera Rubin Observatory achieved a landmark discovery of its first dwarf planet candidate before officially beginning its decade-long survey mission. This success demonstrates the observatory's remarkable potential for future discoveries."
+    },
+    {
+      "title": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto",
+      "description": "What else could be out there?ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
+      "source": "ScienceAlert",
+      "date": "2026-10-28T10:00:00Z",
+      "image": "https://www.sciencealert.com/images/2026/10/planet-1200x675.png",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Astronomers discovered a giant new dwarf planet candidate beyond Pluto, sparking wonder about what other discoveries await in the outer solar system. Each find expands the possibilities of what exists in the distant reaches of space."
+    },
+    {
+      "title": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
+      "description": "A small red star is pulling gas from a brown dwarf as the pair circles every 87 minutes, packed into an orbit that could fit inside the Sun. Material strikes the star’s surface and lights up a hot spot, marking a meal that could continue for billions of years…",
+      "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/",
+      "source": "Space Daily",
+      "date": "2026-10-27T16:59:00Z",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "A red star and brown dwarf form an extraordinary binary system where the star slowly consumes its companion over billions of years while orbiting every 87 minutes. This extreme cosmic partnership showcases the universe's most exotic gravitational dances."
+    },
+    {
+      "title": "A drive to remember",
+      "description": "Perseverance’s record-breaking drive distance is in the spotlight. Plus, Hera is getting close enough to spy its two tiny targets.",
+      "url": "https://www.planetary.org/the-downlink/a-drive-to-remember",
+      "source": "The Planetary Society",
+      "date": "2026-10-30T14:30:00Z",
+      "image": "https://planetary.s3.amazonaws.com/web/assets/email/newsletter/_1200x630_crop_center-center_82_none/yardangs-from-curiosity.jpeg?mtime=1793214594",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Perseverance rover set a record-breaking drive distance on Mars while the Hera mission approaches its targets to study asteroid deflection. These achievements showcase humanity's expanding capabilities in planetary exploration."
+    },
+    {
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "description": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "source": "NASA",
+      "date": "Fri, 30 Oct 2026 14:51:21 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "NASA seeks industry partnerships to develop commercial in-space servicing capabilities for the iconic Hubble Space Telescope, extending its scientific mission."
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "description": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "source": "NASA",
+      "date": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "A November sky guide celebrates the historic 1977 Voyager 1 and 2 missions and their remarkable journey through the solar system's outer reaches."
+    },
+    {
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "description": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "source": "NASA",
+      "date": "Fri, 30 Oct 2026 00:07:39 +0000",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "Scientists map 13 potential Martian locations matching the mineralogy of meteorite Teghaza 001, advancing understanding of Mars's geological history."
+    },
+    {
+      "title": "Mars moon lander set to launch on 19 October",
+      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "source": "ESA Space Science",
+      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "Japan's Martian Moons eXploration mission is scheduled to launch on an H3 rocket, beginning an ambitious exploration of Mars's moons."
     }
   ]
 }
