@@ -1,19 +1,6 @@
 {
-  "generated": "2026-10-31T15:45:32.281Z",
+  "generated": "2026-10-31T21:23:06.105Z",
   "launches": [
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-30T18:21:00Z",
-      "status": "Success",
-      "provider": "Indian Space Research Organization",
-      "rocket": "GSLV Mk II",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "location": "Satish Dhawan Space Centre, India",
-      "mission": "IRNSS-1L (NVS-03)",
-      "description": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv-f182fnvs-_image_20261030172350.jpeg"
-    },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
@@ -130,6 +117,19 @@
       "mission": "Starlink Group 15-21",
       "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png"
+    },
+    {
+      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
+      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
+      "net": "2026-11-10T00:00:00Z",
+      "status": "TBD",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Unknown Pad",
+      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "mission": "The Mountain God Rises (iQPS Launch 10)",
+      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
     }
   ]
 }
