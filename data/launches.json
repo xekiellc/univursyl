@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-30T22:14:15.287Z",
+  "generated": "2026-10-31T08:25:50.528Z",
   "launches": [
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
       "net": "2026-10-30T18:21:00Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "Indian Space Research Organization",
       "rocket": "GSLV Mk II",
       "pad": "Satish Dhawan Space Centre Second Launch Pad",
@@ -17,8 +17,8 @@
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-31T04:02:22Z",
-      "status": "Go",
+      "net": "2026-10-31T04:04:34Z",
+      "status": "Success",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "pad": "Space Launch Complex 4E",
