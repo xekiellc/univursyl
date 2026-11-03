@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-02T20:14:18.810Z",
+  "generated": "2026-11-03T14:07:33.003Z",
   "launches": [
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
       "net": "2026-11-02T16:41:00Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "pad": "Rocket Lab Launch Complex 1A",
@@ -16,15 +16,15 @@
     },
     {
       "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
-      "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
-      "net": "2026-11-03T00:10:00Z",
-      "status": "Go",
+      "name": "Kinetica 2 | SpaceSail Polar Group #17",
+      "net": "2026-11-03T00:15:00Z",
+      "status": "Success",
       "provider": "CAS Space",
       "rocket": "Kinetica 2",
       "pad": "Launch Area 140",
       "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "SpaceSail Polar Group TBD?",
-      "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+      "mission": "SpaceSail Polar Group #17",
+      "description": "18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_20260330153456.jpg"
     },
     {
@@ -41,19 +41,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png"
     },
     {
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "net": "2026-11-05T01:14:00Z",
-      "status": "Go",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "pad": "Space Launch Complex 4E",
-      "location": "Vandenberg SFB, CA, USA",
-      "mission": "USSF-432",
-      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
-    },
-    {
       "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
       "name": "Long March 2C | Unknown Payload",
       "net": "2026-11-05T16:00:00Z",
@@ -65,19 +52,6 @@
       "mission": "Unknown Payload",
       "description": "Details TBD.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
-    },
-    {
-      "id": "a2423132-f965-423f-8b03-6891b775dc54",
-      "name": "Long March 12 | SatNet LEO Group TBD?",
-      "net": "2026-11-05T21:15:00Z",
-      "status": "Go",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 12",
-      "pad": "Commercial LC-2",
-      "location": "Wenchang Space Launch Site, People's Republic of China",
-      "mission": "SatNet LEO Group TBD?",
-      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
     },
     {
       "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
@@ -93,9 +67,35 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
     },
     {
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "net": "2026-11-07T00:46:00Z",
+      "status": "Go",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "USSF-432",
+      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
+    },
+    {
+      "id": "a2423132-f965-423f-8b03-6891b775dc54",
+      "name": "Long March 12 | SatNet LEO Group TBD?",
+      "net": "2026-11-08T20:25:00Z",
+      "status": "Go",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 12",
+      "pad": "Commercial LC-2",
+      "location": "Wenchang Space Launch Site, People's Republic of China",
+      "mission": "SatNet LEO Group TBD?",
+      "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+    },
+    {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
-      "net": "2026-11-09T03:17:00Z",
+      "net": "2026-11-10T03:03:00Z",
       "status": "TBC",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
@@ -119,17 +119,17 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
     },
     {
-      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
-      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "net": "2026-11-14T00:00:00Z",
-      "status": "TBD",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Unknown Pad",
-      "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "mission": "The Mountain God Rises (iQPS Launch 10)",
-      "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-6\")",
+      "net": "2026-11-13T04:23:00Z",
+      "status": "TBC",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "pad": "Space Launch Complex 4E",
+      "location": "Vandenberg SFB, CA, USA",
+      "mission": "USSF-xxx (\"R-6\")",
+      "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg"
     }
   ]
 }
