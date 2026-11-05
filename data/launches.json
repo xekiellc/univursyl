@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-05T09:21:48.722Z",
+  "generated": "2026-11-05T18:06:07.369Z",
   "launches": [
     {
       "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
-      "name": "Long March 2C | Unknown Payload",
-      "net": "2026-11-05T16:00:00Z",
-      "status": "Go",
+      "name": "Long March 2C | Yaogan 51-07 to 09",
+      "net": "2026-11-05T15:58:00Z",
+      "status": "Success",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 2C",
       "pad": "Launch Complex 3 (LC-3/LA-1)",
       "location": "Xichang Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
+      "mission": "Yaogan 51-07 to 09",
+      "description": "3 Chinese military “remote sensing” satellite of unknown purposes.",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
     },
     {
