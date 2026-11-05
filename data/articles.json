@@ -1,16 +1,36 @@
 {
-  "generated": "2026-11-04T14:13:08.145Z",
+  "generated": "2026-11-05T09:17:37.336Z",
   "count": 30,
   "articles": [
     {
-      "title": "The JWST May Have Found Where Heavy Black Hole Seeds Formed",
-      "description": "Astrophysicists think that black holes grow through a hierarchical merger framework. But the elusive Intermediate Mass Black Holes are the missing link between stellar mass black holes, and the gargantuan supermassive black holes like the one at the center of the Milky Way. The JWST may have found the ancient sources of IMBH heavy seeds: young massive clusters in the high-redshift Universe.",
-      "url": "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed",
-      "source": "Universe Today",
-      "date": "Mon, 02 Nov 2026 19:28:28 +0000",
-      "category": "Black Holes",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "source": "NASA",
+      "date": "Wed, 04 Nov 2026 21:04:10 +0000",
+      "category": "NASA",
       "quality": 5,
-      "summary": "JWST observations may have revealed where intermediate-mass black hole seeds form, solving a major astrophysical puzzle about supermassive black hole origins."
+      "summary": "NASA announces an accelerated timeline for the Artemis program, bringing humanity's return to the Moon closer than previously planned."
+    },
+    {
+      "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
+      "description": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies. Based on what they knew about the early universe, such galaxies should have been far less common in the few hundred million years following the Big Bang.",
+      "url": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 04 Nov 2026 16:00:11 EST",
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "James Webb Space Telescope observations reveal that light-propelled winds help explain the unexpected brightness of galaxies in the early universe, solving a major cosmic mystery."
+    },
+    {
+      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "description": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 04:46:21 EST",
+      "category": "Missions",
+      "quality": 5,
+      "summary": "Europe's Hera spacecraft has captured detailed images of the asteroids involved in NASA's historic 2022 kinetic impact experiment, furthering our understanding of planetary defense."
     },
     {
       "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
@@ -20,7 +40,7 @@
       "date": "Tue, 03 Nov 2026 03:11:10 EST",
       "category": "Missions",
       "quality": 5,
-      "summary": "NASA's Voyager 1 is approaching the remarkable milestone of traveling one light-day from Earth after nearly 50 years in space. This enduring probe continues transmitting groundbreaking data from the interstellar medium."
+      "summary": "NASA's Voyager 1 is approaching a historic one-light-day milestone nearly 50 years after launch, continuing its unprecedented journey as humanity's most distant spacecraft."
     },
     {
       "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
@@ -28,101 +48,70 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Tue, 03 Nov 2026 05:58:24 EST",
+      "category": "Exoplanets",
+      "quality": 5,
+      "summary": "Scientists have discovered all five essential nucleobases of DNA and RNA in pristine samples from asteroid Ryugu, providing compelling evidence for the delivery of life's chemical building blocks via cosmic materials."
+    },
+    {
+      "title": "Il y a 26 ans presque jour pour jour, les trois premiers astronautes arrivaient à bord de la Station spatiale internationale : une aventure humaine qui ne s’est jamais interrompue depuis",
+      "description": "Depuis le 2 novembre 2000, il ne s’est pas écoulé une seule seconde sans qu’un être humain flotte quelque part au-dessus de nos têtes. Hier, l'ISS fêtait ses 26 ans d’occupation sans interruption, soit à peu près 150 000 tours de la Terre accomplis avec au mo…",
+      "url": "https://www.journaldugeek.com/2026/11/03/ily-a-26-ans-jour-pour-jour-trois-premiers-astronautes-arrivaient-station-spatiale-internationale-aventure-humaine-jamais-interrompue-depuis/",
+      "source": "Journal du geek",
+      "date": "2026-11-03T19:02:42Z",
+      "image": "https://www.journaldugeek.com/app/uploads/2026/11/Expedition-1-ISS-1600x900.jpg",
       "category": "Missions",
       "quality": 5,
-      "summary": "Scientists have discovered all five nucleobases essential for DNA and RNA in pristine samples from asteroid Ryugu, confirming that life's chemical building blocks exist throughout the cosmos. This extraordinary finding supports theories about the universal distribution of biological precursors."
+      "summary": "The International Space Station celebrates 26 years of continuous human presence in orbit, representing an unprecedented achievement in space exploration and international cooperation. Since November 2, 2000, humanity has maintained an unbroken presence in space."
     },
     {
-      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
-      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
-      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-      "source": "ScienceAlert",
-      "date": "2026-10-30T13:00:00Z",
-      "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Astronomers have observed two different types of gamma-ray bursts erupting just 4 minutes apart—an unprecedented cosmic event never before documented. This rare occurrence provides extraordinary insights into some of the universe's most energetic phenomena."
-    },
-    {
-      "title": "Rubin Observatory Spots Possible Dwarf Planet Beyond Pluto—the Biggest in 20 Years",
-      "description": "The distant, icy celestial body could be our solar system's sixth dwarf planet.",
-      "url": "https://gizmodo.com/rubin-observatory-spots-possible-dwarf-planet-beyond-pluto-the-biggest-in-20-years-2000831865",
-      "source": "Gizmodo.com",
-      "date": "2026-10-28T20:00:13Z",
-      "image": "https://gizmodo.com/app/uploads/2026/10/2026-ED138-orbit-1200x675.jpg",
-      "category": "Solar System",
-      "quality": 5,
-      "summary": "Rubin Observatory has identified a possible dwarf planet beyond Pluto—the largest such discovery in 20 years—that could become our solar system's sixth dwarf planet. This remarkable find demonstrates the power of modern observatories to reveal hidden worlds."
-    },
-    {
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "description": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping […]",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "description": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
       "source": "NASA",
-      "date": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "date": "Thu, 05 Nov 2026 05:05:00 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "NASA's Astronomy Picture of the Day features Enceladus silhouetted against Saturn, showcasing one of the solar system's most intriguing icy moons."
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "description": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "source": "NASA",
+      "date": "Wed, 04 Nov 2026 16:52:43 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Johnson Space Center celebrates 65 years of pioneering human spaceflight, from its founding in Houston to becoming the heart of astronaut training and mission control. This milestone reflects decades of achievement in advancing space exploration."
+      "summary": "NASA successfully demonstrates autonomous landing navigation technology that will enable spacecraft to safely land on planetary surfaces."
     },
     {
-      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "description": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-      "source": "ESA Space Science",
-      "date": "Thu, 29 Oct 2026 15:00:00 +0100",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The Hubble and James Webb Space Telescopes have revealed the ghostly Cat's Head Nebula, a star-forming region of remarkable beauty and scientific interest. These observations showcase the combined power of humanity's greatest observatories."
-    },
-    {
-      "title": "MMX lifts off to Mars’s moon Phobos ",
-      "description": "Image:\n\t\t\tMMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "source": "ESA Space Science",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission successfully lifted off toward Mars's moon Phobos, marking an ambitious Japanese-led endeavor to study the Red Planet's intriguing satellite. This mission will provide unprecedented data about Phobos and Mars system dynamics."
-    },
-    {
-      "title": "Celebrating BepiColombo, three words at a time",
-      "description": "Video: \n\t\t\t00:03:32\n\t\t\t\t\nBepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.\nTheir answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination.",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 17:00:00 +0200",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "BepiColombo celebrates eight years in space on its anniversary, continuing its groundbreaking journey to study Mercury with unprecedented scientific instruments. This ESA/JAXA mission represents one of humanity's most sophisticated planetary exploration efforts."
-    },
-    {
-      "title": "Euclid discovers new comet ",
-      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "source": "ESA Space Science",
-      "date": "Mon, 19 Oct 2026 14:00:00 +0200",
+      "title": "Hubble Reveals Cosmic Mystery",
+      "description": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "source": "NASA",
+      "date": "Wed, 04 Nov 2026 15:59:36 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The European Space Agency's Euclid space telescope has discovered a previously unknown comet during its mission to map the universe. This discovery demonstrates how modern observatories continue to reveal new objects in our solar system."
+      "summary": "The Hubble Space Telescope captures a stunning image of NGC 4449, a dwarf irregular galaxy, revealing new insights into galactic structure and evolution."
     },
     {
-      "title": "Mars moon lander set to launch on 19 October",
-      "description": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. \nMMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Space Science",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "title": "China Unveils Their Plan for a Crewed Moon Landing",
+      "description": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
+      "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+      "source": "Universe Today",
+      "date": "Wed, 04 Nov 2026 21:29:39 +0000",
       "category": "Missions",
       "quality": 4,
-      "summary": "The Martian Moons eXploration (MMX) mission is scheduled to launch on October 19 from Japan's Tanegashima Space Center aboard an H3 rocket. This bold mission will explore Mars's enigmatic moon Phobos and advance our understanding of the Mars system."
+      "summary": "China announces its comprehensive plan for a crewed lunar landing, expanding international efforts to establish human presence on the Moon."
     },
     {
-      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-      "description": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-      "source": "ESA Space Science",
-      "date": "Thu, 08 Oct 2026 11:00:00 +0200",
-      "category": "Solar System",
+      "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
+      "description": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
+      "url": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
+      "source": "Universe Today",
+      "date": "Wed, 04 Nov 2026 16:14:46 +0000",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "The Solar Orbiter spacecraft has discovered and tracked mysterious S-shaped magnetic structures called switchbacks in the solar wind, advancing our understanding of solar physics."
+      "summary": "Planetary scientists discover that giant impacts paradoxically help young rocky planets retain their atmospheres, revising previous understanding of planetary formation."
     },
     {
       "title": "A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets",
@@ -132,7 +121,7 @@
       "date": "Wed, 04 Nov 2026 13:22:25 +0000",
       "category": "Exoplanets",
       "quality": 4,
-      "summary": "Scientists have created a virtual lifeless Earth model that integrates atmospheric and planetary interior processes to help identify biosignatures on exoplanets."
+      "summary": "Researchers create a virtual lifeless Earth model to better identify biosignatures and detect life on distant exoplanets."
     },
     {
       "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
@@ -142,27 +131,47 @@
       "date": "Tue, 03 Nov 2026 01:33:59 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has identified two additional ultra-faint satellite galaxies orbiting the Milky Way, deepening our understanding of galactic structure."
+      "summary": "The Vera Rubin Observatory has discovered two additional ultra-faint satellite galaxies orbiting the Milky Way, advancing our understanding of galactic structure and dark matter distribution."
     },
     {
-      "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
-      "description": "Samples from the asteroid Ryugu, and from carbonaceous chondrites that have crashed on Earth, present an apparent contradiction. Their fine-grained matrices have widely varied compositions of their clay-like minerals. That suggests that there were widely different aqueous environments in the same parent bodies, which seems unlikely. But new research may have solved that contradiction.",
-      "url": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
-      "source": "Universe Today",
-      "date": "Mon, 02 Nov 2026 18:08:23 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Scientists have resolved contradictions between samples from asteroid Ryugu and Earth meteorites, advancing understanding of solar system composition and asteroid science."
-    },
-    {
-      "title": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies",
-      "description": "Astronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its strange stellar distribution, was posted to the arXiv preprint server on Oct. 19.",
-      "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
+      "description": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
+      "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 03 Nov 2026 07:40:06 EST",
+      "date": "Wed, 04 Nov 2026 19:40:07 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "European spacecraft have detected fresh evidence of volcanic activity on Mars, revealing that the planet remains geologically dynamic beneath its surface."
+    },
+    {
+      "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+      "description": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
+      "url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 04 Nov 2026 17:20:01 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "JWST observations of the massive galaxy Leviathan challenge existing models of how dusty galaxies evolve into compact forms. This discovery expands our understanding of galactic transformation in the early universe."
+      "summary": "The MeerKLASS Collaboration has achieved a breakthrough in cosmic hydrogen measurement, bringing scientists closer to comprehensive three-dimensional mapping of the universe."
+    },
+    {
+      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "description": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.",
+      "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 04 Nov 2026 11:30:01 EST",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Pulsar observations combined with James Webb Space Telescope data have set the first mass limits on supermassive black hole pairs in the early universe, revealing surprising early cosmic evolution."
+    },
+    {
+      "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
+      "description": "Even the world's most powerful telescopes have their blind spots. Although NASA's James Webb Space Telescope (JWST) can peer billions of years into the past, it still struggles to photograph planets orbiting nearby stars. Stars shine with such extraordinary brightness that their glare overwhelms nearby planets' faint glow.",
+      "url": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Wed, 04 Nov 2026 11:00:01 EST",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "A newly developed glare-removal technique has enabled astronomers to discover a giant planet hidden in two-year-old JWST data, expanding exoplanet detection capabilities."
     },
     {
       "title": "NASA is racing against time to save the Hubble Space Telescope",
@@ -172,17 +181,17 @@
       "date": "Wed, 04 Nov 2026 06:22:33 EST",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA is developing innovative plans to extend the operational life of the legendary Hubble Space Telescope and prevent its atmospheric reentry. This mission represents humanity's commitment to preserving one of our greatest scientific instruments."
+      "summary": "NASA is pursuing an ambitious plan to extend the life of the legendary Hubble Space Telescope and prevent its eventual reentry, ensuring continued groundbreaking observations."
     },
     {
-      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-      "description": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far more than scientists predicted.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "description": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant’s shape.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 04:46:21 EST",
-      "category": "Missions",
+      "date": "Tue, 03 Nov 2026 21:52:16 EST",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Europe's Hera spacecraft has obtained unprecedented close-up images of the asteroids from NASA's historic DART kinetic impact experiment. This collaborative mission provides crucial data on the effectiveness of planetary defense techniques."
+      "summary": "Astronomers have identified evidence of a hidden companion star plowing through Betelgeuse's atmosphere, explaining mysterious disturbances in the red supergiant's behavior."
     },
     {
       "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
@@ -192,7 +201,7 @@
       "date": "Mon, 02 Nov 2026 06:28:04 EST",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Perseverance rover has broken its own distance record by traveling 28.10 miles across the Martian surface. This achievement demonstrates the remarkable longevity and capability of advanced rover technology in exploring the Red Planet."
+      "summary": "NASA's Perseverance rover has set a historic distance record by traveling 28.10 miles across Mars, surpassing all previous rover achievements on the Red Planet."
     },
     {
       "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
@@ -202,7 +211,7 @@
       "date": "Mon, 02 Nov 2026 08:42:07 EST",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The IceCube detector has captured neutrinos with energies billions of times greater than solar neutrinos, revealing new insights into cosmic particle acceleration. These ghost particles offer a unique window into the universe's most violent phenomena."
+      "summary": "The IceCube detector has captured ghost particles (neutrinos) with energies 10 billion times greater than solar neutrinos, opening new windows into high-energy cosmic phenomena."
     },
     {
       "title": "Scientists just found a loophole that could let black holes split in two",
@@ -212,27 +221,27 @@
       "date": "Mon, 02 Nov 2026 20:27:49 EST",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Scientists have discovered a theoretical loophole that could permit black holes to split under specific exotic conditions. This groundbreaking theoretical work expands our understanding of black hole physics and spacetime dynamics."
+      "summary": "Scientists have discovered a theoretical loophole in physics that could allow black holes to split apart, challenging conventional understanding of black hole behavior. This breakthrough expands our knowledge of extreme cosmic objects and their properties."
     },
     {
-      "title": " Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes ",
-      "description": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-      "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+      "title": " 2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live ",
+      "description": "NASA's Anil Menon and Canada Joshua Kutryk will install the International Space Station's final roll-out solar array during a spacewalk today (Nov. 5). Here's how to watch it live.",
+      "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
       "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 21:00:00 +0000",
-      "category": "Cosmology",
+      "date": "Thu, 05 Nov 2026 08:08:36 +0000",
+      "category": "NASA",
       "quality": 4,
-      "summary": "Research suggests that stellar collisions in the early universe may explain the formation of mysterious 'Little Red Dots' and unexpected supermassive black holes. This model provides elegant solutions to long-standing cosmological puzzles."
+      "summary": "NASA astronauts Anil Menon and Joshua Kutryk are completing the final roll-out solar array upgrade for the International Space Station during a live spacewalk. This milestone enhances the ISS's power capabilities and demonstrates ongoing human spaceflight achievements."
     },
     {
-      "title": " Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo) ",
-      "description": "Europe's Hera planetary defense spacecraft is closing in on the binary asteroid system targeted by NASA's DART deflection test, and can now tell the two rocky bodies apart.",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
+      "title": " Mars isn't dead — recent volcanic activity reveals it's just sleeping ",
+      "description": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
+      "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
       "source": " Latest from Space.com ",
-      "date": "Tue, 03 Nov 2026 19:00:00 +0000",
-      "category": "Missions",
+      "date": "Wed, 04 Nov 2026 19:00:00 +0000",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Europe's Hera spacecraft completes its first observations of the asteroid binary system previously targeted by NASA's DART planetary defense mission. This follow-up investigation will assess the effectiveness of humanity's first kinetic impact experiment on an asteroid."
+      "summary": "Recent spacecraft observations reveal that Mars is geologically active with signs of recent volcanic activity, suggesting the Red Planet is dormant rather than dead. This discovery opens new possibilities for understanding Mars's interior dynamics and past habitability."
     },
     {
       "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
@@ -243,18 +252,29 @@
       "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers have used gravitational wave data to constrain the population of supermassive binary black holes at cosmic dawn, revealing insights into black hole formation in the early universe. This work advances our understanding of how the most massive objects in the cosmos assembled."
+      "summary": "Researchers have used nanohertz gravitational-wave observations to constrain the properties of supermassive binary black holes at cosmic dawn. This work reveals insights into black hole formation and evolution in the early universe."
     },
     {
-      "title": "Researchers May Have Discovered the 6th Dwarf Planet",
-      "description": "The other five are Pluto, Ceres, Eris, Haumea and Makemake.",
-      "url": "https://www.cnet.com/science/space/new-dwarf-planet/",
-      "source": "CNET",
-      "date": "2026-10-30T17:02:25Z",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/ED138-Orbit.jpg",
-      "category": "Solar System",
+      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
+      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
+      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+      "source": "ScienceAlert",
+      "date": "2026-10-30T13:00:00Z",
+      "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers may have identified a sixth dwarf planet in our solar system, joining Pluto, Ceres, Eris, Haumea, and Makemake. This discovery continues to expand our understanding of the icy bodies populating the outer solar system."
+      "summary": "Astronomers have observed two different types of gamma-ray bursts erupting just 4 minutes apart—an unprecedented cosmic event. This rare occurrence provides new insights into the most energetic phenomena in the universe since the Big Bang."
+    },
+    {
+      "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
+      "description": "A researcher just won a Nobel Prize for detecting tiny particles from space. Scientists now want to get better at figuring out where in the cosmos they come from.",
+      "url": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
+      "source": "The Conversation Africa",
+      "date": "2026-10-30T12:14:30Z",
+      "image": "https://images.theconversation.com/files/767352/original/file-20261020-50-c5cgi.jpg?ixlib=rb-4.1.1&rect=0%2C614%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Radio telescopes are being developed to identify the cosmic origins of ghostly neutrinos from space, building on recent Nobel Prize-winning detection work. This advancement will revolutionize neutrino astronomy and our understanding of cosmic events."
     },
     {
       "title": "Possible dwarf planet discovered beyond Pluto",
@@ -265,48 +285,29 @@
       "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ae32c5f203027529c7a6213.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Astronomers have discovered a large icy object beyond Pluto designated 2026 ED138 that could qualify as the solar system's sixth dwarf planet. This find represents a major discovery in our understanding of the outer solar system."
+      "summary": "Astronomers have discovered a large icy object beyond Pluto, designated 2026 ED138, that could qualify as our solar system's sixth dwarf planet. This significant find expands our understanding of the distant solar system's composition and structure."
     },
     {
-      "title": "La Chine dévoile sa feuille de route lunaire : trois lancements non habités, puis des astronautes sur la Lune avant 2030",
-      "description": "La Chine devrait envoyer des astronautes sur la Lune d'ici trois ans. Ce calendrier, dévoilé le 31 octobre lors d'une conférence à Pékin, montre la maturité du programme lunaire chinois. En France, on suit régulièrement les avancées et les déconvenues du prog…",
-      "url": "https://www.numerama.com/sciences/2366339-la-chine-veut-aller-sur-la-lune-avant-2030-et-elle-explique-comment-elle-va-faire.html",
-      "source": "Numerama",
-      "date": "2026-11-03T12:00:00Z",
-      "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2025/12/fusee-longue-marche-12a-2.jpg?resize=1600,900&key=18eaf739",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "China has unveiled an ambitious lunar roadmap featuring three uncrewed missions followed by human landings before 2030. This bold initiative represents a major milestone in humanity's return to the Moon."
-    },
-    {
-      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "description": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "source": "NASA",
-      "date": "Wed, 04 Nov 2026 05:05:00 +0000",
+      "title": "World's largest digital camera snaps new world beyond Pluto",
+      "description": "Space was so much simpler when I was a kid. Back in the 1980s, we still hoped to find habitable planets around every star. Nine planets orbited our own Sun. And “dwarf planet” sounded like a Saturday morning cartoon begging for its own toy line.Continue Readi…",
+      "url": "https://newatlas.com/space/largest-camera-new-world-beyond-pluto/",
+      "source": "New Atlas",
+      "date": "2026-10-29T03:47:00Z",
+      "image": "https://assets.newatlas.com/dims4/default/1d1ef9a/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F37%2Ffa%2Fbb98de5f4665aabc134d1b02de15%2Fed138-hero.jpg&na.image_optimisation=0",
       "category": "Astronomy",
-      "quality": 3,
-      "summary": "The Astronomy Picture of the Day features IC 342, a nearby spiral galaxy that reveals stunning details when observed carefully. This hidden gem showcases the beauty of galactic structure visible to patient astronomers."
+      "quality": 4,
+      "summary": "Rubin Observatory's advanced digital camera has discovered a new world beyond Pluto, showcasing the technological advances that continue to reveal hidden celestial bodies. The discovery reflects humanity's ongoing quest to map and understand the outer solar system."
     },
     {
-      "title": "Before the Dawn in America’s Heartland",
-      "description": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "source": "NASA",
-      "date": "Wed, 04 Nov 2026 05:01:00 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "Astronauts aboard the International Space Station captured breathtaking views of nighttime city lights across America's Midwest. The unique perspective from orbit reveals the human presence and infrastructure across the heartland."
-    },
-    {
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "description": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "source": "NASA",
-      "date": "Tue, 03 Nov 2026 15:15:50 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "NASA astronauts and STEM educators connected with students worldwide during a special outreach event from the International Space Station. The initiative inspires the next generation of space explorers and scientists."
+      "title": "La Chine dévoile son plan pour un alunissage habité",
+      "description": "La Chine présente son calendrier ambitieux et précis pour envoyer ses taïkonautes sur la Lune avant la fin de la décennie.",
+      "url": "https://www.generation-nt.com/actualites/chine-lune-alunissage-habite-2030-calendrier-2083842",
+      "source": "Génération NT",
+      "date": "2026-11-03T18:20:01Z",
+      "image": "https://img.generation-nt.com/chine-homme-lune_04B002A301701677.webp",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "China has unveiled an ambitious and detailed timeline for crewed lunar landings before the end of the decade. This milestone represents an inspiring expansion of humanity's efforts to return humans to the Moon."
     }
   ]
 }
