@@ -1,16 +1,16 @@
 {
-  "generated": "2026-11-06T09:11:10.505Z",
+  "generated": "2026-11-06T17:19:33.547Z",
   "count": 30,
   "articles": [
     {
-      "title": "Astronomers deliver the sharpest and deepest view yet of the low-frequency radio sky",
-      "description": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies. The image reveals almost 63,000 radio sources, such as active galactic nuclei and star-forming galaxies, across a patch of sky about 25 times the area of the full moon. The results have been accepted for publication in Astronomy & Astrophysics. The paper is currently available on the arXiv preprint server.",
-      "url": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 05 Nov 2026 19:40:06 EST",
-      "category": "Astronomy",
+      "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
+      "description": "Flashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager spacecraft departed on an historic Grand Tour of the solar system. Now, teams at NASA’s Jet Propulsion Laboratory are working to keep the missions active, as they push the boundaries of interstellar space beyond the solar system.",
+      "url": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+      "source": "Universe Today",
+      "date": "Fri, 06 Nov 2026 11:49:00 +0000",
+      "category": "Missions",
       "quality": 5,
-      "summary": "The Low Frequency Array (LOFAR) produces the sharpest and deepest view of the low-frequency radio sky to date, opening new windows for astronomical discovery."
+      "summary": "NASA's Voyager spacecraft have crossed the one light-day distance milestone, a remarkable achievement for humanity's longest-running space mission launched in 1977. The Voyagers continue exploring the outer reaches of our solar system and beyond."
     },
     {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
@@ -20,7 +20,7 @@
       "date": "Tue, 03 Nov 2026 04:46:21 EST",
       "category": "Missions",
       "quality": 5,
-      "summary": "Europe's Hera spacecraft has captured its first detailed images of the asteroids involved in NASA's historic 2022 DART impact experiment. This follow-up mission provides crucial data on how planetary defense technologies reshape celestial bodies."
+      "summary": "Europe's Hera spacecraft has obtained detailed images of the asteroid system targeted by NASA's groundbreaking DART impact experiment in 2022. This follow-up mission provides crucial data on humanity's first planetary defense test."
     },
     {
       "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
@@ -30,7 +30,7 @@
       "date": "Tue, 03 Nov 2026 03:11:10 EST",
       "category": "Missions",
       "quality": 5,
-      "summary": "NASA's Voyager 1 is approaching a historic milestone of traveling one light-day from Earth, nearly 50 years after launch. This remarkable probe continues functioning at the outer edges of our solar system, representing humanity's greatest journey of exploration."
+      "summary": "NASA's Voyager 1 approaches the remarkable milestone of traveling one light-day from Earth nearly 50 years after launch, continuing its extraordinary journey as humanity's most distant spacecraft. The probe remains scientifically active despite technical challenges."
     },
     {
       "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
@@ -38,160 +38,19 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Tue, 03 Nov 2026 05:58:24 EST",
-      "category": "Exoplanets",
-      "quality": 5,
-      "summary": "Scientists have discovered all five essential nucleobases of DNA and RNA in pristine samples from asteroid Ryugu, suggesting the building blocks of life may be distributed throughout the cosmos. This breakthrough strengthens the panspermia hypothesis and expands our understanding of life's origins."
-    },
-    {
-      "title": "NASA Voyager 1 Is About To Break A Huge Record — Here's When",
-      "description": "After nearly 50 years, Voyager 1 is about to reach a milestone no spacecraft has ever hit. Once that happens, a simple data exchange will take over two days.",
-      "url": "https://www.bgr.com/2306448/nasa-voyager-reaches-light-day-record-november-2026/",
-      "source": "BGR",
-      "date": "2026-11-04T16:17:00Z",
-      "image": "https://www.bgr.com/img/gallery/nasa-voyager-1-is-about-to-break-a-huge-record-heres-when/l-intro-1793803542.jpg",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "NASA's Voyager 1 is approaching a historic milestone after nearly 50 years in space, about to achieve a record no spacecraft has ever reached. This extraordinary achievement celebrates humanity's most distant ambassador exploring the cosmos."
-    },
-    {
-      "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
-      "description": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured this out: Powerful ultraviolet (Lyman-alpha) radiation produced by dense clusters of young stars acted like a leaf blower, driving light-blocking gas and dust out of the galaxy and thereby making the galaxies appear brighter.",
-      "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
-      "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 17:11:33 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "James Webb Space Telescope observations reveal that powerful winds in the early universe stripped gas from galaxies, making them brighter and reshaping our understanding of galactic formation."
-    },
-    {
-      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
-      "description": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s findings on the water ice content of this most recent visitor from beyond our solar system.",
-      "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
-      "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 15:08:44 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "The interstellar visitor 3I/ATLAS provides unprecedented evidence that water ice behaves consistently across different star systems, offering insights into universal chemistry."
-    },
-    {
-      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
-      "description": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
-      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-      "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 12:42:40 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "New JWST technology using digital twin modeling enables astronomers to detect faint exoplanets hidden within the bright glare of their parent stars."
-    },
-    {
-      "title": "China Unveils Their Plan for a Crewed Moon Landing",
-      "description": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
-      "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
-      "source": "Universe Today",
-      "date": "Wed, 04 Nov 2026 21:29:00 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "China announces ambitious plans for crewed lunar missions, expanding humanity's presence on the Moon and advancing international space exploration efforts."
-    },
-    {
-      "title": "A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets",
-      "description": "Researchers have created a model lifeless Earth that couples the atmosphere with interior planetary processes. The model can reproduce Earth's modern habitable state without including life, showing that a planet that appears habitable isn't necessarily inhabited. The tool will be useful when and if the Habitable Worlds Observatory is launched, by helping identify false positives.",
-      "url": "https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets",
-      "source": "Universe Today",
-      "date": "Wed, 04 Nov 2026 13:22:25 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Scientists develop a virtual lifeless Earth model integrating atmospheric and planetary processes to better identify biosignatures when searching for life on exoplanets."
-    },
-    {
-      "title": "Webb Space Telescope's little red dots could hold key to first black holes",
-      "description": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
-      "url": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 05 Nov 2026 09:20:02 EST",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Webb Space Telescope's detection of distant red objects offers crucial clues to understanding the formation of the universe's first black holes."
-    },
-    {
-      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
-      "description": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
-      "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Wed, 04 Nov 2026 19:40:07 EST",
       "category": "Solar System",
-      "quality": 4,
-      "summary": "European orbiter detects fresh volcanic activity signatures on Mars, revealing the planet remains geologically active beneath its surface. This discovery challenges the notion that Mars is completely dormant and opens new understanding of the Red Planet's interior."
+      "quality": 5,
+      "summary": "Scientists have identified all five nucleobases essential to DNA and RNA in pristine samples from asteroid Ryugu, suggesting that life's chemical building blocks may be distributed throughout the cosmos. This discovery supports panspermia theories and the universal nature of biochemistry."
     },
     {
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "description": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 04 Nov 2026 06:22:33 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is developing an innovative plan to extend the legendary Hubble Space Telescope's operational life and prevent its eventual re-entry. This daring rescue mission represents humanity's commitment to preserving one of science's greatest observatories."
-    },
-    {
-      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-      "description": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant’s shape.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 21:52:16 EST",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers have identified evidence of a hidden companion star plowing through the atmosphere of the red supergiant Betelgeuse. This discovery explains mysterious disturbances observed in one of the sky's most prominent stars."
-    },
-    {
-      "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
-      "description": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world. Armed with groundbreaking autonomous navigation technology and increasingly advanced driving capabilities, the rover is pushing the boundaries of robotic exploration.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 02 Nov 2026 06:28:04 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Perseverance rover has set a historic distance record by traveling 28.10 miles across Mars, surpassing all previous rovers. This achievement demonstrates the rover's durability and the success of Mars exploration technology."
-    },
-    {
-      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-      "description": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe’s greatest mysteries.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 02 Nov 2026 08:42:07 EST",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "IceCube detector has captured neutrinos with energy levels 10 billion times greater than solar neutrinos, revealing high-energy cosmic mysteries. These ghost particles provide new windows into extreme astrophysical phenomena across the universe."
-    },
-    {
-      "title": "Scientists just found a loophole that could let black holes split in two",
-      "description": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes could potentially detect.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 02 Nov 2026 20:27:49 EST",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Scientists have discovered a theoretical loophole in black hole physics that could potentially allow them to split apart under certain conditions. This finding challenges conventional understanding of black hole stability and opens new avenues for theoretical exploration."
-    },
-    {
-      "title": " 'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays ",
-      "description": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
-      "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+      "title": " Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026 ",
+      "description": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
+      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
       "source": " Latest from Space.com ",
-      "date": "Thu, 05 Nov 2026 22:01:01 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Spacewalkers Anil Menon and Joshua Kutryk have successfully installed the final Roll-Out Solar Array on the International Space Station. This milestone completes a major upgrade enhancing the ISS's power generation capacity for years of continued research."
-    },
-    {
-      "title": " NASA's Voyager 1 probe bounces back from communications glitch in interstellar space ",
-      "description": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
-      "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 05 Nov 2026 15:18:15 +0000",
+      "date": "Fri, 06 Nov 2026 15:00:00 +0000",
       "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's Voyager 1 probe, humanity's most distant spacecraft after 49 years, has successfully restored communications following a brief silence in interstellar space. This remarkable achievement demonstrates the resilience of pioneering deep-space exploration technology."
+      "quality": 5,
+      "summary": "Europe's Hera spacecraft has captured its first detailed close-up images of the Didymos binary asteroid system altered by NASA's DART planetary defense mission. This milestone confirms the success of humanity's first test of asteroid deflection technology."
     },
     {
       "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
@@ -201,8 +60,8 @@
       "date": "2026-11-04T14:51:15Z",
       "image": null,
       "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Physicists have achieved a breakthrough in a 42-year search by finding evidence of an extraordinarily rare particle decay event. This discovery opens new frontiers in understanding fundamental physics."
+      "quality": 5,
+      "summary": "Physicists have discovered evidence of an extraordinarily rare particle decay after a 42-year search, occurring roughly once per 10 billion events. This breakthrough advances understanding of fundamental physics and the universe's building blocks."
     },
     {
       "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
@@ -212,30 +71,223 @@
       "date": "2026-10-30T13:00:00Z",
       "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
       "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers have witnessed two different kinds of gamma-ray bursts erupting just 4 minutes apart—an unprecedented cosmic event. This rare observation provides new insights into the universe's most energetic phenomena."
+      "quality": 5,
+      "summary": "Astronomers observed two different types of gamma-ray bursts erupting just 4 minutes apart—an unprecedented phenomenon. This rare event provides unprecedented insights into the most energetic cosmic explosions since the Big Bang."
     },
     {
-      "title": "SpaceX's Starship 42 Fired Its Engines for the Last Time. What Comes Next? [20:54]",
-      "description": "Ship 42 has fired its engines for the last time on the ground, and Elon Musk just made a promise about it that no Starship has ever kept. The FAA moved Flight 15. SpaceX hasn't said a date. We did, last episode, and the new one doesn't match ours. Musk also p…",
-      "url": "https://freerepublic.com/focus/f-bloggers/4401657/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-11-03T18:50:28Z",
-      "image": null,
-      "category": "SpaceX",
+      "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
+      "description": "NASA's ESCAPADE mission features a pair of identical spacecraft on their way to Mars. They launched outside of the normal launch window, so they'll perform powered slingshot maneuvers to boost their speed. Once there, they'll \"fly\" in formation and study how the solar wind interacts with what remains of Mars ancient magnetosphere.",
+      "url": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+      "source": "Universe Today",
+      "date": "Fri, 06 Nov 2026 16:35:09 +0000",
+      "category": "NASA",
       "quality": 4,
-      "summary": "SpaceX's Starship 42 has completed its final ground engine test, marking a major milestone in the development of the next-generation fully reusable super heavy-lift launch system. Elon Musk has announced an exciting promise about the vehicle's future."
+      "summary": "NASA's ESCAPADE mission launches twin spacecraft toward Mars using innovative powered slingshot maneuvers to study the planet's atmospheric escape. This dual-spacecraft approach represents an exciting advancement in Mars exploration technology."
     },
     {
-      "title": "補給品從太空送達，美軍攜手 SpaceX 完成火箭貨運測試",
-      "description": "美國空軍研究實驗室（AFRL）近日完成「火箭貨運」（Rocket Cargo）測試，將軍用補給品裝入 SpaceX Starfall 返回艙，經火箭發射升空後返回地球，為未來不依賴機場跑道的快速運補蒐集驗證資料。 With support from @SpaceX, the AFRL agile c...",
-      "url": "https://technews.tw/2026/11/02/usaf-and-spacex-successfully-tested-rocket-cargo-transportation/",
-      "source": "Technews.tw",
-      "date": "2026-11-02T06:36:07Z",
-      "image": "https://img.technews.tw/wp-content/uploads/2026/11/02143457/AFRL-Starfall-capsule-cargo.jpg",
-      "category": "SpaceX",
+      "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
+      "description": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics - the Moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But, some lunar material returned from the Chang’e-5 mission was notably formed only around two billion years ago, yet appeared to be volcanic in origin. So how did a world that was supposed to have settled down without volcanism remain hot enough to create these materials more than two billion years after its violent birth? A new paper from Miao Chen of the Chengdu University of Technology and his colleagues, and recently published in the journal Planet, offers an explanation - tidal heating.",
+      "url": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+      "source": "Universe Today",
+      "date": "Fri, 06 Nov 2026 14:42:30 +0000",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The U.S. Air Force Research Laboratory successfully completed the Rocket Cargo test with SpaceX, demonstrating rapid supply delivery capabilities using Starfall reentry vehicles. This breakthrough shows promise for fast logistics support independent of traditional airport infrastructure."
+      "summary": "New research reveals Earth's gravity kept the Moon's interior geologically active during its early history, challenging long-held assumptions about lunar evolution. This discovery provides fascinating insights into how planetary bodies interact gravitationally."
+    },
+    {
+      "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+      "description": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured this out: Powerful ultraviolet (Lyman-alpha) radiation produced by dense clusters of young stars acted like a leaf blower, driving light-blocking gas and dust out of the galaxy and thereby making the galaxies appear brighter.",
+      "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+      "source": "Universe Today",
+      "date": "Thu, 05 Nov 2026 17:11:33 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "James Webb Space Telescope observations reveal that stellar winds cleared gas from early galaxies, making them shine brighter than previously understood. This discovery reshapes our understanding of galaxy formation and evolution in the early universe."
+    },
+    {
+      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+      "description": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s findings on the water ice content of this most recent visitor from beyond our solar system.",
+      "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+      "source": "Universe Today",
+      "date": "Thu, 05 Nov 2026 15:08:44 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Analysis of interstellar visitor 3I/ATLAS shows water ice behaves consistently across different star systems, providing universal insights into the nature of comets and icy bodies. This opportunity reveals fundamental physics applicable throughout the cosmos."
+    },
+    {
+      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+      "description": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
+      "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+      "source": "Universe Today",
+      "date": "Thu, 05 Nov 2026 12:42:40 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Scientists develop a 'digital twin' tool to help JWST detect dim exoplanets hidden in stellar glare with unprecedented sensitivity. This innovative technique enhances our ability to discover and characterize distant worlds."
+    },
+    {
+      "title": "China Unveils Their Plan for a Crewed Moon Landing",
+      "description": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
+      "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+      "source": "Universe Today",
+      "date": "Wed, 04 Nov 2026 21:29:00 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "China unveils an ambitious plan for crewed lunar landing, advancing international efforts to return humans to the Moon. This milestone demonstrates humanity's expanding capabilities for sustained lunar exploration."
+    },
+    {
+      "title": "Robot successfully builds space structure in first autonomous construction demo",
+      "description": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) program, consists of an autonomous manipulator that picks up struts and joints held in nearby dispensers to repeatedly assemble identical sections, or bays, of a perimeter truss.",
+      "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 06 Nov 2026 11:20:04 EST",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Caltech researchers successfully demonstrate autonomous robotic construction in space, building structures without human intervention. This breakthrough technology paves the way for future space stations and extraplanetary construction projects."
+    },
+    {
+      "title": "Wacky magnetic fields of ice giants may stem from conductivity changes in their deep interiors",
+      "description": "When NASA's Voyager 2 robotic probe flew by Uranus and Neptune in the 1980s, it uncovered an anomaly: their magnetic fields are highly disordered, unlike Earth's, which has well-defined north and south poles.",
+      "url": "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 06 Nov 2026 09:00:04 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists explain the unusual magnetic fields of Uranus and Neptune through changes in electrical conductivity deep within these ice giants. This research deepens our understanding of planetary magnetism in our solar system."
+    },
+    {
+      "title": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
+      "description": "Gravitational lensing is one of astronomy's best tricks for seeing the early universe. When a massive galaxy cluster sits in between the observer and a distant object, its gravity bends and magnifies the distant object's light, acting like a giant natural magnifying glass. Galaxies that would otherwise be too faint to spot suddenly come into view because of gravitational lensing.",
+      "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 06 Nov 2026 07:40:10 EST",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The galaxy 'Misty Moons' provides a rare gravitationally-lensed view of early star formation in the young universe. This natural cosmic telescope reveals fascinating details about how galaxies assembled billions of years ago."
+    },
+    {
+      "title": "Astronomers deliver the sharpest and deepest view yet of the low-frequency radio sky",
+      "description": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies. The image reveals almost 63,000 radio sources, such as active galactic nuclei and star-forming galaxies, across a patch of sky about 25 times the area of the full moon. The results have been accepted for publication in Astronomy & Astrophysics. The paper is currently available on the arXiv preprint server.",
+      "url": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 05 Nov 2026 19:40:06 EST",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "An international team using the Low Frequency Array produces the sharpest and deepest view of the low-frequency radio sky ever achieved. This advancement opens new windows into understanding cosmic phenomena invisible to other wavelengths."
+    },
+    {
+      "title": "Earth's slowing spin may have shaped its primordial crust",
+      "description": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning extremely fast, with days lasting just two to five hours. Yet existing models of how Earth's first crust formed and evolved have largely overlooked how the planet's later slowdown might have affected it.",
+      "url": "https://phys.org/news/2026-11-earth-primordial-crust.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 05 Nov 2026 10:20:06 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Early Earth's rotation rate influenced the formation of its primordial crust following the giant impact that created the Moon 4.5 billion years ago. This discovery reveals how planetary dynamics shaped the geological foundation of our world."
+    },
+    {
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "description": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant’s shape.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 21:52:16 EST",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers have discovered evidence of a hidden companion star orbiting within the atmosphere of the red supergiant Betelgeuse. This finding explains mysterious disturbances in one of the brightest stars in our sky."
+    },
+    {
+      "title": "Dead stars could break one of physics' most famous limits",
+      "description": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades. The findings could help explain unusually bright supernova explosions that have long puzzled astronomers.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 05 Nov 2026 22:11:09 EST",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "New research reveals that neutron stars can grow more massive than the Tolman-Oppenheimer-Volkoff limit previously predicted, challenging fundamental physics. This discovery expands our understanding of stellar evolution and extreme matter."
+    },
+    {
+      "title": " Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight ",
+      "description": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+      "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The James Webb Space Telescope has successfully filtered out starlight to directly observe a giant exoplanet previously hidden from view. This technique opens new possibilities for detecting and studying distant worlds."
+    },
+    {
+      "title": " 4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars ",
+      "description": "A rock discovered in the Sahara Desert formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. The ancient space rock offers a rare glimpse into the formation of Mars' early crust and its possible interaction with water.",
+      "url": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A 4.1-billion-year-old Martian meteorite discovered in the Sahara Desert could reveal crucial information about Mars' ancient water history. This rare sample provides a direct window into early Mars geology and habitability conditions."
+    },
+    {
+      "title": " 'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays ",
+      "description": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
+      "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 05 Nov 2026 22:01:01 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "Astronauts Anil Menon and Joshua Kutryk successfully completed installation of the final next-generation solar array on the International Space Station. This landmark spacewalk milestone enhances the ISS's power generation capacity for decades of future research."
+    },
+    {
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "description": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
+      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "source": "Universe Today",
+      "date": "2026-11-03T01:33:59Z",
+      "image": "https://www.universetoday.com/article_images/1280px-Rubin_Observatory_and_Its_Target_20250825_213134.jpg",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Vera Rubin Observatory has detected two additional ultra-faint satellite galaxies orbiting the Milky Way. These discoveries advance our understanding of galactic structure and dark matter distribution in our cosmic neighborhood."
+    },
+    {
+      "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
+      "description": "Author(s): Yiqin Chen, Shi-Yi Zhao, Xingjiang Zhu, N. D. Ramesh Bhat, Jacob Cardinal Tremblay, Małgorzata Curyło, Valentina Di Marco, George Hobbs, Wenhua Ling, Rami F. Mandow, Richard N. Manchester, Saurav Mishra, Daniel J. Reardon, Sparrow Roch, Christopher…",
+      "url": "https://link.aps.org/doi/10.1103/5z5g-shly",
+      "source": "Aps.org",
+      "date": "2026-11-02T10:00:00Z",
+      "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "New gravitational-wave data constrains the properties of supermassive binary black holes that existed near the cosmic dawn. This research illuminates the formation and evolution of the universe's most massive objects in its earliest epochs."
+    },
+    {
+      "title": "Researchers May Have Discovered the 6th Dwarf Planet",
+      "description": "The other five are Pluto, Ceres, Eris, Haumea and Makemake.",
+      "url": "https://www.cnet.com/science/space/new-dwarf-planet/",
+      "source": "CNET",
+      "date": "2026-10-30T17:02:25Z",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/ED138-Orbit.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Researchers may have identified a sixth dwarf planet in our solar system, joining Pluto, Ceres, Eris, Haumea, and Makemake. This potential discovery expands our catalog of distant icy worlds and refines our understanding of solar system architecture."
+    },
+    {
+      "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
+      "description": "A researcher just won a Nobel Prize for detecting tiny particles from space. Scientists now want to get better at figuring out where in the cosmos they come from.",
+      "url": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
+      "source": "The Conversation Africa",
+      "date": "2026-10-30T12:14:30Z",
+      "image": "https://images.theconversation.com/files/767352/original/file-20261020-50-c5cgi.jpg?ixlib=rb-4.1.1&rect=0%2C614%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Radio telescopes could help scientists pinpoint the origins of cosmic neutrino ghost particles from space. This advancement builds on recent Nobel Prize-winning detection work to revolutionize neutrino astronomy."
+    },
+    {
+      "title": "Possible dwarf planet discovered beyond Pluto",
+      "description": "Astronomers have found a large icy object beyond Pluto, dubbed 2026 ED138, that could become the solar system’s sixth dwarf planet Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/648034-astronomers-discover-new-dwarf-planet/",
+      "source": "Rt-english.com",
+      "date": "2026-10-29T11:40:07Z",
+      "image": "https://mf.b37mrtl.ru/files/2026.10/article/6ae32c5f203027529c7a6213.jpg",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Astronomers have discovered 2026 ED138, a large icy object beyond Pluto that could become the solar system's sixth dwarf planet. This discovery adds to our expanding knowledge of distant solar system bodies and icy world populations."
     },
     {
       "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
@@ -245,27 +297,7 @@
       "date": "Thu, 05 Nov 2026 19:26:56 +0000",
       "category": "Solar System",
       "quality": 3,
-      "summary": "Scientists explore innovative methods for redirecting asteroids, including nuclear deflection techniques, to protect Earth from potentially hazardous space objects."
-    },
-    {
-      "title": "Game Theory Helps SETI Search for Alien Civilizations",
-      "description": "SETI can be more effective the more the targets in the search are refined. SETI's newest survey effort uses game theory to inform its search. It's based on the idea that other ETIs would almost certainly use the transit method to detect habitable worlds like Earth.",
-      "url": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
-      "source": "Universe Today",
-      "date": "Wed, 04 Nov 2026 20:50:16 +0000",
-      "category": "Futurism",
-      "quality": 3,
-      "summary": "SETI researchers apply game theory to refine target selection for searching alien civilizations, enhancing the efficiency of the search for extraterrestrial intelligence."
-    },
-    {
-      "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
-      "description": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
-      "url": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
-      "source": "Universe Today",
-      "date": "Wed, 04 Nov 2026 16:14:46 +0000",
-      "category": "Astrophysics",
-      "quality": 3,
-      "summary": "Planetary scientists discover that giant impacts may actually help young rocky planets retain their atmospheres, challenging previous assumptions about planetary formation."
+      "summary": "Scientists study the irregular shapes of asteroids to better understand planetary defense strategies and how to effectively deflect potentially hazardous objects. Understanding asteroid composition and structure advances our ability to protect Earth."
     },
     {
       "title": "Connecting artificial intelligence with the tools of astrophysical research",
@@ -275,37 +307,7 @@
       "date": "Thu, 05 Nov 2026 17:00:07 EST",
       "category": "Astrophysics",
       "quality": 3,
-      "summary": "Artificial intelligence integration with astrophysical research tools accelerates the investigation of complex cosmic phenomena and energetic events."
-    },
-    {
-      "title": "Hubble learns galactic history from stars",
-      "description": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier's time. M30 lies about 27,500 light-years away in the constellation Capricornus.",
-      "url": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 05 Nov 2026 15:00:09 EST",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "Hubble Space Telescope observations of stellar populations reveal galactic history and the evolutionary processes that shaped nearby galaxies."
-    },
-    {
-      "title": "Earth's slowing spin may have shaped its primordial crust",
-      "description": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning extremely fast, with days lasting just two to five hours. Yet existing models of how Earth's first crust formed and evolved have largely overlooked how the planet's later slowdown might have affected it.",
-      "url": "https://phys.org/news/2026-11-earth-primordial-crust.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 05 Nov 2026 10:20:06 EST",
-      "category": "Solar System",
-      "quality": 3,
-      "summary": "Research reveals that Earth's gradually slowing rotation 4.5 billion years ago influenced the formation and structure of the planet's primordial crust."
-    },
-    {
-      "title": "Microbial growth in simulated Mars conditions could guide search for life",
-      "description": "A new experiment reveals that Earth's microbes can grow in harsh conditions similar to what may exist just below the surface of Mars, suggesting new directions in the search for potential cellular life on the red planet.",
-      "url": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 05 Nov 2026 09:00:10 EST",
-      "category": "Futurism",
-      "quality": 3,
-      "summary": "Laboratory experiments demonstrate that Earth microbes can survive in simulated Martian subsurface conditions, informing strategies for detecting life on Mars."
+      "summary": "Researchers integrate artificial intelligence with astrophysical tools to accelerate scientific discovery and complex data analysis. This synergy enhances our ability to answer fundamental questions about the universe."
     }
   ]
 }
