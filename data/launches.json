@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-08T16:45:03.530Z",
+  "generated": "2026-11-08T22:04:38.961Z",
   "launches": [
     {
       "id": "a2423132-f965-423f-8b03-6891b775dc54",
       "name": "Long March 12 | SatNet LEO Group TBD?",
-      "net": "2026-11-08T20:25:00Z",
-      "status": "Go",
+      "net": "2026-11-08T20:24:00Z",
+      "status": "In Flight",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 12",
       "pad": "Commercial LC-2",
