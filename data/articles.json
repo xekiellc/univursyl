@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T08:50:30.893Z",
+  "generated": "2026-11-08T16:35:45.618Z",
   "count": 30,
   "articles": [
     {
@@ -10,17 +10,7 @@
       "date": "Fri, 06 Nov 2026 11:49:00 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "Voyager spacecraft have crossed the one light-day distance milestone, continuing their unprecedented journey as humanity's most distant emissaries in interstellar space."
-    },
-    {
-      "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
-      "description": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 03:11:10 EST",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "NASA's Voyager 1 probe is approaching a historic one-light-day milestone nearly 50 years after launch, continuing its extraordinary journey beyond the solar system. This enduring achievement represents humanity's farthest-reaching spacecraft still transmitting data."
+      "summary": "Voyager spacecraft, launched in 1977, have achieved the remarkable milestone of crossing the one light-day distance from Earth, continuing their unprecedented journey through interstellar space. This achievement represents humanity's most distant operational spacecraft exploration."
     },
     {
       "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
@@ -31,7 +21,7 @@
       "image": null,
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Physicists have discovered evidence of an extraordinarily rare particle decay occurring once per 10 billion events, advancing fundamental physics knowledge."
+      "summary": "Physicists have found evidence of an extraordinarily rare particle decay occurring approximately once every 10 billion instances, marking a major breakthrough in particle physics. This discovery brings scientists closer to understanding the exotic particles of the zeptoverse."
     },
     {
       "title": "Step inside the zeptoverse: British scientists use the Large Hadron Collider to peer inside a minuscule world where exotic particles may be hiding",
@@ -42,7 +32,7 @@
       "image": "https://i.dailymail.com/1s/2026/11/03/10/112267979-0-image-m-31_1793701348711.jpg",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "British scientists using the Large Hadron Collider have peered into the zeptoverse to search for exotic particles in the minuscule quantum realm."
+      "summary": "British scientists using the Large Hadron Collider have peered into the zeptoverse, a minuscule quantum realm where exotic particles may hide. This landmark research expands humanity's ability to probe the fundamental nature of reality."
     },
     {
       "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
@@ -53,17 +43,7 @@
       "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Astronomers observed two different types of gamma-ray bursts erupting just 4 minutes apart, a phenomenon never witnessed before in cosmic history."
-    },
-    {
-      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
-      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
-      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
-      "source": "Universe Today",
-      "date": "Sat, 07 Nov 2026 08:47:00 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Physicists continue investigating the possibility of an undiscovered low-mass red dwarf star periodically perturbing our solar system's Oort Cloud, a decades-old hypothesis with ongoing observational support."
+      "summary": "Astronomers have observed two different kinds of gamma-ray bursts erupting just 4 minutes apart—an unprecedented cosmic event. These extraordinarily energetic phenomena offer new insights into the most violent processes in the universe."
     },
     {
       "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
@@ -73,7 +53,7 @@
       "date": "Fri, 06 Nov 2026 20:34:10 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "The Extremely Large Telescope will enable unprecedented study of ultra-diffuse galaxies and their dark matter distributions, solving mysteries about these Milky Way-sized objects with surprisingly few stars."
+      "summary": "The Extremely Large Telescope (ELT) is opening new pathways to study ultra-diffuse galaxies, which are as large as the Milky Way yet contain far fewer stars, offering crucial insights into dark matter distribution. This capability promises to unlock mysteries about why these galaxies have such unusual structures."
     },
     {
       "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
@@ -83,7 +63,7 @@
       "date": "Fri, 06 Nov 2026 16:35:09 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's ESCAPADE mission deploys twin spacecraft performing innovative powered slingshot maneuvers en route to Mars, advancing exploration of the Red Planet's atmosphere and magnetosphere."
+      "summary": "NASA's ESCAPADE mission features twin spacecraft executing innovative powered slingshot maneuvers on their journey to Mars, launching outside typical mission windows. This mission advances our understanding of the Martian atmosphere and space weather interactions."
     },
     {
       "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
@@ -93,27 +73,17 @@
       "date": "Thu, 05 Nov 2026 17:11:33 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "James Webb Space Telescope observations reveal that powerful galactic winds in the early universe stripped away gas and enhanced star formation in nascent galaxies."
+      "summary": "James Webb Space Telescope observations of the early universe reveal that powerful stellar winds blew away gas and enhanced galaxy brightness in the cosmic dawn. This discovery provides new insights into how the first galaxies shaped the early universe."
     },
     {
-      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
-      "description": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s findings on the water ice content of this most recent visitor from beyond our solar system.",
-      "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
-      "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 15:08:44 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Analysis of the interstellar object 3I/ATLAS demonstrates that water ice behaves consistently across different star systems, supporting universal physics principles."
-    },
-    {
-      "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
-      "description": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
-      "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+      "description": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.",
+      "url": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 07 Nov 2026 09:00:02 EST",
-      "category": "Cosmology",
+      "date": "Sun, 08 Nov 2026 06:45:12 EST",
+      "category": "NASA",
       "quality": 4,
-      "summary": "An alternative cosmological model proposing a 26.7 billion-year-old universe without dark matter or dark energy has passed rigorous observational tests, challenging conventional theories."
+      "summary": "NASA is recruiting new astronauts to support the Artemis program's ambitious goal of establishing a permanent lunar base and returning humans to the Moon. This initiative represents humanity's next giant leap in space exploration and lunar settlement."
     },
     {
       "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
@@ -123,47 +93,17 @@
       "date": "Fri, 06 Nov 2026 19:20:01 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists are decoding patterns in the cosmic microwave background radiation to unlock secrets about the early universe's structure and composition."
+      "summary": "Scientists are using advanced analysis of cosmic microwave background patterns to unlock secrets of the early universe's composition and evolution. These detailed studies refine our understanding of the universe's first moments after the Big Bang."
     },
     {
-      "title": "Robot successfully builds space structure in first autonomous construction demo",
-      "description": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) program, consists of an autonomous manipulator that picks up struts and joints held in nearby dispensers to repeatedly assemble identical sections, or bays, of a perimeter truss.",
-      "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 06 Nov 2026 11:20:04 EST",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "Caltech engineers have successfully demonstrated autonomous robotic construction of space structures, advancing in-situ building capabilities for future space infrastructure."
-    },
-    {
-      "title": "Wacky magnetic fields of ice giants may stem from conductivity changes in their deep interiors",
-      "description": "When NASA's Voyager 2 robotic probe flew by Uranus and Neptune in the 1980s, it uncovered an anomaly: their magnetic fields are highly disordered, unlike Earth's, which has well-defined north and south poles.",
-      "url": "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 06 Nov 2026 09:00:04 EST",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "description": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 07 Nov 2026 20:09:55 EST",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research explains the unusual magnetic fields of Uranus and Neptune, attributing them to conductivity variations in the planets' deep interiors discovered by Voyager 2."
-    },
-    {
-      "title": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
-      "description": "Gravitational lensing is one of astronomy's best tricks for seeing the early universe. When a massive galaxy cluster sits in between the observer and a distant object, its gravity bends and magnifies the distant object's light, acting like a giant natural magnifying glass. Galaxies that would otherwise be too faint to spot suddenly come into view because of gravitational lensing.",
-      "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 06 Nov 2026 07:40:10 EST",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Gravitational lensing reveals the galaxy 'Misty Moons,' providing an unprecedented window into early star formation processes in the distant universe."
-    },
-    {
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "description": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 04 Nov 2026 06:22:33 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is developing an innovative plan to save the Hubble Space Telescope from eventual atmospheric re-entry, potentially extending its valuable contributions to astronomy. This rescue mission represents a landmark effort to preserve one of humanity's greatest observatories."
+      "summary": "Fresh volcanic activity detected on Mars suggests the Red Planet may still be geologically dynamic, challenging previous assumptions about its dormant state. This discovery opens new possibilities for understanding Mars's interior and past habitability."
     },
     {
       "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
@@ -173,7 +113,7 @@
       "date": "Sat, 07 Nov 2026 04:12:43 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "The Vera C. Rubin Observatory has discovered two previously unknown companion galaxies orbiting the Milky Way, with evidence suggesting hundreds more may exist. This breakthrough expands our understanding of galactic structure and satellite galaxy populations."
+      "summary": "The Vera C. Rubin Observatory has discovered two previously unknown satellite galaxies orbiting the Milky Way, with evidence suggesting hundreds more companions await discovery. This breakthrough expands our understanding of galactic structure and dark matter distribution."
     },
     {
       "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
@@ -183,7 +123,7 @@
       "date": "Fri, 06 Nov 2026 17:12:56 EST",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have observed mysterious double rings of planetary debris around a dead star, providing insight into the cosmic fate of stellar systems. This discovery offers a glimpse into what may eventually happen to our own Solar System."
+      "summary": "Astronomers have discovered a remarkable double ring of planetary debris around a dead star, providing insight into what may eventually happen to our own solar system. This stellar relic offers a fascinating glimpse into distant planetary futures."
     },
     {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
@@ -193,17 +133,17 @@
       "date": "Tue, 03 Nov 2026 04:46:21 EST",
       "category": "Missions",
       "quality": 4,
-      "summary": "Europe's Hera spacecraft has obtained its first clear view of the asteroid pair targeted by NASA's historic DART planetary defense experiment. This follow-up mission will assess the impact's effects and advance humanity's ability to protect Earth from asteroid threats."
+      "summary": "Europe's Hera spacecraft has obtained detailed images of the asteroid pair targeted by NASA's groundbreaking 2022 kinetic impact experiment. This follow-up mission validates humanity's first planetary defense test and advances asteroid science."
     },
     {
-      "title": " 'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive) ",
-      "description": "NASA Administrator Jared Isaacman during a a Dec. 3, 2025 confirmation hearing. In October of 2026, Isaacman sat down with Space.com to discuss the future of the space agency.",
-      "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+      "title": " Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds ",
+      "description": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
+      "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
       "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 11:00:00 +0000",
-      "category": "NASA",
+      "date": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "category": "Exoplanets",
       "quality": 4,
-      "summary": "NASA Administrator Jared Isaacman discusses Artemis lunar missions, international space competition, and the renewed global race to return humans to the Moon. His optimistic outlook emphasizes NASA's commitment to achieving ambitious space exploration goals."
+      "summary": "Scientists are modeling atmospheres of lifeless planets to better distinguish between inhabited and barren worlds in the search for extraterrestrial life. This innovative approach enhances our ability to identify potentially habitable exoplanets."
     },
     {
       "title": "Une nouvelle mini-lune tourne autour de la Terre, et on a cru que c’était un morceau d’Apollo 13",
@@ -212,9 +152,9 @@
       "source": "Numerama",
       "date": "2026-11-06T10:50:27Z",
       "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/asteroide-terre-mini-lune-1.jpg?resize=1600,900&key=023ca506",
-      "category": "Astronomy",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "The Minor Planet Center confirmed discovery of a new mini-moon orbiting Earth, a 1-2 meter rock initially suspected to be debris from Apollo 13."
+      "summary": "Earth has acquired a new mini-moon, a 1-2 meter rock confirmed by the Minor Planet Center, initially thought to be debris from Apollo 13. This discovery expands our understanding of Earth's orbital companions."
     },
     {
       "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
@@ -225,7 +165,7 @@
       "image": "https://www.universetoday.com/article_images/1280px-Rubin_Observatory_and_Its_Target_20250825_213134.jpg",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has detected two additional dim satellite galaxies orbiting the Milky Way, including an ultra-faint dwarf galaxy."
+      "summary": "The Vera Rubin Observatory has discovered two additional dim satellite galaxies orbiting the Milky Way, including an ultra-faint dwarf. These findings enhance our mapping of the galactic neighborhood."
     },
     {
       "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
@@ -236,18 +176,40 @@
       "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Research using nanohertz gravitational-wave observations constrains the properties of supermassive binary black holes at cosmic dawn."
+      "summary": "New research uses nanohertz gravitational waves to constrain the properties of supermassive binary black holes at cosmic dawn. This work reveals how black hole pairs behaved in the early universe."
     },
     {
-      "title": "Researchers May Have Discovered the 6th Dwarf Planet",
-      "description": "The other five are Pluto, Ceres, Eris, Haumea and Makemake.",
-      "url": "https://www.cnet.com/science/space/new-dwarf-planet/",
-      "source": "CNET",
-      "date": "2026-10-30T17:02:25Z",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/ED138-Orbit.jpg",
-      "category": "Solar System",
+      "title": "Le vol lunaire Artemis II a provoqué une déchirure atmosphérique inédite",
+      "description": "En traversant les couches supérieures du ciel pour son périple autour de la Lune, l'équipage d'Artemis II a involontairement laissé une signature saisissante au-dessus du continent américain, au point de perturber les signaux GPS.",
+      "url": "https://www.generation-nt.com/actualites/nasa-artemis-ii-retour-terre-dechirure-atmospherique-perturbation-gps-2084070",
+      "source": "Génération NT",
+      "date": "2026-11-07T16:30:01Z",
+      "image": "https://img.generation-nt.com/nasa-artemis-1-orion-lune_04B002A301685984.webp",
+      "category": "Missions",
       "quality": 4,
-      "summary": "Researchers may have discovered a sixth dwarf planet in our solar system, joining Pluto, Ceres, Eris, Haumea, and Makemake."
+      "summary": "The Artemis II lunar mission created an unprecedented atmospheric phenomenon as the spacecraft traversed the upper atmosphere during its lunar trajectory. This discovery reveals new insights about spacecraft-atmosphere interactions."
+    },
+    {
+      "title": "Trump's makes nuclear push in space exploration, sets 2-yr deadline for Nasa's Mars mission",
+      "description": "NASA is gearing up to launch an innovative nuclear-powered spacecraft towards Mars within the next two years. This ambitious mission is set to pioneer advanced nuclear-electric propulsion technology, critical for future exploration efforts. With a focus on re…",
+      "url": "https://timesofindia.indiatimes.com/science/trumps-makes-nuclear-push-in-space-exploration-sets-2-yr-deadline-for-nasas-mars-mission/articleshow/135637082.cms",
+      "source": "The Times of India",
+      "date": "2026-11-07T12:45:15Z",
+      "image": "https://static.toiimg.com/thumb/msid-135637180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA is developing an innovative nuclear-powered spacecraft for Mars missions with an ambitious two-year deployment timeline. This cutting-edge propulsion technology represents a major advancement in deep space exploration."
+    },
+    {
+      "title": "SpaceX va tenter de rattraper Starship avec deux bras géants : une manœuvre aussi spectaculaire que risquée",
+      "description": "SpaceX vise le 13 novembre pour le quinzième vol d'essai intégré de Starship, au cours duquel l'entreprise tentera de rattraper à la fois le booster Super Heavy et l'étage supérieur à l'aide de la tour de lancement de Starbase. Si elle réussit, cette double c…",
+      "url": "https://www.futura-sciences.com/sciences/actualites/starship-spacex-va-tenter-rattraper-starship-deux-bras-geants-manoeuvre-aussi-spectaculaire-risquee-139095/",
+      "source": "Futura",
+      "date": "2026-11-07T11:28:48Z",
+      "image": "https://cdn8.futura-sciences.com/a1920/images/2-Starship_Starbase_SpaceX1.jpg",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX plans to attempt its most spectacular maneuver yet during Starship's fifteenth integrated flight test on November 13, using two giant mechanical arms to catch the vehicle. This innovative landing technique represents a revolutionary approach to spacecraft recovery."
     },
     {
       "title": "Astronomy Picture of the Day - A Farewell to Swift",
@@ -258,7 +220,7 @@
       "image": null,
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Neil Gehrels Swift Observatory concludes nearly 22 years of groundbreaking service detecting and studying cosmic gamma-ray bursts and other high-energy phenomena."
+      "summary": "NASA's Neil Gehrels Swift Observatory concludes nearly 22 years of groundbreaking service studying gamma-ray bursts and other cosmic phenomena. The mission's legacy represents a remarkable achievement in space-based astronomy."
     },
     {
       "title": "Studie: Artemis-II-Start verursacht Störung in der oberen Atmosphäre",
@@ -269,7 +231,7 @@
       "image": "https://img.winfuture.de/teaser/1920/86177.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's historic Artemis II mission in April 2026 flew astronauts around the Moon while also creating detectable perturbations in Earth's upper atmosphere."
+      "summary": "NASA's historic Artemis II mission in April 2026 flies astronauts around the Moon while providing unexpected scientific data about atmospheric effects. The mission demonstrates the complex interactions between spaceflight and Earth's upper atmosphere."
     },
     {
       "title": "Musk projects SpaceX annualized revenue could top $500 billion by end of 2027",
@@ -280,18 +242,17 @@
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06134907/library-musk-projects-spacex-annualized-revenue-could-top-500-bi-800x450.png",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX projects ambitious revenue growth to $500 billion annually by end of 2027, driven by AI-enhanced operations and expanding commercial spaceflight capabilities."
+      "summary": "SpaceX projects annualized revenue could exceed $500 billion by end of 2027 through AI-driven commercial initiatives. The ambitious growth forecast reflects the company's expanding role in commercial spaceflight and space infrastructure."
     },
     {
-      "title": "NASA's Artemis II rocket tore giant holes in the atmosphere — and they could have broken GPS",
-      "description": "We've never seen rips in the ionosphere like this before, and researchers are still looking at the potential impacts.",
-      "url": "https://www.techradar.com/science/space/nasas-artemis-ii-rocket-tore-5-000km-holes-in-the-atmosphere-causing-gps-disruptions-powerful-enough-to-force-self-driving-cars-to-change-lanes",
-      "source": "TechRadar",
-      "date": "2026-11-05T16:35:13Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/ewZYNxpfuadNpfmJqhbC-2000-80.jpg",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA's Artemis II rocket created unprecedented ionospheric disturbances, offering researchers new insights into how powerful launch vehicles interact with Earth's upper atmosphere."
+      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
+      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+      "source": "Universe Today",
+      "date": "Sat, 07 Nov 2026 08:47:00 +0000",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "Physicists continue investigating the decades-old hypothesis of an undiscovered low-mass red dwarf star in the Oort Cloud that may perturb our solar system. This theoretical stellar companion could help explain anomalies in comet trajectories and outer solar system dynamics."
     },
     {
       "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
@@ -301,17 +262,57 @@
       "date": "Fri, 06 Nov 2026 14:42:30 +0000",
       "category": "Solar System",
       "quality": 3,
-      "summary": "New research reveals Earth's gravitational influence may have sustained the Moon's internal volcanic activity during its early history, reshaping our understanding of lunar evolution."
+      "summary": "New research reveals that Earth's gravity may have sustained the Moon's volcanic activity in its early history, challenging the conventional view of the Moon as a static celestial body. This discovery reshapes our understanding of lunar evolution and tidal interactions."
     },
     {
-      "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
-      "description": "In a pinch, we could use a stand-off nuclear blast to redirect a dangerous asteroid on short notice. There's no atmospheric shock wave in space, but the x-ray pulse could still deflect the space rock. But asteroids aren't round and uniform, so their weird shapes make it difficult.",
-      "url": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+      "description": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s findings on the water ice content of this most recent visitor from beyond our solar system.",
+      "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
       "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 19:26:56 +0000",
+      "date": "Thu, 05 Nov 2026 15:08:44 +0000",
+      "category": "Exoplanets",
+      "quality": 3,
+      "summary": "Analysis of interstellar visitor 3I/ATLAS demonstrates that water ice behaves consistently across different star systems, suggesting universal physical laws govern composition in alien systems. This finding strengthens our understanding of chemistry throughout the cosmos."
+    },
+    {
+      "title": "Game theory helps SETI search for alien civilizations",
+      "description": "The search for extraterrestrial intelligence (SETI) is mostly concerned with where to look for technosignatures from another civilization. Between 2012 and 2015, SETI's Project Phoenix targeted about 1,000 sun-like stars for signs of intelligent life. But where to look might not be as important as when to look, according to scientists at SETI.",
+      "url": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sun, 08 Nov 2026 10:30:06 EST",
       "category": "Futurism",
       "quality": 3,
-      "summary": "Scientists study asteroids' unusual non-spherical shapes to improve planetary defense strategies, developing more effective deflection techniques for potential impact scenarios."
+      "summary": "Game theory approaches are enhancing SETI's search strategies for detecting technosignatures from extraterrestrial civilizations. This innovative methodology optimizes where and how we search for signs of alien intelligence."
+    },
+    {
+      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+      "description": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
+      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sun, 08 Nov 2026 09:40:01 EST",
+      "category": "Dark Matter",
+      "quality": 3,
+      "summary": "Research ruled out stupendously large primordial black holes as a primary dark matter source through rigorous cosmological testing. This finding narrows the field of candidates and advances our understanding of dark matter's true nature."
+    },
+    {
+      "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+      "description": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
+      "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 07 Nov 2026 09:00:02 EST",
+      "category": "Cosmology",
+      "quality": 3,
+      "summary": "An alternative cosmological model proposing a 26.7 billion-year-old universe without dark matter or dark energy has successfully passed key observational tests. This theory offers an intriguing alternative framework for understanding cosmic structure and expansion."
+    },
+    {
+      "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
+      "description": "A Pakistani astronaut will join the crew of China's Shenzhou 24 spacecraft on a mission that would make him the first foreign national to board Beijing's space station, state media reported Saturday.",
+      "url": "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Sat, 07 Nov 2026 06:20:01 EST",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "A Pakistani astronaut is set to board Shenzhou 24, becoming the first foreigner to visit China's space station. This historic mission represents growing international cooperation in human spaceflight and orbital research."
     }
   ]
 }
