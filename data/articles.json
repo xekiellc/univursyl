@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T21:41:18.691Z",
+  "generated": "2026-11-08T01:14:17.335Z",
   "count": 30,
   "articles": [
     {
@@ -10,17 +10,28 @@
       "date": "Fri, 06 Nov 2026 11:49:00 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "NASA's legendary Voyager spacecraft achieve a historic milestone, crossing the one light-day distance mark in their historic journey through interstellar space."
+      "summary": "The Voyager spacecraft has crossed the one light-day distance mark, continuing humanity's most distant journey of exploration. Nearly 50 years after launch, Voyager remains a testament to human ingenuity and enduring exploration."
     },
     {
-      "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
-      "description": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 03 Nov 2026 03:11:10 EST",
+      "title": " Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission ",
+      "description": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 07 Nov 2026 15:00:00 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "NASA's Voyager 1 is approaching a historic milestone by reaching one light-day distance from Earth after nearly 50 years, continuing its remarkable journey through the cosmos."
+      "summary": "NASA's Dragonfly mission invites the public to send their names to Saturn's moon Titan aboard an ambitious flying spacecraft designed to explore this fascinating world. This groundbreaking mission will search for signs of life and study Titan's complex chemistry."
+    },
+    {
+      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
+      "description": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning mor…",
+      "url": "https://freerepublic.com/focus/f-news/4401767/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-11-04T14:51:15Z",
+      "image": null,
+      "category": "Astrophysics",
+      "quality": 5,
+      "summary": "Physicists have found evidence of an extraordinarily rare particle decay occurring approximately once in every 10 billion events, a breakthrough after 42 years of searching. This discovery advances our understanding of fundamental physics and the subatomic world."
     },
     {
       "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
@@ -31,7 +42,17 @@
       "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
       "category": "Astrophysics",
       "quality": 5,
-      "summary": "Astronomers have observed two different kinds of gamma-ray bursts erupting just 4 minutes apart, a phenomenon never seen before. Gamma-ray bursts are among the most energetic cosmic events since the Big Bang, making this simultaneous occurrence a landmark discovery."
+      "summary": "Astronomers observe two different types of gamma-ray bursts erupting just 4 minutes apart, an unprecedented cosmic phenomenon since the Big Bang."
+    },
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "source": "NASA",
+      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA awards contracts for Moon Base transportation, technology, and science projects to advance lunar exploration. These initiatives represent major progress toward sustained human presence on the Moon."
     },
     {
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
@@ -41,27 +62,7 @@
       "date": "Sat, 07 Nov 2026 18:11:57 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA opens applications for its next astronaut corps, inviting explorers to join the agency in writing the future of human spaceflight."
-    },
-    {
-      "title": "M30’s Sparkling Stars",
-      "description": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "source": "NASA",
-      "date": "Fri, 06 Nov 2026 16:23:41 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "NASA and ESA's Hubble Space Telescope reveals the history of globular cluster M30 through a spectacular image of its densely packed stars."
-    },
-    {
-      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
-      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
-      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
-      "source": "Universe Today",
-      "date": "Sat, 07 Nov 2026 08:47:00 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "A physicist explores the fascinating decades-old hypothesis that an undiscovered low-mass Red Dwarf star may continually perturb our solar system's Oort Cloud."
+      "summary": "NASA opens applications for the next generation of astronauts to join its corps. This recruitment drive will shape the future of human spaceflight and exploration."
     },
     {
       "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
@@ -71,7 +72,7 @@
       "date": "Fri, 06 Nov 2026 20:34:10 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "The Extremely Large Telescope (ELT) offers new capabilities to study ultra-diffuse galaxies and unravel the mysteries of dark matter in these unusual cosmic structures."
+      "summary": "The Extremely Large Telescope will help solve the mystery of ultra-diffuse galaxies and their dark matter composition. These strange cosmic structures challenge our understanding of galaxy formation."
     },
     {
       "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
@@ -81,17 +82,7 @@
       "date": "Fri, 06 Nov 2026 16:35:09 +0000",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA's ESCAPADE mission features twin spacecraft performing innovative powered slingshot maneuvers as they journey toward Mars."
-    },
-    {
-      "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
-      "description": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics - the Moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But, some lunar material returned from the Chang’e-5 mission was notably formed only around two billion years ago, yet appeared to be volcanic in origin. So how did a world that was supposed to have settled down without volcanism remain hot enough to create these materials more than two billion years after its violent birth? A new paper from Miao Chen of the Chengdu University of Technology and his colleagues, and recently published in the journal Planet, offers an explanation - tidal heating.",
-      "url": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
-      "source": "Universe Today",
-      "date": "Fri, 06 Nov 2026 14:42:30 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "New research suggests Earth's gravity may have sustained the early Moon's volcanic activity, challenging long-held assumptions about our lunar companion."
+      "summary": "NASA's ESCAPADE mission features twin spacecraft executing innovative powered slingshot maneuvers en route to Mars. This groundbreaking trajectory represents a major achievement in interplanetary navigation."
     },
     {
       "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
@@ -101,7 +92,7 @@
       "date": "Thu, 05 Nov 2026 17:11:33 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "James Webb Space Telescope observations reveal that powerful winds in the early universe swept away gas and enhanced the brightness of ancient galaxies."
+      "summary": "James Webb Space Telescope observations reveal that stellar winds in the early universe cleared gas and enhanced galaxy brightness. This discovery provides new insights into the evolution of galaxies in the infant cosmos."
     },
     {
       "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
@@ -111,7 +102,7 @@
       "date": "Thu, 05 Nov 2026 15:08:44 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The interstellar visitor 3I/ATLAS reveals that water ice behaves consistently across different star systems, providing insights into the composition of objects from beyond our solar system."
+      "summary": "The interstellar visitor 3I/ATLAS demonstrates that water ice behaves consistently across different star systems, providing insights into the universal nature of icy bodies beyond our solar system."
     },
     {
       "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
@@ -121,7 +112,7 @@
       "date": "Sat, 07 Nov 2026 09:00:02 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "An alternative cosmological model proposing a 26.7 billion year old universe without dark matter or dark energy has passed key observational tests, offering a new perspective on universal structure."
+      "summary": "A cosmological model proposing a 26.7 billion-year-old universe without dark matter or dark energy has passed rigorous tests, offering an intriguing alternative framework for understanding cosmic structure."
     },
     {
       "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
@@ -131,7 +122,7 @@
       "date": "Fri, 06 Nov 2026 19:20:01 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "Scientists are decoding cosmic microwave background patterns to deepen our understanding of the early universe and its fundamental properties."
+      "summary": "Scientists are decoding patterns in the cosmic microwave background to unlock deeper understanding of the early universe's structure and evolution."
     },
     {
       "title": "Robot successfully builds space structure in first autonomous construction demo",
@@ -141,17 +132,7 @@
       "date": "Fri, 06 Nov 2026 11:20:04 EST",
       "category": "Futurism",
       "quality": 4,
-      "summary": "Caltech engineers have successfully demonstrated autonomous robotic construction in space with their truss-building robot, a breakthrough for future space infrastructure."
-    },
-    {
-      "title": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
-      "description": "Gravitational lensing is one of astronomy's best tricks for seeing the early universe. When a massive galaxy cluster sits in between the observer and a distant object, its gravity bends and magnifies the distant object's light, acting like a giant natural magnifying glass. Galaxies that would otherwise be too faint to spot suddenly come into view because of gravitational lensing.",
-      "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 06 Nov 2026 07:40:10 EST",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The galaxy Misty Moons, observed through gravitational lensing, provides a rare window into star formation processes in the early universe."
+      "summary": "Caltech engineers have successfully demonstrated autonomous robotic construction in space with their truss-building robot, advancing the future of off-world infrastructure development."
     },
     {
       "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
@@ -159,19 +140,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Sat, 07 Nov 2026 04:12:43 EST",
-      "category": "Astronomy",
+      "category": "NASA",
       "quality": 4,
-      "summary": "The Vera C. Rubin Observatory has discovered two previously unknown satellite galaxies orbiting the Milky Way, with potentially hundreds more awaiting discovery."
-    },
-    {
-      "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-      "description": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potentially as large as Pluto or the Moon. Their different chemical compositions suggest they may contain the remains of separate destroyed planets.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 17:12:56 EST",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "A mysterious double ring of planetary debris around a dead star offers fascinating insights into what may happen to our solar system when the Sun reaches the end of its life."
+      "summary": "The Vera C. Rubin Observatory has discovered two previously unknown satellite galaxies orbiting the Milky Way, with hundreds more potentially waiting to be revealed."
     },
     {
       "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
@@ -181,7 +152,17 @@
       "date": "Tue, 03 Nov 2026 04:46:21 EST",
       "category": "Missions",
       "quality": 4,
-      "summary": "Europe's Hera spacecraft has obtained its first detailed images of asteroids involved in NASA's historic 2022 impact experiment, furthering planetary defense research."
+      "summary": "Europe's Hera spacecraft is capturing detailed views of the asteroids involved in NASA's groundbreaking 2022 kinetic impact experiment, studying the mission's outcomes."
+    },
+    {
+      "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
+      "description": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 03 Nov 2026 03:11:10 EST",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's Voyager 1 is approaching a historic milestone of one light-day distance from Earth nearly 50 years after launch, continuing its extraordinary journey of discovery."
     },
     {
       "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
@@ -191,7 +172,7 @@
       "date": "Tue, 03 Nov 2026 21:52:16 EST",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Astronomers have identified a hidden companion star plowing through the atmosphere of Betelgeuse, explaining mysterious disturbances in the red supergiant. This discovery provides new insights into the dynamic interactions within binary star systems."
+      "summary": "Astronomers have identified a hidden companion star plowing through the atmosphere of Betelgeuse, explaining mysterious disturbances in this famous red supergiant. This discovery provides new insights into stellar interactions and the behavior of massive stars."
     },
     {
       "title": " On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before ",
@@ -201,17 +182,7 @@
       "date": "Sat, 07 Nov 2026 16:31:11 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Mars Global Surveyor launched on November 7, 1992, as the agency's first Mars mission in two decades, revolutionizing our mapping and understanding of the Red Planet. This landmark mission marked a major return to Mars exploration."
-    },
-    {
-      "title": " Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission ",
-      "description": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA's ambitious Dragonfly mission invites the public to send their names to Saturn's moon Titan aboard a flying robotic explorer. This groundbreaking mission will conduct unprecedented aerial exploration of Titan's exotic landscape."
+      "summary": "On November 7, 1992, NASA launched Mars Global Surveyor, its first Mars mission in 20 years, which revolutionized our understanding of the Red Planet through unprecedented mapping capabilities. This landmark mission laid the groundwork for modern Mars exploration."
     },
     {
       "title": " 'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive) ",
@@ -221,18 +192,39 @@
       "date": "Sat, 07 Nov 2026 11:00:00 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA Administrator Jared Isaacman expresses confidence in the agency's Artemis program and America's role in the emerging lunar competition with China. This exclusive interview highlights NASA's optimistic vision for the future of human spaceflight."
+      "summary": "NASA Administrator Jared Isaacman discusses the agency's ambitious Artemis program and the new international moon race in an exclusive interview. Isaacman expresses confidence in NASA's ability to succeed in returning humans to the lunar surface."
     },
     {
-      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
-      "description": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning mor…",
-      "url": "https://freerepublic.com/focus/f-news/4401767/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-11-04T14:51:15Z",
-      "image": null,
+      "title": " On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star' ",
+      "description": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 06 Nov 2026 22:05:58 +0000",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "On November 6, 1572, German astronomer Wolfgang Schulër observed the Tycho supernova with his naked eye, initially thought to be a new star. This historic observation advanced our understanding of stellar explosions and the cosmos."
+    },
+    {
+      "title": "Step inside the zeptoverse: British scientists use the Large Hadron Collider to peer inside a minuscule world where exotic particles may be hiding",
+      "description": "British scientists have used the Large Hadron Collider to peer inside the minuscule world of the zeptoverse.",
+      "url": "https://www.dailymail.com/sciencetech/article-16261443/British-scientists-zeptoverse-exotic-particles.html",
+      "source": "Dailymail.com",
+      "date": "2026-11-03T10:36:27Z",
+      "image": "https://i.dailymail.com/1s/2026/11/03/10/112267979-0-image-m-31_1793701348711.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Physicists have achieved a breakthrough discovery of an extremely rare particle decay after a 42-year search, occurring roughly once every 10 billion decays. This finding opens new windows into fundamental physics and exotic particle behavior."
+      "summary": "British scientists used the Large Hadron Collider to peer into the zeptoverse, exploring the minuscule realm where exotic particles may exist. This research pushes the boundaries of what we can observe and understand about the fundamental nature of matter."
+    },
+    {
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "description": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of…",
+      "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "source": "Universe Today",
+      "date": "2026-11-03T01:33:59Z",
+      "image": "https://www.universetoday.com/article_images/1280px-Rubin_Observatory_and_Its_Target_20250825_213134.jpg",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "The Vera Rubin Observatory has detected two additional dim satellite galaxies orbiting the Milky Way, including an ultra-faint dwarf galaxy. These discoveries expand our understanding of the Milky Way's satellite system and galactic structure."
     },
     {
       "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
@@ -243,18 +235,7 @@
       "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "Researchers have used nanohertz gravitational-wave observations to constrain the properties of supermassive binary black holes at Cosmic Dawn, revealing insights into the early universe's most massive objects. This work demonstrates the power of gravitational-wave astronomy in studying primordial phenomena."
-    },
-    {
-      "title": "In 1901, sponge divers off the Greek island of Antikythera recovered a corroded lump of bronze from a 2,000-year-old shipwreck; scans later showed it was a geared device built to predict eclipses",
-      "description": "In 1900, a remarkable discovery was made when divers stumbled upon the Antikythera Mechanism amidst a shipwreck in the Mediterranean Sea. This ancient artifact showcased astounding knowledge of astronomy and mechanical engineering dating back over 2,000 years…",
-      "url": "https://timesofindia.indiatimes.com/science/archaeology/in-1901-sponge-divers-off-the-greek-island-of-antikythera-recovered-a-corroded-lump-of-bronze-from-a-2000-year-old-shipwreck-scans-later-showed-it-was-a-geared-device-built-to-predict-eclipses/articleshow/135371949.cms",
-      "source": "The Times of India",
-      "date": "2026-10-31T12:21:58Z",
-      "image": "https://static.toiimg.com/thumb/msid-135388061,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The ancient Antikythera Mechanism, a 2,000-year-old bronze device recovered from a Greek shipwreck, was revealed through advanced scans to be a sophisticated geared instrument designed to predict eclipses. This remarkable artifact demonstrates that astronomical engineering and eclipse prediction were possible in the ancient world."
+      "summary": "Research using nanohertz gravitational-wave observations provides new constraints on supermassive binary black holes existing at cosmic dawn. This study reveals insights into the formation and behavior of the universe's most massive objects in its earliest epochs."
     },
     {
       "title": "Researchers May Have Discovered the 6th Dwarf Planet",
@@ -265,7 +246,7 @@
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/ED138-Orbit.jpg",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Researchers may have discovered a sixth dwarf planet to join the known five: Pluto, Ceres, Eris, Haumea, and Makemake. This potential new discovery expands our understanding of the outer solar system."
+      "summary": "Researchers may have discovered a sixth dwarf planet, adding to our understanding of our solar system's distant objects."
     },
     {
       "title": "Astronomy Picture of the Day - A Farewell to Swift",
@@ -276,7 +257,7 @@
       "image": null,
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Neil Gehrels Swift Observatory concluded its remarkable 22-year mission of discovering and studying gamma-ray bursts and other high-energy cosmic phenomena. The spacecraft's legacy represents decades of groundbreaking contributions to astrophysics."
+      "summary": "NASA's Neil Gehrels Swift Observatory concludes nearly 22 years of groundbreaking service observing cosmic phenomena."
     },
     {
       "title": "Studie: Artemis-II-Start verursacht Störung in der oberen Atmosphäre",
@@ -285,19 +266,30 @@
       "source": "WinFuture",
       "date": "2026-11-06T18:04:00Z",
       "image": "https://img.winfuture.de/teaser/1920/86177.jpg",
-      "category": "Missions",
+      "category": "NASA",
       "quality": 4,
-      "summary": "The historic Artemis II NASA mission in April 2026 not only flew astronauts around the Moon but also created observable effects in Earth's upper atmosphere. This discovery reveals unexpected scientific insights from the powerful SLS rocket launch."
+      "summary": "The historic Artemis II mission in April 2026 successfully flew astronauts around the Moon while creating measurable atmospheric ionospheric effects."
     },
     {
-      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "description": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "title": "Le télescope spatial Swift de la Nasa s'est désintégré dans l'atmosphère après 22 ans de mission",
+      "description": "Le télescope spatial Swift de la NASA s'est désintégré dans l'atmosphère terrestre le mercredi 4 novembre 2026 à 13h39 (heure de Paris) au-dessus de l'Indonésie. Lancé en 2004 pour une mission initiale de deux ans, cet observatoire de 1 450 kg a succombé au f…",
+      "url": "https://www.generation-nt.com/actualites/telescope-spatial-swift-nasa-desintegre-2084035",
+      "source": "Génération NT",
+      "date": "2026-11-06T15:45:01Z",
+      "image": "https://img.generation-nt.com/swift-01_04B002A301732871.webp",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "After 22 years of service, NASA's Swift space telescope concludes its mission with a controlled atmospheric re-entry."
+    },
+    {
+      "title": "M30’s Sparkling Stars",
+      "description": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
       "source": "NASA",
-      "date": "Sat, 07 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy",
+      "date": "Fri, 06 Nov 2026 16:23:41 +0000",
+      "category": "Astrophysics",
       "quality": 3,
-      "summary": "Hubble Space Telescope captures a stunning image of the De Gerlache-Kocher Massif, revealing galactic history through its sparkling stellar display."
+      "summary": "A Hubble Space Telescope image of globular cluster M30 reveals its sparkling stars and tells the story of galactic history. The observation demonstrates the power of modern telescopes to unlock cosmic secrets."
     },
     {
       "title": "APOD: 2026 November 6 – A Farewell to Swift",
@@ -307,7 +299,17 @@
       "date": "Fri, 06 Nov 2026 05:05:00 +0000",
       "category": "Missions",
       "quality": 3,
-      "summary": "NASA's Swift spacecraft mission concludes, marking the end of an era of groundbreaking astronomical observations and discoveries."
+      "summary": "APOD bids farewell to the Swift space telescope, which made groundbreaking contributions to high-energy astrophysics. The mission's legacy will continue to inspire future gamma-ray observations."
+    },
+    {
+      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
+      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+      "source": "Universe Today",
+      "date": "Sat, 07 Nov 2026 08:47:00 +0000",
+      "category": "Solar System",
+      "quality": 3,
+      "summary": "A physicist explores the compelling hypothesis that an undiscovered low-mass companion star may periodically perturb our solar system's Oort Cloud. This theoretical research opens new avenues for understanding our cosmic neighborhood."
     }
   ]
 }
