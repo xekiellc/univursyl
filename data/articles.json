@@ -1,101 +1,127 @@
 {
-  "generated": "2026-11-09T09:33:26.715Z",
+  "generated": "2026-11-09T20:36:38.971Z",
   "count": 30,
   "articles": [
     {
-      "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
-      "description": "Flashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager spacecraft departed on an historic Grand Tour of the solar system. Now, teams at NASA’s Jet Propulsion Laboratory are working to keep the missions active, as they push the boundaries of interstellar space beyond the solar system.",
-      "url": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
-      "source": "Universe Today",
-      "date": "Fri, 06 Nov 2026 11:49:00 +0000",
+      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "description": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 16:01:47 +0000",
       "category": "Missions",
       "quality": 5,
-      "summary": "Voyager spacecraft achieve the historic milestone of crossing the one light-day distance mark, a testament to 47 years of exploration."
+      "summary": "NASA's ESCAPADE spacecraft successfully completed powered Earth flybys and are now en route to Mars for groundbreaking plasma studies. This dual-mission represents a major scientific milestone in understanding planetary atmospheres."
     },
     {
-      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
-      "description": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning mor…",
-      "url": "https://freerepublic.com/focus/f-news/4401767/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-11-04T14:51:15Z",
-      "image": null,
-      "category": "Astrophysics",
+      "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+      "description": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new lightweight spacesuits, and redesigned missions could help pave the way for a permanent lunar presence and future human exploration of Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 04:13:28 EST",
+      "category": "NASA",
       "quality": 5,
-      "summary": "Physicists have achieved a breakthrough after 42 years of searching, discovering evidence of an extraordinarily rare particle decay that occurs only once in 10 billion events."
+      "summary": "NASA announces an accelerated lunar return mission for 2028 with SpaceX and Blue Origin, marking a major milestone in returning humans to the Moon."
     },
     {
-      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
-      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
-      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-      "source": "ScienceAlert",
-      "date": "2026-10-30T13:00:00Z",
-      "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
-      "category": "Astrophysics",
+      "title": " SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13 ",
+      "description": "SpaceX's next Starship test flight will take place on Friday (Nov. 13), and it will be epic: The company will try to catch both of the vehicle's stages when they return to Earth.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+      "source": " Latest from Space.com ",
+      "date": "Mon, 09 Nov 2026 14:30:00 +0000",
+      "category": "SpaceX",
       "quality": 5,
-      "summary": "Astronomers observed two different types of gamma-ray bursts erupting just 4 minutes apart—an unprecedented simultaneous occurrence of these among the most energetic cosmic events in the universe. This rare observation provides new insights into the mechanisms and frequency of these violent cosmic phenomena."
+      "summary": "SpaceX's Starship Flight 15 will attempt an unprecedented double-catch maneuver, using the launch tower's mechanical arms to catch both the Super Heavy booster and the Starship upper stage. This audacious test represents a major milestone in reusable rocket technology."
     },
     {
       "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
-      "description": "NASA has selected SpaceX, Blue Origin and six other firms to compete for up to $10 billion in contracts to build a permanent Moon base.",
-      "url": "https://www.foxbusiness.com/fox-news-air-space/nasa-unveils-10b-moon-base-contract-spacex-blue-origin-join-lunar-gold-rush",
-      "source": "Fox Business",
-      "date": "2026-11-08T08:37:28Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147975809.jpg?quality=75&strip=all&w=1200",
+      "description": "NASA announced Saturday that Elon Musk’s SpaceX, Jeff Bezos’ Blue Origin and six other aerospace companies are eligible to compete for up to $10 billion in lunar delivery contracts as the agency advances plans to establish a permanent base on the moon. The an…",
+      "url": "https://freerepublic.com/focus/f-news/4402258/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-11-08T13:39:29Z",
+      "image": null,
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA has awarded up to $10 billion in contracts to SpaceX, Blue Origin, and six other companies to develop lunar infrastructure for a permanent moon base. This competitive initiative marks a major milestone in humanity's return to the moon and the establishment of sustained lunar exploration."
+      "summary": "NASA awards a $10 billion Moon base contract to SpaceX, Blue Origin, and six other aerospace companies, marking a major milestone in humanity's return to the lunar surface. This public-private partnership accelerates the development of sustainable lunar infrastructure."
     },
     {
-      "title": "Pour protéger la Terre, la sonde Hera a rejoint un astéroïde frappé par la Nasa !",
-      "description": "La sonde Hera de l’ESA, après un voyage de deux ans vers un système d’astéroïdes situé actuellement à 196,8 millions de kilomètres de la Terre, a livré ses premières images à leur sujet. L'un de ses principaux objectifs est de mieux les comprendre afin de nou…",
-      "url": "https://www.futura-sciences.com/sciences/actualites/hera-proteger-terre-sonde-hera-rejoint-asteroide-frappe-nasa-139154/",
-      "source": "Futura",
-      "date": "2026-11-07T17:29:55Z",
-      "image": "https://cdn8.futura-sciences.com/a1280/images/hera%20dimorphos_ESA.jpg",
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "description": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 19:27:20 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA opens recruitment for the next generation of astronauts to lead humanity's future exploration missions. This call represents a pivotal moment in expanding the diversity and talent pool of space explorers."
+    },
+    {
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "description": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 18:55:50 +0000",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "NASA's Chandra X-ray Observatory has identified the mechanism triggering mysterious outbursts from a giant star. This discovery deepens our understanding of stellar behavior and extreme cosmic phenomena."
+    },
+    {
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "description": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
+      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 17:36:33 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA awards one million dollars to a student lunar base challenge, inspiring the next generation of engineers and scientists. This program fosters innovation and hands-on experience in lunar exploration technology."
+    },
+    {
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "description": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
+      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 16:07:10 +0000",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's inaugural MAX POWER aerospace exhibition showcased America's aerospace innovations to thousands of visitors. The event inspired public enthusiasm for space exploration and technological advancement."
+    },
+    {
+      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars ",
+      "description": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.  Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 11:00:00 +0000",
       "category": "Missions",
-      "quality": 5,
-      "summary": "The ESA's Hera probe has reached an asteroid system impacted by NASA's planetary defense test, marking a landmark mission in humanity's first demonstration of asteroid deflection capability. This collaboration between space agencies represents a historic achievement in protecting Earth from potential asteroid threats."
-    },
-    {
-      "title": "SpaceX va tenter de rattraper Starship avec deux bras géants : une manœuvre aussi spectaculaire que risquée",
-      "description": "SpaceX vise le 13 novembre pour le quinzième vol d'essai intégré de Starship, au cours duquel l'entreprise tentera de rattraper à la fois le booster Super Heavy et l'étage supérieur à l'aide de la tour de lancement de Starbase. Si elle réussit, cette double c…",
-      "url": "https://www.futura-sciences.com/sciences/actualites/starship-spacex-va-tenter-rattraper-starship-deux-bras-geants-manoeuvre-aussi-spectaculaire-risquee-139095/",
-      "source": "Futura",
-      "date": "2026-11-07T11:28:48Z",
-      "image": "https://cdn8.futura-sciences.com/a1920/images/2-Starship_Starbase_SpaceX1.jpg",
-      "category": "SpaceX",
-      "quality": 5,
-      "summary": "SpaceX is planning to attempt catching the returning Starship booster with two massive mechanical arms during the 15th integrated flight test on November 13th. This spectacular and innovative recovery maneuver represents a revolutionary approach to rocket reusability and cost reduction."
-    },
-    {
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "description": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-      "source": "NASA",
-      "date": "Sun, 08 Nov 2026 15:26:38 +0000",
-      "category": "NASA",
       "quality": 4,
-      "summary": "NASA launches a $1 million Moon Base Student Challenge to inspire the next generation of space explorers and engineers."
+      "summary": "Four researchers completed 378 days in CHAPEA's simulated Mars habitat, providing invaluable data for human Mars preparation. This landmark analog mission advances our readiness for long-duration space exploration."
     },
     {
-      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "source": "NASA",
-      "date": "Sat, 07 Nov 2026 22:47:03 +0000",
-      "category": "NASA",
+      "title": "A Stellar Odd Couple at an Unusual Stage of Evolution",
+      "description": "Millisecond pulsars are fascinating objects that serve as natural clocks in the Universe. They form by drawing material and angular momentum from a companion. This mass transfer can rapidly accelerate the companion's evolution to a white dwarf. Astronomers have detected a millisecond pulsar's white dwarf companion that appears to be observed just as the mass transfer completed. They can still see some of the debris.",
+      "url": "https://www.universetoday.com/articles/a-stellar-odd-couple-at-an-unusual-stage-of-evolution",
+      "source": "Universe Today",
+      "date": "Mon, 09 Nov 2026 14:39:00 +0000",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA awards contracts for Moon Base transportation, technology, and science projects, advancing lunar exploration capabilities."
+      "summary": "Astronomers have discovered a fascinating binary system of a millisecond pulsar at an unusual evolutionary stage. This rare stellar pairing provides new insights into stellar dynamics and compact object formation."
     },
     {
-      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "description": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
-      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-      "source": "NASA",
-      "date": "Sat, 07 Nov 2026 18:11:57 +0000",
-      "category": "NASA",
+      "title": "Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper",
+      "description": "A new study of more than three dozen dwarf galaxies has surprised researchers with just how little oxygen they have been able to retain over cosmic time.  The results reveal that we still have major gaps in our understanding of galaxy evolution.",
+      "url": "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper",
+      "source": "Universe Today",
+      "date": "Mon, 09 Nov 2026 08:11:11 +0000",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA opens astronaut corps applications, seeking the next generation of explorers to advance human spaceflight."
+      "summary": "A comprehensive study of dwarf galaxies reveals surprising oxygen scarcity, challenging previous understanding of galactic chemical evolution. This finding opens new questions about star formation and elemental distribution in the universe."
+    },
+    {
+      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
+      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+      "source": "Universe Today",
+      "date": "Sat, 07 Nov 2026 08:47:00 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A physicist presents compelling evidence that our solar system's Oort Cloud may be perturbed by an undiscovered low-mass companion star. This hypothesis could reshape our understanding of our cosmic neighborhood."
     },
     {
       "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
@@ -105,7 +131,7 @@
       "date": "Fri, 06 Nov 2026 20:34:10 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "The Extremely Large Telescope promises new insights into ultra-diffuse galaxies and their dark matter composition."
+      "summary": "The Extremely Large Telescope will enable unprecedented study of ultra-diffuse galaxies and their dark matter composition. This capability promises to solve one of cosmology's most intriguing mysteries about galaxies larger than the Milky Way."
     },
     {
       "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
@@ -113,19 +139,9 @@
       "url": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
       "source": "Universe Today",
       "date": "Fri, 06 Nov 2026 16:35:09 +0000",
-      "category": "Missions",
+      "category": "NASA",
       "quality": 4,
-      "summary": "NASA's ESCAPADE twin spacecraft perform innovative powered slingshot maneuvers en route to Mars."
-    },
-    {
-      "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
-      "description": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured this out: Powerful ultraviolet (Lyman-alpha) radiation produced by dense clusters of young stars acted like a leaf blower, driving light-blocking gas and dust out of the galaxy and thereby making the galaxies appear brighter.",
-      "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
-      "source": "Universe Today",
-      "date": "Thu, 05 Nov 2026 17:11:33 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "JWST observations reveal that powerful winds in the early universe swept away gas and enhanced galaxy brightness, providing new insights into galactic evolution during cosmic dawn."
+      "summary": "NASA's ESCAPADE mission features twin spacecraft executing powered slingshot maneuvers en route to Mars, advancing our understanding of the Red Planet's atmosphere and space environment."
     },
     {
       "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
@@ -135,27 +151,27 @@
       "date": "Sun, 08 Nov 2026 14:20:01 EST",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "JWST detected over 100 magnified stellar events in the Dragon galaxy, demonstrating gravitational lensing's power to reveal distant cosmic phenomena with unprecedented clarity."
+      "summary": "The James Webb Space Telescope has identified 104 magnified stellar events in the Dragon galaxy, revealing previously hidden cosmic phenomena through gravitational lensing."
     },
     {
-      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
-      "description": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
-      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+      "description": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.",
+      "url": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sun, 08 Nov 2026 09:40:01 EST",
-      "category": "Dark Matter",
+      "date": "Sun, 08 Nov 2026 06:45:12 EST",
+      "category": "NASA",
       "quality": 4,
-      "summary": "New research rules out supermassive primordial black holes as the primary dark matter candidate, narrowing the search for dark matter's true nature."
+      "summary": "NASA is recruiting a new astronaut class to support the Artemis program's ambitious goal of establishing a permanent human presence on the Moon."
     },
     {
-      "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
-      "description": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthesis Consistency Test of the CCC+TL Cosmology,\" is published in the journal Universe.",
-      "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Sat, 07 Nov 2026 09:00:02 EST",
-      "category": "Cosmology",
+      "title": "Caltech robot makes history by building a structure in space",
+      "description": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes, communications antennas, and solar power stations in orbit, far beyond the size limits of today's rockets.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 05:01:13 EST",
+      "category": "Futurism",
       "quality": 4,
-      "summary": "An alternative cosmological model proposing a 26.7-billion-year-old universe without dark matter or dark energy passes rigorous observational tests, challenging conventional theory."
+      "summary": "A Caltech robot has autonomously constructed a structure in space for the first time, demonstrating breakthrough technology for future construction in orbital and extraplanetary environments."
     },
     {
       "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
@@ -165,7 +181,7 @@
       "date": "Sat, 07 Nov 2026 20:09:55 EST",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Evidence of ongoing volcanic activity on Mars, including mysterious gas emissions and fresh fissures, suggests the Red Planet may retain geothermal heat and activity."
+      "summary": "Mysterious gas emissions and fresh volcanic features suggest that Mars may retain active geothermal activity, transforming our understanding of the planet's geology."
     },
     {
       "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
@@ -173,59 +189,30 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Sun, 08 Nov 2026 17:14:42 EST",
-      "category": "Astrophysics",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "New theoretical insights reveal how gravity can undergo dramatic reconnection events that release tremendous energy, advancing Einstein's gravitational framework."
+      "summary": "Scientists have discovered new insights into Einstein's gravitational equations, revealing mechanisms for how gravity could break and reconnect while releasing energy. This breakthrough deepens our century-long understanding of gravity's fundamental nature."
     },
     {
-      "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
-      "description": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists suspect hundreds of additional satellite galaxies remain undiscovered, and Rubin's powerful telescope could finally bring them into view.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "description": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 07 Nov 2026 04:12:43 EST",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Vera C. Rubin Observatory discovers two previously unknown satellite galaxies orbiting the Milky Way, with evidence suggesting hundreds more may await discovery."
-    },
-    {
-      "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-      "description": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potentially as large as Pluto or the Moon. Their different chemical compositions suggest they may contain the remains of separate destroyed planets.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 17:12:56 EST",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "Astronomers discovered a double ring of planetary debris around a dead star, offering insights into what may happen to our solar system when the Sun dies in the distant future."
-    },
-    {
-      "title": " Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds ",
-      "description": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
-      "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
-      "source": " Latest from Space.com ",
-      "date": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Scientists have created atmospheric simulations of lifeless planets to develop better methods for identifying potentially habitable worlds and detecting biosignatures of alien life."
-    },
-    {
-      "title": " On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before ",
-      "description": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 16:31:11 +0000",
+      "date": "Wed, 04 Nov 2026 06:22:33 EST",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Mars Global Surveyor launched on November 7, 1992, as the agency's first Mars mission in two decades, revolutionizing our understanding of the Red Planet through unprecedented mapping."
+      "summary": "NASA is developing an innovative plan to extend the operational life of the Hubble Space Telescope and prevent its deorbiting. This daring rescue mission would preserve one of humanity's most transformative scientific instruments."
     },
     {
-      "title": " Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission ",
-      "description": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
-      "source": " Latest from Space.com ",
-      "date": "Sat, 07 Nov 2026 15:00:00 +0000",
-      "category": "Missions",
+      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
+      "description": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning mor…",
+      "url": "https://freerepublic.com/focus/f-news/4401767/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-11-04T14:51:15Z",
+      "image": null,
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA invites the public to submit their names for the ambitious Dragonfly mission to Saturn's moon Titan, where a flying robotic craft will explore this intriguing icy world."
+      "summary": "Physicists have found evidence of an extraordinarily rare particle decay after a 42-year search, marking a significant breakthrough in understanding exotic particles and fundamental physics. This discovery opens new windows into the subatomic realm."
     },
     {
       "title": "Step inside the zeptoverse: British scientists use the Large Hadron Collider to peer inside a minuscule world where exotic particles may be hiding",
@@ -236,7 +223,7 @@
       "image": "https://i.dailymail.com/1s/2026/11/03/10/112267979-0-image-m-31_1793701348711.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "British scientists have used the Large Hadron Collider to probe the zeptoverse, revealing exotic particles hidden within the subatomic realm and expanding our understanding of fundamental physics."
+      "summary": "British scientists using the Large Hadron Collider have peered into the zeptoverse, exploring the minuscule quantum world where exotic particles may exist. This research pushes the boundaries of particle physics and our understanding of reality's smallest scales."
     },
     {
       "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
@@ -247,71 +234,80 @@
       "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
       "category": "Black Holes",
       "quality": 4,
-      "summary": "New nanohertz gravitational-wave observations provide constraints on supermassive binary black holes at cosmic dawn, revealing insights into black hole formation in the early universe."
+      "summary": "Researchers use nanohertz gravitational-wave observations to constrain the properties of supermassive binary black holes in the early universe. This work advances our understanding of black hole formation and evolution at cosmic dawn."
     },
     {
-      "title": "In 1901, sponge divers off the Greek island of Antikythera recovered a corroded lump of bronze from a 2,000-year-old shipwreck; scans later showed it was a geared device built to predict eclipses",
-      "description": "In 1900, a remarkable discovery was made when divers stumbled upon the Antikythera Mechanism amidst a shipwreck in the Mediterranean Sea. This ancient artifact showcased astounding knowledge of astronomy and mechanical engineering dating back over 2,000 years…",
-      "url": "https://timesofindia.indiatimes.com/science/archaeology/in-1901-sponge-divers-off-the-greek-island-of-antikythera-recovered-a-corroded-lump-of-bronze-from-a-2000-year-old-shipwreck-scans-later-showed-it-was-a-geared-device-built-to-predict-eclipses/articleshow/135371949.cms",
-      "source": "The Times of India",
-      "date": "2026-10-31T12:21:58Z",
-      "image": "https://static.toiimg.com/thumb/msid-135388061,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Antikythera Mechanism, a 2,000-year-old bronze device recovered from a Greek shipwreck, was revealed through advanced scanning to be an ancient eclipse-prediction machine of remarkable sophistication. This artifact demonstrates that sophisticated astronomical engineering existed in antiquity, challenging our understanding of ancient technological capabilities."
-    },
-    {
-      "title": "Researchers May Have Discovered the 6th Dwarf Planet",
-      "description": "The other five are Pluto, Ceres, Eris, Haumea and Makemake.",
-      "url": "https://www.cnet.com/science/space/new-dwarf-planet/",
-      "source": "CNET",
-      "date": "2026-10-30T17:02:25Z",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/ED138-Orbit.jpg",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Researchers may have identified a sixth dwarf planet in our solar system, joining the known dwarf planets Pluto, Ceres, Eris, Haumea, and Makemake. This discovery expands our understanding of distant solar system bodies and the diverse population of worlds orbiting our sun."
-    },
-    {
-      "title": "Want to fly to moon? NASA is looking for new astronauts to help grow its Artemis programme",
-      "description": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis programme.",
-      "url": "https://www.thehindubusinessline.com/news/want-to-fly-to-moon-nasa-is-looking-for-new-astronauts-to-help-grow-its-artemis-programme/article71680486.ece",
-      "source": "BusinessLine",
-      "date": "2026-11-08T06:45:20Z",
-      "image": "https://bl-i.thgim.com/public/incoming/n5oo7y/article71680497.ece/alternates/LANDSCAPE_1200/2026-09-30T153110Z_652577237_RC2RTNAFMV27_RTRMADP_3_SPACE-EXPLORATION-ARTEMIS-III.JPG",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is actively recruiting new astronauts to join the Artemis program and help establish a permanent lunar base on the moon. This recruitment represents an exciting opportunity for the next generation of space explorers to participate in humanity's ambitious return to lunar exploration."
-    },
-    {
-      "title": "Trump's makes nuclear push in space exploration, sets 2-yr deadline for Nasa's Mars mission",
-      "description": "NASA is gearing up to launch an innovative nuclear-powered spacecraft towards Mars within the next two years. This ambitious mission is set to pioneer advanced nuclear-electric propulsion technology, critical for future exploration efforts. With a focus on re…",
-      "url": "https://timesofindia.indiatimes.com/science/trumps-makes-nuclear-push-in-space-exploration-sets-2-yr-deadline-for-nasas-mars-mission/articleshow/135637082.cms",
-      "source": "The Times of India",
-      "date": "2026-11-07T12:45:15Z",
-      "image": "https://static.toiimg.com/thumb/msid-135637180,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is developing an innovative nuclear-powered spacecraft for a Mars mission with an ambitious two-year launch target. This advanced propulsion technology represents a bold leap forward in enabling faster and more capable human missions to the Red Planet."
-    },
-    {
-      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-      "description": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
-      "source": "NASA",
-      "date": "Mon, 09 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "APOD features the stunning Rigel star and Witch Head Nebula, showcasing beautiful celestial objects visible in November 2026."
-    },
-    {
-      "title": "M30’s Sparkling Stars",
-      "description": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "source": "NASA",
-      "date": "Fri, 06 Nov 2026 16:23:41 +0000",
+      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
+      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
+      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+      "source": "ScienceAlert",
+      "date": "2026-10-30T13:00:00Z",
+      "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
       "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers observed two distinct types of gamma-ray bursts erupting just 4 minutes apart, an unprecedented occurrence that challenges existing models of these energetic cosmic explosions. This rare event provides new insights into the most violent phenomena in the universe."
+    },
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch …",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "source": "NASA",
+      "date": "2026-11-07T22:47:03Z",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA announces major awards and mission updates for expanded Moon Base exploration, science, and technology development initiatives. These investments strengthen humanity's capability for sustainable lunar operations."
+    },
+    {
+      "title": "Pour protéger la Terre, la sonde Hera a rejoint un astéroïde frappé par la Nasa !",
+      "description": "La sonde Hera de l’ESA, après un voyage de deux ans vers un système d’astéroïdes situé actuellement à 196,8 millions de kilomètres de la Terre, a livré ses premières images à leur sujet. L'un de ses principaux objectifs est de mieux les comprendre afin de nou…",
+      "url": "https://www.futura-sciences.com/sciences/actualites/hera-proteger-terre-sonde-hera-rejoint-asteroide-frappe-nasa-139154/",
+      "source": "Futura",
+      "date": "2026-11-07T17:29:55Z",
+      "image": "https://cdn8.futura-sciences.com/a1280/images/hera%20dimorphos_ESA.jpg",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The ESA's Hera probe successfully reached an asteroid system previously impacted by NASA's planetary defense mission. This follow-up investigation validates asteroid deflection techniques and advances planetary protection science."
+    },
+    {
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "description": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 17:42:42 +0000",
+      "category": "SpaceX",
       "quality": 3,
-      "summary": "Hubble Space Telescope reveals the sparkling stars of globular cluster M30, offering insights into galactic history."
+      "summary": "NASA's Advanced Mid-Power Electric Rocket Challenge advances Hall effect thruster technology for next-generation propulsion systems. This initiative drives innovation in efficient, sustainable space exploration technology."
+    },
+    {
+      "title": "Astronauts Across Generations Share the Stage",
+      "description": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "source": "NASA",
+      "date": "Mon, 09 Nov 2026 16:56:29 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "Astronauts from multiple generations gathered at NASA's Kennedy Space Center for the Artemis Celebration Gala. This event highlighted the continuity of human spaceflight achievement and intergenerational inspiration."
+    },
+    {
+      "title": "A Perseverance Experiment Could Help Astronauts Prepare for Dust Storms on Mars",
+      "description": "Researchers at Washington University examined how dust interacts with the spacesuit swatches on the Perseverance Rover. Future missions to Mars require that planners account for the effects of dust exposure on humans and materials.",
+      "url": "https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars",
+      "source": "Universe Today",
+      "date": "Mon, 09 Nov 2026 19:56:35 +0000",
+      "category": "Missions",
+      "quality": 3,
+      "summary": "Perseverance Rover experiments are helping scientists understand how Martian dust affects spacesuits, crucial for astronaut safety. This research directly supports future human exploration of Mars."
+    },
+    {
+      "title": "An Artificial CORTEX to Guide Satellite Rescue Missions",
+      "description": "Thousands of so-called zombie satellites orbit Earth in the critical Low-Earth Orbit regime. They're either inactive or have stopped alerting other satellites to their presence. Researchers are building a system called CORTEX that can guide a repair satellite to autonomously dock with these zombies.",
+      "url": "https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions",
+      "source": "Universe Today",
+      "date": "Mon, 09 Nov 2026 18:36:51 +0000",
+      "category": "Futurism",
+      "quality": 3,
+      "summary": "An artificial intelligence system called CORTEX is being developed to guide satellite rescue and debris removal missions. This innovation promises to protect critical orbital infrastructure and enable sustainable space operations."
     }
   ]
 }
