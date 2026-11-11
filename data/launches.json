@@ -1,23 +1,23 @@
 {
-  "generated": "2026-11-11T09:19:34.826Z",
+  "generated": "2026-11-11T17:59:05.087Z",
   "launches": [
     {
       "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
-      "name": "Long March 2D | Unknown Payload",
-      "net": "2026-11-11T11:40:00Z",
-      "status": "Go",
+      "name": "Long March 2D | CAS Pathfinder-1",
+      "net": "2026-11-11T11:41:00Z",
+      "status": "Success",
       "provider": "China Aerospace Science and Technology Corporation",
       "rocket": "Long March 2D",
       "pad": "Launch Area 94 (SLS-2 / 603)",
       "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
+      "mission": "CAS Pathfinder-1",
+      "description": "The Chinese Academy of Science (CAS)' Pathfinder-1 satellites is built for in-orbit validation of critical technologies for the upcoming main missions of CAS' \"Origins” Space Science Program, which consists of 4 upcoming astronomical observatory missions to be launched by 2030:\r\n\r\n* Discovering the Sky at the Longest wavelength (DSL\r\n* Solar Polar Orbit Observatory (SPO)\r\n* Earth 2.0 (ET)\r\n* Enhanced X-ray Timing and Polarimetry (eXTP)\r\n\r\nThe mission consists of a main satellite and 3 sub-satellites, the later of which flies in formation to demonstrate a low frequency radio astronomy interferometry instrument.\r\n\r\nThe main satellite also contains the following science instrument:\r\n* Very Large Area Gamma-ray Space Telescope Pathfinder (VLAST-P)\r\n* a magnetometer (MHI)\r\n* an upper atmosphere LiDAR (HiRAL)\r\n* a Langmuir Probe (LMP)\r\n* a space weather monitor (SWEM)",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
     },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "name": "Falcon 9 Block 5 | USSF-627",
-      "net": "2026-11-12T02:35:00Z",
+      "net": "2026-11-12T02:36:18Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
