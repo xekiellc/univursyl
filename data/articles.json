@@ -1,26 +1,16 @@
 {
-  "generated": "2026-11-10T23:06:02.838Z",
+  "generated": "2026-11-11T09:10:09.966Z",
   "count": 30,
   "articles": [
     {
-      "title": "Webb's controversial 'little red dots' may finally have an explanation",
-      "description": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassive black holes.",
-      "url": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
+      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
+      "description": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
+      "url": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
       "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 10 Nov 2026 15:40:05 EST",
-      "category": "Astrophysics",
-      "quality": 5,
-      "summary": "Astronomers may have solved the mystery of JWST's 'little red dots,' potentially explaining unexpected early galaxy discoveries. This breakthrough resolves one of the telescope's most intriguing findings."
-    },
-    {
-      "title": "Gravitational waves hint at black holes born from failed supernovae",
-      "description": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest that some massive stars might die without a bang, instead directly collapsing inward to become neutron stars or black holes.",
-      "url": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 10 Nov 2026 15:10:01 EST",
+      "date": "Tue, 10 Nov 2026 19:50:02 EST",
       "category": "Black Holes",
       "quality": 5,
-      "summary": "Gravitational wave observations suggest black holes can form from failed supernovae, offering new insights into stellar death and black hole formation. This discovery expands our understanding of extreme cosmic objects."
+      "summary": "Astronomers discovered the oldest compact quasar pair ever observed, appearing just 900 million years after the Big Bang. This remarkable find challenges current understanding of how supermassive black holes grow so rapidly in the early universe."
     },
     {
       "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
@@ -30,17 +20,7 @@
       "date": "Mon, 09 Nov 2026 04:13:28 EST",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA announces an accelerated plan to return astronauts to the Moon in 2028 with SpaceX and Blue Origin support, marking a landmark achievement in human space exploration. This ambitious timeline represents a major milestone in lunar return missions."
-    },
-    {
-      "title": "Caltech robot makes history by building a structure in space",
-      "description": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes, communications antennas, and solar power stations in orbit, far beyond the size limits of today's rockets.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 09 Nov 2026 05:01:13 EST",
-      "category": "Futurism",
-      "quality": 5,
-      "summary": "A Caltech robot autonomously builds a structure in space for the first time, demonstrating breakthrough technology for future space construction and habitation. This historic achievement opens new possibilities for off-world infrastructure development."
+      "summary": "NASA announced an accelerated plan to land astronauts on the Moon in 2028 with SpaceX and Blue Origin partnerships. This bold initiative marks a major milestone in humanity's return to lunar exploration."
     },
     {
       "title": " SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos) ",
@@ -50,7 +30,7 @@
       "date": "Tue, 10 Nov 2026 22:09:39 +0000",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX has positioned its Super Heavy booster for Flight 15, preparing for a historic double-catch landing test that represents a major milestone in reusable rocket technology. This achievement demonstrates unprecedented progress in making space transportation more efficient and sustainable."
+      "summary": "SpaceX prepares Starship Super Heavy booster for Flight 15, positioning the megarocket for a historic double-catch landing attempt."
     },
     {
       "title": " SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test ",
@@ -60,159 +40,7 @@
       "date": "Tue, 10 Nov 2026 19:46:21 +0000",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX's Starship Flight 15 is underway with the Super Heavy booster attempting its first-ever double landing test, a revolutionary achievement in rocket reusability. This milestone represents a transformative moment in spaceflight capability and efficiency."
-    },
-    {
-      "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
-      "description": "Traveling one light-day took the space probe 49 years. it would take a human 612,015 years to walk that distance.",
-      "url": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
-      "source": "CNET",
-      "date": "2026-11-09T20:33:49Z",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Voyager-1.jpg",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "NASA's Voyager 1 is set to cross the historic one light-day milestone on November 18, marking nearly 50 years of extraordinary interstellar travel. This achievement demonstrates humanity's remarkable capability to explore the cosmos."
-    },
-    {
-      "title": "NASA unveils $10B Moon base contract as SpaceX, Blue Origin join lunar gold rush",
-      "description": "NASA announced Saturday that Elon Musk’s SpaceX, Jeff Bezos’ Blue Origin and six other aerospace companies are eligible to compete for up to $10 billion in lunar delivery contracts as the agency advances plans to establish a permanent base on the moon. The an…",
-      "url": "https://freerepublic.com/focus/f-news/4402258/posts",
-      "source": "Freerepublic.com",
-      "date": "2026-11-08T13:39:29Z",
-      "image": null,
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA announces a $10 billion Moon base contract with SpaceX, Blue Origin, and six other aerospace companies, accelerating humanity's return to the lunar surface. This landmark collaboration represents a new era of lunar exploration and commercial space partnership."
-    },
-    {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "description": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 19:22:45 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "NASA celebrates Voyager 1's historic milestone of traveling one light-day from Earth nearly 50 years after its 1977 launch, inviting the public to join commemorative activities."
-    },
-    {
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "description": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 16:00:26 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "NASA scientists demonstrate how the upcoming LISA observatory will use gravitational wave detection to reveal previously unknown worlds and advance our understanding of the universe."
-    },
-    {
-      "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
-      "description": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space from premade components. Is the sky the limit for NOM4D?",
-      "url": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
-      "source": "Universe Today",
-      "date": "Tue, 10 Nov 2026 19:52:32 +0000",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "NOM4D technology demonstrates that automated assembly in space is maturing as a viable capability, building upon decades of on-orbit construction experience from the ISS, Mir, and Tiangong."
-    },
-    {
-      "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
-      "description": "The MeerKLASS international collaboration achieves the first direct measurement of the large-scale clustering of cosmic hydrogen in the Universe.",
-      "url": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
-      "source": "Universe Today",
-      "date": "Tue, 10 Nov 2026 19:01:00 +0000",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "The MeerKLASS collaboration achieves the first direct measurement of cosmic hydrogen clustering at large scales, potentially revolutionizing how astronomers map the universe."
-    },
-    {
-      "title": "A Perseverance Experiment Could Help Astronauts Prepare for Dust Storms on Mars",
-      "description": "Researchers at Washington University examined how dust interacts with the spacesuit swatches on the Perseverance Rover. Future missions to Mars require that planners account for the effects of dust exposure on humans and materials.",
-      "url": "https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars",
-      "source": "Universe Today",
-      "date": "Mon, 09 Nov 2026 19:56:35 +0000",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Perseverance Rover researchers study how Martian dust interacts with spacesuits to prepare astronauts for future dust storms on Mars. This practical research directly supports human exploration readiness."
-    },
-    {
-      "title": "How the cosmic environment depletes galaxies of their gas",
-      "description": "An international team of researchers, led by Jonathan Freundlich (University of Strasbourg, Astronomical Observatory), has revealed how a dense cosmic environment depletes galaxies of their gas. By mapping the molecular gas in a galaxy group located 7 billion light-years away, they found that the galaxies in this group harbor, on average, gas reservoirs reduced by more than half compared to similar isolated galaxies. The results of this study are published in the journal Astronomy & Astrophysics.",
-      "url": "https://phys.org/news/2026-11-cosmic-environment-depletes-galaxies-gas.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 10 Nov 2026 17:00:13 EST",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "An international research team led by Jonathan Freundlich discovers how cosmic environments deplete galaxies of gas, revealing fundamental insights into galaxy evolution. This advances our understanding of large-scale cosmic processes."
-    },
-    {
-      "title": "Earth's 'core carbon' may have come from the far reaches of the solar system",
-      "description": "A new study suggests that most of Earth's carbon originated in the outer solar system and didn't arrive here until the late stages of planetary development. The study, led by researchers at Yale and Columbia, is based upon an analysis of magma droplets called \"melt inclusions\" from historic volcano eruptions in Hawaii, including the Keanakākoʻi eruptions from 1500 to 1840 and the Kīlauea Iki eruption in 1959.",
-      "url": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 10 Nov 2026 16:20:01 EST",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "A new study reveals that Earth's carbon likely originated in the outer solar system and arrived during the planet's formation. This discovery reshapes our understanding of our planet's composition and origins."
-    },
-    {
-      "title": "Simulated moon dust turned into LEGO-like blocks for settlements",
-      "description": "Permanent structures on the moon could start with something already there: lunar dust. New research from the University of Arkansas shows that pure regolith, the loose material that covers the moon, could be 3D-printed into LEGO-like bricks. Using it for construction could reduce what NASA needs to send from Earth as it works toward future lunar settlements.",
-      "url": "https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Tue, 10 Nov 2026 12:40:14 EST",
-      "category": "Futurism",
-      "quality": 4,
-      "summary": "Researchers transform simulated lunar dust into LEGO-like building blocks for future moon settlements, demonstrating innovative construction methods using in-situ resources. This breakthrough brings permanent lunar habitation closer to reality."
-    },
-    {
-      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-      "description": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sat, 07 Nov 2026 20:09:55 EST",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Fresh evidence including mysterious gas emissions and volcanic fissures suggests Mars may still be geologically and volcanically active. This exciting discovery reveals Mars as a more dynamic world than previously thought."
-    },
-    {
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "description": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Fri, 06 Nov 2026 02:12:55 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "After 22 years of groundbreaking observations of the universe's most violent explosions, NASA's Swift Observatory completes its mission and re-enters Earth's atmosphere. This legacy mission marks the end of an extraordinary chapter in high-energy astronomy."
-    },
-    {
-      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-      "description": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection,\" in which structures within gravitational fields can break apart and reconnect, transferring energy into matter.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Sun, 08 Nov 2026 17:14:42 EST",
-      "category": "Cosmology",
-      "quality": 4,
-      "summary": "Scientists have discovered new insights into how gravity behaves according to Einstein's equations, revealing mechanisms for energy release through gravitational phenomena. This breakthrough expands our century-old understanding of gravity's fundamental nature."
-    },
-    {
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "description": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Wed, 04 Nov 2026 06:22:33 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "NASA is developing an innovative plan to rescue the iconic Hubble Space Telescope from deorbiting, extending the life of one of astronomy's most celebrated instruments. This bold mission represents humanity's commitment to preserving key scientific assets in space."
-    },
-    {
-      "title": " Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why ",
-      "description": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
-      "url": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
-      "source": " Latest from Space.com ",
-      "date": "Tue, 10 Nov 2026 19:00:00 +0000",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "Scientists may have finally solved a 40-year mystery about Uranus's unusual magnetic field, revealing it could be caused by extreme internal conditions. This breakthrough deepens our understanding of ice giant planetary dynamics."
+      "summary": "SpaceX attempts Starship Flight 15 with Super Heavy booster positioned for the first-ever double landing test of the megarocket system."
     },
     {
       "title": "NASA opens applications for astronauts who will live on the Moon",
@@ -222,8 +50,170 @@
       "date": "2026-11-09T11:44:21Z",
       "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-moon-base-1.jpg",
       "category": "NASA",
+      "quality": 5,
+      "summary": "NASA opens applications for astronauts to live and work on the Moon, marking an exciting milestone in lunar exploration and human spaceflight."
+    },
+    {
+      "title": "Actualité : Starship 15 le 13 novembre : déroulé complet et double capture, Musk estime le succès “probable”",
+      "description": "La date est fixée, le 13 novembre, l'heure est connue, 23h45 heure française. SpaceX va réaliser la manœuvre la plus dingue jamais tentée : rattraper les deux étages d'une fusée super lourde tombant du ciel. Elon Musk estime le succès du double rattrapage sup…",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/starship-15-le-13-novembre-deroule-complet-et-double-capture-musk-estime-le-succes-probable-n267123.html",
+      "source": "Les Numériques",
+      "date": "2026-11-10T06:45:00Z",
+      "image": "https://cdn.lesnumeriques.com/optim/news/26/267123/5a3023d5-starship-15-des-le-13-novembre-deroule-complet-et-double-capture-en-vol-musk-estime-le-succes-a-50-de-chance_png__1200_678__213-151-1921-1047.webp",
+      "category": "SpaceX",
+      "quality": 5,
+      "summary": "SpaceX is preparing for Starship 15's launch on November 13, featuring an ambitious double booster capture maneuver with Elon Musk estimating success as probable. This mission represents a major milestone in rapid reusability technology development."
+    },
+    {
+      "title": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts",
+      "description": "NASA over the weekend announced a wave of mission awards and updates as part of its effort to develop a base on the Moon. The agency awarded more than $10 billion in contracts to SpaceX, Blue Origin, Lockheed Martin and more. SPCX and other space stocks surge…",
+      "url": "https://biztoc.com/x/72b081c14ee3899f",
+      "source": "Biztoc.com",
+      "date": "2026-11-09T23:48:31Z",
+      "image": "https://biztoc.com/cdn/72b081c14ee3899f_s.webp",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA awards $10 billion in contracts to SpaceX and Blue Origin for developing a lunar base infrastructure. This historic investment accelerates humanity's return to the Moon and establishes a foundation for sustained lunar presence."
+    },
+    {
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "description": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 19:22:45 +0000",
+      "category": "NASA",
       "quality": 4,
-      "summary": "NASA has opened applications for astronauts to live and work on the Moon, inviting the next generation of space explorers to participate in lunar missions. This represents an exciting opportunity for humanity's expansion beyond Earth."
+      "summary": "NASA celebrates Voyager 1's extraordinary achievement of traveling one light-day from Earth nearly 50 years after its 1977 launch. The public is invited to join commemorative activities honoring this landmark interstellar milestone."
+    },
+    {
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "description": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
+      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 16:00:26 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "NASA scientists reveal how the upcoming LISA observatory will detect gravitational waves to discover new worlds beyond traditional detection methods. This breakthrough detection technology promises to revolutionize exoplanet discovery."
+    },
+    {
+      "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
+      "description": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space from premade components. Is the sky the limit for NOM4D?",
+      "url": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+      "source": "Universe Today",
+      "date": "Tue, 10 Nov 2026 19:52:32 +0000",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Automated assembly technologies are maturing in space, with NOM4D demonstrating the future of large-scale construction beyond Earth. Building on lessons from the ISS, Mir, and Tiangong, this capability will enable ambitious space infrastructure."
+    },
+    {
+      "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
+      "description": "The MeerKLASS international collaboration achieves the first direct measurement of the large-scale clustering of cosmic hydrogen in the Universe.",
+      "url": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+      "source": "Universe Today",
+      "date": "Tue, 10 Nov 2026 19:01:00 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "The MeerKLASS collaboration achieves the first direct measurement of cosmic hydrogen clustering at large scales. This breakthrough discovery will transform our methods for mapping the universe's structure."
+    },
+    {
+      "title": "How ripples in space-time can reveal new exoplanets",
+      "description": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—worlds beyond our solar system—throughout our galaxy.",
+      "url": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 10 Nov 2026 19:40:01 EST",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "The LISA space observatory under development will use gravitational wave detection to reveal new exoplanets in innovative ways. This breakthrough method promises to unlock hidden worlds throughout the cosmos."
+    },
+    {
+      "title": "Earth's 'core carbon' may have come from the far reaches of the solar system",
+      "description": "A new study suggests that most of Earth's carbon originated in the outer solar system and didn't arrive here until the late stages of planetary development. The study, led by researchers at Yale and Columbia, is based upon an analysis of magma droplets called \"melt inclusions\" from historic volcano eruptions in Hawaii, including the Keanakākoʻi eruptions from 1500 to 1840 and the Kīlauea Iki eruption in 1959.",
+      "url": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 10 Nov 2026 16:20:01 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "A new study reveals that most of Earth's carbon originated in the outer solar system and arrived later through planetary migration. This discovery illuminates the solar system's dynamic early history and Earth's composition origins."
+    },
+    {
+      "title": "Webb's controversial 'little red dots' may finally have an explanation",
+      "description": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassive black holes.",
+      "url": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 10 Nov 2026 15:40:05 EST",
+      "category": "Astrophysics",
+      "quality": 4,
+      "summary": "Astronomers may have solved the mystery of JWST's puzzling 'little red dots' through innovative analysis. This breakthrough helps explain unexpected populations of distant galaxies revealed by the James Webb Space Telescope."
+    },
+    {
+      "title": "Gravitational waves hint at black holes born from failed supernovae",
+      "description": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest that some massive stars might die without a bang, instead directly collapsing inward to become neutron stars or black holes.",
+      "url": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Tue, 10 Nov 2026 15:10:01 EST",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Gravitational wave observations suggest black holes can form from massive stars that fail to produce supernovae. This discovery expands our understanding of how black holes originate in the universe."
+    },
+    {
+      "title": "Caltech robot makes history by building a structure in space",
+      "description": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes, communications antennas, and solar power stations in orbit, far beyond the size limits of today's rockets.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Mon, 09 Nov 2026 05:01:13 EST",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "A Caltech robot made history by autonomously building part of a structure in space for the first time. This breakthrough demonstrates transformative potential for robotic construction in space environments."
+    },
+    {
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "description": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 10 Nov 2026 18:56:04 EST",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Advanced James Webb telescope imaging techniques reveal previously hidden exoplanets, potentially unlocking discovery of countless alien worlds. This breakthrough in detection methods promises a revolution in exoplanet astronomy."
+    },
+    {
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "description": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 07 Nov 2026 20:09:55 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Mars may retain geological activity, with mysterious gas emissions and fresh volcanic fissures suggesting the planet is not completely geologically dead."
+    },
+    {
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "description": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent birth of planetary systems.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 10 Nov 2026 07:30:09 EST",
+      "category": "Astronomy",
+      "quality": 4,
+      "summary": "Hubble Space Telescope reveals a 93-billion-mile cosmic structure that may be the remnants of colliding worlds, offering new insights into planetary formation."
+    },
+    {
+      "title": " A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why ",
+      "description": "Astronomers have solved the mystery of an exoplanet that \"disappeared\" after seven years of observations.",
+      "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 21:00:00 +0000",
+      "category": "Exoplanets",
+      "quality": 4,
+      "summary": "Astronomers solve the mystery of a distant exoplanet that appeared to vanish after seven years of observations."
+    },
+    {
+      "title": " Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why ",
+      "description": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
+      "url": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
+      "source": " Latest from Space.com ",
+      "date": "Tue, 10 Nov 2026 19:00:00 +0000",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Scientists may have finally solved the 40-year mystery of Uranus's unusual magnetic field through new understanding of extreme planetary conditions."
     },
     {
       "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
@@ -234,18 +224,7 @@
       "image": null,
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Physicists have detected evidence of an extraordinarily rare particle decay after a 42-year search, occurring approximately once in every 10 billion interactions. This landmark discovery validates theoretical predictions and advances particle physics understanding."
-    },
-    {
-      "title": "Step inside the zeptoverse: British scientists use the Large Hadron Collider to peer inside a minuscule world where exotic particles may be hiding",
-      "description": "British scientists have used the Large Hadron Collider to peer inside the minuscule world of the zeptoverse.",
-      "url": "https://www.dailymail.com/sciencetech/article-16261443/British-scientists-zeptoverse-exotic-particles.html",
-      "source": "Dailymail.com",
-      "date": "2026-11-03T10:36:27Z",
-      "image": "https://i.dailymail.com/1s/2026/11/03/10/112267979-0-image-m-31_1793701348711.jpg",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "British scientists at the Large Hadron Collider have explored the zeptoverse to search for exotic particles in the minuscule subatomic world. This groundbreaking research expands our understanding of fundamental physics at the smallest scales."
+      "summary": "Physicists achieve a major breakthrough after 42 years, finding evidence of an extremely rare particle decay predicted to occur only once in 10 billion events."
     },
     {
       "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
@@ -256,51 +235,61 @@
       "image": "https://www.universetoday.com/article_images/1280px-Rubin_Observatory_and_Its_Target_20250825_213134.jpg",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "The Vera Rubin Observatory has discovered two additional dim satellite galaxies orbiting the Milky Way. These findings help astronomers better map our galactic neighborhood and understand galaxy formation."
+      "summary": "The Vera Rubin Observatory has discovered two additional faint satellite galaxies orbiting the Milky Way, expanding our understanding of galactic structure. This discovery highlights the power of modern observatories to detect previously hidden cosmic companions."
     },
     {
-      "title": "NASA is hiring astronauts for future Moon missions: Who can apply, what tests must you pass and how to get selected?",
-      "description": "NASA is recruiting its next class of astronauts, with selected candidates potentially preparing for future Moon missions and living at a lunar base. The agency is accepting applications from qualified US citizens, including candidates with master's-level nurs…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nasa-is-hiring-astronauts-for-future-moon-missions-who-can-apply-what-tests-must-you-pass-and-how-to-get-selected/articleshow/135691349.cms",
-      "source": "The Times of India",
-      "date": "2026-11-09T19:00:49Z",
-      "image": "https://img.etimg.com/thumb/msid-135691821,width-1200,height-900,imgsize-41958,overlay-economictimes/articleshow.jpg",
+      "title": "Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes at Cosmic Dawn",
+      "description": "Author(s): Yiqin Chen, Shi-Yi Zhao, Xingjiang Zhu, N. D. Ramesh Bhat, Jacob Cardinal Tremblay, Małgorzata Curyło, Valentina Di Marco, George Hobbs, Wenhua Ling, Rami F. Mandow, Richard N. Manchester, Saurav Mishra, Daniel J. Reardon, Sparrow Roch, Christopher…",
+      "url": "https://link.aps.org/doi/10.1103/5z5g-shly",
+      "source": "Aps.org",
+      "date": "2026-11-02T10:00:00Z",
+      "image": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/5z5g-shly.png",
+      "category": "Black Holes",
+      "quality": 4,
+      "summary": "Researchers have used nanohertz gravitational waves to constrain the properties of supermassive binary black holes from the cosmic dawn era. This advancement opens new windows into understanding the earliest supermassive black holes in the universe."
+    },
+    {
+      "title": "See the Artemis III Rocket w/ NASA Administrator Jared Isaacman [46:03]",
+      "description": "Enjoy an ENERGIZING, insightful and in depth conversation with NASA Administrator Jared Isaacman while INSIDE the VAB! A true dream come true for me! We talk about Artemis, SLS, Moon Base, X70 and lots of other fun stuff! See the Artemis III Rocket w/ NASA Ad…",
+      "url": "https://freerepublic.com/focus/f-bloggers/4402457/posts",
+      "source": "Freerepublic.com",
+      "date": "2026-11-10T03:50:01Z",
+      "image": null,
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA is recruiting a new class of astronauts for future Moon missions, opening opportunities for qualified candidates to participate in humanity's next great adventure. Selected astronauts will help write the next chapter of space exploration."
+      "summary": "NASA Administrator Jared Isaacman discusses the Artemis III rocket inside the Vehicle Assembly Building in an energizing conversation about humanity's return to the Moon. This insight showcases NASA's commitment to advancing lunar exploration."
     },
     {
-      "title": "NASA is hiring! Aspiring astronauts offered a surprising $164,000 salary to work on the Moon: ‘Write the next chapter of human spaceflight’",
-      "description": "NASA last opened applications in 2024, selecting 10 astronaut candidates from more than 8,000 applications.",
-      "url": "https://nypost.com/2026/11/09/science/nasa-is-hiring-aspiring-astronauts-will-work-on-the-moon/",
-      "source": "New York Post",
-      "date": "2026-11-09T17:59:18Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148113301.jpg?quality=75&strip=all&w=1200",
-      "category": "NASA",
+      "title": "Grok hits 99.9% accuracy spotting rocket debris for SpaceX",
+      "description": "The integration of AI in aerospace inspection enhances safety and efficiency, potentially revolutionizing industry standards and practices.\nThe post Grok hits 99.9% accuracy spotting rocket debris for SpaceX appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/grok-spacex-foreign-object-debris-detection/",
+      "source": "Crypto Briefing",
+      "date": "2026-11-10T03:08:25Z",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/09220813/library-grok-hits-99-9-accuracy-spotting-rocket-debris-for-space-800x450.png",
+      "category": "SpaceX",
       "quality": 4,
-      "summary": "NASA is hiring astronauts with a competitive salary of $164,000 to support lunar missions and advance human spaceflight. The selection process is highly competitive, drawing thousands of passionate space explorers."
+      "summary": "AI technology achieves 99.9% accuracy in identifying rocket debris for SpaceX, revolutionizing aerospace inspection safety and efficiency. This breakthrough demonstrates how artificial intelligence can enhance space operations and reduce risk."
     },
     {
-      "title": "Depuis des années, cet astéroïde accélère de façon inexpliquée : quelque chose modifie sa trajectoire et personne ne sait encore quoi",
-      "description": "Un petit astéroïde défie les modèles : 1998 KY26 accélère d’une manière que la gravité seule peine à expliquer. L’hypothèse de la comète sombre a été avancée. Mais une nouvelle étude vient brouiller les pistes.",
-      "url": "https://www.futura-sciences.com/sciences/actualites/asteroide-depuis-annees-cet-asteroide-accelere-facon-inexpliquee-quelque-chose-modifie-trajectoire-personne-ne-sait-encore-139184/",
-      "source": "Futura",
-      "date": "2026-11-09T13:08:55Z",
-      "image": "https://cdn8.futura-sciences.com/a1920/images/actu/asteroide-etonnant.jpeg",
-      "category": "Solar System",
-      "quality": 4,
-      "summary": "The asteroid 1998 KY26 is accelerating in ways that gravity alone cannot explain, presenting an intriguing cosmic mystery. Scientists continue investigating this enigmatic object to understand the forces shaping our solar system."
-    },
-    {
-      "title": "Diese Helikopterdrohne fliegt zum Saturnmond Titan – und dein Name könnte mit an Bord sein",
-      "description": "Die Nasa wirbt mit einer kuriosen Aktion für ihre Mission zum Saturnmond Titan: Ihr könnt euren Namen auf einer Drohne hinterlassen. Das steckt dahinter.\nweiterlesen auf t3n.de",
-      "url": "https://t3n.de/news/nasa-namen-saturn-mond-titan-1772282/",
-      "source": "T3n",
-      "date": "2026-11-09T11:00:28Z",
-      "image": "https://cdn.t3n.de/news/wp-content/uploads/2023/12/Dragonfly_nasa.png?class=content",
+      "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
+      "description": "Traveling one light-day took the space probe 49 years. it would take a human 612,015 years to walk that distance.",
+      "url": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
+      "source": "CNET",
+      "date": "2026-11-09T20:33:49Z",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Voyager-1.jpg",
       "category": "Missions",
       "quality": 4,
-      "summary": "NASA is inviting people to have their names travel aboard a helicopter drone destined for Saturn's moon Titan. This exciting mission will explore one of the solar system's most fascinating and mysterious worlds."
+      "summary": "NASA's Voyager 1 will cross the historic one light-day distance milestone on November 18, after 49 years of interstellar travel. This achievement represents humanity's most distant active spacecraft and a triumph of engineering longevity."
+    },
+    {
+      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+      "description": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+      "source": "NASA",
+      "date": "Wed, 11 Nov 2026 05:05:00 +0000",
+      "category": "Astronomy",
+      "quality": 3,
+      "summary": "NGC 4449 is a small galaxy with outsized cosmic influence, featured in today's Astronomy Picture of the Day. This dwarf galaxy demonstrates how even smaller celestial objects can have significant astrophysical impact."
     },
     {
       "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
@@ -310,7 +299,17 @@
       "date": "Tue, 10 Nov 2026 18:06:33 +0000",
       "category": "NASA",
       "quality": 3,
-      "summary": "NASA hosts a public welcome-home event at Space Center Houston for the Expedition 74 astronauts returning from their mission aboard the International Space Station."
+      "summary": "NASA welcomes home the Expedition 74 crew at Space Center Houston following their return from the International Space Station. The public event celebrates the astronauts' successful mission completion."
+    },
+    {
+      "title": "CHAPEA Crew Leaves a Mark",
+      "description": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+      "source": "NASA",
+      "date": "Tue, 10 Nov 2026 14:57:55 +0000",
+      "category": "Futurism",
+      "quality": 3,
+      "summary": "The CHAPEA Mission 2 crew documents their analog mission experiences, preparing humanity for future Mars exploration. This crew health and performance research advances our readiness for long-duration space missions."
     }
   ]
 }
