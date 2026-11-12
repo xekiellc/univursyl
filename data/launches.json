@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T17:59:05.087Z",
+  "generated": "2026-11-12T00:34:58.314Z",
   "launches": [
     {
       "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
@@ -17,7 +17,7 @@
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
       "name": "Falcon 9 Block 5 | USSF-627",
-      "net": "2026-11-12T02:36:18Z",
+      "net": "2026-11-12T04:36:30Z",
       "status": "Go",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
