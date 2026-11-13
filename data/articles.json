@@ -1,26 +1,16 @@
 {
-  "generated": "2026-11-12T18:04:14.822Z",
+  "generated": "2026-11-13T02:30:24.239Z",
   "count": 30,
   "articles": [
     {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "description": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "source": "NASA",
-      "date": "Tue, 10 Nov 2026 19:22:45 +0000",
-      "category": "NASA",
-      "quality": 5,
-      "summary": "NASA celebrates Voyager 1's historic milestone as it reaches one light-day distance from Earth after nearly 50 years of exploration. This remarkable achievement invites the public to celebrate humanity's most distant robotic explorer."
-    },
-    {
-      "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
-      "description": "The MeerKLASS international collaboration achieves the first direct measurement of the large-scale clustering of cosmic hydrogen in the Universe.",
-      "url": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
-      "source": "Universe Today",
-      "date": "Tue, 10 Nov 2026 19:01:00 +0000",
+      "title": "Space telescope Euclid sets the new standard for cosmology",
+      "description": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.",
+      "url": "https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 12 Nov 2026 16:00:01 EST",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The MeerKLASS collaboration achieves the first direct measurement of large-scale cosmic hydrogen clustering, opening new ways to map the universe's structure and composition."
+      "summary": "The European Space Agency's Euclid space telescope, launched in July 2023, is revolutionizing cosmology by mapping the universe's structure and dark matter distribution. This mission marks a new standard for understanding the cosmos."
     },
     {
       "title": "Euclid offers best-ever 3D map of the universe to date",
@@ -30,27 +20,7 @@
       "date": "Thu, 12 Nov 2026 10:30:01 EST",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "The ESA's Euclid spacecraft releases its first major data batch, creating the most detailed 3D map of the universe ever produced to study dark matter and cosmic expansion."
-    },
-    {
-      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test",
-      "description": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.",
-      "url": "https://phys.org/news/2026-11-europe-hera-spacecraft-asteroid-rammed.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Thu, 12 Nov 2026 04:07:30 EST",
-      "category": "Missions",
-      "quality": 5,
-      "summary": "Europe's Hera spacecraft begins detailed inspections of an asteroid struck by NASA's DART mission in 2022, validating planetary defense capabilities for protecting Earth."
-    },
-    {
-      "title": "Independent technique validates landmark M87* image",
-      "description": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's national science agency, has developed a powerful new imaging technique that validated the landmark 2019 image of the black hole at the center of galaxy M87.",
-      "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Wed, 11 Nov 2026 19:00:04 EST",
-      "category": "Black Holes",
-      "quality": 5,
-      "summary": "An independent technique validates the landmark 2019 Event Horizon Telescope image of M87*, confirming the first direct visual evidence of a black hole and its shadow."
+      "summary": "The Euclid Consortium and ESA have released the first major data release featuring the best-ever 3D map of the universe to date. This landmark achievement provides unprecedented insights into cosmic structure and dark matter."
     },
     {
       "title": "A massive new simulation reveals how the universe emerged from darkness",
@@ -60,7 +30,7 @@
       "date": "Wed, 11 Nov 2026 23:07:24 EST",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "A groundbreaking supercomputer simulation reveals how the universe emerged from its cosmic dark age and transformed into the light-filled cosmos we observe today."
+      "summary": "A groundbreaking supercomputer simulation reveals how the universe transitioned from its cosmic dark age into the luminous universe we observe today. This achievement provides revolutionary insights into cosmic history and structure formation."
     },
     {
       "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
@@ -70,7 +40,7 @@
       "date": "Mon, 09 Nov 2026 04:13:28 EST",
       "category": "NASA",
       "quality": 5,
-      "summary": "NASA announces an accelerated plan to return astronauts to the Moon by 2028, with SpaceX and Blue Origin developing landing systems for this landmark mission."
+      "summary": "NASA has announced an accelerated timeline to return astronauts to the Moon in 2028, with SpaceX and Blue Origin developing lunar landers. This bold initiative marks a major milestone in human space exploration and lunar return missions."
     },
     {
       "title": "Caltech robot makes history by building a structure in space",
@@ -80,38 +50,17 @@
       "date": "Mon, 09 Nov 2026 05:01:13 EST",
       "category": "Futurism",
       "quality": 5,
-      "summary": "A Caltech robot has autonomously constructed part of a structure in space for the first time, opening new possibilities for space-based manufacturing and construction."
+      "summary": "A Caltech robot has achieved a historic first by autonomously constructing part of a structure in space, opening new possibilities for future construction and assembly in the cosmos."
     },
     {
-      "title": " Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) ",
-      "description": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-      "url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
+      "title": " SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky? ",
+      "description": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+      "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
       "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 17:28:20 +0000",
-      "category": "Dark Matter",
-      "quality": 5,
-      "summary": "The Euclid space telescope has released its first major data batch, capturing light from over a billion objects to advance our understanding of dark matter and the universe's structure."
-    },
-    {
-      "title": " Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars ",
-      "description": "Using the James Webb Space Telescope, astronomers have discovered the oldest pair of black hole-powered quasars ever seen. There's just one problem: they shouldn't exist!",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
-      "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 13:00:00 +0000",
-      "category": "Black Holes",
-      "quality": 5,
-      "summary": "The James Webb Space Telescope has discovered the oldest pair of black hole-powered quasars ever observed, pushing back the timeline of supermassive black hole formation."
-    },
-    {
-      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
-      "description": "SpaceX is counting down to make history with the launch of its Starship Flight 15 mission on Friday, Nov. 13, with liftoff scheduled for 5:45 p.m. EDT (2245 GMT) at Starbase, Texas. Starship Flight 15 will attempt to land both Starship Ship and Super Heavy Bo…",
-      "url": "https://biztoc.com/x/24abdec2cce1e64b",
-      "source": "Biztoc.com",
-      "date": "2026-11-11T01:01:31Z",
-      "image": "https://biztoc.com/cdn/24abdec2cce1e64b_s.webp",
+      "date": "Thu, 12 Nov 2026 20:00:00 +0000",
       "category": "SpaceX",
       "quality": 5,
-      "summary": "SpaceX is preparing for Starship Flight 15 on November 13, aiming to achieve the historic first synchronized double landing of Super Heavy booster rockets, marking a major milestone in reusable rocket technology."
+      "summary": "SpaceX's Starship megarocket is set to launch to orbit, and observers may be able to witness the exceptionally bright spacecraft in the night sky."
     },
     {
       "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
@@ -121,37 +70,27 @@
       "date": "Thu, 12 Nov 2026 13:18:40 +0000",
       "category": "Astronomy",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope has captured a stunning gallery of gravitational lenses that will serve as targets for the upcoming Roman Space Telescope. This collection showcases the remarkable diversity of gravitational lensing phenomena across the cosmos."
+      "summary": "NASA's Hubble Space Telescope provides a diverse gallery of gravitational lens images, demonstrating this cosmic phenomenon's potential for the Roman Space Telescope's future observations."
     },
     {
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "description": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-      "source": "NASA",
-      "date": "Wed, 11 Nov 2026 05:05:00 +0000",
-      "category": "Astrophysics",
-      "quality": 4,
-      "summary": "The small galaxy NGC 4449 demonstrates surprisingly powerful gravitational influence on its surroundings despite its diminutive size. This discovery challenges conventional understanding of galactic dynamics and interaction."
-    },
-    {
-      "title": "Astrophysicists Want to Forecast When a Black Hole Launches Its Jets",
-      "description": "Astrophysical jets are enormously powerful and energetic phenomena. Black holes launch them from their poles and they can extend enormous distances into space, disrupting star formation in adjacent regions. Astrophysicists want to be able to forecast when they're launched so they can understand theire extreme physics better. New research is making progress in understanding when they are triggered.",
-      "url": "https://www.universetoday.com/articles/astrophysicists-want-to-forecast-when-a-black-hole-launches-its-jets",
+      "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
+      "description": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the Universe with its huge 600 megapixel camera, and new images give us some highlights.",
+      "url": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
       "source": "Universe Today",
-      "date": "Thu, 12 Nov 2026 17:25:31 +0000",
-      "category": "Black Holes",
+      "date": "Thu, 12 Nov 2026 23:04:05 +0000",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Astrophysicists are developing methods to forecast when black holes launch their powerful relativistic jets from their poles. This research advances understanding of some of the universe's most energetic phenomena."
+      "summary": "The ESA's Euclid Space Telescope releases its first major data batch, advancing humanity's goal to create a comprehensive 3D map of the universe."
     },
     {
-      "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
-      "description": "Uranus and Neptune, the Solar System's ice giants, have interiors unlike the other planets. As a result, they also have magnetic fields unlike the others. They're messy and tilted, and Voyager 2, the only spacecraft to even flyby them, showed us how messy they are. New research uses models to try to understand what's going on with the pair of planets and their weird fields, and found that it's likely they change on very short timescales. They could already be much different than when Voyager 2 visited in the late 1980s.",
-      "url": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+      "title": "Asteroid Bennu's Sample Delivers Another Surprise",
+      "description": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but isotopic differences between individual atoms in the same molecule. The results show that some of the same pre-cursors to life formed in different conditions and positions in the protoplanetary disk.",
+      "url": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
       "source": "Universe Today",
-      "date": "Wed, 11 Nov 2026 22:09:35 +0000",
-      "category": "Solar System",
+      "date": "Thu, 12 Nov 2026 21:16:30 +0000",
+      "category": "Missions",
       "quality": 4,
-      "summary": "Uranus and Neptune possess remarkably unusual magnetic fields that differ dramatically from Earth's, reflecting their unique internal structures as ice giants. This discovery reveals fascinating diversity in planetary magnetism."
+      "summary": "Analysis of samples from asteroid Bennu reveals the presence of amino acids, providing compelling evidence for organic chemistry in the early solar system."
     },
     {
       "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
@@ -161,37 +100,37 @@
       "date": "Wed, 11 Nov 2026 16:41:55 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "The Chandra X-Ray Observatory distinguishes between Luminous Blue Variables and actual supernovae explosions, revealing previously hidden stellar phenomena. This capability enhances our understanding of stellar evolution and explosive events."
+      "summary": "NASA's Chandra X-Ray Observatory helps distinguish between Luminous Blue Variables and supernovae by analyzing their distinct outburst characteristics. This advancement improves astronomers' ability to accurately classify stellar phenomena."
     },
     {
-      "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
-      "description": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and astronomers think they've figured out what happened. An unseen, nearby giant planet companion tugged on it until TESS couldn't see it anymore.",
-      "url": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
-      "source": "Universe Today",
-      "date": "Wed, 11 Nov 2026 13:02:29 +0000",
-      "category": "Exoplanets",
+      "title": "Hubble offers cosmic sampler of targets for Roman",
+      "description": "A gallery of gravitational lenses captured by NASA's Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope.",
+      "url": "https://phys.org/news/2026-11-hubble-cosmic-sampler-roman.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 12 Nov 2026 16:20:04 EST",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "TESS observations reveal that exoplanets can experience orbital wobbling from neighboring planets that periodically obscures their transits from our view. This discovery demonstrates the complex gravitational dynamics of distant planetary systems."
+      "summary": "The Hubble Space Telescope has captured a diverse collection of gravitational lenses that will serve as targets for NASA's upcoming Roman Space Telescope. These observations demonstrate the rich variety of gravitational lensing phenomena across the cosmos."
     },
     {
-      "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
-      "description": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space from premade components. Is the sky the limit for NOM4D?",
-      "url": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
-      "source": "Universe Today",
-      "date": "Tue, 10 Nov 2026 19:52:32 +0000",
-      "category": "Futurism",
+      "title": "Space dust particles point to ancient heavy-oxygen water reservoir in the Kuiper belt",
+      "description": "Way out past the asteroid belt, another belt encircles the planets in our solar system. The Kuiper belt, beyond Neptune, preserves icy bodies that escaped much of the processing experienced by objects closer to the sun. Unlike the rocky and metallic asteroid belt, Kuiper belt objects are composed mostly of frozen water, methane and ammonia, mixed with rock and dust.",
+      "url": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 12 Nov 2026 13:30:02 EST",
+      "category": "Solar System",
       "quality": 4,
-      "summary": "Automated assembly technology is maturing rapidly, enabling the construction of large structures in space as demonstrated by the ISS, Mir, and Tiangong stations. NOM4D exemplifies the future of in-situ manufacturing and space infrastructure development."
+      "summary": "Analysis of space dust particles reveals evidence of an ancient water reservoir containing heavy oxygen in the Kuiper Belt. This discovery provides insights into the early solar system's composition and water distribution."
     },
     {
-      "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
-      "description": "There's a strange gamma-ray emitter in the Large Magellanic Cloud that has astronomers stumped about its source. It lies within the ashes left behind by a supernova that created a compact object that's part of the system. The supernova remnant provides some evidence for the emissions, but not the whole story.",
-      "url": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
-      "source": "Universe Today",
-      "date": "Tue, 10 Nov 2026 19:39:42 +0000",
-      "category": "Astrophysics",
+      "title": "A rare star system emits radio signals every 8 minutes",
+      "description": "Scientists at the Curtin University node at the International Center for Radio Astronomy Research (ICRAR) have linked mysterious radio pulses to an unusual pairing of stars—a dead star that spins every eight minutes and a star similar to our own sun.",
+      "url": "https://phys.org/news/2026-11-rare-star-emits-radio-minutes.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Thu, 12 Nov 2026 13:20:05 EST",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "ALMA's observations reveal a jet of cool gas emanating from a mysterious microquasar in the Large Magellanic Cloud. This discovery sheds new light on the nature of enigmatic gamma-ray emitters and relativistic jet formation."
+      "summary": "Researchers have identified a rare star system emitting mysterious radio signals at precise 8-minute intervals. This discovery opens new avenues for understanding exotic stellar objects and radio astronomy phenomena."
     },
     {
       "title": "A new view of the gamma-ray gap: 14 years of Fermi data reveal around 450 sources in a largely unexplored energy range",
@@ -201,7 +140,7 @@
       "date": "Thu, 12 Nov 2026 12:40:01 EST",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Fermi telescope data reveals approximately 450 gamma-ray sources in a previously unexplored energy range, expanding our understanding of high-energy phenomena across the cosmos."
+      "summary": "Fourteen years of data from NASA's Fermi Gamma-ray Space Telescope have revealed approximately 450 previously unexplored sources in the gamma-ray energy range. This breakthrough expands our understanding of high-energy cosmic phenomena."
     },
     {
       "title": "Simulated collisions reveal how Phobos could preserve rocks blasted off Mars",
@@ -211,17 +150,7 @@
       "date": "Thu, 12 Nov 2026 12:20:01 EST",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Collision simulations show how Mars's moon Phobos could preserve rocks ejected from the Martian surface, providing insights into the origins of Mars's enigmatic moons."
-    },
-    {
-      "title": "Centaurus A in the spotlight: Plasma simulations reproduce black hole jets' mysterious bright edges",
-      "description": "Around 12 million light-years away, the supermassive black hole of the galaxy Centaurus A is hurling two enormous plasma jets into space at nearly the speed of light. These so-called jets are brighter at their edges than at their center. The reason for this was previously unclear but has now been explained by a team from the Chair of Astronomy at the University of Würzburg. The research is published in the journal Astronomy & Astrophysics.",
-      "url": "https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Wed, 11 Nov 2026 12:40:04 EST",
-      "category": "Black Holes",
-      "quality": 4,
-      "summary": "Plasma simulations explain the mysterious bright edges of jets ejected by the supermassive black hole in Centaurus A, located 12 million light-years away."
+      "summary": "Advanced simulations reveal how Mars' moon Phobos could capture and preserve rocks blasted from the Martian surface. This research illuminates the complex dynamics of planetary moons and ancient solar system history."
     },
     {
       "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
@@ -231,7 +160,7 @@
       "date": "Thu, 12 Nov 2026 03:38:42 EST",
       "category": "Solar System",
       "quality": 4,
-      "summary": "New research suggests Earth's water may have originated in our planet's early atmosphere rather than being delivered by comets or asteroids, rewriting water's origin story."
+      "summary": "New research suggests Earth's water originated in our planet's fiery early atmosphere rather than being delivered by comets or asteroids. This discovery revolutionizes our understanding of Earth's habitability and water's origins."
     },
     {
       "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
@@ -241,17 +170,7 @@
       "date": "Wed, 11 Nov 2026 20:45:09 EST",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA's Parker Solar Probe discovers hidden patterns in the Sun's turbulent magnetic fields, advancing our understanding of solar dynamics and space weather."
-    },
-    {
-      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-      "description": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Tue, 10 Nov 2026 00:00:41 EST",
-      "category": "NASA",
-      "quality": 4,
-      "summary": "Four NASA volunteers complete over a year of simulated Martian living in the CHAPEA habitat, providing valuable data for future human Mars exploration missions."
+      "summary": "NASA's Parker Solar Probe has uncovered hidden patterns within the Sun's turbulent magnetic fields, revealing previously unknown solar dynamics. This discovery enhances our understanding of solar physics and space weather."
     },
     {
       "title": "A radical theory says the universe is twice as old as we thought",
@@ -261,17 +180,47 @@
       "date": "Wed, 11 Nov 2026 01:46:30 EST",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "A new cosmological model proposes the universe could be 26.7 billion years old, challenging existing age estimates and potentially reshaping our understanding of cosmic history."
+      "summary": "A new cosmological model proposes the Universe could be 26.7 billion years old and challenges our understanding of dark matter and cosmic age."
     },
     {
-      "title": " The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027 ",
-      "description": "Ancient Roman cities, temples and amphitheaters across the Mediterranean will fall into the moon's shadow during the total solar eclipse on Aug. 2, 2027.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027",
+      "title": " This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star ",
+      "description": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
+      "url": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
       "source": " Latest from Space.com ",
-      "date": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy",
+      "date": "Thu, 12 Nov 2026 21:00:00 +0000",
+      "category": "Black Holes",
       "quality": 4,
-      "summary": "A total solar eclipse on August 2, 2027 will sweep across the Mediterranean, casting ancient Roman wonders into spectacular darkness for eclipse enthusiasts."
+      "summary": "Astronomers solved a 15-year mystery by discovering a hidden black hole or neutron star causing dramatic eruptions in an unstable star system."
+    },
+    {
+      "title": " On this day in space! Nov. 12, 2014: European Philae probe lands on Comet 67P, bounced twice and then got lost for nearly 2 years ",
+      "description": "On Nov. 12, 2014, a European spacecraft named Philae landed on Comet 67P, then bounced twice and got lost. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 12 Nov 2026 20:19:49 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "The European Philae probe made history on November 12, 2014, by landing on Comet 67P in a daring mission that demonstrated humanity's ability to explore distant cosmic objects."
+    },
+    {
+      "title": " Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) ",
+      "description": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
+      "url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 12 Nov 2026 17:28:20 +0000",
+      "category": "Dark Matter",
+      "quality": 4,
+      "summary": "The Euclid space telescope released groundbreaking data capturing light from over a billion objects to advance our understanding of dark matter and the universe's structure."
+    },
+    {
+      "title": " Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month ",
+      "description": "China will fly its first foreign astronaut on the Shenzhou 24 mission, with a Pakistani pilot set for a roughly week-long stay aboard the Tiangong space station.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month",
+      "source": " Latest from Space.com ",
+      "date": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "category": "Missions",
+      "quality": 4,
+      "summary": "A Pakistani astronaut is set to become the first international visitor to China's Tiangong space station, marking a significant milestone in international space cooperation."
     },
     {
       "title": "NASA opens applications for astronauts who will live on the Moon",
@@ -282,7 +231,7 @@
       "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-moon-base-1.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA has opened applications for astronauts who will live and work on the Moon, marking an exciting step toward sustained lunar exploration."
+      "summary": "NASA is now accepting applications for astronauts who will live and work on the Moon, opening an extraordinary opportunity for future lunar explorers."
     },
     {
       "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search",
@@ -293,7 +242,7 @@
       "image": null,
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "Physicists have discovered evidence of an extraordinarily rare particle decay occurring roughly once per 10 billion events, marking a significant breakthrough in fundamental physics after 42 years of research."
+      "summary": "Physicists have discovered evidence of an extraordinarily rare particle decay after a 42-year search, occurring approximately once in every 10 billion interactions. This breakthrough advances fundamental understanding of particle physics and exotic matter."
     },
     {
       "title": "Step inside the zeptoverse: British scientists use the Large Hadron Collider to peer inside a minuscule world where exotic particles may be hiding",
@@ -304,7 +253,61 @@
       "image": "https://i.dailymail.com/1s/2026/11/03/10/112267979-0-image-m-31_1793701348711.jpg",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "British scientists at the Large Hadron Collider have peered into the zeptoverse, exploring the minuscule realm where exotic particles may exist and deepening our understanding of physics at the smallest scales."
+      "summary": "British scientists used the Large Hadron Collider to explore the zeptoverse, a minuscule realm where exotic particles may exist. This research opens new frontiers in understanding the fundamental structure of matter."
+    },
+    {
+      "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
+      "description": "Senior NASA officials held a lengthy news conference last weekend, laying out a series of lunar contract awards, new contract opportunities, and mission decisions. They followed one after the other: landers, nuclear-powered rovers, scouting drones, power gene…",
+      "url": "https://biztoc.com/x/1a54a3b7eee5f12b",
+      "source": "Biztoc.com",
+      "date": "2026-11-11T20:12:07Z",
+      "image": "https://biztoc.com/cdn/1a54a3b7eee5f12b_s.webp",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA announced a comprehensive strategy for lunar return missions, revealing new contract awards and ambitious plans for Moon exploration. This coordinated effort marks a pivotal moment in humanity's return to the lunar surface."
+    },
+    {
+      "title": "378 dias sem janelas: NASA termina mais uma experiência para preparar viagens a Marte",
+      "description": "A NASA concluiu recentemente a segunda missão CHAPEA, onde quatro voluntários passaram 378 dias num habitat simulado de Marte, construído por impressão 3D e sem janelas. O objetivo é preparar a futura exploração humana do planeta vermelho. Um ano de isolament…",
+      "url": "https://pplware.sapo.pt/ciencia/378-dias-sem-janelas-nasa-termina-mais-uma-experiencia-para-preparar-viagens-a-marte/",
+      "source": "Sapo.pt",
+      "date": "2026-11-11T17:00:00Z",
+      "image": "https://pplware.sapo.pt/wp-content/uploads/2026/11/CHAPEA_nasa_marte.webp",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA completed its second CHAPEA mission, where four volunteers spent 378 days in a simulated Mars habitat to advance human Mars exploration readiness. This groundbreaking experiment brings crewed Mars missions closer to reality."
+    },
+    {
+      "title": "Für Solaranlagen oder Teleskopspiegel: Roboter baut autonom Strukturen im All",
+      "description": "Im Rahmen des von der US-Forschungsagentur Darpa finanzierten Nom4d-Projekts hat ein Caltech-Roboter erstmals autonom eine Struktur im All errichtet. Das soll künftig den Bau großer Solaranlagen oder Teleskopspiegel erleichtern.weiterlesen auf t3n.de",
+      "url": "https://t3n.de/news/roboter-baut-strukturen-all-1772859/",
+      "source": "T3n",
+      "date": "2026-11-11T16:30:28Z",
+      "image": "https://cdn.t3n.de/news/wp-content/uploads/2026/11/roboter-satellit-solar.jpg?class=content",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "A Caltech-developed robot, funded by DARPA, autonomously constructed structures in space for the first time as part of the Nom4d project. This achievement represents a major milestone toward robotic space construction for solar arrays and telescopes."
+    },
+    {
+      "title": "PROMISE: Der neue NASA-Mondrover PROMISE",
+      "description": "Die NASA plant eine revolutionäre Rückkehr zum Mond: Ein neuer Rover und innovative Missionen bereiten den Weg für Menschen.",
+      "url": "https://www.spektrum.de/news/der-neue-nasa-mondrover-promise/2353221",
+      "source": "Spektrum.de",
+      "date": "2026-11-11T11:00:00Z",
+      "image": "https://static.spektrum.de/fm/912/f1920x1080/PIA23966_orig.jpg",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA is developing the revolutionary PROMISE lunar rover as part of an ambitious Moon return strategy with innovative missions ahead. This advanced rover represents a transformative step toward human lunar exploration and colonization."
+    },
+    {
+      "title": "I Am Artemis Katie Spicer",
+      "description": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "source": "NASA",
+      "date": "Thu, 12 Nov 2026 20:10:02 +0000",
+      "category": "NASA",
+      "quality": 3,
+      "summary": "Katie Spicer's career at NASA demonstrates how embracing challenges leads to significant achievements in space exploration and scientific advancement."
     }
   ]
 }
