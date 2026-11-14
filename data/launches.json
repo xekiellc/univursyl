@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T09:00:41.956Z",
+  "generated": "2026-11-14T16:38:40.378Z",
   "launches": [
     {
       "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
@@ -18,7 +18,7 @@
       "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
       "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
       "net": "2026-11-14T01:16:00Z",
-      "status": "In Flight",
+      "status": "Success",
       "provider": "Russian Federal Space Agency (ROSCOSMOS)",
       "rocket": "Soyuz 2.1b/Fregat-M",
       "pad": "Cosmodrome Site 1S",
@@ -43,7 +43,7 @@
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "net": "2026-11-14T17:32:30Z",
+      "net": "2026-11-15T17:11:30Z",
       "status": "Go",
       "provider": "United Launch Alliance",
       "rocket": "Vulcan VC6L",
@@ -51,7 +51,7 @@
       "location": "Cape Canaveral SFS, FL, USA",
       "mission": "Amazon Leo (LV-01)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_on__image_20261114102518.jpeg"
     },
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",

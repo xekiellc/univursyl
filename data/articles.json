@@ -1,16 +1,26 @@
 {
-  "generated": "2026-11-14T08:50:32.176Z",
+  "generated": "2026-11-14T16:29:06.813Z",
   "count": 30,
   "articles": [
     {
-      "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
-      "description": "Elon Musk's SpaceX was poised Friday to carry out its latest test of the world's biggest and most powerful rocket, the Starship, with plans for a groundbreaking \"catch\" of the spaceship following a day in orbit.",
-      "url": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
-      "source": "Space News - Space, Astronomy, Space Exploration",
-      "date": "Fri, 13 Nov 2026 05:11:51 EST",
-      "category": "SpaceX",
+      "title": "LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date",
+      "description": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies.",
+      "url": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+      "source": "Universe Today",
+      "date": "Fri, 13 Nov 2026 21:30:58 +0000",
+      "category": "Astronomy",
       "quality": 5,
-      "summary": "SpaceX's Starship undertakes a groundbreaking test attempting the first-ever spaceship 'catch' with the world's biggest and most powerful rocket."
+      "summary": "LOFAR captures the deepest and sharpest low-frequency radio sky image to date, opening unprecedented views of the universe's radio-emitting phenomena."
+    },
+    {
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "description": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Thu, 12 Nov 2026 06:37:06 EST",
+      "category": "NASA",
+      "quality": 5,
+      "summary": "NASA's Perseverance rover confirms complex organic carbon beneath ancient Martian rocks, revealing a key ingredient for life on the Red Planet."
     },
     {
       "title": "A massive new simulation reveals how the universe emerged from darkness",
@@ -20,17 +30,17 @@
       "date": "Wed, 11 Nov 2026 23:07:24 EST",
       "category": "Cosmology",
       "quality": 5,
-      "summary": "A breakthrough supercomputer simulation reveals how the universe emerged from its cosmic dark age and underwent dramatic transformation."
+      "summary": "A groundbreaking supercomputer simulation reveals how the universe emerged from its cosmic dark age and transformed into the cosmos we observe today."
     },
     {
-      "title": " SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) ",
-      "description": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+      "title": " On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission ",
+      "description": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
       "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 23:20:03 +0000",
-      "category": "SpaceX",
+      "date": "Sat, 14 Nov 2026 14:51:27 +0000",
+      "category": "NASA",
       "quality": 5,
-      "summary": "SpaceX's Starship achieves orbit on its 15th test flight, marking continued progress toward full reusability of the megarocket system."
+      "summary": "Apollo 12 launched on November 14, 1969, achieving a historic pinpoint lunar landing that demonstrated NASA's precision in human spaceflight."
     },
     {
       "title": " On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface ",
@@ -38,20 +48,9 @@
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
       "source": " Latest from Space.com ",
       "date": "Fri, 13 Nov 2026 21:25:55 +0000",
-      "category": "NASA",
+      "category": "Missions",
       "quality": 5,
-      "summary": "Mariner 9 became the first spacecraft to orbit Mars on November 13, 1971, providing unprecedented close-up views of the Martian surface."
-    },
-    {
-      "title": "900 millions de galaxies : Euclid ouvre un trésor cosmique qui pourrait bouleverser notre vision de l'Univers",
-      "description": "Après plus d'un an à scruter les profondeurs du cosmos, le télescope spatial Euclid vient de franchir une étape décisive. Les astrophysiciens du monde entier vont pouvoir explorer une quantité vertigineuse de nouvelles données en plus d'une mosaïque d'images …",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-900-millions-galaxies-euclid-ouvre-tresor-cosmique-pourrait-bouleverser-notre-vision-univers-139212/",
-      "source": "Futura",
-      "date": "2026-11-12T14:02:55Z",
-      "image": "https://cdn8.futura-sciences.com/a1280/images/abel%203128%20euclid_esa.webp",
-      "category": "Cosmology",
-      "quality": 5,
-      "summary": "The Euclid space telescope discovers 900 million galaxies, opening a cosmic treasure trove that could fundamentally transform our understanding of the universe."
+      "summary": "Mariner 9 became the first spacecraft to orbit Mars on November 13, 1971, revolutionizing our understanding of the Red Planet with unprecedented close-up imagery."
     },
     {
       "title": "Outbursts from a Massive Star",
@@ -61,7 +60,7 @@
       "date": "Fri, 13 Nov 2026 16:39:33 +0000",
       "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Chandra X-ray Observatory has revealed the mechanism triggering repeated outbursts from a massive star, advancing our understanding of stellar behavior."
+      "summary": "NASA's Chandra X-ray Observatory has identified the mechanism triggering repeated outbursts from a massive star, advancing our understanding of stellar dynamics and high-energy phenomena."
     },
     {
       "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
@@ -71,7 +70,7 @@
       "date": "Fri, 13 Nov 2026 16:05:54 +0000",
       "category": "NASA",
       "quality": 4,
-      "summary": "Historic Gemini XII mission photographs by astronauts Lovell and Aldrin inspired the development of early Earth observation programs from space."
+      "summary": "Historic Gemini XII mission photographs by astronauts Lovell and Aldrin inspired the development of early Earth observation programs, demonstrating the scientific value of human spaceflight."
     },
     {
       "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
@@ -81,7 +80,17 @@
       "date": "Thu, 12 Nov 2026 13:18:40 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "NASA's Hubble Space Telescope has captured a diverse gallery of gravitational lenses that serve as ideal targets for the upcoming Roman Space Telescope."
+      "summary": "NASA's Hubble Space Telescope reveals a diverse gallery of gravitational lenses that will serve as valuable targets for the upcoming Roman Space Telescope."
+    },
+    {
+      "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
+      "description": "A researcher at Freie Universität Berlin has developed a theoretical framework for searching high-precision measurements for possible relativistic traces in lunar tides.",
+      "url": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
+      "source": "Universe Today",
+      "date": "Sat, 14 Nov 2026 00:35:51 +0000",
+      "category": "Cosmology",
+      "quality": 4,
+      "summary": "A researcher has developed a theoretical framework bridging Einstein's gravitational waves with Newtonian tidal mechanics, enabling new high-precision measurement techniques."
     },
     {
       "title": "Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes",
@@ -91,17 +100,7 @@
       "date": "Fri, 13 Nov 2026 23:49:58 +0000",
       "category": "Dark Matter",
       "quality": 4,
-      "summary": "Astrophysicists have ruled out stupendously large black holes as dark matter candidates, narrowing the search for this cosmic mystery."
-    },
-    {
-      "title": "LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date",
-      "description": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies.",
-      "url": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
-      "source": "Universe Today",
-      "date": "Fri, 13 Nov 2026 21:30:58 +0000",
-      "category": "Astronomy",
-      "quality": 4,
-      "summary": "The Low Frequency Array (LOFAR) has produced the deepest and sharpest image of the low-frequency radio sky to date, revealing new cosmic insights."
+      "summary": "Astrophysicists eliminate stupendously large black holes as a dark matter candidate, narrowing the search for this cosmic mystery through rigorous theoretical constraints."
     },
     {
       "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
@@ -111,7 +110,17 @@
       "date": "Fri, 13 Nov 2026 17:51:07 +0000",
       "category": "Cosmology",
       "quality": 4,
-      "summary": "New research explains how dense galaxy clusters regulate star formation mechanisms during the Universe's Cosmic Noon era."
+      "summary": "Research reveals how dense galaxy clusters regulate star formation through physical mechanisms, providing insights into cosmic evolution during the universe's most active epochs."
+    },
+    {
+      "title": "Shape-Shifting Robotic \"Slugs\" Could One Day Crawl Across Alien Worlds",
+      "description": "Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a recent paper in Nature Machine Intelligence from researchers at Colorado State University’s Adaptive Robotics Lab, describes a unique morphology using a design principle typically seen in architecture rather than robotics - tensegrity.",
+      "url": "https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds",
+      "source": "Universe Today",
+      "date": "Fri, 13 Nov 2026 17:10:44 +0000",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "Innovative shape-shifting robotic slugs could revolutionize future space exploration by offering new mobility solutions for traversing diverse alien worlds."
     },
     {
       "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
@@ -119,9 +128,9 @@
       "url": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
       "source": "Universe Today",
       "date": "Thu, 12 Nov 2026 23:04:05 +0000",
-      "category": "Cosmology",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "The ESA's Euclid Space Telescope releases its first major data batch, advancing its mission to create a comprehensive 3D map of the sky and unlock secrets of dark matter and dark energy."
+      "summary": "ESA's Euclid Space Telescope releases its first major data batch as part of its mission to create a 3D map of the sky, advancing our understanding of the universe's structure."
     },
     {
       "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
@@ -131,17 +140,37 @@
       "date": "Sat, 14 Nov 2026 01:34:10 EST",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX's Starship achieves orbital flight during an ambitious test that attempted an unprecedented booster catch, marking a major milestone in reusable rocket technology."
+      "summary": "SpaceX achieves a major milestone by launching Starship into orbit, despite an unprecedented double-catch attempt being thwarted by booster loss."
     },
     {
-      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-      "description": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-      "source": "Space & Time News -- ScienceDaily",
-      "date": "Thu, 12 Nov 2026 06:37:06 EST",
-      "category": "NASA",
+      "title": "A likely supermassive neutron star might shed light on the mass gap between neutron stars and black holes",
+      "description": "A team of astronomers recently identified a red giant star with an unseen binary companion after examining data from the Large Sky Area MultiObject Fiber Spectroscopic Telescope (LAMOST) and the Apache Point Observatory Galactic Evolution Experiment (APOGEE). Although the companion object can't be observed visually, astronomers can see the gravitational effects it has on the red giant star.",
+      "url": "https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 13 Nov 2026 13:50:01 EST",
+      "category": "Astrophysics",
       "quality": 4,
-      "summary": "NASA's Perseverance rover confirms complex organic carbon in ancient Martian rocks, strengthening evidence for conditions that could support life."
+      "summary": "Astronomers identify a likely supermassive neutron star that could illuminate the mysterious mass gap between neutron stars and black holes."
+    },
+    {
+      "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+      "description": "Elon Musk's SpaceX was poised Friday to carry out its latest test of the world's biggest and most powerful rocket, the Starship, with plans for a groundbreaking \"catch\" of the spaceship following a day in orbit.",
+      "url": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
+      "source": "Space News - Space, Astronomy, Space Exploration",
+      "date": "Fri, 13 Nov 2026 05:11:51 EST",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship test prepares to attempt a groundbreaking first-ever spaceship 'catch' of the world's most powerful rocket."
+    },
+    {
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "description": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Sat, 14 Nov 2026 06:58:42 EST",
+      "category": "Solar System",
+      "quality": 4,
+      "summary": "Astronomers discover a potentially enormous new dwarf planet hidden beyond Pluto, potentially becoming our sixth dwarf planet."
     },
     {
       "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
@@ -149,9 +178,9 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
       "source": "Space & Time News -- ScienceDaily",
       "date": "Fri, 13 Nov 2026 06:08:34 EST",
-      "category": "Dark Matter",
+      "category": "Cosmology",
       "quality": 4,
-      "summary": "Groundbreaking research suggests dark energy may have reversed from negative to positive expansion approximately 9.5 billion years ago."
+      "summary": "Dark energy may have dramatically reversed from negative to positive 9.5 billion years ago, offering new insights into the universe's expansion."
     },
     {
       "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
@@ -161,37 +190,47 @@
       "date": "Thu, 12 Nov 2026 03:38:42 EST",
       "category": "Solar System",
       "quality": 4,
-      "summary": "Scientists discover that Earth's water may have originated in the planet's early atmosphere rather than arriving via comets or asteroids."
+      "summary": "Scientists reveal that Earth's water may have originated in the planet's fiery early atmosphere rather than from cosmic delivery by comets or asteroids."
     },
     {
-      "title": "NASA offers $500,000 to develop next-generation electric rocket engines",
-      "description": "NASA is putting $500,000 on the line in a new competition to accelerate the development of advanced electric rocket engines for satellites and future space exploration. The AMPERE Challenge will reward up to two U.S. companies with cash prizes and access to NASA testing facilities to help bring promising propulsion technology closer to real-world missions.",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205404.htm",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "description": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
       "source": "Space & Time News -- ScienceDaily",
-      "date": "Mon, 09 Nov 2026 21:36:21 EST",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "NASA awards $500,000 in funding to accelerate development of next-generation electric propulsion systems for advanced spacecraft."
-    },
-    {
-      "title": " 100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos) ",
-      "description": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 20:00:00 +0000",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "Rocket Lab celebrates its 100th space launch with a successful Earth-observation satellite mission for a private Japanese operator."
-    },
-    {
-      "title": " California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today ",
-      "description": "The California Science Center's brand-new Samuel Oschin Air & Space Center —the home of NASA's space shuttle Endeavour —officially opened to the public today (Nov. 13).",
-      "url": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today",
-      "source": " Latest from Space.com ",
-      "date": "Fri, 13 Nov 2026 19:30:00 +0000",
+      "date": "Wed, 11 Nov 2026 20:45:09 EST",
       "category": "NASA",
       "quality": 4,
-      "summary": "California's new Samuel Oschin Air & Space Center opens to the public as the permanent home of the space shuttle Endeavour."
+      "summary": "NASA's Parker Solar Probe uncovers a hidden pattern within the Sun's turbulent magnetic fields, advancing our understanding of solar dynamics."
+    },
+    {
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "description": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "source": "Space & Time News -- ScienceDaily",
+      "date": "Tue, 10 Nov 2026 00:00:41 EST",
+      "category": "NASA",
+      "quality": 4,
+      "summary": "NASA's CHAPEA Mars simulation crew completes over a year of isolated habitat training, successfully emerging with valuable data for future human Mars missions."
+    },
+    {
+      "title": " Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream) ",
+      "description": "SpaceX plans to catch the upper stage of its Starship megarocket at the launch pad today (Nov. 14), and you can watch the unprecedented action live.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "source": " Latest from Space.com ",
+      "date": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX attempts its first-ever 'chopsticks' booster catch maneuver during Starship's upper stage recovery in an innovative test of reusable rocket technology."
+    },
+    {
+      "title": " SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) ",
+      "description": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+      "source": " Latest from Space.com ",
+      "date": "Fri, 13 Nov 2026 23:20:03 +0000",
+      "category": "SpaceX",
+      "quality": 4,
+      "summary": "SpaceX's Starship Flight 15 successfully reached orbit on November 13 during an ambitious 22-hour test flight, advancing the development of humanity's most powerful megarocket."
     },
     {
       "title": "Scientists discover mysterious radio signals coming every eight minutes from deep space",
@@ -200,20 +239,9 @@
       "source": "Swns.live",
       "date": "2026-11-12T17:03:24Z",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148482150.jpg?quality=75&strip=all&w=1200",
-      "category": "Astrophysics",
+      "category": "Astronomy",
       "quality": 4,
-      "summary": "Astronomers identify the source of mysterious regular radio pulses occurring every eight minutes from an unusual celestial object 5,000 light-years away."
-    },
-    {
-      "title": "Astronomers Solve Mystery of Disappearing Exoplanet TOI-2535 b",
-      "description": "Astronomers have solved the mystery of an exoplanet that disappeared from observations after seven years of monitoring, according to a study published Monday in the Astrophysical Journal Letters. The planet, designated TOI-2535 b, is located about 1,000 light…",
-      "url": "https://www.naturalnews.com/2026-11-12-astronomers-solve-mystery-disappearing-exoplanet-toi-2535-b.html",
-      "source": "Naturalnews.com",
-      "date": "2026-11-12T06:00:00Z",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/toi-2535-b-exoplanet-tess-6518-7005c3bd-original.jpg",
-      "category": "Exoplanets",
-      "quality": 4,
-      "summary": "Astronomers solve the mystery of exoplanet TOI-2535 b, which vanished from observations after seven years of monitoring."
+      "summary": "Astronomers have linked mysterious radio signals pulsing every eight minutes from 5,000 light-years away to an unusual pairing of celestial bodies, expanding our understanding of cosmic phenomena."
     },
     {
       "title": "NASA opens applications for astronauts who will live on the Moon",
@@ -224,18 +252,29 @@
       "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-moon-base-1.jpg",
       "category": "NASA",
       "quality": 4,
-      "summary": "NASA opens applications for astronauts who will live and work on the Moon, offering an exciting opportunity for space exploration professionals to participate in lunar missions."
+      "summary": "NASA opens applications for astronauts selected to live and work on the Moon, offering an unprecedented opportunity for space exploration careers."
     },
     {
-      "title": "Feu vert réglementaire pour l'avion spatial Dream Chaser de Sierra Space !",
-      "description": "L'administration fédérale de l'aviation américaine a accordé une licence d'opérateur de véhicule de cinq ans à Sierra Space pour son engin Tenacity. L'autorisation permet jusqu'à quatre rentrées atmosphériques annuelles vers la base spatiale de Vandenberg en …",
-      "url": "https://www.generation-nt.com/actualites/feu-vert-dream-chaser-sierra-space-2084404",
-      "source": "Génération NT",
-      "date": "2026-11-13T06:50:01Z",
-      "image": "https://img.generation-nt.com/dream-chaser-03_04B002A301733272.webp",
+      "title": "SpaceX intentará por primera vez atrapar a su Starship con sus 'palillos chinos'",
+      "description": "La compañía de Elon Musk quiere recuperar por primera vez las dos etapas de su megacohete con sus 'palillos chinos' mientras la NASA sigue esperándolo para volver a la Luna",
+      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-13/spacex-starship-captura-nave-orbita-elon-musk_4464574/",
+      "source": "Elconfidencial.com",
+      "date": "2026-11-13T16:04:00Z",
+      "image": "https://images.ecestaticos.com/md6zIaFV2qaq94LUujhY2riEQs0=/0x0:2000x1125/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/65c/43d/0ca/65c43d0ca5dbd5ff8f19b44167343db9.png,0,275,1)/f.elconfidencial.com/original/b20/3ae/e48/b203aee48ce4aba9d454d844e2f7e537.jpg",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "Sierra Space's Dream Chaser spaceplane receives regulatory approval from the FAA with a five-year operational license, advancing reusable spacecraft technology."
+      "summary": "SpaceX attempts its first catch of both Starship stages using mechanical 'chopsticks' arms, a major milestone in full rocket reusability."
+    },
+    {
+      "title": "Historische Premiere: Roboter setzt eigenständig eine Struktur im Weltraum zusammen",
+      "description": "Ohne Menschen vor Ort hat ein Roboter im All autonom ein Bauteil errichtet. Es könnte der Anfang roboterbasierten Baus im Orbit sein.",
+      "url": "https://www.focus.de/wissen/weltraum/historische-premiere-roboter-setzt-eigenstaendig-eine-struktur-im-weltraum-zusammen_314e4eb8-3810-4bde-b07e-7e9ca9faa656.html",
+      "source": "Focus",
+      "date": "2026-11-13T10:57:00Z",
+      "image": "https://quadro.burda-forward.de/ctf/b4515210-94e3-4c87-8d9e-ffe77dd7c63c.1c412eee-adf8-4ba8-a96d-c1a20904deb2.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(2818,1879)&hash=73cdc248e927278ac772e09c4b66cc0601b71dfb701096c2627524a3ec86d897",
+      "category": "Futurism",
+      "quality": 4,
+      "summary": "A robot autonomously assembles a structure in space for the first time, marking a historic milestone in robotic space construction."
     },
     {
       "title": "SpaceX is trying to solve a decades-old challenge: Making rockets fully reusable",
@@ -246,7 +285,7 @@
       "image": "https://s.yimg.com/lo/mysterio/api/ea933dfc464c5dbd4650331e621b7d4a2f6b2101492b4d31af44a5b527bf9b5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5a14c02996d0408016b3de149c7a7123.jpg",
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX's Starship program works toward achieving full rocket reusability, a decades-long challenge that could revolutionize spaceflight economics and accessibility."
+      "summary": "SpaceX works toward full rocket reusability with Starship, tackling one of spaceflight's greatest engineering challenges."
     },
     {
       "title": "SpaceX is set to make an audacious grab for ‘holy grail’ of rocketry. Here are the risks",
@@ -257,7 +296,7 @@
       "image": null,
       "category": "SpaceX",
       "quality": 4,
-      "summary": "SpaceX approaches a crucial test flight that could bring the company closer to achieving the 'holy grail' of rocketry through revolutionary spaceflight capabilities."
+      "summary": "SpaceX pursues an audacious test to achieve the 'holy grail' of rocketry, potentially revolutionizing spaceflight economics and capability."
     },
     {
       "title": "Asteroid Bennu's Sample Delivers Another Surprise",
@@ -268,49 +307,7 @@
       "image": "https://www.universetoday.com/article_images/nasa-s-osiris-rex-spacecraft-approaches-asteroid-101955-bennu-to-sample-its-regolith-as-seen-in-an-artist-s-conception_20261112_175013.jpg",
       "category": "Missions",
       "quality": 4,
-      "summary": "Analysis of samples from asteroid Bennu reveals the presence of amino acid β-alanine, providing insights into the chemical composition and origins of solar system materials."
-    },
-    {
-      "title": "La sonde européenne Hera vient de photographier cet astéroïde à près de 60 km de distance : un cliché époustouflant",
-      "description": "Quatre ans après que la NASA a volontairement écrasé un engin sur un astéroïde, nous avons enfin une vue en gros plan des dégâts !",
-      "url": "https://www.journaldugeek.com/2026/11/12/sonde-europeenne-hera-photographier-asteroide-pres-60-km-distance-cliche-epoustouflant/",
-      "source": "Journal du geek",
-      "date": "2026-11-12T19:02:53Z",
-      "image": "https://www.journaldugeek.com/app/uploads/2026/11/Didymos-1600x900.jpg",
-      "category": "Missions",
-      "quality": 4,
-      "summary": "The European Hera probe captures stunning close-up images of an asteroid from 60 kilometers away, four years after NASA's DART impact mission."
-    },
-    {
-      "title": "PREVIEW: SpaceX's 15th Starship flight to test future of rocket reusability",
-      "description": "SpaceX is set to conduct its next Starship test flight on Friday, a mission that could mark a turning point in rocket launch operations. The company aims to recover both the Super Heavy booster and th...",
-      "url": "https://biztoc.com/x/ae2c6ff2117602e0",
-      "source": "Biztoc.com",
-      "date": "2026-11-12T22:04:48Z",
-      "image": "https://biztoc.com/cdn/ae2c6ff2117602e0_s.webp",
-      "category": "SpaceX",
-      "quality": 4,
-      "summary": "SpaceX's 15th Starship test flight aims to demonstrate advances in rocket reusability and could mark a pivotal milestone in commercial spaceflight development."
-    },
-    {
-      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
-      "description": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
-      "source": "NASA",
-      "date": "Fri, 13 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy",
-      "quality": 3,
-      "summary": "NASA's Astronomy Picture of the Day showcases NGC 206 and the stunning star clouds of the Andromeda galaxy."
-    },
-    {
-      "title": "I Am Artemis Katie Spicer",
-      "description": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
-      "source": "NASA",
-      "date": "Thu, 12 Nov 2026 20:10:02 +0000",
-      "category": "NASA",
-      "quality": 3,
-      "summary": "Katie Spicer's inspiring career trajectory at NASA demonstrates how embracing challenges leads to extraordinary achievements in space exploration."
+      "summary": "Asteroid Bennu samples reveal amino acid β-alanine, providing insights into the building blocks of life and the composition of early solar system materials."
     }
   ]
 }
